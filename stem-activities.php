@@ -12,7 +12,14 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Activities</h1>
-                      <h2 class="mt-5 mb-3">Mars Yard</h2>
+                      <div class="row mt-5 mb-3 align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">Mars Yard</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/unsw.png" width="100" class="float-right">
+                          </div>
+                      </div>
                       <div class="row my-4">
                           <div class="col-md-4 mb-3 mb-md-0">
                               <img src="img/cospark/mars-yard-1.jpg" class="img-fluid">
@@ -32,8 +39,14 @@ include('include/cospark.php');
                       </div>
 
 
-
-                      <h2 class="mt-5 mb-3">Plants vs Mars</h2>
+                      <div class="row mt-5 mb-3 d-flex align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">Plants vs Mars</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/sisp.png" width="200" class="float-right">
+                          </div>
+                      </div>
                       <p>The team at NSW Department of Education STEM Industry School Partnerships Program will challenge you to create smart habitats to improve liveability in space for future Mars based communities. Inspired by NASA and Massachusetts Institute of Technology (MIT) Media’s Lab’s Space Exploration Initiative, you will learn to think like engineers in order to design Smart STEM focussed products for remote deployment and automation of devices on Mars. Areas of exploration will include product design, working with sensors and data, plus prototyping user interfaces for the remote management of resources.</p>
 
                       <div class="row my-4">
@@ -45,8 +58,14 @@ include('include/cospark.php');
                           </div>
                       </div>
 
-
-                      <h2 class="mt-5 mb-3">Drone Racing</h2>
+                      <div class="row mt-5 mb-3 align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">Drone Racing</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/auadrt.jpg" width="150" class="float-right">
+                          </div>
+                      </div>
                       <p>Start your engines and get your adrenaline pumping by racing the Australian Army Drone Racing Team’s drones around their specially designed course. Learn and develop the skills involved with designing, building and maintaining drones whilst also getting your hands on a quality drone to race!</p>
 
                       <div class="row my-4">
