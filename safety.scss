@@ -1,0 +1,16 @@
+.safety {
+  .intro {
+    font-size: 1.3em;
+  }
+  .measures{
+    th{
+      background: #4193CD;
+      color: white;
+    }
+    tr:nth-child(even){
+      td{
+        background: #e2eef7;
+      }
+    }
+  }
+}

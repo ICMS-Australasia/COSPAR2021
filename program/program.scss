@@ -1,0 +1,137 @@
+$A: #00A754;
+$B: #C5CB5B;
+$C: #00AEEF;
+$D: #E3153D;
+$E: #007FB4;
+$F: #6D57A4;
+$G: #87360A;
+$H: #F47423;
+$P: #00654F;
+$S: #466BB3;
+$cospar-darkblue: #142453;
+$padding: 20px;
+
+.program {
+  height: 100%;
+  border-collapse: collapse;
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+
+    &:hover {}
+  }
+
+  th {
+    background: $cospar-darkblue;
+    font-weight: normal;
+    color: white;
+
+    line-height: 1.5;
+    padding: $padding;
+
+    strong {
+      display: block;
+      font-size: 1.2em;
+    }
+  }
+
+  td {
+    border: 1px solid #000;
+    vertical-align: middle;
+    line-height: 1.5;
+    strong{
+      display: block;
+      font-size: 1.1em;
+    }
+  }
+
+  .room{
+    background: #f2f2f2;
+  }
+  // vertical align of content, still allow hover on whole cell
+  a{
+    text-decoration: none;
+    height:100%;
+    display: flex;
+    align-self:center;
+    color: white;
+    padding: $padding;
+
+    div{
+      align-self: center;
+      border-bottom: solid 1px #000;
+    }
+  }
+
+  .p {
+    // Custom underline
+    background: $P;
+    &:hover{
+      background: darken($P,5%);
+    }
+
+  }
+
+
+  .a {
+    background-color: $A;
+    color: white;
+  }
+
+  .b {
+    background-color: $B;
+    color: white;
+  }
+
+  .c {
+    background-color: $C;
+    color: white;
+  }
+
+  .d {
+    background-color: $D;
+    color: white;
+  }
+
+  .e {
+    background-color: $E;
+    color: white;
+  }
+
+  .f {
+    background-color: $F;
+    color: white;
+  }
+
+  .g {
+    background-color: $G;
+    color: white;
+  }
+
+  .h {
+    background-color: $H;
+    color: white;
+  }
+
+  .p {
+    background-color: $P;
+    color: white;
+  }
+
+  .s {
+    background-color: $S;
+    color: white;
+  }
+
+  .lecture {
+    background-color: lighten($C, 20%);
+    color: white;
+  }
+
+  .workshop {
+    background-color: lighten($F, 20%);
+    color: white;
+  }
+  
+}

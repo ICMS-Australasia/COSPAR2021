@@ -1,0 +1,99 @@
+.program {
+  height: 100%;
+  border-collapse: collapse;
+}
+.program a {
+  color: inherit;
+  text-decoration: underline;
+}
+.program th {
+  background: #142453;
+  font-weight: normal;
+  color: white;
+  line-height: 1.5;
+  padding: 20px;
+}
+.program th strong {
+  display: block;
+  font-size: 1.2em;
+}
+.program td {
+  border: 1px solid #000;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+.program td strong {
+  display: block;
+  font-size: 1.1em;
+}
+.program .room {
+  background: #f2f2f2;
+}
+.program a {
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  color: white;
+  padding: 20px;
+}
+.program a div {
+  align-self: center;
+  border-bottom: solid 1px #000;
+}
+.program .p {
+  background: #00654F;
+}
+.program .p:hover {
+  background: #004c3b;
+}
+.program .a {
+  background-color: #00A754;
+  color: white;
+}
+.program .b {
+  background-color: #C5CB5B;
+  color: white;
+}
+.program .c {
+  background-color: #00AEEF;
+  color: white;
+}
+.program .d {
+  background-color: #E3153D;
+  color: white;
+}
+.program .e {
+  background-color: #007FB4;
+  color: white;
+}
+.program .f {
+  background-color: #6D57A4;
+  color: white;
+}
+.program .g {
+  background-color: #87360A;
+  color: white;
+}
+.program .h {
+  background-color: #F47423;
+  color: white;
+}
+.program .p {
+  background-color: #00654F;
+  color: white;
+}
+.program .s {
+  background-color: #466BB3;
+  color: white;
+}
+.program .lecture {
+  background-color: #56d1ff;
+  color: white;
+}
+.program .workshop {
+  background-color: #a698c9;
+  color: white;
+}
+
+/*# sourceMappingURL=program.css.map */

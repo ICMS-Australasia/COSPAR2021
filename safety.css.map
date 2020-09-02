@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,cAAO;EACL,SAAS,EAAE,KAAK;AAGhB,oBAAE;EACA,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,KAAK;AAGZ,uCAAE;EACA,UAAU,EAAE,OAAO",
+"sources": ["safety.scss"],
+"names": [],
+"file": "safety.css"
+}

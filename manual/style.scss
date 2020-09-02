@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+
+$primary: #142453;
+$secondary: #212529;
+$grey: #f2f2f2;
+$green: #0c4da2;
+$borders: #dee2e6;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font: 1em/1.5 'Roboto', sans-serif;
+    color: $secondary;
+}
+
+section {
+    margin-bottom: 4em;
+}
+
+a {
+    color: $green;
+    text-decoration: underline;
+
+    &:hover {
+        color: darken($green, 5%);
+    }
+}
+
+h1 {
+    font: bold 2.6em/1.5 'Roboto', sans-serif;
+    margin-bottom: 0.25em;
+    color: $primary;
+}
+
+h2 {
+    font: bold 1.8em/1.5 'Roboto', sans-serif;
+    margin-bottom: 0.75em;
+    color: $green;
+}
+
+h3 {
+    font: bold 1.4em/1.5 'Roboto', sans-serif;
+    color: $primary;
+}
+
+h4 {
+    font: bold 1.1em/1.5 'Roboto', sans-serif;
+}
+
+.button {
+    background: $green;
+    color: white;
+    border: solid 1px #dee2e6;
+    display: block;
+    text-align: center;
+    padding: 1.25em;
+    margin-bottom: 1em;
+    transition: background 0.3s;
+    font: bold 1.2em/1.5 'Roboto', sans-serif;
+    &:hover{
+        color: white;
+        background: darken($green, 5%);
+    }
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th {
+        background-color: $primary;
+        border: solid 1px darken($primary, 5%);
+        color: white;
+        padding: 1em;
+    }
+
+    td {
+        border: solid 1px rgba(255,255,255,0.85);
+        padding: 1em;
+        background-color: $grey;
+    }
+
+    tr:nth-child(odd) {
+        background-color: $grey;
+    }
+}
+
+.top {
+    background: url(https://ghs2019.com/img/top-bg.jpg) no-repeat;
+    background-size: cover;
+    height:300px;
+    .title {
+        span {
+            color: $green;
+            font: 900 2.75em/1.5 'Roboto';
+
+        }
+
+        div {
+            font: 1.25em/1.5 'Roboto';
+        }
+    }
+}
+
+.menu {
+    h2 {
+        margin-bottom: 0;
+        padding: 0.5em ; background: $primary;
+        color: white;
+    }
+
+    .list-group {
+
+        .list-group-item {
+            background: $grey;
+            border-radius: 0;
+            border: solid 1px rgba(255,255,255,0.9);
+            padding: 0.6em 1em;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        a {
+            text-decoration: underline;
+
+            &:hover {
+
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .list-group-item.active {
+        color: $green;
+        font-weight: bold;
+        text-decoration: none;
+
+        &:hover {
+                text-decoration: underline;
+        }
+    }
+}
+
+.contents {}
+
+.side {
+    h2 {
+        margin-bottom: 0;
+        padding: 0.5em ; background: $primary;
+        color: white;
+    }
+}
+
+.sticky-top {}
+
+.header {
+    background: #343a40;
+    color: white;
+    font: bold 1.8em/1.5 'Roboto', sans-serif;
+}
+
+.top-button {
+    z-index: 999999;
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+    background-color: $green;
+    color: white;
+    padding: 1em 1.25em;
+    font-size: 0.9em;
+    font-weight: bold;
+
+    &:hover {
+        background: darken($green, 5%);
+        color: white;
+    }
+}
+
+.accordion {
+    .card {
+        border-style: none;
+        background-color: $primary;
+        margin-bottom: 10px;
+        border-radius: 0px;
+        .card-header:first-child {
+            border-style: none;
+            border-radius: 0px;
+            button {
+                font-weight: bold;
+                margin-bottom: 0;
+                padding: 0.5em;
+                background: $primary;
+                color: white;
+            }
+        }
+    }
+}
+
+.alert-primary {
+    background: #f2f2f2;
+    border: none;
+    h1 {
+        color: #2e323d;
+    }
+}
