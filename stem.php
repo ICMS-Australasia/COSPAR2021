@@ -23,7 +23,7 @@ include('include/cospark.php');
           <a href="stem-activities#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card2.jpg">
-              <h3 class="stem-card-title p-4">Activities</h3>
+              <h3 class="stem-card-title p-4">Activities & Partners</h3>
             </div>
           </a>
           <a href="stem-keynotes#cospark" class="col-md-4">

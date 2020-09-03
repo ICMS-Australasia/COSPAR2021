@@ -17,14 +17,9 @@ include('include/cospark.php');
           <img src="img/cospark/girl.jpg" class="img-fluid" width="450" alt="">
         </div>
 
-        <p>Australia is buzzing with space conversations. With a new Australian Space Agency (ASA), there’s a momentous research push, an explosion of space-related start-ups and more opportunities than ever for young Australian’s to be part of the
-          journey.</p>
-        <p>COSPAR-K is a FREE Space STEM Event that will run alongside the Scientific Assembly (COSPAR 2021). This dedicated STEM Park will feature an array of interactive experiences and activations specially designed for students, teachers and
-          parents to get hands on and participate in. Industry and government partners will provide opportunities to discover the latest innovations and also provide fun through exploration. We want COSPAR-K to be the space to ignite passion in our
-          future thinkers and leaders.</p>
+        <p>Australia is buzzing with space conversations. With a new Australian Space Agency (ASA), there’s a momentous research push, an explosion of space-related start-ups and more opportunities than ever for young Australian’s to be part of the journey.</p>
+        <p>COSPAR-K is a FREE Space STEM Event that will run in partnership with the NSW Department of Education’s STEM Industry School Partnerships (SISP) Program alongside the Scientific Assembly (COSPAR 2021). This dedicated STEM Park will feature an array of interactive experiences and activations specially designed for students, teachers and parents to get hands on and participate in. Industry and government partners will provide opportunities to discover the latest innovations and also provide fun through exploration. We want COSPAR-K to be the space to ignite passion in our future thinkers and leaders.</p>
         <p>As the world’s leading space researchers and industries are coming to Australia in January 2021, there exists a once-in-a-generation opportunity to spark the next generation of STEM talent!</p>
-
-
 
         <div class="row">
           <div class="col-md-6">
