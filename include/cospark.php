@@ -7,9 +7,9 @@
           </div>
           <div class="col-12 col-lg-8">
               <a href="stem#cospark"><img src="img/cospark-full.png" class="img-fluid py-lg-0 my-5"></a>
-              <div class="row">
-                  <div class="col-12 col-lg-9">
-                      <h3 style="background: rgba(255, 255, 255, 0.85);" class="text-center p-4"><em>In partnership with</em> <img src="./img/cospark/NSW-SISP.png" class="d-inline-block img-fluid ml-5 " width="200" > </h3>
+              <div class="row align-items-center">
+                  <div class="col mb-3">
+                      <em style="color:white;">In partnership with</em> <img src="./img/cospark/partnership-with.png" class="d-inline-block img-fluid ml-5 " width="450">
                   </div>
               </div>
           </div>
