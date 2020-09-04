@@ -9,7 +9,7 @@
               <a href="stem#cospark"><img src="img/cospark-full.png" class="img-fluid py-lg-0 my-5"></a>
               <div class="row align-items-center">
                   <div class="col mb-3">
-                      <em style="color:white;">In partnership with</em> <img src="./img/cospark/partnership-with.png" class="d-inline-block img-fluid ml-5 " width="450">
+                      <em style="color:white;">In partnership with</em> <img src="./img/cospark/partnership-with.png" class="d-inline-block img-fluid ml-5 " width="300">
                   </div>
               </div>
           </div>
