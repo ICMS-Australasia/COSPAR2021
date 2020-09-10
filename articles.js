@@ -1,11 +1,11 @@
 let latestNews = {
    "items":[
       {
-         "title":"The X-Files and the Scully Effect — fake aliens, real-world phenomenon for women in STEM",
-         "type":"Article",
-         "image":"15.jpg",
-         "date":"Wednesday, 19 August 2020",
-         "link":"https://www.abc.net.au/news/2020-08-19/x-files-and-scully-effect-real-world-phenomenon-women-in-stem/12562440"
+         "title":"COSPAR-K TV Will Be Virtually Amazing",
+         "type":"Email",
+         "image":"16.jpg",
+         "date":"Monday, 07 September 2020",
+         "link":"https://mailchi.mp/65fdca1c1199/cospar-k-tv-will-be-virtually-amazing"
       },
       {
          "title":"Edition #10: 	Andreas Antoniades Confirmed as Keynote Speaker",
