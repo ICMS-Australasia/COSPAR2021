@@ -12,7 +12,7 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Power Talks</h1>
-                      <a href="mailto:https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-5">
+                      <a href="https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-5">
                           <span class="button-head">Space STEM Power Talk Submissions Have Launched!</span>
                           <span class="button-body">Click here to get started</span>
                       </a>
