@@ -1,7 +1,7 @@
 let latestNews = {
    "items":[
       {
-         "title":"COSPAR-K TV Will Be Virtually Amazing",
+         "title":"Edition # 11: COSPAR-K TV Will Be Virtually Amazing",
          "type":"Email",
          "image":"16.jpg",
          "date":"Monday, 07 September 2020",

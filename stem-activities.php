@@ -11,7 +11,7 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">Activities</h1>
+                      <h1 class="mt-3 mb-5">Activities & Partners</h1>
                       <div class="row mt-5 mb-3 align-items-end">
                           <div class="col">
                               <h2 class="mb-0">Mars Yard</h2>
