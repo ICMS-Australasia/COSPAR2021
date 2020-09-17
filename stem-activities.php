@@ -82,6 +82,29 @@ include('include/cospark.php');
 
                       <hr class="my-5">
 
+                      <div class="row mt-5 mb-3 align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">Fly Army Virtual Reality Helicopter Simulators</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/fly-army.jpg" width="150" class="float-right">
+                          </div>
+                      </div>
+                      <p>The Australian Army will be demonstrating its Fly Army Virtual Reality Helicopter Simulators with movement activated seats at COSPAR-K 2021. They will be providing participants at COSPAR an opportunity to “fly” the simulators for themselves and get a taste of what it is like to fly a real helicopter. The Fly Army advocates will be available to discuss Aviation roles including Engineers, Pilots, Aircraft Trades, Ground Crew Roles and UAS (Drone) Operators.</p>
+
+                      <div class="row my-4">
+                          <div class="col-md-4 mb-3 mb-md-0">
+                              <img src="img/cospark/helicopter-sim-1.jpg" class="img-fluid">
+                          </div>
+                          <div class="col-md-4 mb-3 mb-md-0">
+                              <img src="img/cospark/helicopter-sim-2.jpg" class="img-fluid">
+                          </div>
+                          <div class="col-md-4 mb-3 mb-md-0">
+                              <img src="img/cospark/helicopter-sim-3.jpg" class="img-fluid">
+                          </div>
+                      </div>
+
+                      <hr class="my-5">
 
                       <h2 class="mt-5 mb-3">And So Much More!</h2>
                       <p>We’re busily working on bringing more awesome interactive experiences and activations to COSPAR-K. Stay glued to our communications for exciting announcements of the following activities in the coming months. <b>Did we mention this event was free?</b> Remember to register your <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi/Site/Register" target="_blank">expression of interest</a> now to ensure you’re included with our key updates.  We’ll soon be making announcements about:</p>
