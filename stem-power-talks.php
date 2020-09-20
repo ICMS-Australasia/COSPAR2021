@@ -14,7 +14,7 @@ include('include/cospark.php');
                       <h1 class="mt-3 mb-5">Power Talks</h1>
                       <a href="https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-5">
                           <span class="button-head">Space STEM Power Talk Submissions Have Launched!</span>
-                          <span class="button-body">Click here to get started</span>
+                          <span class="button-body">Submissions close Wednesday 30 September 2020</span>
                       </a>
 
                       <img src="img/cospark/power-talks-1.jpg" class="img-fluid float-md-right d-block ml-md-4 mx-auto mb-4">

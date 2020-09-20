@@ -1,155 +1,143 @@
 <?php
-$title = 'Abstract Reviews';
+
+$title = 'Abstracts Re-Opened for COSPAR-2021-Hybrid';
+
 include('include/header.php');
+
 ?>
+
 <!-- standout -->
+
 <!-- <a href="abstracts.php" class="abstract-flash">
+
     <div class="container">
+
         <div class="row py-3">
+
             <div class="col py-3">
+
                 <div class="opacity-change">Call for Abstracts Extended to 23 February 2020</div>
+
             </div>
+
         </div>
+
     </div>
+
 </a> -->
-        <!-- title -->
-        <div class="title">
-            <div class="container">
-                <div class="row py-5">
-                    <div class="col py-4">
-                        <h1><?php echo $title; ?></h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- title -->
-        <!-- content -->
-        <div class="content">
-            <div class="container">
-                <div class="row py-5">
-                    <div class="col">
 
-                      <div class="row mb-4">
+<!-- title -->
 
-                          <div class="col-md-12 mb-3" style="font-size:1.1em;">
+<div class="title">
 
+  <div class="container">
 
-<h2 class="mb-4">COSPAR 2021 Scientific Assembly Program Announcement</h2>
-<img src="img/logo-co2.jpg" class="float-right mt-4 ml-md-4 mb-md-4" width="160" alt="">
+    <div class="row py-5">
 
-                            <h3>Space research colleagues,</h3>
+      <div class="col py-4">
 
+        <h1><?php echo $title; ?></h1>
 
-<p>The Program Committee for COSPAR 2020 have now finalized the COSPAR Assembly Program, with more than 3000 abstracts assigned to sessions. This program will be the baseline Program for COSPAR 2021, with the same sessions, organized in the same chronological order, taking place in the same assigned rooms at the International Convention Centre in Sydney during the week of <strong>Thursday 28 January to Thursday 4 February 2021</strong>.</p>
+      </div>
 
-<p>The opportunity to submit new abstracts or update existing abstracts will be available in the coming months.</p>
-<p>Allowances for adequate time to meet the Early Bird registration date of 31 October 2020  will be considered. All announcements will be made on the COSPAR 2021 website and COSPAR 2021 e-zines.</p>
+    </div>
 
-<p>Registrations already submitted for the COSPAR 2020 Assembly are immediately applicable to COSPAR 2021, as are the hotel bookings that have been secured through the Local Organising Committee.</p>
-<p>The early-bird registration deadline for COSPAR 2021 is now 31 October 2020.</p>
-<p>Sincerely,</p>
+  </div>
 
-
-                          </div>
-
-                              <div class="col-12 mb-4 mt-3  welcome">
-
-
-                                          <div class="row align-items-center ml-4 chair">
-                                            <div>
-                                              <img src="img/i-cairns.jpg" class="img-fluid rounded-circle" alt="">
-                                            </div>
-                                            <div class="ml-4">
-                                              <h3 class="mt-0 mb-0">Professor Iver Cairns</h3>
-                                              <strong>Chair, International Program Committee and COSPAR 2020 Scientific Program Chair</strong>
-                                            </div>
-
-                              </div>
-                      </div>
-
-
-                      <!-- FAQs -->
-
-                      <h2 class="mt-4 pt-2">Frequently Asked Questions (FAQs)</h2>
-
-                      <div class="faqs mb-5">
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#one">
-                                  <i class="fas fa-chevron-down"></i>Why has the 43rd COSPAR Scientific Assembly 2020 been postponed?</div>
-                              <div class="collapse" id="one">
-                                  <div class="faqs-card-body">The evolving situation caused by COVID-19 around the world resulted in concerns regarding the safety of the Assembly participants. The leadership of COSPAR and the Local Organising Committee for COSPAR 2020 in Sydney, Australia have concluded that with the worldwide pandemic and accompanying social and economic disruption, COSPAR 2020 must be postponed.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#two">
-                                  <i class="fas fa-chevron-down"></i>What are the new dates of the Assembly?</div>
-                              <div class="collapse" id="two">
-                                  <div class="faqs-card-body">COSPAR 2020 will now become COSPAR 2021 with the new dates being Thursday 28 January to Thursday 4 February 2021. The Assembly will remain at the International Convention Centre, Sydney.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#three">
-                                  <i class="fas fa-chevron-down"></i>What happens if I have already registered for the COSPAR 2020 Assembly?</div>
-                              <div class="collapse" id="three">
-                                  <div class="faqs-card-body">All current registrations for the 2020 Assembly will be rolled over automatically to apply to 2021. Those already registered do not need to do anything to secure their attendance for 2021. All components of current registrations including registration, the Welcome Reception ticket and the Lunar Park Congress Dinner ticket will also roll over.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#four">
-                                  <i class="fas fa-chevron-down"></i>Has the Early Bird Registration Rate been extended?</div>
-                              <div class="collapse" id="four">
-                                  <div class="faqs-card-body">Yes, for those that have not registered, the early bird registration rate will be extended until 31 October 2020 via the online registration form. All registrations made through the form will now be for attendance in January 2021.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#five">
-                                  <i class="fas fa-chevron-down"></i>What happens to my accepted presentation at the COSPAR Assembly?</div>
-                              <div class="collapse" id="five">
-                                  <div class="faqs-card-body">The Program Committee for COSPAR 2020 have now finalized the COSPAR Assembly Program, with more than 3000 abstracts assigned to sessions. This program will be the baseline Program for COSPAR 2021, with the same sessions, organized in the same chronological order, taking place in the same assigned rooms at the International Convention Centre in Sydney during the week of Thursday 28 January to Thursday 4 February 2021.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#six">
-                                  <i class="fas fa-chevron-down"></i>Can I submit an abstract for the new dates if I missed the original deadline?</div>
-                              <div class="collapse" id="six">
-                                  <div class="faqs-card-body">The opportunity to submit new abstracts or update existing abstracts will be available in the coming months.
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#seven">
-                                  <i class="fas fa-chevron-down"></i>What happens to my accommodation booking I made for COSPAR 2020?</div>
-                              <div class="collapse" id="seven">
-                                  <div class="faqs-card-body">If you booked accommodation through the COSPAR 2021 Accommodation Secretariat your current accommodation booking and any deposit monies paid will be held as a credit on your account. You will receive an email from the COSPAR 2021 Accommodation Secretariat with the opportunity to select your new check-in and check-out dates. Your deposit payment will then be applied to your new booking. COSPAR 2021 National Accommodation Manager is working closely with all hotels to ensure that the nightly rates for the 2021 period are the same or similar to the current booked rates. If there is a change in the nightly rate, delegates will be contacted directly to discuss. If you booked accommodation independently, you will need to contact the providers directly to make alternative arrangements.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#eight">
-                                  <i class="fas fa-chevron-down"></i>What happens if I can’t go to the COSPAR Assembly in 2021?</div>
-                              <div class="collapse" id="eight">
-                                  <div class="faqs-card-body">Registrations for the COSPAR Assembly are transferrable. We encourage those who are currently registered but unable to attend in 2021 to transfer their registration to a colleague or friend. Alternatively, full refunds less $150 administration cost will be provided.</div>
-                              </div>
-                          </div>
-                          <div class="faqs-card">
-                              <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#nine">
-                                  <i class="fas fa-chevron-down"></i>I applied for the Financial Travel Support, does my application still stand?</div>
-                              <div class="collapse" id="nine">
-                                  <div class="faqs-card-body">Yes. Selection of recipients for Financial Travel support for the 43rd COSPAR Scientific Assembly is now complete.
-For more information or to follow up on your application, please contact COSPAR Secretariat (e-mail:  <a href="mailto:cosparcom@cosparhq.cnes.fr">cosparcom@cosparhq.cnes.fr</a>)
 </div>
-                              </div>
-                          </div>
-                      </div>
 
-                      <!-- FAQS -->
+<!-- title -->
+
+<!-- content -->
+
+<div class="content">
+
+  <div class="container">
+
+    <div class="row py-5">
+
+      <div class="col-md">
+
+
+        <a href="https://www.cospar-assembly.org/" class="button-main" target="_blank">
+          <i class="far fa-edit"></i> Submit your Abstract</a>
+
+
+        <h2 class="mt-5 mb-3">The Basics for COSPAR-2021-Hybrid</h2>
+        <ul class="alpha list-space">
+          <li>The Scientific Program (dates, sessions and selected contributions) that was initially released for COSPAR 2020 and then transplanted to 2021 is the Scientific Program for COSPAR-2021-Hybrid.</li>
+          <li>Existing abstracts in the Scientific Program can be updated and the program can expand with new abstracts and presenters.</li>
+          <li>The current challenges will be viewed as opportunities to innovate and demonstrate the art of the possible for large gatherings in the new world we find ourselves in.</li>
+          <li>COSPAR-2021-Hybrid will contribute to COSPAR’s mission by bringing the space research community together to connect, share, partner and grow, evermore successfully.</li>
+        </ul>
+
+        <h2 class="mt-5 mb-3">COSPAR-2021-Hybrid, a true global Assembly</h2>
+
+        <p>The following are the activities and actions that will occur to deliver a Scientific Program for COSPAR-2021-Hybrid that can be enjoyed, with active participation, worldwide. These activities and actions apply to the Scientific Program,
+          which was established for COSPAR-2021, when it was postponed from COSPAR 2020. There is no change in the program (themes, sessions, layout), now that COSPAR-2021 is COSPAR-2021-Hybrid. </p>
+
+        <ul class="list-space">
+          <li><strong>The abstract submission portal will be re-opened after release of this document</strong>, to allow authors whose content may have evolved in the period of the delay from 2020 to 2021 to update their abstracts, subject to
+            maintaining the essential theme of the presentation and relevance to the Event in which they have already been scheduled.</li>
+          <li><strong>An opportunity to submit new abstracts to the existing program will be provided</strong> in order to allow the members of the community previously unable to attend Sydney in 2020 in-person to now participate in the global
+            COSPAR-2021-Hybrid event. After new abstracts are submitted, the relevant MSO and DO and the Program Committee will review the abstracts and determine how they can be accommodated within the existing program, or, given the flexibility
+            that is provided by a hybrid Assembly, whether an extension of the Event or an additional Event is required.</li>
+          <li><strong>The delivery of posters will be handled virtually</strong>, in a similar manner to the oral presentations, but maintaining a sense of the atmosphere of poster session gatherings.</li>
+          <ul>
+            <li>Each poster presentation will be pre-recorded in the short summary form, including a single-slide version of the poster itself.</li>
+            <li>The pre-recording and slide will be available via the platform throughout the Assembly.</li>
+            <li>On the relevant day for each programmed poster session, those sessions will be delivered virtually following the three-hour oral blocks.</li>
+            <li>The platform will present to the delegates the full array of posters for that session as thumbnails of each slide.</li>
+            <li>Clicking on a poster thumbnail will stream the summary presentation for that poster, while an adjacent link will take the delegate into a unique live break-out room with the poster presenter and other interested delegates, and
+              interaction with the presenter and amongst those other delegates will be enabled.</li>
+          </ul>
+          <li><strong>The on-line platform, which will be available to both in-person and virtual participants</strong>, will include personalised tailoring options to highlight to each participant the content and the other participants and
+            participating organisations that might be of specific relevance and interest to them and enable direct connections to be easily made. With the use of the platform, the ‘corridor conversations’ that are so valuable for building
+            relationship and partnership will be enabled – assisted by virtual meeting rooms - and in fact enhanced.</li>
+        </ul>
+
+
+        <h2 class="mt-5 mb-3">Interdisciplinary Lectures, cross-disciplinary workshops and Assembly-wide events</h2>
+
+        <p>An outstanding selection of speakers from across the globe will deliver Interdisciplinary Lectures through the on-line platform. All Interdisciplinary Lectures will be live streamed and feature live moderated Q&A to ensure maximum benefit
+          to the COSPAR scientific community. These Interdisciplinary Lectures will occur prior to the commencement of the main Programming to ensure maximum participation, each day, and also be available as on-demand content. Cross-disciplinary
+          workshops, panel events, and public lectures will also be a highlight on the on-line platform.</p>
+
+        <!-- FAQs -->
 
 
 
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- content -->
-            <?php
+        <h2 class="mt-5 mb-3">Frequently Asked Questions (FAQs)</h2>
+
+        <?php
+
+                include('include/faqs.php');
+
+                ?>
+
+
+
+        <!-- FAQS -->
+
+      </div>
+
+      <div class="col-md-3">
+        <?php
+
+                include('include/key-dates.php');
+
+                ?>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>
+<!-- content -->
+
+<?php
+
             include('include/footer.php');
+
             ?>
