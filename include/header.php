@@ -102,6 +102,7 @@
                                                 <a class="dropdown-item" href="visa-information.php">Visa Information</a>
 												<a class="dropdown-item" href="media-centre.php">Media Centre</a>
                                                 <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
+                                                <a class="dropdown-item" href="faqs.php">FAQs</a>
                                             </div>
                                         </li>
                                         <li class="nav-item dropdown">
