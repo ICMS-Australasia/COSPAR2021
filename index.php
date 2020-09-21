@@ -15,13 +15,17 @@ include('include/header.php');
 <!-- banner -->
 <div class="bigheader home">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md p-0">
-        <a href="abstracts.php">
-          <img src="./img/COSPAR2021-September-feature-v1.jpg" class="img-fluid" width="100%">
-        </a>
+      <div class="row align-items-center">
+          <div class="col-md p-0">
+
+            <div class="embed-responsive embed-responsive-16by9">
+              <video controls autoplay muted>
+                <source src="./cospar-hybrid-final.mp4" type="video/mp4">
+              </video>
+            </div>
+
+          </div>
       </div>
-    </div>
   </div>
 </div>
 <!-- banner -->
@@ -44,6 +48,15 @@ include('include/header.php');
 </div-->
 <!-- video -->
 <!-- welcome -->
+<div class="container">
+    <div class="row pt-5">
+        <div class="col-md-12">
+            <a href="abstracts.php">
+              <img src="./img/COSPAR2021-September-feature-v1.jpg" class="img-fluid" width="100%">
+            </a>
+        </div>
+    </div>
+</div>
 <div class="welcome" id="invitation">
   <div class="container">
     <div class="row pt-5">
