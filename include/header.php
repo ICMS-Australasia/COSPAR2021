@@ -80,7 +80,7 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav ml-0 ml-md-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link" href="program-glance"><i class="fas fa-home"></i></a>
+                                            <a class="nav-link" href="index"><i class="fas fa-home"></i></a>
                                         </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
