@@ -5,71 +5,143 @@ if ($home == true) {
 <div class="cards">
     <div class="container">
         <div class="row pt-5">
-            <a href="participation.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-address-card circle-icon"></i>
-                    <img class="img-fluid" src="img/tiles/participation.jpg">
+            <a href="abstracts.php" class="col-md-4 pb-5">
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-map-marked-alt circle-icon" style="background: #f9b041"></i>
+                    <img class="img-fluid" src="img/tiles/stem2.png">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Call for Abstracts</h3>
+                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020
+                        </p>
+                    </div>
+                </div>
+            </a>
+            <a href="invitation.php" class="col-md-4 pb-5">
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-address-card circle-icon" style="background: #f9b041"></i>
+                    <img class="img-fluid" src="img/tiles/things2.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Participation</h3>
-                        <p class="card-text">We promise it will be worth the journey</p>
+                        <h3 class="card-title">COSPAR 2021 is going Hybrid</h3>
+                        <p class="card-text">An Important Message from the Chair and President</p>
                     </div>
                 </div>
             </a>
-            <a href="destination.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-map-marked-alt circle-icon"></i>
-                    <img class="img-fluid" src="img/tiles/destination.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Destination</h3>
-                        <p class="card-text">A bucket list opportunity to visit Australia
-                        </p>
-                    </div>
-                </div>
-            </a>
-            <a href="things-to-see-and-do.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-chart-network circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/things2.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Things to see & do</h3>
-                        <p class="card-text">Science meets lifestyle.  Your free time well spent</p>
-                    </div>
-                </div>
-            </a>
-            <a href="koala-competition.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-camera-alt circle-icon"></i>
-                    <img class="img-fluid" src="img/tiles/koala.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Koala Competition</h3>
-                        <p class="card-text">Win a free registration and five nights’ accommodation</p>
-                    </div>
-                </div>
-            </a>
-            <a href="observatories.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-meteor circle-icon"></i>
-                    <img class="img-fluid" src="img/tiles/parkes.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Observatories</h3>
-                        <p class="card-text">Continue the education journey and go regional
-                        </p>
-                    </div>
-                </div>
-            </a>
-            <a href="stem.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-satellite circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/stem.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">STEM COSPAR 2021</h3>
-                        <p class="card-text">When the nation celebrates science throughout the country</p>
-                    </div>
-                </div>
-            </a>
+            <a href="abstracts.php" class="col-md-4 pb-5">
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-camera-alt circle-icon" style="background: #f9b041"></i>
+                    <img class="img-fluid" src="img/tiles/parkes.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">How COSPAR 2021 Hybrid will work?</h3>
+                        <p class="card-text">Information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid.</p>
+                    </div>
+                </div>
+            </a>
+            <a href="participation.php" class="col-md-4 pb-5">
+                <div class="card">
+                    <i class="fas fa-people-arrows circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/participation.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Participation</h3>
+                        <p class="card-text">COSPAR-2021-Hybrid redefines global removing barriers of distance and isolation. Participation is at your fingertips.</p>
+                    </div>
+                </div>
+            </a>
+            <a href="registration.php" class="col-md-4 pb-5">
+                <div class="card">
+                    <i class="far fa-address-card circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/things.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Early Bird Registration</h3>
+                        <p class="card-text">Early Bird Registration Extended to 30 November 2020</p>
+                    </div>
+                </div>
+            </a>
+            <a href="cross-disciplinary-workshops.php" class="col-md-4 pb-5">
+                <div class="card">
+                    <i class="far fa-handshake circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/koala.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Cross-disciplinary Workshops</h3>
+                        <p class="card-text">Cross-disciplinary workshops, panel events and public lectures will also be a highlight on the on-line platform.</p>
+                    </div>
+                </div>
+            </a>
+            <a href="faqs.php" class="col-md-4 pb-5">
+                <div class="card">
+                    <i class="fas fa-question circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/destination.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Frequently Asked Questions</h3>
+                        <p class="card-text">Quickly find the answers to COSPAR 2021 Hybrid.</p>
+                    </div>
+                </div>
+            </a>
+            <a href="invitation.php#key-dates" class="col-md-4 pb-5">
+                <div class="card">
+                    <i class="fas fa-calendar-week circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/key-dates.png">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">Key Dates</h3>
+                        <p class="card-text">Keep up to date with COSPAR 2021 Hybrid</p>
+                    </div>
+                </div>
+            </a>
+            <a href="stem.php#cospark" class="col-md-4 pb-5">
+                <div class="card" style="background: #841068">
+                    <i class="fal fa-satellite circle-icon" style="background: #841068"></i>
+                    <img class="card-img-top" src="img/tiles/stem.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">COSPAR-K</h3>
+                        <p class="card-text">COSPAR-K is a FREE Space STEM Event celebrating science.</p>
+                    </div>
+                </div>
+            </a>
         </div>
     </div>
 </div>
+
+<div class="welcome" id="invitation">
+  <div class="container">
+     <!-- sponsors -->
+    <div class="row">
+      <div class="col-md-12 mt-4">
+        <h2 class="mt-5 mb-4 text-center">Thank you to our Sponsors</h2>
+        <h3 class="mt-5 mb-4 text-center">Hosted by</h3>
+        <div class="row d-flex align-items-top justify-content-center mt-5 mb-3">
+          <div class="col-md-4 d-flex align-items-center justify-content-center">
+            <img src="img/sponsors/australian-academy-of-science.jpg" class="img-fluid" width="200">
+          </div>
+          <div class="col-md-4 d-flex align-items-center justify-content-center">
+            <img src="img/sponsors/unsw-space.jpg" class="img-fluid" width="150">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col mt-5 mb-2 text-center">
+            <h3 class="mb-4">Anchor Sponsor</h3>
+            <a href="https://www.lockheedmartin.com/en-au/index.html" target="_blank"><img src="img/sponsors/lockheed-logo.jpg" class="img-fluid" width="600"></a>
+          </div>
+        </div>
+        <div class="row pb-4">
+          <div class="col mt-5 mb-5  text-center">
+            <h3 class="mb-4">Supporter</h3>
+            <div class="row d-flex align-items-top mt-5 mb-3">
+              <div class="col-md-4 d-flex align-items-center justify-content-center">
+                <img src="img/sponsors/aus-gov-diis.gif" class="img-fluid" width="200">
+              </div>
+              <div class="col-md-4 d-flex align-items-center justify-content-center">
+                <img src="img/sponsors/nsw-govt.gif" class="img-fluid" width="150">
+              </div>
+              <div class="col-md-4 d-flex align-items-center justify-content-center">
+                <img src="img/sponsors/csiro.gif" class="img-fluid" width="150">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- sponsors -->
+</div>
 <!-- cards -->
 <?php } ?>
 <?php

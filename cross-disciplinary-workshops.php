@@ -18,8 +18,18 @@ include('include/header.php');
     <div class="container">
         <div class="row py-5">
             <div class="col">
-
-              <table cellpadding="10" class="mb-4">
+
+                <!-- video -->
+                <div class="row">
+                  <div class="col-md-12 mt-3" id="video">
+                    <div class="videoWrapper">
+                      <iframe width="1110" height="624" src="https://player.vimeo.com/video/279599978?color=ff0179&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                    </div>
+                  </div>
+                </div>
+                <!-- video -->
+
+              <table cellpadding="10" class="my-4">
                   <tr>
                       <td><a href="COSPAR2020-Workshops-Lockheed-Martin.pdf" target="_blank"><img src="img/pdf-workshops.jpg"></a></td>
                       <td><a href="COSPAR2020-Workshops-Lockheed-Martin.pdf" target="_blank">Download more information on the COSPAR 2021 Workshops</a></td>

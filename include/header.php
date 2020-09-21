@@ -79,14 +79,17 @@
                                 </button>
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav ml-0 ml-md-auto">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="index"><i class="fas fa-home"></i></a>
+                                        </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                Home
+                                                Invitation
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                <a class="dropdown-item" href="index.php">Invitation</a>
-                                                <a class="dropdown-item" href="committee.php">Committee</a>
+                                                <a class="dropdown-item" href="invitation">From the Desk of the Chair</a>
+                                                <a class="dropdown-item" href="committee">Committee</a>
                                             </div>
                                         </li>
                                         <li class="nav-item dropdown">
@@ -95,13 +98,14 @@
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                <a class="dropdown-item" href="registration.php">Registration</a>
+                                                <a class="dropdown-item" href="registration">Registration</a>
 
                                                 <a class="dropdown-item" href="accommodation.php">Accommodation</a>
                                                 <a class="dropdown-item" href="social-functions.php">Social Functions</a>
                                                 <a class="dropdown-item" href="visa-information.php">Visa Information</a>
 												<a class="dropdown-item" href="media-centre.php">Media Centre</a>
                                                 <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
+                                                <a class="dropdown-item" href="faqs.php">FAQs</a>
                                             </div>
                                         </li>
                                         <li class="nav-item dropdown">
