@@ -5,19 +5,20 @@ if ($home == true) {
 <div class="cards">
     <div class="container">
         <div class="row pt-5">
-            <a href="participation.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fas fa-people-arrows circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/participation.jpg">
+            <a href="abstracts.php" class="col-md-4 pb-5">
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-map-marked-alt circle-icon" style="background: #f9b041"></i>
+                    <img class="img-fluid" src="img/tiles/stem2.png">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Participation</h3>
-                        <p class="card-text">COSPAR-2021-Hybrid redefines global removing barriers of distance and isolation. Participation is at your fingertips.</p>
+                        <h3 class="card-title">Call for Abstracts</h3>
+                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020
+                        </p>
                     </div>
                 </div>
             </a>
             <a href="invitation.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-address-card circle-icon"></i>
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-address-card circle-icon" style="background: #f9b041"></i>
                     <img class="img-fluid" src="img/tiles/things2.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">COSPAR 2021 is going Hybrid</h3>
@@ -26,8 +27,8 @@ if ($home == true) {
                 </div>
             </a>
             <a href="abstracts.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-camera-alt circle-icon"></i>
+                <div class="card" style="background:#f9b041">
+                    <i class="fal fa-camera-alt circle-icon" style="background: #f9b041"></i>
                     <img class="img-fluid" src="img/tiles/parkes.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">How COSPAR 2021 Hybrid will work?</h3>
@@ -35,24 +36,13 @@ if ($home == true) {
                     </div>
                 </div>
             </a>
-            <a href="abstracts.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="fal fa-map-marked-alt circle-icon"></i>
-                    <img class="img-fluid" src="img/tiles/stem2.png">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Call for Abstracts</h3>
-                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020
-                        </p>
-                    </div>
-                </div>
-            </a>
-            <a href="stem.php#cospark" class="col-md-4 pb-5">
+            <a href="participation.php" class="col-md-4 pb-5">
                 <div class="card">
-                    <i class="fal fa-satellite circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/stem.jpg">
+                    <i class="fas fa-people-arrows circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/participation.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">COSPAR-K</h3>
-                        <p class="card-text">COSPAR-K is a FREE Space STEM Event celebrating science.</p>
+                        <h3 class="card-title">Participation</h3>
+                        <p class="card-text">COSPAR-2021-Hybrid redefines global removing barriers of distance and isolation. Participation is at your fingertips.</p>
                     </div>
                 </div>
             </a>
@@ -93,6 +83,16 @@ if ($home == true) {
                     <div class="card-body p-4">
                         <h3 class="card-title">Key Dates</h3>
                         <p class="card-text">Keep up to date with COSPAR 2021 Hybrid</p>
+                    </div>
+                </div>
+            </a>
+            <a href="stem.php#cospark" class="col-md-4 pb-5">
+                <div class="card" style="background: #841068">
+                    <i class="fal fa-satellite circle-icon" style="background: #841068"></i>
+                    <img class="card-img-top" src="img/tiles/stem.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">COSPAR-K</h3>
+                        <p class="card-text">COSPAR-K is a FREE Space STEM Event celebrating science.</p>
                     </div>
                 </div>
             </a>
