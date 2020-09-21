@@ -62,7 +62,7 @@ include('include/header.php');
           interdisciplinary workshops, as well as immersive social opportunities.</p>
         <p>We are developing an approach that guarantees that every Interdisciplinary Speaker, oral presentation, poster presentation and workshop will occur at least once in a time zone friendly to attendees. Presentations will be a mix of in-person
           presentations from Sydney, live streaming and pre-recorded sessions.</p>
-          <a href="invitation.php" class="button-main my-4" target="_blank">
+          <a href="invitation.php" class="button-main my-4" >
               <i class="far fa-edit"></i>Read more</a>
 
       </div>
