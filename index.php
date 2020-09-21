@@ -19,7 +19,7 @@ include('include/header.php');
           <div class="col-md p-0">
 
             <div class="embed-responsive embed-responsive-16by9">
-              <video controls autoplay muted>
+              <video controls autoplay>
                 <source src="./cospar-hybrid-final.mp4" type="video/mp4">
               </video>
             </div>
