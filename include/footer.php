@@ -19,7 +19,7 @@ if ($home == true) {
             <a href="new-submissions.php" class="col-md-4 pb-5">
                 <div class="card" style="background:#f9b041">
                     <i class="fal fa-camera-alt circle-icon" style="background: #f9b041"></i>
-                    <img class="img-fluid" src="img/tiles/stem2.jpg">
+                    <img class="img-fluid" src="img/tiles/stem2.png">
                     <div class="card-body p-4">
                         <h3 class="card-title">New Submissions</h3>
                         <p class="card-text">Call for Abstracts have reopened until 5th October 2020.</p>
