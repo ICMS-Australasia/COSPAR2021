@@ -90,7 +90,7 @@ include('include/cospark.php');
                               <img src="./img/cospark/fly-army.jpg" width="150" class="float-right">
                           </div>
                       </div>
-                      <p>The Australian Army will be demonstrating its Fly Army Virtual Reality Helicopter Simulators with movement activated seats at COSPAR-K 2021. They will be providing participants at COSPAR an opportunity to “fly” the simulators for themselves and get a taste of what it is like to fly a real helicopter. The Fly Army advocates will be available to discuss Aviation roles including Engineers, Pilots, Aircraft Trades, Ground Crew Roles and UAS (Drone) Operators.</p>
+                      <p>The Australian Army will be demonstrating its Fly Army Virtual Reality Helicopter Simulators with movement activated seats at COSPAR-K. They will be providing participants an opportunity to “fly” the simulators for themselves and get a taste of what it is like to fly a real helicopter. The Fly Army advocates will be available to discuss Aviation roles including Engineers, Pilots, Aircraft Trades, Ground Crew Roles and UAS (Drone) Operators.</p>
 
                       <div class="row my-4">
                           <div class="col-md-4 mb-3 mb-md-0">
@@ -113,7 +113,6 @@ include('include/cospark.php');
                           <li>Virtual Reality Experiences</li>
                           <li>Bottle Rocket Competition</li>
                           <li>Giant Moon Map Exploration</li>
-                          <li>Helicopter Simulation Program</li>
                         </ul>
 
                       <?php
