@@ -115,6 +115,7 @@
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 											<a class="dropdown-item" href="abstracts.php">Abstracts</a>
+											<a class="dropdown-item" href="new-submissions.php">New Submissions</a>
                                                 <a class="dropdown-item" href="program.php">Program Overview</a>
                                                 <a class="dropdown-item" href="speakers.php">Speakers</a>
                                                 <a class="dropdown-item" href="cross-disciplinary-workshops.php">Cross-disciplinary Workshops</a>
