@@ -21,7 +21,7 @@ if ($home == true) {
                     <i class="fal fa-camera-alt circle-icon" style="background: #f9b041"></i>
                     <img class="img-fluid" src="./img/tiles/parkes.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">New Submissions</h3>
+                        <h3 class="card-title">New Abstract Submissions</h3>
                         <p class="card-text">Call for Abstracts have reopened until 5th October 2020.</p>
                     </div>
                 </div>
