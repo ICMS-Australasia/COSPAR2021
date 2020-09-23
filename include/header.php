@@ -115,6 +115,7 @@
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 											<a class="dropdown-item" href="abstracts.php">Abstracts</a>
+											<a class="dropdown-item" href="new-submissions.php" style="background: #fba82b; color: white; text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3)">New Abstract Submissions</a>
                                                 <a class="dropdown-item" href="program.php">Program Overview</a>
                                                 <a class="dropdown-item" href="speakers.php">Speakers</a>
                                                 <a class="dropdown-item" href="cross-disciplinary-workshops.php">Cross-disciplinary Workshops</a>

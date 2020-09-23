@@ -6,19 +6,29 @@ if ($home == true) {
     <div class="container">
         <div class="row pt-5">
             <a href="abstracts.php" class="col-md-4 pb-5">
-                <div class="card" style="background:#f9b041">
-                    <i class="fal fa-map-marked-alt circle-icon" style="background: #f9b041"></i>
-                    <img class="img-fluid" src="img/tiles/stem2.png">
+                <div class="card" style="background:#fba82b">
+                    <i class="fal fa-map-marked-alt circle-icon" style="background: #fba82b"></i>
+                    <img class="img-fluid" src="img/tiles/call-for-abstracts.png">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Call for Abstracts</h3>
-                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020
+                        <h3 class="card-title">Call for Abstracts & how COSPAR 2021 Hybrid will work?</h3>
+                        <p class="card-text"> Information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid.
                         </p>
                     </div>
                 </div>
             </a>
+            <a href="new-submissions.php" class="col-md-4 pb-5">
+                <div class="card" style="background:#fba82b">
+                    <i class="fal fa-camera-alt circle-icon" style="background: #fba82b"></i>
+                    <img class="img-fluid" src="./img/tiles/parkes.jpg">
+                    <div class="card-body p-4">
+                        <h3 class="card-title">New Abstract Submissions</h3>
+                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020.</p>
+                    </div>
+                </div>
+            </a>
             <a href="invitation.php" class="col-md-4 pb-5">
-                <div class="card" style="background:#f9b041">
-                    <i class="fal fa-address-card circle-icon" style="background: #f9b041"></i>
+                <div class="card" style="background:#fba82b">
+                    <i class="fal fa-address-card circle-icon" style="background: #fba82b"></i>
                     <img class="img-fluid" src="img/tiles/things2.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">COSPAR 2021 is going Hybrid</h3>
@@ -26,16 +36,6 @@ if ($home == true) {
                     </div>
                 </div>
             </a>
-            <a href="abstracts.php" class="col-md-4 pb-5">
-                <div class="card" style="background:#f9b041">
-                    <i class="fal fa-camera-alt circle-icon" style="background: #f9b041"></i>
-                    <img class="img-fluid" src="img/tiles/parkes.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">How COSPAR 2021 Hybrid will work?</h3>
-                        <p class="card-text">Information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid.</p>
-                    </div>
-                </div>
-            </a>
             <a href="participation.php" class="col-md-4 pb-5">
                 <div class="card">
                     <i class="fas fa-people-arrows circle-icon"></i>
