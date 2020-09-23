@@ -215,7 +215,7 @@ include('include/header.php');
                     </div>
                     <div class="col chair-text">
                         <h3>James O'Connor</h3>
-                        <strong>Educating Space</strong>
+                        <strong>Social Media Ambassador</strong>
                         <p>James is a passionate Educator, Science Researcher and Science Communicator. James' MSc Research involves modelling the orbital constraints on terrestrial exoplanets and climate models. Educating Space is a popular Instagram channel promoting Space Science, Astrophysics and Planetary Science.
                         </p>
                     </div>
