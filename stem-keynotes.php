@@ -26,18 +26,6 @@ include('include/cospark.php');
                               <p>We can’t wait to hear Corey share his story and inspire the next generation of STEM superstars.</p>
                           </div>
                       </div>
-                      <h2 class="mt-5 mb-3">Professor Lisa Harvey-Smith </h2>
-                      <div class="row my-4 align-items-center">
-                          <div class="col-md-4 mb-3 mb-md-0 d-flex align-items-center justify-content-center">
-                             <img src="img/cospark/corey-tutt.jpg" class="img-fluid">
-                          </div>
-                          <div class="col-md mb-3 mb-md-0 align-items-center">
-                              <p>Deadly Science Founder & Indigenous Australian Advocate, the 2020 NSW Young Australian of the Year Corey Tutt, a Kamilaroi man originally from Dapto in the Illawarra is the latest spectacular addition to the COSPAR-K Keynote Speaker line up.</p>
-                              <p>With an avid interest in science, Corey started the Deadly Science initiative in 2018 and has incredibly distributed over 11,000 books, 480 telescopes plus other many other resources to over 105 schools with no plan of slowing down soon.</p>
-                              <p>Deadly Science aims to provide early reading materials, science books and connect young Indigenous people with mentors to encourage their participation in STEM subjects across all of Australia, no matter how remote. Deadly Science wants to ensure all schools have access to our history of science by providing First Nations resources to connect back to our First Scientists; after all Indigenous Australian’s were the first Astronomers and are the oldest continuing culture in the world.</p>
-                              <p>We can’t wait to hear Corey share his story and inspire the next generation of STEM superstars.</p>
-                          </div>
-                      </div>
                       <h2 class="mt-5 mb-3">Professor Lisa Harvey-Smith </h2>
                       <div class="row my-4 align-items-center">
                           <div class="col-md-4 mb-3 mb-md-0 d-flex align-items-center justify-content-center">
