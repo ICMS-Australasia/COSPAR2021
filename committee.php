@@ -208,6 +208,18 @@ include('include/header.php');
                         </div>
                     </div>
                 </div>
+                <h2>COSPAR 2021 Ambassadors</h2>
+                <div class="row speakers mt-4 pt-2 mb-4">
+                    <div class="chair-image col-5 col-md-2">
+                        <img src="img/speakers/j-oconnor.jpg" class="img-fluid">
+                    </div>
+                    <div class="col chair-text">
+                        <h3>James O'Connor</h3>
+                        <strong>Educating Space</strong>
+                        <p>James is a passionate Educator, Science Researcher and Science Communicator. James' MSc Research involves modelling the orbital constraints on terrestrial exoplanets and climate models. Educating Space is a popular Instagram channel promoting Space Science, Astrophysics and Planetary Science.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
