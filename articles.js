@@ -1,12 +1,21 @@
 let latestNews = {
    "items":[
       {
-         "title":"Edition # 11: COSPAR-K TV Will Be Virtually Amazing",
-         "type":"Email",
-         "image":"16.jpg",
-         "date":"Monday, 07 September 2020",
-         "link":"https://mailchi.mp/65fdca1c1199/cospar-k-tv-will-be-virtually-amazing"
+         "title":"Internation Observe the Moon Night",
+         "type":"Article",
+         "image":"17.jpg",
+         "date":"Wednesday, 23 September 2020",
+         "link":"https://moon.nasa.gov/observe-the-moon-night/"
       },
+      {
+         "title":"Edition # 11: COSPAR-K TV Will Be Virtually Amazing",
+         "type":"Email",
+         "image":"16.jpg",
+         "date":"Monday, 07 September 2020",
+         "link":"https://mailchi.mp/65fdca1c1199/cospar-k-tv-will-be-virtually-amazing"
+      },
+
+
       {
          "title":"Edition #10: 	Andreas Antoniades Confirmed as Keynote Speaker",
          "type":"Email",
