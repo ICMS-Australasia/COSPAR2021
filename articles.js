@@ -1,7 +1,7 @@
 let latestNews = {
    "items":[
       {
-         "title":"Internation Observe the Moon Night",
+         "title":"International Observe the Moon Night",
          "type":"Article",
          "image":"17.jpg",
          "date":"Wednesday, 23 September 2020",
