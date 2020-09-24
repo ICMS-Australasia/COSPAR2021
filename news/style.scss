@@ -109,6 +109,13 @@ td.bigger{
     }
 }
 
+.header {
+    background: $darkblue;
+    h1, h2 { color: white; margin: 0; }
+    h1 { font-size: 3em; }
+    h2 { font-size: 2em; }
+}
+
 .header-margin{
   margin-bottom: 18px;
 }

@@ -1,11 +1,14 @@
 body {
-  background: #f2f2f2; }
+  background: #f2f2f2;
+}
 
 td {
-  font: 16px/24px Arial, "sans-serif"; }
+  font: 16px/24px Arial, "sans-serif";
+}
 
 a {
-  color: #000; }
+  color: #000;
+}
 
 h1,
 h2 {
@@ -13,104 +16,149 @@ h2 {
   color: #142453;
   letter-spacing: -1px;
   font: bold 30px/42px Arial, "sans-serif";
-  margin-bottom: 5px; }
+  margin-bottom: 5px;
+}
 
 h3 {
   color: #231f20;
   letter-spacing: -1px;
   font: bold 22px/32px Arial, "sans-serif";
   margin-bottom: 10px;
-  margin-top: 40px; }
+  margin-top: 40px;
+}
 
 .first {
-  margin-top: 0; }
+  margin-top: 0;
+}
 
 .last {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+}
 
 .info td {
-  font: 11px/16px Arial, sans-serif; }
+  font: 11px/16px Arial, sans-serif;
+}
 
 .block img {
-  display: block; }
+  display: block;
+}
 
 .menu {
   background: #142453 url(http://www.cospar2020.org/news/img/menu-bg.jpg);
-  color: white; }
-  .menu a {
-    color: white; }
-  .menu h2 {
-    color: white;
-    margin-bottom: 0; }
-  .menu td {
-    font: 18px/30px Arial, sans-serif; }
+  color: white;
+}
+.menu a {
+  color: white;
+}
+.menu h2 {
+  color: white;
+  margin-bottom: 0;
+}
+.menu td {
+  font: 18px/30px Arial, sans-serif;
+}
 
 td.bigger {
-  font: 18px/28px Arial, sans-serif; }
-  td.bigger td {
-    font: 18px/28px Arial, sans-serif; }
+  font: 18px/28px Arial, sans-serif;
+}
+td.bigger td {
+  font: 18px/28px Arial, sans-serif;
+}
 
 .content > td {
   background: white;
-  border-bottom: solid 1px #f2f2f2; }
-  .content > td .button {
-    background-color: #0c4da2;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
-    border-radius: 3px;
-    margin-top: 15px;
-    margin-bottom: 25px; }
-    .content > td .button td {
-      font: bold 28px/28px Arial, "sans-serif";
-      font-weight: bold;
-      letter-spacing: -1px;
-      text-align: center; }
-    .content > td .button a {
-      color: white; }
+  border-bottom: solid 1px #f2f2f2;
+}
+.content > td .button {
+  background-color: #0c4da2;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.content > td .button td {
+  font: bold 28px/28px Arial, "sans-serif";
+  font-weight: bold;
+  letter-spacing: -1px;
+  text-align: center;
+}
+.content > td .button a {
+  color: white;
+}
 
 .standout h2 {
-  color: white; }
+  color: white;
+}
 .standout td {
   background: #142453;
-  color: white; }
-  .standout td strong {
-    font-weight: bold;
-    font-size: 18px; }
+  color: white;
+}
+.standout td strong {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.header {
+  background: #142453;
+}
+.header h1, .header h2 {
+  color: white;
+  margin: 0;
+}
+.header h1 {
+  font-size: 3em;
+}
+.header h2 {
+  font-size: 2em;
+}
 
 .header-margin {
-  margin-bottom: 18px; }
+  margin-bottom: 18px;
+}
 
 .table {
-  border-collapse: collapse; }
-  .table th, .table td {
-    border: 0; }
-  .table th {
-    background: #fbaf42;
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    font: 18px/30px Arial, sans-serif; }
-    .table th:first-child {
-      background: #142453;
-      text-align: left; }
-  .table td {
-    text-align: center;
-    border: solid 1px #dfdfdf; }
-    .table td:first-child {
-      text-align: left;
-      font-weight: bold; }
+  border-collapse: collapse;
+}
+.table th, .table td {
+  border: 0;
+}
+.table th {
+  background: #fbaf42;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font: 18px/30px Arial, sans-serif;
+}
+.table th:first-child {
+  background: #142453;
+  text-align: left;
+}
+.table td {
+  text-align: center;
+  border: solid 1px #dfdfdf;
+}
+.table td:first-child {
+  text-align: left;
+  font-weight: bold;
+}
 
 .faqs {
   margin-top: 20px;
-  border-collapse: collapse; }
-  .faqs img {
-    margin-top: 8px; }
-  .faqs h3 {
-    margin-top: 0; }
+  border-collapse: collapse;
+}
+.faqs img {
+  margin-top: 8px;
+}
+.faqs h3 {
+  margin-top: 0;
+}
 
 .alpha {
-  list-style: lower-alpha; }
+  list-style: lower-alpha;
+}
 
 .list-space li {
-  margin-bottom: 7px; }
+  margin-bottom: 7px;
+}
 
 /*# sourceMappingURL=style.css.map */
