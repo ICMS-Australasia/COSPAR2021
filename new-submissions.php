@@ -82,7 +82,7 @@ include('include/header.php');
     </div>
     <div class="col-md-4">
         <div class="video">
-            <a href="https://youtu.be/iyQ231aqFGk" target="_blank" class="player">
+            <a href="https://youtu.be/KEpCn_GYEXU" target="_blank" class="player">
                 <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/d.jpg" class="static img-fluid">
                 <img src="abstracts/tiles/d.gif" class="img-fluid">
