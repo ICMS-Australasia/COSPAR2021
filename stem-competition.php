@@ -94,6 +94,7 @@ include('include/cospark.php');
                                             Proud Kamilaroi man and young Aboriginal Australian advocate <br>
                                             2020 NSW Young Australian of the Year <br>
                                             <em>Fun fact about Corey is he used to be an alpaca sheerer!</em></p>
+                                            <p><a href="https://deadlyscience.icu/" target="_blank"><i class="fas fa-globe mr-2"></i>deadlyscience.icu</a></p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 text-center">
@@ -103,6 +104,7 @@ include('include/cospark.php');
                                             <p style="font-size: 0.8em"><b>NSW Department of Education Assistant Principal</b> <br><br>
                                             Gifted Education Teacher <br>
                                             If I lived on Mercury, I would be 114 years old!</p>
+                                            <p><a href="https://www.instagram.com/giftedandtalentedteacher/" target="_blank"><i class="fab fa-instagram mr-2"></i>@giftedandtalentedteacher</a></p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 text-center">
@@ -113,6 +115,7 @@ include('include/cospark.php');
                                             STEM Education Specialist <br>
                                             Education Media Consultant <br>
                                             <em>Obsessed with the number 42! Space lovers will get that.</em></p>
+                                            <p><a href="http://www.splat3d.com/" target="_blank"><i class="fas fa-globe mr-2"></i>www.splat3d.com</a></p>
                                         </div>
                                     </div>
                                 </div>
