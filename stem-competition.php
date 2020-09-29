@@ -11,14 +11,14 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">COSPAR-K Paint the Sky Competition'</h1>
+                      <h1 class="mt-3 mb-5">COSPAR-K Paint the Sky Competition</h1>
                       <h2>Theme & Activity</h2>
                       <h3>Paint the Sky - A Lesson in Ancient Aboriginal Astronomy</h3>
                       <p>This Space Week, 4-10 October 2020, COSPAR-K is encouraging students to explore the ancient ways Aboriginal Australians observed the solar system to better understand and manage our precious natural resources.</p>
                       <p>Students are asked to visually represent their knowledge of Ancient Aboriginal Astronomy and our Solar System in an original piece of artwork. Artwork can be inspired by Aboriginal Australian pieces but must be created by a student, be an original piece and be culturally appropriate.</p>
                       <p>Accompanying this in 50 words or less, please write a short statement about what has inspired the artwork. This will be displayed alongside the winning entries; the judges will also refer to this statement when reviewing entries.</p>
 
-                      <h2>THE PRIZE PACK</h2>
+                      <h2>The Prize Pack</h2>
                       <h3>What goodies are up for grabs?</h3>
 
                       <p>20 lucky winners will be selected by our panel of judges to receive an exclusive COSPAR-K Prize Pack containing:</p>
@@ -54,7 +54,7 @@ include('include/cospark.php');
                           <span class="button-head">Download the Free Activity Template and Teacher Resource</span>
                       </a>
                       <a href="https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-4">
-                          <span class="button-head">Submit your Student Artwork</span>
+                          <span class="button-head">Submit Your Student Artwork</span>
                       </a>
 
                       <div class="row stem-cards mb-4 mt-5">
@@ -103,7 +103,7 @@ include('include/cospark.php');
                                         <div>
                                             <p style="font-size: 0.8em"><b>NSW Department of Education Assistant Principal</b> <br><br>
                                             Gifted Education Teacher <br>
-                                            If I lived on Mercury, I would be 114 years old!</p>
+                                            <em>Fun fact: If I lived on Mercury, I would be 114 years old!</em></p>
                                             <p><a href="https://www.instagram.com/giftedandtalentedteacher/" target="_blank"><i class="fab fa-instagram mr-2"></i>@giftedandtalentedteacher</a></p>
                                         </div>
                                     </div>
@@ -114,7 +114,7 @@ include('include/cospark.php');
                                             <p style="font-size: 0.8em"><b>Founder of Splat3d</b> <br><br>
                                             STEM Education Specialist <br>
                                             Education Media Consultant <br>
-                                            <em>Obsessed with the number 42! Space lovers will get that.</em></p>
+                                            <em>Fun fact: Obsessed with the number 42! Space lovers will get that.</em></p>
                                             <p><a href="http://www.splat3d.com/" target="_blank"><i class="fas fa-globe mr-2"></i>www.splat3d.com</a></p>
                                         </div>
                                     </div>
@@ -182,7 +182,7 @@ include('include/cospark.php');
                       <table cellpadding="20" cellspacing="0" border="0" width="100%" class="my-4">
                           <tr align="center" bgcolor="#fbedfc">
                               <td><b>Competition Open & Submissions Welcomed</b></td>
-                              <td>From Monday 28 September</td>
+                              <td>Open now</td>
                           </tr>
                           <tr align="center">
                               <td><b>Submission Close</b></td>
@@ -197,7 +197,7 @@ include('include/cospark.php');
 
                       <h2 class="mt-5">Community</h2>
                       <h3>Let’s celebrate and share the love!</h3>
-                      <p>Post your student pieces on their behalf on <b>Instagram</b> and tag <b>@cospar_k</b> to showcase their work. We’d love to see a classroom filled with pieces of space art! Drop us a follow while you’re there and support our free space STEM event. We’ll be sharing all pieces we’re tagged in on our <b>Student Space Art Gallery</b> on the <a href="https://www.cospar2021.org/stem#cospark" target="_blank">COSPAR-K website</a> which is accessed by over 3,000 space specialist every month. That kind of exposure is out of this world!</p>
+                      <p>Post your student pieces on their behalf on <b>Instagram</b> and tag <a href="https://www.instagram.com/cospar_k/?hl=en" target="_blank"><b>@cospar_k</b></a> to showcase their work. We’d love to see a classroom filled with pieces of space art! Drop us a follow while you’re there and support our free space STEM event. We’ll be sharing all pieces we’re tagged in on our <b>Student Space Art Gallery</b> on the <a href="https://www.cospar2021.org/stem#cospark" target="_blank">COSPAR-K website</a> which is accessed by over 3,000 space specialist every month. That kind of exposure is out of this world!</p>
 
                       <?php
                       include('include/cospark-footer.php');
