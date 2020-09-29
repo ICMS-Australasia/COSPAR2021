@@ -25,7 +25,7 @@ include('include/cospark.php');
                       <ul>
                           <li>Awesome Deadly Science goodies donated by Founder and CEO Corey Tutt with the following items:</li>
                           <ul>
-                              <li>-	A First Nations or STEM book specially selected by him with titles including: Young Dark Emu by Bruce Pascoe, How the Kangaroos got their Tails an Aboriginal Story told by George Mung Mung Lirrmiyarri, Our Home Our Heartbeat by Adam Briggs, Dr. Karl's Random Road Trip Through Science by Dr. Karl Kruszelnicki and STEM Stars Fiona Wood story by Cristy Burne.</li>
+                              <li>A First Nations or STEM book specially selected by him with titles including: Young Dark Emu by Bruce Pascoe, How the Kangaroos got their Tails an Aboriginal Story told by George Mung Mung Lirrmiyarri, Our Home Our Heartbeat by Adam Briggs, Dr. Karl's Random Road Trip Through Science by Dr. Karl Kruszelnicki and STEM Stars Fiona Wood story by Cristy Burne.</li>
                               <li>Deadly Science t-shirt</li>
                               <li>Deadly Science junior space scientist certificate</li>
                           </ul>
