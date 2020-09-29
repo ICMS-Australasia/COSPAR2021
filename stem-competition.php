@@ -25,11 +25,11 @@ include('include/cospark.php');
                       <ul>
                           <li>Awesome Deadly Science goodies donated by Founder and CEO Corey Tutt with the following items:</li>
                           <ul>
-                              <li>A First Nations or STEM book specially selected by him, titles including: Young Dark Emu, Our Home Our Heartbeat, Karl's Random Road Trip Through Science</li>
+                              <li>-	A First Nations or STEM book specially selected by him with titles including: Young Dark Emu by Bruce Pascoe, How the Kangaroos got their Tails an Aboriginal Story told by George Mung Mung Lirrmiyarri, Our Home Our Heartbeat by Adam Briggs, Dr. Karl's Random Road Trip Through Science by Dr. Karl Kruszelnicki and STEM Stars Fiona Wood story by Cristy Burne.</li>
                               <li>Deadly Science t-shirt</li>
                               <li>Deadly Science junior space scientist certificate</li>
                           </ul>
-                          <li>Woo’s Wonderful World of Maths by Eddie Woo</li>
+                          <li>Magical Maths by Eddie Woo</li>
                           <li>When Galaxies Collide by Lisa Harvey-Smith</li>
                           <li>Limited edition COSPAR-K bookmark</li>
                       </ul>
@@ -50,10 +50,10 @@ include('include/cospark.php');
                           </div>
                       </div>
 
-                      <a href="https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-5">
-                          <span class="button-head">Download the Free Activity Template and Teacher Resource</span>
+                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-paint-the-sky-competition" target="_blank" class="button-secondary mb-4 mt-5">
+                          <span class="button-head">Access the Free Activity Sheet and Teacher Resource</span>
                       </a>
-                      <a href="https://icmsaust.eventsair.com/PresentationPortal/Account/Login?ReturnUrl=%2FPresentationPortal%2Fcospar-2021%2Fcall-for-space-stem-power-talks" target="_blank" class="button-secondary mb-4 mt-4">
+                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-competition-submission" target="_blank" class="button-secondary mb-4 mt-4">
                           <span class="button-head">Submit Your Student Artwork</span>
                       </a>
 
