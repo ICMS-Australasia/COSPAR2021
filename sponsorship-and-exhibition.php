@@ -33,8 +33,8 @@ include('include/header.php');
                         </ul>
                         <table cellpadding="10" class="mb-4">
                             <tr>
-                                <td><a target="_blank"><img src="img/virtual-prospectus.png" width="100"></a></td>
-                                <td><a target="_blank"><em>COSPAR-2021-Hybrid Prospectus Coming Soon!</em></a></td>
+                                <td><a href="./COSPAR2021-prospectus-HybVirt.pdf" target="_blank"><img src="img/virtual-prospectus.png" width="100"></a></td>
+                                <td><a href="./COSPAR2021-prospectus-HybVirt.pdf" target="_blank"><em>Download the COSPAR-2021-Hybrid Prospectus</em></a></td>
                             </tr>
                         </table>
                         <p>For further information or to discuss how you could become involved as a sponsor or exhibitor, contact Emma Bowyer, COSPAR-2021-Hybrid, Event Director.  <br>
