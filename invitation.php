@@ -18,6 +18,12 @@ include('include/header.php');
             <div class="container">
                 <div class="row pt-5">
                   <div class="col-md-12 mb-3" style="font-size:1.1em;">
+
+                      <div class="embed-responsive embed-responsive-16by9 mb-5" id="video">
+                        <video controls autoplay muted>
+                          <source src="./COSPA_V2.mp4" type="video/mp4">
+                        </video>
+                      </div>
 
                     <img src="img/logo-co2.jpg" class="float-right ml-md-4 mb-md-4" width="160" alt="">
 

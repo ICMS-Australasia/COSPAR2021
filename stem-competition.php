@@ -29,7 +29,7 @@ include('include/cospark.php');
                               <li>Deadly Science t-shirt</li>
                               <li>Deadly Science junior space scientist certificate</li>
                           </ul>
-                          <li>Magical Maths by Eddie Woo</li>
+                          <li>Eddie Woo's Magical Maths by Eddie Woo, donated by Pan Macmillan Australia</li>
                           <li>When Galaxies Collide by Lisa Harvey-Smith</li>
                           <li>Limited edition COSPAR-K bookmark</li>
                       </ul>

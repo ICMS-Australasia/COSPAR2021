@@ -18,46 +18,6 @@ include('include/header.php');
     <div class="container">
         <div class="row py-5">
             <div class="col">
-                <h2 class="mb-4">Social Media Tiles</h2>
-                <p>Click on the tile image to download.</p>
-                <div class="row my-4">
-                    <div class="col-md-4"> <a href="img/media/tiles/2021-dish-tags-www.jpg" target="_blank"><img src="img/media/tiles/2021-dish-tags-www.jpg" alt="" width="400" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-4"> <a href="img/media/tiles/2021-koala-tags-www.jpg" target="_blank"><img src="img/media/tiles/2021-koala-tags-www.jpg" alt="" width="400" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-4"> <a href="img/media/tiles/2021-wombat-tags-www.jpg" target="_blank"><img src="img/media/tiles/2021-wombat-tags-www.jpg" alt="" width="400" class="img-fluid"></a>
-                    </div>
-                </div>
-                <h2 class="mt-5 mb-4">Posters</h2>
-                <p>Click on the desired Poster download.</p>
-                <div class="row my-4">
-                    <div class="col-md-4"> <a href="img/media/posters/COSPAR2021-PromoPoster-A4-v1.pdf" target="_blank"><img src="img/media/posters/poster.jpg" alt="" width="250"><br>
-					A4 Size
-					</a>
-                    </div>
-                    <div class="col-md-4"> <a href="img/media/posters/COSPAR2021-PromoPoster-A3-v1.pdf" target="_blank"><img src="img/media/posters/poster.jpg" alt="" width="250"><br>
-					A3 Size
-					</a>
-                    </div>
-                </div>
-                <h2 class="mt-5 mb-4">Email Signature Images</h2>
-                <p>Click on the relevant email signature to add to your emails to assist in the promotion of COSPAR 2020.</p>
-                <div class="row my-4">
-                    <div class="col-md-4 p-4"> <a href="img/media/signatures/cospar2021-attending-sig-400.gif" target="_blank"><img src="img/media/signatures/cospar2021-attending-sig-400.gif" alt="" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-4 p-4"> <a href="img/media/signatures/cospar2021-exhibiting-sig-400.gif" target="_blank"><img src="img/media/signatures/cospar2021-exhibiting-sig-400.gif" alt="" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-4 p-4"> <a href="img/media/signatures/cospar2021-speaking-sig-400.gif" target="_blank"><img src="img/media/signatures/cospar2021-speaking-sig-400.gif" alt="" class="img-fluid"></a>
-                    </div>
-                    <div class="col-md-4 p-4"> <a href="img/media/signatures/cospar2021-sponsoring-sig-400.gif" target="_blank"><img src="img/media/signatures/cospar2021-sponsoring-sig-400.gif" alt="" class="img-fluid"></a>
-                    </div>
-                </div>
-                <h2 class="mt-5 mb-4">Promotional PowerPoint Templates</h2>
-                <p>Click on the PowerPoint template to download, edit and present.</p>
-                <div class="row my-4">
-                    <div class="col-md-4"> <a href="img/media/ppt/COSPAR2021-promo-ppt-v1.pptx" target="_blank"><img src="img/media/ppt/ppt.jpg" alt="" class="img-fluid"></a>
-                    </div>
-                </div>
                 <h2 class="mt-5 mb-4">Newsletters</h2>
                 <div class="row my-4">
                   <div class="col-md-6 mb-4">
