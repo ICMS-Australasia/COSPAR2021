@@ -15,11 +15,34 @@ include('include/cospark.php');
                       <img src="./img/cospark/cospark-tickets.jpg" class="img-fluid mb-5">
 
                       <p>Grab your boarding pass and prepare to blast off to COSPAR-K, bookings are officially live!</p>
-                      <p>Secure your spots at the ICC Sydney and get hands-on with our <a href="mailto:https://www.cospar2021.org/stem-activities%23cospark" target="_blank">awesome interactive experiences</a> designed specifically to inspire the next generation of space STEM superstars. With school excursions back on in NSW, it’s perfect timing to organise a class trip. Trust us, this will win you brownie points!</p>
+                      <p>Secure your spots at the ICC Sydney and get hands-on with our <a href="https://www.cospar2021.org/stem-activities#cospark" target="_blank">awesome interactive experiences</a> designed specifically to inspire the next generation of space STEM superstars. With school excursions back on in NSW, it’s perfect timing to organise a class trip. Trust us, this will win you brownie points!</p>
                       <p>This is not the time for cryosleep. Tickets are FREE and guaranteed to book out.</p>
+
+
+                      <?php
+                      date_default_timezone_set("Australia/Sydney");
+
+                      // The current date
+                      $date = time();
+
+                      // Static contest start date
+                      $contestStart = strtotime('2020-10-01 16:41:00');
+
+                      // If current date is after contest start
+                      if ($date > $contestStart) {
+                      ?>
                       <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets" target="_blank" class="button-secondary mb-5 mt-5">
                           <span class="button-head">Grab Your COSPAR-K Boarding Pass Now</span>
                       </a>
+                      <?php
+                      }
+
+                      else {
+                      // hidden
+                      }
+                      ?>
+
+
 
                       <h2>Take Off Dates</h2>
                       <p>Choose from five take off dates and attend the morning or afternoon session. Spots are strictly capped at 150 people per session.</p>
