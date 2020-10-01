@@ -20,7 +20,7 @@ include('include/cospark.php');
               <h3 class="stem-card-title p-4">About COSPAR-K</h3>
             </div>
           </a>
-          <a href="stem-catalogue#cospark" class="col-md-4">
+          <a href="stem-tickets#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card7.jpg">
               <h3 class="stem-card-title p-4">Tickets</h3>
