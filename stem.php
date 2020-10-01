@@ -20,6 +20,18 @@ include('include/cospark.php');
               <h3 class="stem-card-title p-4">About COSPAR-K</h3>
             </div>
           </a>
+          <a href="stem-catalogue#cospark" class="col-md-4">
+            <div class="stem-card">
+              <img class="img-fluid" src="img/cospark/card7.jpg">
+              <h3 class="stem-card-title p-4">Tickets</h3>
+            </div>
+          </a>
+          <a href="stem-competition#cospark" class="col-md-4">
+            <div class="stem-card">
+              <img class="img-fluid" src="img/cospark/card5.jpg">
+              <h3 class="stem-card-title p-4">Competition</h3>
+            </div>
+          </a>
           <a href="stem-activities#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card2.jpg">
@@ -29,39 +41,28 @@ include('include/cospark.php');
           <a href="stem-keynotes#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card3.jpg">
-              <h3 class="stem-card-title p-4">Keynotes</h3>
+              <h3 class="stem-card-title p-4">Keynotes & Power Talks</h3>
             </div>
           </a>
-          <a href="stem-power-talks#cospark" class="col-md-4">
+          <!-- <a href="stem-power-talks#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card4.jpg">
               <h3 class="stem-card-title p-4">Power Talks</h3>
             </div>
-          </a>
-          <a href="stem-competition#cospark" class="col-md-4">
-            <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card5.jpg">
-              <h3 class="stem-card-title p-4">Competition</h3>
-            </div>
-          </a>
+          </a> -->
           <a href="stem-catalogue#cospark" class="col-md-4">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card6.jpg">
               <h3 class="stem-card-title p-4">Catalogue</h3>
             </div>
           </a>
-
-        </div>
-
-
-
-
+        </div>
+
         <div class="embed-responsive embed-responsive-16by9">
-
             <video controls poster="img/cospark/video.jpg">
-<source src="img/cospark/COSPAR-K-Promo-Video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+                <source src="img/cospark/COSPAR-K-Promo-Video2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+            </video>
         </div>
 
 

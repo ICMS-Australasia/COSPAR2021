@@ -10,8 +10,29 @@ include('include/cospark.php');
                 <div class="row py-5">
                     <div class="col stem-page">
 
-
+
                       <h1 class="mt-3 mb-5">Activities & Partners</h1>
+                      <div class="row mt-5 mb-3 align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">UNSW Canberra Satellite Mission</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/unsw-canberra.jpg" width="100" class="float-right">
+                          </div>
+                      </div>
+                      <div class="row my-4">
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/satellite1.jpg" class="img-fluid">
+                          </div>
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/satellite2.jpg" class="img-fluid">
+                          </div>
+                      </div>
+                      <p>We’re excited to announce our latest awesome activity at COSPAR-K, the UNSW Canberra Satellite Mission!</p>
+                      <p>Design your very own mission and build the right satellite for it. Let your imagination run free and decide what your mission objectives are. Whether it’s looking for water on Mars, setting up a communications relay around the Moon or even monitoring bush fire behaviour on Earth. Any mission is possible; the challenge will be to configure the right satellite for the job.</p>
+
+                      <hr class="my-5">
+
                       <div class="row mt-5 mb-3 align-items-end">
                           <div class="col">
                               <h2 class="mb-0">Mars Yard</h2>
@@ -37,7 +58,9 @@ include('include/cospark.php');
                       <div class="embed-responsive embed-responsive-16by9">
                           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CKBVt6je2SA" allowfullscreen></iframe>
                       </div>
-
+
+                      <hr class="my-5">
+
 
                       <div class="row mt-5 mb-3 d-flex align-items-end">
                           <div class="col">
@@ -109,7 +132,6 @@ include('include/cospark.php');
                       <h2 class="mt-5 mb-3">And So Much More!</h2>
                       <p>We’re busily working on bringing more awesome interactive experiences and activations to COSPAR-K. Stay glued to our communications for exciting announcements of the following activities in the coming months. <b>Did we mention this event was free?</b> Remember to register your <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi/Site/Register" target="_blank">expression of interest</a> now to ensure you’re included with our key updates.  We’ll soon be making announcements about:</p>
                       <ul>
-                          <li>Satellite Mission Station</li>
                           <li>Virtual Reality Experiences</li>
                           <li>Bottle Rocket Competition</li>
                           <li>Giant Moon Map Exploration</li>

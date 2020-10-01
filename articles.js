@@ -1,12 +1,19 @@
 let latestNews = {
    "items":[
       {
-         "title":"International Observe the Moon Night",
-         "type":"Article",
-         "image":"17.jpg",
-         "date":"Wednesday, 23 September 2020",
-         "link":"https://moon.nasa.gov/observe-the-moon-night/"
+         "title":"COSPAR-2021-Hybrid – The Benefits",
+         "type":"Email",
+         "image":"18.jpg",
+         "date":"Wednesday, 30 September 2020",
+         "link":"https://mailchi.mp/a9c91a361312/cospar-2021-hybrid-the-benefits"
       },
+      {
+         "title":"International Observe the Moon Night",
+         "type":"Article",
+         "image":"17.jpg",
+         "date":"Wednesday, 23 September 2020",
+         "link":"https://moon.nasa.gov/observe-the-moon-night/"
+      },
       {
          "title":"Edition # 11: COSPAR-K TV Will Be Virtually Amazing",
          "type":"Email",
