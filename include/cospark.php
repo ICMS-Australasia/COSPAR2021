@@ -21,7 +21,7 @@
 <div class="animation-bottom">
   <div class="stem-menu">
     <a href="stem#cospark">Launch Pad</a>
-    <a href="stem#cospark">Tickets</a>
+    <a href="stem-tickets#cospark">Tickets</a>
     <a href="stem-about#cospark">About COSPAR-K</a>
     <a href="stem-activities#cospark">Activities & Partners</a>
     <a href="stem-keynotes#cospark">Keynotes</a>
