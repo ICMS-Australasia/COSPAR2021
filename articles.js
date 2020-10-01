@@ -5,7 +5,7 @@ let latestNews = {
          "type":"Email",
          "image":"18.jpg",
          "date":"Wednesday, 23 September 2020",
-         "link":"https://mailchi.mp/a9c91a361312/cospar-2021-hybrid-the-benefits"
+         "link":"https://mailchi.mp/c6cb84769296/2020-nsw-young-australian-of-the-year-founder-of-deadly-science-confirmed-for-cospar-k"
       },
       {
          "title":"International Observe the Moon Night",
