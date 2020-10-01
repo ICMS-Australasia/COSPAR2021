@@ -1,10 +1,10 @@
 let latestNews = {
    "items":[
       {
-         "title":"COSPAR-2021-Hybrid – The Benefits",
+         "title":"Edition #12: 2020 NSW Young Australian of the Year & Founder of Deadly Science Confirmed for COSPAR-K!",
          "type":"Email",
          "image":"18.jpg",
-         "date":"Wednesday, 30 September 2020",
+         "date":"Wednesday, 23 September 2020",
          "link":"https://mailchi.mp/a9c91a361312/cospar-2021-hybrid-the-benefits"
       },
       {
@@ -15,7 +15,7 @@ let latestNews = {
          "link":"https://moon.nasa.gov/observe-the-moon-night/"
       },
       {
-         "title":"Edition # 11: COSPAR-K TV Will Be Virtually Amazing",
+         "title":"Edition #11: COSPAR-K TV Will Be Virtually Amazing",
          "type":"Email",
          "image":"16.jpg",
          "date":"Monday, 07 September 2020",

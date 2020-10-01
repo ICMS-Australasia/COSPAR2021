@@ -15,7 +15,7 @@ include('include/cospark.php');
                       <img src="./img/cospark/cospark-tickets.jpg" class="img-fluid mb-5">
 
                       <p>Grab your boarding pass and prepare to blast off to COSPAR-K, bookings are officially live!</p>
-                      <p>Secure your spots at the ICC Sydney and get hands-on with our <a href="https://www.cospar2021.org/stem-activities#cospark" target="_blank">awesome interactive experiences</a> designed specifically to inspire the next generation of space STEM superstars. With school excursions back on in NSW, it’s perfect timing to organise a class trip. Trust us, this will win you brownie points!</p>
+                      <p>Secure your spots at the ICC Sydney and get hands-on with our <a href="https://www.cospar2021.org/stem-activities#cospark">awesome interactive experiences</a> designed specifically to inspire the next generation of space STEM superstars. With school excursions back on in NSW, it’s perfect timing to organise a class trip. Trust us, this will win you brownie points!</p>
                       <p>This is not the time for cryosleep. Tickets are FREE and guaranteed to book out.</p>
 
 
@@ -26,7 +26,7 @@ include('include/cospark.php');
                       $date = time();
 
                       // Static contest start date
-                      $contestStart = strtotime('2020-10-01 16:41:00');
+                      $contestStart = strtotime('2020-10-05 09:00:00');
 
                       // If current date is after contest start
                       if ($date > $contestStart) {
@@ -92,13 +92,13 @@ include('include/cospark.php');
 
                         <h2 class="mt-5">The Pitch</h2>
                         <h3>We’ve got you teachers, here’s your seven-point pitch perfectly prepared for your principal (who doesn’t love an alliteration and acrostic poem!)</h3>
-                            <p><span style="color: #72ba44; font-size:1.5em;"><b>C</b></span>OSPAR-K is a FREE space STEM event running in partnership with the NSW Department of Education’s STEM Industry School Partnerships Program.</p>
-                            <p><span style="color: #72ba44; font-size:1.5em;"><b>O</b></span>pen the eyes of your students to the possibilities that await them in space. Students get hands on learning through activities specifically designed to inspire their interest in space STEM. Mars Yard, Rocket Rescue, Drone Racing – more here.</p>
+                            <p><span style="color: #72ba44; font-size:1.5em;"><b>C</b></span>OSPAR-K is a FREE space STEM event running in partnership with the NSW Department of Education’s <a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">STEM Industry School Partnerships Program</a>.</p>
+                            <p><span style="color: #72ba44; font-size:1.5em;"><b>O</b></span>pen the eyes of your students to the possibilities that await them in space. Students get hands on learning through activities specifically designed to inspire their interest in space STEM. Mars Yard, Rocket Rescue, Drone Racing – <a href="https://www.cospar2021.org/stem-activities#cospark" target="_blank">more here</a>.</p>
                             <p><span style="color: #72ba44; font-size:1.5em;"><b>S</b></span>TEM education is critically important in Australia, as over the past decade there has been strong demand requiring workforce skills in STEM areas. This is the time for better engagement and COSPAR-K provides this opportunity.</p>
-                            <p><span style="color: #72ba44; font-size:1.5em;"><b>P</b></span>rovide a once in a lifetime experience for your students. This event will literally never again occur in Sydney as it is running alongside an International Scientific Assembly.</p>
+                            <p><span style="color: #72ba44; font-size:1.5em;"><b>P</b></span>rovide a once in a lifetime experience for your students. This event will literally never again occur in Sydney as it is running alongside an <a href="https://www.cospar2021.org/stem-about#cospark" target="_blank">International Scientific Assembly</a>.</p>
                             <p><span style="color: #72ba44; font-size:1.5em;"><b>A</b></span>ustralia’s new Space Agency means opportunity a plenty for young Australian’s to be part of the space journey. What’s cooler than space?</p>
                             <p><span style="color: #72ba44; font-size:1.5em;"><b>R</b></span>egister now as places will 100% book out. We’re keeping a close eye on the latest COVID-19 restrictions and have capped attendance at 150 people per session, putting safety first and keeping in line with government regulations.</p>
-                            <p><span style="color: #72ba44; font-size:1.5em;"><b>K</b></span>eep up to date on all things COSPAR-K via the website, e-newsletter or social media.</p>
+                            <p><span style="color: #72ba44; font-size:1.5em;"><b>K</b></span>eep up to date on all things COSPAR-K via the <a href="https://www.cospar2021.org/stem#cospark" target="_blank">website</a>, e-newsletter or social media.</p>
 
                             <div class="embed-responsive embed-responsive-16by9">
                                 <video controls poster="img/cospark/video.jpg">
