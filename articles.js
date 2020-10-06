@@ -1,7 +1,7 @@
 let latestNews = {
    "items":[
       {
-         "title":"Edition #12: Title: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
+         "title":"Edition #13: Title: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
          "type":"Email",
          "image":"19.jpg",
          "date":"Tuesday, 6 October 2020",
