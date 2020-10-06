@@ -22,7 +22,7 @@ if ($home == true) {
                     <img class="img-fluid" src="./img/tiles/parkes.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">New Abstract Submissions</h3>
-                        <p class="card-text">Call for Abstracts have reopened until 5th October 2020.</p>
+                        <p class="card-text">Call for Abstracts have been extended until 11th October 2020.</p>
                     </div>
                 </div>
             </a>
