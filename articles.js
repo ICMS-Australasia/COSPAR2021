@@ -1,12 +1,19 @@
 let latestNews = {
    "items":[
       {
-         "title":"Edition #12: 2020 NSW Young Australian of the Year & Founder of Deadly Science Confirmed for COSPAR-K!",
+         "title":"Edition #12: Title: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
          "type":"Email",
-         "image":"18.jpg",
-         "date":"Wednesday, 23 September 2020",
-         "link":"https://mailchi.mp/c6cb84769296/2020-nsw-young-australian-of-the-year-founder-of-deadly-science-confirmed-for-cospar-k"
+         "image":"19.jpg",
+         "date":"Tuesday, 6 October 2020",
+         "link":"https://mailchi.mp/276d2a6782f3/3-2-1-blast-off-bookings-for-mission-cospar-k-are-go"
       },
+      {
+         "title":"Edition #12: 2020 NSW Young Australian of the Year & Founder of Deadly Science Confirmed for COSPAR-K!",
+         "type":"Email",
+         "image":"18.jpg",
+         "date":"Wednesday, 23 September 2020",
+         "link":"https://mailchi.mp/c6cb84769296/2020-nsw-young-australian-of-the-year-founder-of-deadly-science-confirmed-for-cospar-k"
+      },
       {
          "title":"International Observe the Moon Night",
          "type":"Article",
