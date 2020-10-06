@@ -62,7 +62,7 @@ include('include/header.php');
     <div class="row pt-5">
       <div class="col-md-12 mt-2 text-center">
         <h2 class="mb-4" style="line-height:1.4; font-size:3em;" id="chair">From the Desk of the Chair</h2>
-        <h3 class="mb-5">COSPAR 2021 is going Hybrid and <a href="abstracts.php" style="color:#0c4da2; text-decoration:underline;">Call for Abstracts have been extended<br>until 11 October 2020</a>!</h3>
+        <h3 class="mb-5">News just in. COSPAR HQ have been inundated with requests for an extension. In the interest of having the best science at the largest space research conference; <a href="abstracts.php" style="color:#0c4da2; text-decoration:underline;">COSPAR 2021 abstracts will remain open until 11 October 2020.</h3>
       </div>
       <div class="col-md-12 mb-3" style="font-size:1.1em;">
 
