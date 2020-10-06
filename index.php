@@ -52,7 +52,7 @@ include('include/header.php');
     <div class="row pt-5">
         <div class="col-md-12">
             <a href="abstracts.php">
-              <img src="./img/COSPAR2021-September-feature-v1.jpg" class="img-fluid" width="100%">
+              <img src="./img/COSPAR2021-October-feature-v1.jpg" class="img-fluid" width="100%">
             </a>
         </div>
     </div>
