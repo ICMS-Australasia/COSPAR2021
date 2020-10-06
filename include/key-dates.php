@@ -9,7 +9,7 @@
             <td><strong>New abstracts can be submitted</strong><br>  16 September 2020</td>
           </tr>
           <tr>
-            <td><strong>New abstract submission period closes</strong> <br> 5 October 2020</td>
+            <td><strong>New abstract submission period closes</strong> <br> 11 October 2020</td>
           </tr>
           <tr>
             <td><strong>New authors notified of selection outcome</strong> <br> 19 October 2020</td>

@@ -62,7 +62,7 @@ include('include/header.php');
         <a href="https://www.cospar-assembly.org/" class="button-main mb-4" target="_blank">
           <i class="far fa-edit"></i> Submit your Abstract</a>
 
-         <p>By clicking the link above you will be re-direct to the scientific program page cospar-assembly.org. Here, authors can update their existing accepted paper.  New submissions will be accepted until 5 October 2020.</p>
+         <p>By clicking the link above you will be re-direct to the scientific program page cospar-assembly.org. Here, authors can update their existing accepted paper.  New submissions will be accepted until 11 October 2020.</p>
 
         <h2 class="mt-5 mb-3">How will it work?</h2>
         <p>The details below are intended to provide required information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid</p>
