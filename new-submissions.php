@@ -18,11 +18,11 @@ include('include/header.php');
             <div class="container">
                 <div class="row py-5">
                     <div class="col">
-                        <h2 class=" mb-3">Call for Abstracts Open until 5 October 2020</h2>
+                        <h2 class=" mb-3">Call for Abstracts Open until 11 October 2020</h2>
 
                         <h3>New Abstract Submissions</h3>
 
-                        <p>COSPAR 2021 are receiving new abstract submission until 5 October 2020.</p>
+                        <p>COSPAR 2021 are receiving new abstract submission until 11 October 2020.</p>
 
                         <p>Before clicking to submit your abstract, please review the Abstract Submission Instructions and Commission Themes below.</p>
 
