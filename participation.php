@@ -38,7 +38,7 @@ include('include/header.php');
                                 <div class="col m-0">
                                     <div class="p-4 p-md-0 pr-md-4">
                                         <h2>Abstracts Reopened</h2>
-                                        The abstract submission is reopened from 16 September 2020 until <strong>5 October 2020</strong>.
+                                        The abstract submission is reopened from 16 September 2020 until <strong>11 October 2020</strong>.
                                     </div>
                                 </div>
                             </div>
