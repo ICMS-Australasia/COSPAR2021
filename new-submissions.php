@@ -41,9 +41,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/r2SbU7Tr24g" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/a.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/a.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission A</h2>
@@ -55,9 +53,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/VlzyVvLRA3s" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/b.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/b.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission B</h2>
@@ -69,9 +65,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/rhVlpUPM1dI" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/c.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/c.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission C</h2>
@@ -83,9 +77,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/KEpCn_GYEXU" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/d.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/d.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission D</h2>
@@ -97,9 +89,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/Y-w6SvQtq2E" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/e.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/e.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission E</h2>
@@ -111,9 +101,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/MNrpvJJa8fk" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/f.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/f.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission F</h2>
@@ -125,9 +113,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/H_YjSTMw9Ls" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/g.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/g.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission G</h2>
@@ -139,9 +125,7 @@ include('include/header.php');
     <div class="col-md-4">
         <div class="video">
             <a href="https://youtu.be/TkbUjh8fr6k" target="_blank" class="player">
-                <img src="abstracts/play.png" class="play">
                 <img src="abstracts/tiles/h.jpg" class="static img-fluid">
-                <img src="abstracts/tiles/h.gif" class="img-fluid">
             </a>
             <div class="text">
                 <h2>Commission H</h2>
