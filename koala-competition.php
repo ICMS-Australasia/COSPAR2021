@@ -44,7 +44,7 @@ include('include/header.php');
                             </div>
                             <div class="col-md-12" id="gallery">
                                 <div class="koalabox">
-                                    <img src="img/koala/yusoff.jpg" width="1200" class="img-fluid" alt="">
+                                    <a href="img/koala/yusoff.jpg" target="_blank"><img src="img/koala/yusoff.jpg/thumbnail" width="1200" class="img-fluid" alt=""></a> 
                                     <p class="description">The Koalas were sent to 20 km altitude using High Altitude Balloon during our experiment for near-space system.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -57,7 +57,7 @@ include('include/header.php');
                             </div>
                             <div class="col-lg-4">
                                 <div class="koalabox">
-                                    <img src="img/koala/chaffee.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/chaffee.jpg" target="_blank"><img src="img/koala/thumbnail/chaffee.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Launching scientific balloons from the desert. The balloon is going to fly all the way across the United States.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -68,7 +68,7 @@ include('include/header.php');
                                         Ethan Chaffee, United States of America</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/morselli.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/morselli.jpg" target="_blank"><img src="img/koala/thumbnail/morselli.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Here is the Cospar Koala in Roma, he is enjoying the nice Vila.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -79,7 +79,7 @@ include('include/header.php');
                                         Aldo Morselli, Italy</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/singh.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/singh.jpg" target="_blank"><img src="img/koala/thumbnail/singh.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">I am a pink daisy Koala!</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -90,12 +90,12 @@ include('include/header.php');
                                         Ananjay Kumar Signh, India</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/gerosa.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/gerosa.jpg" target="_blank"><img src="img/koala/thumbnail/gerosa.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Goodbye Pasadena... I hope will be more koalas in Sydney.</p>
 
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/seto.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/seto.jpg" target="_blank"><img src="img/koala/thumbnail/seto.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Mars rover, mars rover, sending this koala right over.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -106,7 +106,7 @@ include('include/header.php');
                                         Emily, Pui-Yee Seto, USA</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/stiele.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/stiele.jpg" target="_blank"><img src="img/koala/thumbnail/stiele.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Koala visiting this friend the Formosan black bear at Taipei 101 to throw a stargazing party.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -119,7 +119,7 @@ include('include/header.php');
                             </div>
                             <div class="col-lg-4">
                                 <div class="koalabox">
-                                    <img src="img/koala/scully.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/scully.jpg" target="_blank"><img src="img/koala/thumbnail/scully.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">My koala makes some furry friends from the solar system!</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -130,7 +130,7 @@ include('include/header.php');
                                         Jennifer Scully, USA</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/page.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/page.jpg" target="_blank"><img src="img/koala/thumbnail/page.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">This little koala wants to study Gamma-Ray Bursts, the brightest explosions in the Universe since the Big Bang, using the amazing Neil Gehrels Swift Satellite!</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -141,7 +141,7 @@ include('include/header.php');
                                         Kim Page, United Kingdom</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/ksingh.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/ksingh.jpg" target="_blank"><img src="img/koala/thumbnail/ksingh.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">COSPAR 2021 Koala Mascot praying for grand success in Golden Temple, Amritsar.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -152,7 +152,7 @@ include('include/header.php');
                                         Kuldeep Singh, India</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/betz.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/betz.jpg" target="_blank"><img src="img/koala/thumbnail/betz.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">On my way, see you at COSPAR 2021!</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -161,7 +161,7 @@ include('include/header.php');
                                     <p><strong>Entrant:</strong> Laura Betz, USA</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/matthews.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/matthews.jpg" target="_blank"><img src="img/koala/thumbnail/matthews.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">Fly me to the moon -- I want to dance among the stars.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -174,7 +174,7 @@ include('include/header.php');
                             </div>
                             <div class="col-lg-4">
                                 <div class="koalabox">
-                                    <img src="img/koala/schulz.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/schulz.jpg" target="_blank"><img src="img/koala/thumbnail/schulz.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">This Koala made it to the European Space Research and Technology Center. Here, most ESA projects are born and satellites are tested before they are sent into space. Our little friend is especially fascinated by the shaker
                                         tables and the Large Space Simulator.</p>
                                     <p>
@@ -186,21 +186,21 @@ include('include/header.php');
                                         Rita Schulz, The Netherlands</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/lopes.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/lopes.jpg" target="_blank"><img src="img/koala/thumbnail/lopes.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">The Koala on Enceladus.</p>
                                     <p>
                                         <strong>Entrant:</strong>
                                         Rosaly Lopes</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/lopes2.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/lopes2.jpg" target="_blank"><img src="img/koala/thumbnail/lopes2.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">The Koala on Mars.</p>
                                     <p>
                                         <strong>Entrant:</strong>  Rosaly Lopes
                                     </p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/lopes3.jpg" alt="" class="img-fluid">
+                                    <a href="img/koala/lopes3.jpg" target="_blank"><img src="img/koala/thumbnail/lopes3.jpg" alt="" class="img-fluid"></a> 
                                     <p class="description">The Koala on the pool.</p>
                                     <p>
                                         <strong>Location:</strong>
@@ -211,7 +211,7 @@ include('include/header.php');
                                         Rosaly Lopes</p>
                                 </div>
                                 <div class="koalabox">
-                                    <img src="img/koala/maker.png" alt="" class="img-fluid">
+                                    <a href="img/koala/maker.png" target="_blank"><img src="img/koala/thumbnail/maker.png" alt="" class="img-fluid"></a> 
                                     <p class="description">Give me a home among the gum-trees.</p>
                                     <p>
                                         <strong>Location:</strong>
