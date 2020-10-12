@@ -59,10 +59,9 @@ include('include/cospark.php');
         </div>
 
         <div class="embed-responsive embed-responsive-16by9">
-            <video controls poster="img/cospark/video.jpg">
-                <source src="img/cospark/COSPAR-K-Promo-Video2.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-            </video>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vf4uBGQ_oD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
 
 
