@@ -58,12 +58,9 @@ include('include/cospark.php');
           </a>
         </div>
 
-        <div class="embed-responsive embed-responsive-16by9">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vf4uBGQ_oD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>
-
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vf4uBGQ_oD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
 
 
