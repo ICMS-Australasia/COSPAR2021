@@ -19,9 +19,7 @@ include('include/header.php');
           <div class="col-md p-0">
 
             <div class="embed-responsive embed-responsive-16by9">
-              <video controls autoplay muted>
-                <source src="./COSPA_V2.mp4" type="video/mp4">
-              </video>
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jCTS8k91ADk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
           </div>
