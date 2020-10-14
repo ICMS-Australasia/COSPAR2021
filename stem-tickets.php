@@ -43,7 +43,7 @@ include('include/cospark.php');
                       ?>
 
 
-
+                       <p>Bookings for virtual participation will open from mid-November 2020. <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi/Site/Register" target="_blank">Click here to register your Expression of Interest</a> and be the first to know when these are released.</p>
                       <h2>Take Off Dates</h2>
                       <p>Choose from five take off dates and attend the morning or afternoon session. Spots are strictly capped at 150 people per session.</p>
                       <table cellpadding="10" cellspacing="0" border="0" class='w-75 mb-5'>
