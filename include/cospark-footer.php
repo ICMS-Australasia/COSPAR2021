@@ -1,9 +1,9 @@
 <br>
 <!-- EOI -->
-<a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi" target="_blank" class="button-main mb-4 mt-5">
+<!-- <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi" target="_blank" class="button-main mb-4 mt-5">
   <span class="button-head">Join Mission COSPAR-K</span>
   <span class="button-body">Register your interest now and mission updates will come from space, straight into your inbox! <br> <em>Official bookings will open on Monday 5 October 2020</em> </span>
-</a>
+</a> -->
 
 <!-- SOCIALS -->
 <h2 class="mt-5 mb-3 text-center">Transmitting On Socials #COSPARK2021</h2>
