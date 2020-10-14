@@ -36,7 +36,7 @@ if ($home == true) {
                     </div>
                 </div>
             </a>
-            <a href="participation.php" class="col-md-4 pb-5">
+            <!-- <a href="participation.php" class="col-md-4 pb-5">
                 <div class="card">
                     <i class="fas fa-people-arrows circle-icon"></i>
                     <img class="card-img-top" src="img/tiles/participation.jpg">
@@ -95,7 +95,7 @@ if ($home == true) {
                         <p class="card-text">COSPAR-K is a FREE Space STEM Event celebrating science.</p>
                     </div>
                 </div>
-            </a>
+            </a> -->
         </div>
     </div>
 </div>
