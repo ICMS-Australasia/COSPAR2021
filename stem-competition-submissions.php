@@ -21,170 +21,32 @@ include('include/cospark.php');
                       <script type="text/javascript" async>
                         let submissions = [
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           },
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           },
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           },
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           },
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           },
                           {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "name": "Submission",
-                            "date": "Tuesday, 20 October 2020",
+                            "title": "Submission",
                             "img": "https://via.placeholder.com/250x200",
                             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                           }
@@ -192,22 +54,19 @@ include('include/cospark.php');
                         let compiledHtml = ``;
                             compiledHtml = submissions.map((sub, index) =>
                                 `
-                                <a href="#${sub.name}-${index}" data-toggle="modal" target="_blank" class="col-md-3 archive-item">
-                                  <div class="archive-date">
-                                    ${sub.date}
-                                  </div>
+                                <a href="#${sub.title}-${index}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
                                   <div class="archive-image">
-                                    <img src="${sub.img}" class="img-fluid">
+                                    <img src="${sub.img}?text=${sub.title}+${index}" class="img-fluid" width="100%">
                                   </div>
                                   <div class="archive-title">
-                                      ${sub.name} ${index}
+                                      ${sub.title} ${index}
                                   </div>
                                 </a>
-                                <div class="modal fade" id="${sub.name}-${index}">
+                                <div class="modal fade" id="${sub.title}-${index}">
                                   <div class="modal-dialog modal-dialog-centered modal-lg">
                                       <div class="modal-content">
-                                          <img src="https://via.placeholder.com/250x200" class="img-fluid float-right mb-3 ml-3">
-                                          <h2>${sub.name}</h2>
+                                          <img src="${sub.img}?text=${sub.title}+${index}" class="img-fluid float-right mb-3 ml-3">
+                                          <h2>${sub.title} ${index}</h2>
                                           <p>${sub.desc}</p>
                                           <button type="button" class="close" data-dismiss="modal">x</button>
                                       </div>
