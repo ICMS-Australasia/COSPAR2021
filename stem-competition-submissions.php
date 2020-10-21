@@ -84,7 +84,7 @@ include('include/cospark.php');
                         let compiledHtml = ``;
                             compiledHtml = submissions.map((sub, index) =>
                                 `
-                                <a href="#${index}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
+                                <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
                                   <div class="archive-image">
                                     <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%">
                                   </div>
@@ -93,7 +93,7 @@ include('include/cospark.php');
                                   </div>
                                 </a>
                                 <div class="submission-popups">
-                                  <div class="modal fade" id="${index}">
+                                  <div class="modal fade" id="submission-${index}">
                                     <div class="modal-dialog modal-dialog-centered">
                                       <div class="modal-content">
                                         <!-- modal content -->
