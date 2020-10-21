@@ -666,6 +666,41 @@ a.button-secondary {
   }
 }
 
+.submission-popups {
+  .modal-dialog {
+    max-width: 1400px;
+
+    .modal-content {
+      border-radius: 0;
+      border: 0;
+      padding: 0;
+      margin: 0;
+
+      img {
+        border-radius: 0px;
+        margin: 0;
+      }
+      .close {
+        position: absolute;
+        top: 0;
+        right: 3px;
+        font-size: 18px;
+      }
+
+      .pop-title {
+        color: #5b0e5d;
+        font-size: 1.8em;
+        font-weight: bold;
+        line-height: 1.4;
+        margin-bottom: 25px;
+        display: block;
+      }
+
+      .pop-description {}
+    }
+  }
+}
+
 .imagebreak {
   .caption {
     color: #888;

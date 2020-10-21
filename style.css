@@ -539,6 +539,33 @@ a.button-secondary svg {
   margin-bottom: 0 !important;
 }
 
+.submission-popups .modal-dialog {
+  max-width: 1400px;
+}
+.submission-popups .modal-dialog .modal-content {
+  border-radius: 0;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+.submission-popups .modal-dialog .modal-content img {
+  border-radius: 0px;
+  margin: 0;
+}
+.submission-popups .modal-dialog .modal-content .close {
+  position: absolute;
+  top: 0;
+  right: 3px;
+  font-size: 18px;
+}
+.submission-popups .modal-dialog .modal-content .pop-title {
+  color: #5b0e5d;
+  font-size: 1.8em;
+  font-weight: bold;
+  line-height: 1.4;
+  margin-bottom: 25px;
+  display: block;
+}
 .imagebreak .caption {
   color: #888;
   display: none;

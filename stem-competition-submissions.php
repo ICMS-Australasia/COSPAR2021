@@ -21,55 +21,52 @@ include('include/cospark.php');
                       <script type="text/javascript" async>
                         let submissions = [
                           {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "title": "John",
+                            "img": "https://via.placeholder.com/1200x800",
+                            "desc": "John's Description"
                           },
                           {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "title": "David",
+                            "img": "https://via.placeholder.com/1200x800",
+                            "desc": "David's Description"
                           },
                           {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                          },
-                          {
-                            "title": "Submission",
-                            "img": "https://via.placeholder.com/250x200",
-                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "title": "Robert",
+                            "img": "https://via.placeholder.com/1200x800",
+                            "desc": "Robert's Description"
                           }
                         ];
                         let compiledHtml = ``;
                             compiledHtml = submissions.map((sub, index) =>
                                 `
-                                <a href="#${sub.title}-${index}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
+                                <a href="#${sub.title}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
                                   <div class="archive-image">
-                                    <img src="${sub.img}?text=${sub.title}+${index}" class="img-fluid" width="100%">
+                                    <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%">
                                   </div>
                                   <div class="archive-title">
                                       ${sub.title} ${index}
                                   </div>
                                 </a>
-                                <div class="modal fade" id="${sub.title}-${index}">
-                                  <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="submission-popups">
+                                  <div class="modal fade" id="${sub.title}">
+                                    <div class="modal-dialog modal-dialog-centered">
                                       <div class="modal-content">
-                                          <img src="${sub.img}?text=${sub.title}+${index}" class="img-fluid float-right mb-3 ml-3">
-                                          <h2>${sub.title} ${index}</h2>
-                                          <p>${sub.desc}</p>
-                                          <button type="button" class="close" data-dismiss="modal">x</button>
+                                        <!-- modal content -->
+                                        <div class="row p-0 m-0">
+                                          <div class="col-md p-0 m-0">
+                                            <img src="${sub.img}" class="img-fluid">
+                                          </div>
+                                          <div class="col-md-3 p-5 m-0 d-flex align-items-center">
+                                            <div>
+                                              <a type="button" class="close" data-dismiss="modal">&times;</a>
+                                              <span class="pop-title">${sub.title}</span>
+                                              <p class="pop-description">${sub.desc}</p>
+                                            </div>
+                                          </div>
+                                        </div>
                                       </div>
+                                      <!-- end modal content -->
+                                    </div>
                                   </div>
                                 </div>
                                 `
