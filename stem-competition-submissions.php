@@ -89,7 +89,7 @@ include('include/cospark.php');
                                     <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%">
                                   </div>
                                   <div class="archive-title">
-                                      ${sub.title} ${index}
+                                      ${sub.title}
                                   </div>
                                 </a>
                                 <div class="submission-popups">
