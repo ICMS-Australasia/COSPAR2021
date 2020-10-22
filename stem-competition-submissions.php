@@ -62,7 +62,7 @@ include('include/cospark.php');
                           },
                           {
                             "title": "Dylan, Year 3",
-                            "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/aaeae67339854effa1050d04391234e9",
+                            "img": "./img/cospark/dylan.jpg",
                             "desc": "The kangaroo had to feed her babies and she left milk out and that made the Milky Way.\n \n This is my own work."
                           },
                           {
