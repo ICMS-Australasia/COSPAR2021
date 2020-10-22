@@ -11,7 +11,12 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">COSPAR-K Paint the Sky Competition</h1>
+                      <h1 class="mt-3 mb-5">COSPAR-K Paint the Sky Competition</h1>
+                      <a href="./stem-competition-submissions" target="_blank" class="button-secondary mb-4 mt-5">
+                          <span class="button-head">Paint the Sky Student Art Gallery</span>
+                          <span class="button-body">Click here to view all competition submissions</span>
+                      </a>
+
                       <h2>Theme & Activity</h2>
                       <h3>Paint the Sky - A Lesson in Ancient Aboriginal Astronomy</h3>
                       <p>This Space Week, 4-10 October 2020, COSPAR-K is encouraging students to explore the ancient ways Aboriginal Australians observed the solar system to better understand and manage our precious natural resources.</p>
@@ -136,7 +141,7 @@ include('include/cospark.php');
                                     <li>Entries must be original artwork (no copyrighted material) and meet the brief</li>
                                     <li>The art medium/format must be one of the following: drawing, painting, mixed media or digital. 3D digital artwork or sculptures will not be accepted</li>
                                     <li>Only electronic copies will be accepted (jpeg, png or PDF)</li>
-                                    <li>The representation must be submitted as a high resolution photograph (jpeg or png) or a high quality file (PDF), that can be printed as an A3 size. Minimum resolution 2400 x 2400 pixels. Max 5MB</li>
+                                    <li>The representation must be submitted as a high resolution photograph (jpeg or png), that can be printed as an A3 size. Minimum resolution 2400 x 2400 pixels. Max 5MB</li>
                                     <li>Your submission can be in either portrait or landscape format</li>
                                     <li>All submission must be respectful and comply with the NSW Department of Education Standards</li>
                                     <li>Entries will need to be submitted via the official submission form</li>

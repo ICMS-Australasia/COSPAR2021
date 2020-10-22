@@ -557,6 +557,7 @@ a.button-secondary svg {
 .submission-popups .modal-dialog .modal-content img {
   border-radius: 0px;
   margin: 0;
+  width: 100%;
 }
 .submission-popups .modal-dialog .modal-content .close {
   position: absolute;
