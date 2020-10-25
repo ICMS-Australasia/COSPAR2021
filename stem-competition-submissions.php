@@ -33,7 +33,7 @@ include('include/cospark.php');
                         ).join(``);
                         document.getElementById('submission-buttons').innerHTML = btns;
                       </script>
-                      <script type="text/javascript" async>
+                      <script type="text/javascript">
                         function pagination(e) {
                           let compiledHtml = ``;
                               compiledHtml = pageArr[e.innerHTML-1].map((sub, index) =>
