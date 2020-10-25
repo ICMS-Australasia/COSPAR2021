@@ -23,8 +23,8 @@ include('include/cospark.php');
                       <script type="text/javascript" src="./competition-submissions.js"></script>
                       <script type="text/javascript">
                         let pageArr = [];
-                        for (let i = 0; i < submissions.length; i += 30) {
-                          pageArr.push(submissions.slice(i, i + 30));
+                        for (let i = 0; i < submissions.length; i += 60) {
+                          pageArr.push(submissions.slice(i, i + 60));
                         }
 
                         let btns = ``;
@@ -40,7 +40,7 @@ include('include/cospark.php');
                                   `
                                   <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-12 col-sm-4 col-md-2 archive-item">
                                     <div class="archive-image">
-                                      <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%">
+                                      <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%" loading="lazy">
                                     </div>
                                     <div class="archive-title">
                                         ${sub.title}
@@ -53,7 +53,7 @@ include('include/cospark.php');
                                           <!-- modal content -->
                                           <div class="row p-0 m-0">
                                             <div class="col-md p-0 m-0">
-                                              <img src="${sub.img}" class="img-fluid">
+                                              <img src="${sub.img}" class="img-fluid" loading="lazy">
                                             </div>
                                             <div class="col-md-3 p-5 m-0 d-flex align-items-center">
                                               <div>
