@@ -1,12 +1,19 @@
 let latestNews = {
    "items":[
       {
-         "title":"Edition #13: Title: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
+         "title":"Edition #14: Introducing 3 Superstar Keynote Speakers!",
          "type":"Email",
-         "image":"19.jpg",
-         "date":"Tuesday, 6 October 2020",
-         "link":"https://mailchi.mp/276d2a6782f3/3-2-1-blast-off-bookings-for-mission-cospar-k-are-go"
+         "image":"20.jpg",
+         "date":"Tuesday, 21 October 2020",
+         "link":"https://mailchi.mp/08b6a2748c1a/introducing-3-superstar-keynote-speakers"
       },
+      {
+         "title":"Edition #13: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
+         "type":"Email",
+         "image":"19.jpg",
+         "date":"Tuesday, 6 October 2020",
+         "link":"https://mailchi.mp/276d2a6782f3/3-2-1-blast-off-bookings-for-mission-cospar-k-are-go"
+      },
       {
          "title":"Edition #12: 2020 NSW Young Australian of the Year & Founder of Deadly Science Confirmed for COSPAR-K!",
          "type":"Email",
