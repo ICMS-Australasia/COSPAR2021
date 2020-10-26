@@ -965,7 +965,24 @@ a.button-secondary {
       background: #841068;
     }
   }
+  #submission-buttons {
+    button {
+      background: #841068;
+      color: white;
+      font-weight: bold;
+      border: none;
+      transition: background-color 0.3s ease-in-out;
+      &:hover {
+        background-color: #491865;
+      }
+    }
+    .active {
+      background: #491865 !important;
+      transform: scale(1.1);
+    }
+  }
 }
+
 
 .animation {
   background: linear-gradient(to bottom, #00003a, #ea038c);
