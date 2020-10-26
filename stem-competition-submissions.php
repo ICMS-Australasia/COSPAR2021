@@ -8,7 +8,7 @@ include('include/cospark.php');
         <div class="content">
             <div class="container">
                 <div class="row py-5">
-                    <div class="col stem-page">
+                    <div class="col stem-page" id="top">
                       <h1 class="mt-3 mb-5">Paint the Sky Student Art Gallery</h1>
                       <h2>Click each Artwork to view a description by the artist</h2>
 
@@ -67,7 +67,7 @@ include('include/cospark.php');
 
                         let btns = ``;
                         btns = pageArr.map((page, index) =>
-                          `<button type="button" name="button${index+1}" id="button${index+1}" class='col mx-2 p-3' onclick="pagination(this)">${index+1}</button>`
+                          `<button type="button" name="button${index+1}" id="button${index+1}" class='col mx-2 p-3' onclick="pagination(this); location.href='#top'">${index+1}</button>`
                         ).join(``);
                         document.getElementById('submission-buttons').innerHTML = btns;
 
@@ -75,7 +75,7 @@ include('include/cospark.php');
                           document.getElementById('submissions').innerHTML = pageArr[e.innerHTML-1];
                           document.querySelectorAll(`button`).forEach(b => { b.classList.remove(`active`); } );
                           e.classList.add(`active`);
-
+                          window.scrollTo(0, 0);
                         }
 
                         pagination(document.getElementById("button1"));
