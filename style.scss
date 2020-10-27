@@ -1228,3 +1228,41 @@ a.button-secondary {
     }
   }
 }
+
+
+.presenter-info{
+
+  h4{
+    font-size: 1.4em;
+    margin-bottom: 1em;
+    line-height: 1.5;
+    font-weight: bold;
+    color: #0c4da2;
+  }
+
+  .presenter-cards{
+    a{
+      font-size: 1.4em;
+      margin-bottom: 1em;
+      line-height: 1.5;
+      font-weight: bold;
+      color: white;
+      img{
+        width: 100%;
+        height: auto;
+      }
+      div{
+        background: #142453;
+        padding: 1em;
+      }
+      &:hover{
+        color: white;
+        div{
+          background: #0c4da2;
+        }
+      }
+    }
+  }
+
+
+}
