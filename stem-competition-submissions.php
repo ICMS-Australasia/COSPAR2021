@@ -13,9 +13,7 @@ include('include/cospark.php');
                       <h2>Click each Artwork to view a description by the artist</h2>
 
 
-                      <div class="stem-news mt-5">
-                        <div class="row mb-4" id="submissions">
-                        </div>
+                      <div class="stem-news mt-5" id="submissions">
                       </div>
                       <div class="row" id="submission-buttons"></div>
 
@@ -58,12 +56,22 @@ include('include/cospark.php');
                         );
 
 
-                        let pageArr = [];
                         //Create groups of submissions
+                        let pageArr = [];
                         for (let i = 0; i < submissions.length; i += 60) {
                           pageArr.push(submissions.slice(i, i + 60));
                         }
                         pageArr = pageArr.map(p => p.join(``));
+                        pageArr.forEach((p, index) => {
+                          document.getElementById(`submissions`).innerHTML +=
+                            `
+                              <div id="page-${index}" class="page">
+                                <div class="row mb-4">
+                                  ${p}
+                                </div>
+                              </div>
+                            `
+                        });
 
                         let btns = ``;
                         btns = pageArr.map((page, index) =>
@@ -72,7 +80,9 @@ include('include/cospark.php');
                         document.getElementById('submission-buttons').innerHTML = btns;
 
                         function pagination(e) {
-                          document.getElementById('submissions').innerHTML = pageArr[e.innerHTML-1];
+                          document.querySelectorAll(`div.page`).forEach(b => { b.classList.add(`d-none`); b.classList.remove(`d-block`); } );
+                          document.getElementById(`page-${e.innerHTML-1}`).classList.add(`d-block`);
+                          document.getElementById(`page-${e.innerHTML-1}`).classList.remove(`d-none`);
                           document.querySelectorAll(`button`).forEach(b => { b.classList.remove(`active`); } );
                           e.classList.add(`active`);
                           window.scrollTo(0, 0);
