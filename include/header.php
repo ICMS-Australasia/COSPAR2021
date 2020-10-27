@@ -102,7 +102,7 @@
 
                                                 <a class="dropdown-item" href="accommodation.php">Accommodation</a>
                                                 <a class="dropdown-item" href="social-functions.php">Social Functions</a>
-                                                <a class="dropdown-item" href="visa-information.php">Visa Information</a>
+                                                <!-- <a class="dropdown-item" href="visa-information.php">Visa Information</a> -->
 												<a class="dropdown-item" href="media-centre.php">Media Centre</a>
                                                 <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
                                                 <a class="dropdown-item" href="faqs.php">FAQs</a>
@@ -119,7 +119,7 @@
                                                 <a class="dropdown-item" href="program.php">Program Overview</a>
                                                 <a class="dropdown-item" href="speakers.php">Speakers</a>
                                                 <a class="dropdown-item" href="cross-disciplinary-workshops.php">Cross-disciplinary Workshops</a>
-                                                <a class="dropdown-item" href="koala-competition.php">Koala Competition</a>
+                                                <!-- <a class="dropdown-item" href="koala-competition.php">Koala Competition</a> -->
                                             </div>
                                         </li>
                                         <li class="nav-item">
@@ -143,7 +143,7 @@
                                                 <a class="dropdown-item" href="visa-information.php">Visa Information</a>
                                             </div>
                                         </li>
-                                        <li class="nav-item dropdown">
+                                        <!-- <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                 Sydney
                                                 <i class="far fa-angle-down"></i>
@@ -153,7 +153,7 @@
                                                 <a class="dropdown-item" href="dining-on-a-budget.php">Dining on a budget</a>
                                                 <a class="dropdown-item" href="just-outside-sydney.php">Just outside Sydney</a>
                                             </div>
-                                        </li>
+                                        </li> -->
                                         <li class="nav-item">
                                             <a class="nav-link cospark-link" href="stem#cospark"><img src="img/cospark/menu-cospark.png" width="15">COSPAR-K</a>
                                         </li>

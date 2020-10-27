@@ -78,24 +78,24 @@ include('include/header.php');
                         <td><strong>350m</strong></td>
                         <td><strong>$235</strong></td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <td><strong><a href="#novotelds">Novotel Darling Square</a></strong></td>
                         <td><strong>4</strong></td>
                         <td><strong>850m</strong></td>
                         <td><strong>$229</strong></td>
-                    </tr>
-                    <tr class="grey">
+                    </tr> -->
+                    <!-- <tr class="grey">
                         <td><strong><a href="#ibisws">Ibis World Square</a></strong></td>
                         <td><strong>3</strong></td>
                         <td><strong>1km</strong></td>
                         <td><strong>$195</strong></td>
-                    </tr>
-                    <tr>
+                    </tr> -->
+                    <!-- <tr>
                         <td><strong><a href="#mecure">Mercure Sydney Central</a></strong></td>
                         <td><strong>4</strong></td>
                         <td><strong>1.1km</strong></td>
                         <td><strong>$199</strong></td>
-                    </tr>
+                    </tr> -->
                     <tr class="grey">
                         <td><strong><a href="#mantra">Mantra Sydney Central (previously known as Breakfree on George) </a></strong></td>
                         <td><strong>4</strong></td>
@@ -114,18 +114,18 @@ include('include/header.php');
                         <td><strong>750m</strong></td>
                         <td><strong>$219</strong></td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <td><strong><a href="#travelodge">Travelodge Hotel Sydney</a></strong></td>
                         <td><strong>3.5</strong></td>
                         <td><strong>1.3km</strong></td>
                         <td><strong>$175</strong></td>
-                    </tr>
-                    <tr class="grey">
+                    </tr> -->
+                    <!-- <tr class="grey">
                         <td><strong><a href="#madmonkey">Mad Monkey Backpacker - Coogee</a></strong></td>
                         <td><strong>3</strong></td>
                         <td><strong>11.2km</strong></td>
                         <td><strong>$50</strong></td>
-                    </tr>
+                    </tr> -->
 
                     <!-- <tr class="grey">
                         <td>
@@ -398,7 +398,7 @@ include('include/header.php');
                         </div>
                       </div>
                       <!-- Novotel Darling Square -->
-                      <div class="row mt-5" id="novotelds">
+                      <!-- <div class="row mt-5" id="novotelds">
                         <div class="col-md">
                           <h2>Novotel Darling Square</h2>
                           <h3>17 Little Pier St, Darling Harbour NSW 2000</h3>
@@ -427,9 +427,9 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d1656.2538177737297!2d151.1998535!3d-33.8765778!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12ae24cb693bd5%3A0x273df447b4ae5560!2s17+Little+Pier+St%2C+Haymarket+NSW+2000!3m2!1d-33.877389799999996!2d151.20273129999998!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC+Sydney%2C+14+Darling+Dr%2C+Sydney+NSW+2000!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1565153507443!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
-                      </div>
+                      </div> -->
                       <!-- Ibis World Square -->
-                      <div class="row mt-5" id="ibisws">
+                      <!-- <div class="row mt-5" id="ibisws">
                         <div class="col-md">
                           <h2>Ibis World Square</h2>
                           <h3>382/384 Pitt Street, NSW 2000</h3>
@@ -459,9 +459,9 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d3312.4981490800387!2d151.2013492!3d-33.8768222!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12ae3d25751465%3A0x3929a8eba0c6dfaa!2sibis%20Sydney%20World%20Square%2C%20382%2F384%20Pitt%20St%2C%20Sydney%20NSW%202000!3m2!1d-33.8777785!2d151.2076815!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC%20Sydney%20Convention%20Centre%2C%20Darling%20Drive%2C%20Sydney%20NSW!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1567557999393!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                         </div>
-                      </div>
+                      </div> -->
                       <!-- Mercure Sydney -->
-                      <div class="row mt-5" id="mecure">
+                      <!-- <div class="row mt-5" id="mecure">
                         <div class="col-md">
                           <h2>Mercure Sydney Central</h2>
                           <h3>818-820 George St, Chippendale NSW 2007</h3>
@@ -490,9 +490,9 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d6624.759498961777!2d151.1972808!3d-33.8798724!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12ae26af4a6d51%3A0x620efc7a296a8e03!2sMercure+Sydney%2C+George+Street%2C+Chippendale+NSW!3m2!1d-33.884265299999996!2d151.2029995!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC+Sydney%2C+14+Darling+Dr%2C+Sydney+NSW+2000!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1565153570176!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
-                      </div>
+                      </div> -->
                       <!-- Mantra Sydney Central (previously known as Breakfree on George)  -->
-                      <div class="row mt-5" id="mantra">
+                      <!-- <div class="row mt-5" id="mantra">
                         <div class="col-md">
                           <h2>Mantra Sydney Central (previously known as Breakfree on George) </h2>
                           <h3>653 George Street, Sydney NSW 2000</h3>
@@ -522,7 +522,7 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d3312.4693554968208!2d151.1999829!3d-33.877564!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12ae234333b62b%3A0xc844b6c169480cc0!2sBreakFree+on+George%2C+653+George+St%2C+Sydney+NSW+2000!3m2!1d-33.8790896!2d151.20516039999998!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC+Sydney%2C+14+Darling+Dr%2C+Sydney+NSW+2000!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1566541136956!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
-                      </div>
+                      </div> -->
                       <!-- Metro Aspire -->
                       <div class="row mt-5" id="metro">
                         <div class="col-md">
@@ -586,7 +586,7 @@ include('include/header.php');
                         </div>
                       </div>
                       <!-- Travelodge Sydney -->
-                      <div class="row mt-5" id="travelodge">
+                      <!-- <div class="row mt-5" id="travelodge">
                         <div class="col-md">
                           <h2>Travelodge Hotel Sydney</h2>
                           <h3>27-33 Wentworth Avenue, NSW 2010</h3>
@@ -616,9 +616,9 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d6624.977193131298!2d151.2007888!3d-33.8770683!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12ae17e79b15d3%3A0xa5dd22c6611bb016!2s27-33+Wentworth+Avenue!3m2!1d-33.878174!2d151.2108203!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC+Sydney%2C+14+Darling+Dr%2C+Sydney+NSW+2000!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1566541273669!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
-                      </div>
+                      </div> -->
                       <!-- Mad Monkey Coogee Beach -->
-                      <div class="row mt-5" id="madmonkey">
+                      <!-- <div class="row mt-5" id="madmonkey">
                         <div class="col-md">
                           <h2>Mad Monkey Backpacker - Coogee</h2>
                           <h3>186 Arden St, Coogee NSW 2034</h3>
@@ -648,7 +648,7 @@ include('include/header.php');
                           <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d52987.94836045248!2d151.19339005732397!3d-33.896174995911764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x6b12b215343078a9%3A0xc65efd3aef6141fc!2sMad+Monkey+Hostel%2C+Coogee+Beach%2C+Sydney%2C+Australia%2C+186+Arden+St%2C+Coogee+NSW+2034!3m2!1d-33.9202456!2d151.2565687!4m5!1s0x6b12ae38ab9a3ff3%3A0x19fc67061ce45a9!2sICC+Sydney%2C+14+Darling+Dr%2C+Sydney+NSW+2000!3m2!1d-33.8754639!2d151.1998094!5e0!3m2!1sen!2sau!4v1565153688799!5m2!1sen!2sau"
                             width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
 
 

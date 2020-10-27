@@ -202,24 +202,24 @@ if ($home == true or $title == 'Venue') {
                         <h4 class="mb-3">Participation</h4>
                         <a href="registration.php">Registration</a>
                         <a href="program.php">Program Overview</a>
-                         <a href="speakers.php">Speakers</a>
-                          <a href="preliminary-program.php">Preliminary Program</a>
-                        <a href="koala-competition.php">Koala Competition</a>
+                        <a href="speakers.php">Speakers</a>
+                        <a href="preliminary-program.php">Preliminary Program</a>
+                        <!-- <a href="koala-competition.php">Koala Competition</a> -->
                         <a href="accommodation.php">Accommodation</a>
-                        <a href="visa-information.php">Visa information</a>
+                        <!-- <a href="visa-information.php">Visa information</a> -->
                         <a href="sponsorship-and-exhibition.php">Sponsorship & Exhibition</a>
                     </div>
                     <div class="col-md-12 mb-2">
                         <h4 class="mb-3">Destination</h4>
                         <a href="venue.php">Venue</a>
-                        <a href="around-australia.php">Around Australia</a>
-                        <a href="just-outside-sydney.php">Just outside Sydney</a>
+                        <!-- <a href="around-australia.php">Around Australia</a> -->
+                        <!-- <a href="just-outside-sydney.php">Just outside Sydney</a> -->
                         <a href="helpful-information.php">Helpful Information</a>
                     </div>
                     <div class="col-md-12 mb-2">
                         <h4 class="mb-3">Things to see & do</h4>
-                        <a href="must-dos-in-sydney.php">Must do's in Sydney</a>
-                        <a href="dining-on-a-budget.php">Dining on a budget</a>
+                        <!-- <a href="must-dos-in-sydney.php">Must do's in Sydney</a> -->
+                        <!-- <a href="dining-on-a-budget.php">Dining on a budget</a> -->
                         <a href="observatories.php">Observatories</a>
                         <a href="stem.php">STEM COSPAR 2021</a>
                     </div>
