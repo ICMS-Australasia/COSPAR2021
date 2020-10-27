@@ -47,12 +47,12 @@
                             <a href="https://www.cospar-assembly.org/" target="_blank">cospar-assembly.org</a>
                             <a href="https://icmsaust.eventsair.com/cospar-2021/expressionofinterest" target="_blank">Join the mailing list</a>
                             <a href="contact-us.php">Contact us</a>
-                            <!--a href="#" target="_blank" class="nounderline">
+                            <a href="https://www.facebook.com/CommitteeOnSpaceResearch/" target="_blank" class="nounderline">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a href="#" target="_blank" class="nounderline">
+                            <a href="https://twitter.com/cosparhq" target="_blank" class="nounderline">
                                 <i class="fab fa-twitter"></i>
-                            </a-->
+                            </a>
                         </div>
                     </div>
                 </div>
