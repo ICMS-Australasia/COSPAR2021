@@ -778,6 +778,20 @@ a.button-secondary svg {
 .stem-page .button-secondary:hover {
   background: #841068;
 }
+.stem-page #submission-buttons button {
+  background: #841068;
+  color: white;
+  font-weight: bold;
+  border: none;
+  transition: background-color 0.3s ease-in-out;
+}
+.stem-page #submission-buttons button:hover {
+  background-color: #491865;
+}
+.stem-page #submission-buttons .active {
+  background: #491865 !important;
+  transform: scale(1.1);
+}
 
 .animation {
   background: linear-gradient(to bottom, #00003a, #ea038c);
