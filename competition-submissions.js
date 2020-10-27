@@ -1,6 +1,141 @@
 let submissions =
 [
   {
+    "title": "Alara, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/3c1c0f210664487d9a54a2486e8e4d66",
+    "desc": "My artwork is of the Milky Way. For my artwork I used a paintbrush, toothbrush and sticks."
+  },
+  {
+    "title": "Ananya, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/72f46b742b7747d5a2fe56e707e89e5d",
+    "desc": "This artwork was inspired by the Seven Sisters. According to the Dreamtime story, these Seven Sisters are chased into the sky every night by a man who wants to marry one of them."
+  },
+  {
+    "title": "Archie, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/7752f92933984e4cb353a8398d0fbd74",
+    "desc": "My painting has many colours like white, black and purple. It also has many shades of blue. It has millions of little stars and a colourful galaxy. The artwork is of the Milky Way."
+  },
+  {
+    "title": "Bellany, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/e43b6ef637464232ae983950bda477fe",
+    "desc": "My artwork is about the 7 Sisters, adding a twist of myself by placing the sisters in a rainbow order."
+  },
+  {
+    "title": "Ceyda, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/1460f64be7bf4ee9955dac68be1b78f8",
+    "desc": "My artwork is of the Sun and Moon story. I have also painted the Aboriginal Flag. I used my fingers, toothbrush and sticks to create my artwork."
+  },
+  {
+    "title": "Charlotte, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/90cd4f3f923d44daa61784a2957f7fbb",
+    "desc": "My artwork is the Seven Sisters. The Seven Sisters are the planets and the background means day and night mixed together. I used a paintbrush, a toothbrush and the end of the toothbrush. The colours I used are black for the background. Light and dark blue for the day and night splashes also pink and purple for the planets as well as white dots everywhere."
+  },
+  {
+    "title": "Christian, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/613b60ed442f4dfc8cb6bb8f3b424b6c",
+    "desc": "My artwork is of the Milky Way and the Sun. For my artwork I used a paintbrush, toothbrush and sticks."
+  },
+  {
+    "title": "Connor, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/f154f6b42ed84d97b56c2d33cfdcdf08",
+    "desc": "My artwork is of an Aboriginal galaxy. The artwork has a moon, stars and everything a constellation has."
+  },
+  {
+    "title": "Hawin, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/602cf57ab33d42299455e799d35ec54b",
+    "desc": "My artwork is about the Sven Sisters. To make my artwork I used a variety of different types of twigs and brushes. The background is made up of the colours, black, blue and purple. The stars are made up of yellow, pink, purple and white. And the seven Sisters each have their own individual colours."
+  },
+  {
+    "title": "Jaaniya, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/83cb07da5a314afa95d3dbed7fa2af95",
+    "desc": "My artwork tells the story of the brothers who went fishing. I have used many colours in my art. There is a moon and many small stars also I have tried to blend the colours."
+  },
+  {
+    "title": "Jake, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6372a3bbda2141d297681429dccd1865",
+    "desc": "This artwork is about the Three Brothers story. Thy symbol is in the bottom right corner of my artwork."
+  },
+  {
+    "title": "Javier, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/cbc7c7ace6744cb4b962fa9a87d21ab5",
+    "desc": "My artwork is an emu and it's six eggs. It tells you when it's a good time to go hunting for emu eggs. The yellow represents the egg yolk being splattered on the emu and it's other eggs. My art work is called Emu In the Sky."
+  },
+  {
+    "title": "Jayden, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/54359268acab4ac085662fe3b80ceee0",
+    "desc": "My artwork is about the story of the stars."
+  },
+  {
+    "title": "Joash, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/b169eb651f8446a1aa4fc3bafac28c09",
+    "desc": "My artwork has a black space, sky that I painted with acrylic paint. In the middle is a spiral rim of the Milky Way. I used a toothbrush to do the stars. At the top and bottom are nebula clouds and other unique space colours which, I painted using watercolours. The artwork represents an Aboriginal story about when Aboriginal pass away. They are taken away on a canoe to the edge of the Milky Way and it is there that they watch us down below, this is why I painted the Milky Way."
+  },
+  {
+    "title": "Kaidao, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6a748fdbb3f24db3bc986059a8627348",
+    "desc": "What I did for art is about the Seven Sisters. All the sisters are on the right side of the painting running away from a man Orion who followed in the night sky."
+  },
+  {
+    "title": "Lacey, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/a9b079b3d6934564b4fef0bc954ea653",
+    "desc": "My artwork focuses on the Seven Sisters from the Aboriginal Dreamtime story. It has a black whole on the left side of the artwork which, is showing a new galaxy and the dots surrounding the artwork are the stars that draw show the Aboriginal people and their stories."
+  },
+  {
+    "title": "Lani, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/97aa1ccdd349478ca6f1abdbbacf1dba",
+    "desc": "My artwork tells the story of the Seven Sisters. I painted my artwork using a toothbrush and sticks."
+  },
+  {
+    "title": "Leith, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/1f07ee495e8243cc84b04cdb5efb37bc",
+    "desc": "My artwork is about the Milky Way and the Seven Sisters from the Aboriginal Dreamtime story."
+  },
+  {
+    "title": "Louise, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6734539263f744dfb037cd721960558c",
+    "desc": "My Artwork is a recreation of the Seven Sisters and the Man that chased them into the sky."
+  },
+  {
+    "title": "Penelope, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/5470ee7e6dd64237b6f07f8587d60f7d",
+    "desc": "My artwork is about the emu egg harvesting season. I used sticks to paint dots, and re vibrant oil pastels for our Indigenous red soil."
+  },
+  {
+    "title": "Rohaan, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/47b1ee9987ed42d29c1b4b1d71281e0b",
+    "desc": "My artwork is about the boat in the sky and how the spirits go into the boat when they pass away. There are also two lines of star dust and multiple stars. I painted this with paint, a paintbrush, leaves and a toothbrush."
+  },
+  {
+    "title": "Ryan, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/8e38c6e464964b4dba5d36416e7628e6",
+    "desc": "My artwork is my imagination of the stary night. The dotted line that goes across my page is the Milky Way."
+  },
+  {
+    "title": "Samuel, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/7f50e0daf8df4eec8496b357c101ebc6",
+    "desc": "My artwork is a representation of the Aboriginal Dreamtime story of the Seven Sisters. I used sticks, paintbrushes and toothbrushes."
+  },
+  {
+    "title": "Subal, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/83fc6f8c90cb44f8a0627d6e8b5630fe",
+    "desc": "My artwork is about the Three Brothers which, went to space in a canoe. The white dots in my artwork are the stars and the big white dot in the corner is the moon. I drew some of the stars with sticks."
+  },
+  {
+    "title": "Tarika, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6570857efb3e43d8823080802c2c7b35",
+    "desc": "My artwork represents the Seven Sisters. The surrounding is full of different coloured stars, the colours include white, pink, red and yellow. The sky\n Is three different colours which, are blended together. It starts with black then gradually goes to blue then purple."
+  },
+  {
+    "title": "Tiara, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/0426d3ed07ba456c97d747784ad2cf1e",
+    "desc": "My artwork is of the Seven Sisters displayed on a sky full of millions of small stars. The dots on the top right corner are the sisters. The grey land shows the horizon and the clouds of colours show our galaxy."
+  },
+  {
+    "title": "Zaviah, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/b8c56e03e272403cac368583250cc1d3",
+    "desc": "My artwork is about the galaxy’s and the canoe. I used a paintbrush, a toothbrush and a twig to pain it."
+  },
+  {
     "title": "Aida, Year 4",
     "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/f3c1f6dd69424623be21da19e95f9de0",
     "desc": "My artwork is based on the Three Sisters of the Katoomba tribe and how they used the night sky and stars to help them reverse to curse placed upon them."
@@ -2021,66 +2156,6 @@ let submissions =
     "desc": "This is an original artwork by Zoe, of the Emu in The Sky constellation. It shows the Emu with its eggs, which helped Aboriginal people know when it is time to collect eggs. The Aurora Australis added a stunning bit of colour after the pale dark rest of the picture."
   },
   {
-    "title": "Alara, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/3c1c0f210664487d9a54a2486e8e4d66",
-    "desc": "My artwork is of the Milky Way. For my artwork I used a paintbrush, toothbrush and sticks."
-  },
-  {
-    "title": "Ananya, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/031f34b058b047f3a8cb5a58073ae5c4",
-    "desc": "This artwork was inspired by the Seven Sisters. According to the Dreamtime story, these Seven Sisters are chased into the sky every night by a man who wants to marry one of them."
-  },
-  {
-    "title": "Bellany, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/e43b6ef637464232ae983950bda477fe",
-    "desc": "My artwork is about the 7 Sisters, adding a twist of myself by placing the sisters in a rainbow order."
-  },
-  {
-    "title": "Ceyda, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/1460f64be7bf4ee9955dac68be1b78f8",
-    "desc": "My artwork is of the Sun and Moon story. I have also painted the Aboriginal Flag. I used my fingers, toothbrush and sticks to create my artwork."
-  },
-  {
-    "title": "Charlotte, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/90cd4f3f923d44daa61784a2957f7fbb",
-    "desc": "My artwork is the Seven Sisters. The Seven Sisters are the planets and the background means day and night mixed together. I used a paintbrush, a toothbrush and the end of the toothbrush. The colours I used are black for the background. Light and dark blue for the day and night splashes also pink and purple for the planets as well as white dots everywhere."
-  },
-  {
-    "title": "Christian, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/613b60ed442f4dfc8cb6bb8f3b424b6c",
-    "desc": "My artwork is of the Milky Way and the Sun. For my artwork I used a paintbrush, toothbrush and sticks."
-  },
-  {
-    "title": "Javier, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/cbc7c7ace6744cb4b962fa9a87d21ab5",
-    "desc": "My artwork is an emu and it's six eggs. It tells you when it's a good time to go hunting for emu eggs. The yellow represents the egg yolk being splattered on the emu and it's other eggs. My art work is called Emu In the Sky."
-  },
-  {
-    "title": "Lacey, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/a9b079b3d6934564b4fef0bc954ea653",
-    "desc": "My artwork focuses on the Seven Sisters from the Aboriginal Dreamtime story. It has a black whole on the left side of the artwork which, is showing a new galaxy and the dots surrounding the artwork are the stars that draw show the Aboriginal people and their stories."
-  },
-  {
-    "title": "Lani, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/f394c52e8a1a4d9d8725bb93b0ce3328",
-    "desc": "My artwork tells the story of the Seven Sisters. I painted my artwork using a toothbrush and sticks."
-  },
-  {
-    "title": "Louise, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6734539263f744dfb037cd721960558c",
-    "desc": "My Artwork is a recreation of the Seven Sisters and the Man that chased them into the sky."
-  },
-  {
-    "title": "Penelope, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/5470ee7e6dd64237b6f07f8587d60f7d",
-    "desc": "My artwork is about the emu egg harvesting season. I used sticks to paint dots, and re vibrant oil pastels for our Indigenous red soil."
-  },
-  {
-    "title": "Rohaan, Year 6",
-    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/47b1ee9987ed42d29c1b4b1d71281e0b",
-    "desc": "My artwork is about the boat in the sky and how the spirits go into the boat when they pass away. There are also two lines of star dust and multiple stars. I painted this with paint, a paintbrush, leaves and a toothbrush."
-  },
-  {
     "title": "Aaron, Year 4",
     "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/f2f647b035ae404e9ec01057e1e21fab",
     "desc": "My name is Aaron and this is my artwork. I used dark paint colours to show the night sky. I drew the seven sisters and the emu in the sky, which are Aboriginal Astrology symbols."
@@ -4090,4 +4165,4 @@ let submissions =
     "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/267d946bb84a4e89a350f35d26812fc1",
     "desc": "Rory enjoys looking at pictures of space. Supported by Rory’s aide, this artwork is inspired by our solar system."
   }
-]
+];
