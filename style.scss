@@ -1236,20 +1236,20 @@ a.button-secondary {
   }
 }
 
-.presenter-pdf{
-
+.presenter-pdf {
   color: #142453;
   font-weight: bold;
   text-decoration: underline;
-  img{
+
+  img {
     padding-right: 20px;
     width: 85px;
     height: auto;
   }
-&:hover{
-  color: #0c4da2;
-}
 
+  &:hover {
+    color: #0c4da2;
+  }
 }
 
 .presenter-info {
@@ -1266,6 +1266,17 @@ a.button-secondary {
     height: 35px;
     border: solid 1px #666;
   }
+
+  .fa-check-circle{
+    color: #40B040;
+    margin-right: 5px;
+  }
+
+  .fa-times-circle{
+    color: #cc0000;
+    margin-right: 5px;
+  }
+
 
   ol {
     margin: 0 0 1.5em 1em;
@@ -1291,16 +1302,16 @@ a.button-secondary {
     content: counter(item) ".";
   }
 
-  .table{
-    td{
+  .table {
+    td {
       padding: 2em;
       text-align: left;
     }
-    ul{
-      padding-left: 01em;
-  }
-}
 
+    ul {
+      padding-left: 1em;
+    }
+  }
 
   .presenter-cards {
     a {

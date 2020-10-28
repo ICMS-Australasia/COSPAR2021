@@ -803,6 +803,12 @@ a.button-secondary {
   width: 35px;
   height: 35px;
   border: solid 1px #666; }
+.presenter-info .fa-check-circle {
+  color: #40B040;
+  margin-right: 5px; }
+.presenter-info .fa-times-circle {
+  color: #cc0000;
+  margin-right: 5px; }
 .presenter-info ol {
   margin: 0 0 1.5em 1em;
   padding: 0;
@@ -825,7 +831,7 @@ a.button-secondary {
   padding: 2em;
   text-align: left; }
 .presenter-info .table ul {
-  padding-left: 01em; }
+  padding-left: 1em; }
 .presenter-info .presenter-cards a {
   font-size: 1.4em;
   margin-bottom: 1em;

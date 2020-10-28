@@ -8,9 +8,9 @@ include('include/header.php');
     <div class="row py-5">
       <div class="col py-4">
         <h1><?php echo $title; ?></h1>
-        <div class="sub">
+        <!--div class="sub">
           <a href="#" target="_blank" class="presenter-pdf"><img src="https://via.placeholder.com/100x125" alt="">Download <?php echo $title; ?> PDF (64kb)</a>
-        </div>
+        </div-->
       </div>
     </div>
   </div>
@@ -178,7 +178,7 @@ include('include/header.php');
   <li>Speaker photo (high resolution min 300dpi) and biography ( 100 words)</li>
   <li>ZARM Abstract acceptance letter</li>
   <li>Abstract (in word) or transcript</li>
-  <li>Pre-recorded short video presentation – 3, 4.5 or 6 minutes</li>
+  <li>Pre-recorded short video presentation – 3 or 6 minutes</li>
   <li>Full length pre-recorded video presentation – as per confirmed timings of program</li>
   <li>PowerPoint presentation file (slides)</li>
 </ol>
@@ -203,7 +203,7 @@ include('include/header.php');
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM Abstract acceptance letter</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in word) or transcript</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation – 3, 4.5 or 6 minutes (Video uploaded to YouTube)</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation – 3 or 6 minutes (Video uploaded to YouTube)</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Transcript for pre-prepared presentations in Word document</div>
   <div class="d-flex align-items-center mb-3 mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation – as per confirmed timings of program</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides)</div>
