@@ -437,7 +437,7 @@ a.button-secondary {
     padding: 0;
     margin: 0; }
     .submission-popups .modal-dialog .modal-content img {
-      border-radius: 0px;
+      border-radius: 0;
       margin: 0;
       width: 100%; }
     .submission-popups .modal-dialog .modal-content .close {
@@ -782,12 +782,50 @@ a.button-secondary {
     opacity: 0; }
   100% {
     opacity: 100; } }
+.presenter-pdf {
+  color: #142453;
+  font-weight: bold;
+  text-decoration: underline; }
+  .presenter-pdf img {
+    padding-right: 20px;
+    width: 85px;
+    height: auto; }
+  .presenter-pdf:hover {
+    color: #0c4da2; }
+
 .presenter-info h4 {
   font-size: 1.4em;
   margin-bottom: 1em;
   line-height: 1.5;
   font-weight: bold;
   color: #0c4da2; }
+.presenter-info .box {
+  width: 35px;
+  height: 35px;
+  border: solid 1px #666; }
+.presenter-info ol {
+  margin: 0 0 1.5em 1em;
+  padding: 0;
+  counter-reset: item; }
+.presenter-info ol > li {
+  margin: 0 0 0.5em;
+  padding: 0 0 0 2em;
+  text-indent: -2em;
+  list-style-type: none;
+  counter-increment: item; }
+.presenter-info ol > li:before {
+  display: inline-block;
+  width: 2em;
+  padding-right: 0.5em;
+  font-weight: bold;
+  text-align: right;
+  color: #142453;
+  content: counter(item) "."; }
+.presenter-info .table td {
+  padding: 2em;
+  text-align: left; }
+.presenter-info .table ul {
+  padding-left: 01em; }
 .presenter-info .presenter-cards a {
   font-size: 1.4em;
   margin-bottom: 1em;

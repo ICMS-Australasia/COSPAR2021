@@ -669,8 +669,8 @@ a.button-secondary {
 #submissions {
   .archive-image {
     img {
-      width:100%;
-      height:150px;
+      width: 100%;
+      height: 150px;
       object-fit: cover;
     }
   }
@@ -687,10 +687,11 @@ a.button-secondary {
       margin: 0;
 
       img {
-        border-radius: 0px;
+        border-radius: 0;
         margin: 0;
-        width:100%;
+        width: 100%;
       }
+
       .close {
         position: absolute;
         top: 0;
@@ -965,6 +966,7 @@ a.button-secondary {
       background: #841068;
     }
   }
+
   #submission-buttons {
     button {
       background: #841068;
@@ -972,17 +974,18 @@ a.button-secondary {
       font-weight: bold;
       border: none;
       transition: background-color 0.3s ease-in-out;
+
       &:hover {
         background-color: #491865;
       }
     }
+
     .active {
       background: #491865 !important;
       transform: scale(1.1);
     }
   }
 }
-
 
 .animation {
   background: linear-gradient(to bottom, #00003a, #ea038c);
@@ -1024,6 +1027,7 @@ a.button-secondary {
   }
 }
 // stem menu
+
 .stem-menu {
   text-align: center;
 
@@ -1040,6 +1044,7 @@ a.button-secondary {
   }
 }
 // stem card
+
 .stem-cards {
   a {
     color: white;
@@ -1068,6 +1073,7 @@ a.button-secondary {
   }
 }
 // stem news
+
 .stem-news {
   .archive-item {
     margin-bottom: 25px;
@@ -1197,6 +1203,7 @@ a.button-secondary {
   }
 }
 //home animation
+
 .home-animation {
   position: relative;
 
@@ -1229,10 +1236,24 @@ a.button-secondary {
   }
 }
 
+.presenter-pdf{
 
-.presenter-info{
+  color: #142453;
+  font-weight: bold;
+  text-decoration: underline;
+  img{
+    padding-right: 20px;
+    width: 85px;
+    height: auto;
+  }
+&:hover{
+  color: #0c4da2;
+}
 
-  h4{
+}
+
+.presenter-info {
+  h4 {
     font-size: 1.4em;
     margin-bottom: 1em;
     line-height: 1.5;
@@ -1240,29 +1261,72 @@ a.button-secondary {
     color: #0c4da2;
   }
 
-  .presenter-cards{
-    a{
+  .box {
+    width: 35px;
+    height: 35px;
+    border: solid 1px #666;
+  }
+
+  ol {
+    margin: 0 0 1.5em 1em;
+    padding: 0;
+    counter-reset: item;
+  }
+
+  ol > li {
+    margin: 0 0 0.5em;
+    padding: 0 0 0 2em;
+    text-indent: -2em;
+    list-style-type: none;
+    counter-increment: item;
+  }
+
+  ol > li:before {
+    display: inline-block;
+    width: 2em;
+    padding-right: 0.5em;
+    font-weight: bold;
+    text-align: right;
+    color: #142453;
+    content: counter(item) ".";
+  }
+
+  .table{
+    td{
+      padding: 2em;
+      text-align: left;
+    }
+    ul{
+      padding-left: 01em;
+  }
+}
+
+
+  .presenter-cards {
+    a {
       font-size: 1.4em;
       margin-bottom: 1em;
       line-height: 1.5;
       font-weight: bold;
       color: white;
-      img{
+
+      img {
         width: 100%;
         height: auto;
       }
-      div{
+
+      div {
         background: #142453;
         padding: 1em;
       }
-      &:hover{
+
+      &:hover {
         color: white;
-        div{
+
+        div {
           background: #0c4da2;
         }
       }
     }
   }
-
-
 }

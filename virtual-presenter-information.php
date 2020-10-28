@@ -45,22 +45,11 @@ include('include/header.php');
       </div>
       <div class="col-md-3">
         <div class="row presenter-cards">
-          <a href="#" class="col-md-12">
-            <img src="https://via.placeholder.com/300x200" alt="">
-            <div>Pre-recorded presentation guidelines</div>
-          </a>
-          <a href="#" class="col-md-12">
-            <img src="https://via.placeholder.com/300x200" alt="">
-            <div>Framing, lighting and recording guidelines</div>
-          </a>
-          <a href="#" class="col-md-12">
-            <img src="https://via.placeholder.com/300x200" alt="">
-            <div>System configuration requirements</div>
-          </a>
-          <a href="#" class="col-md-12">
-            <img src="https://via.placeholder.com/300x200" alt="">
-            <div>Technical support</div>
-          </a>
+
+          <?php
+          include('include/presenter-cards.php');
+          ?>
+
         </div>
       </div>
     </div>
