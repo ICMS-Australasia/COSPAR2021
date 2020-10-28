@@ -75,36 +75,7 @@ include('include/cospark.php');
                       <p>We’re excited to announce our latest awesome activity at COSPAR-K, the UNSW Canberra Satellite Mission!</p>
                       <p>Design your very own mission and build the right satellite for it. Let your imagination run free and decide what your mission objectives are. Whether it’s looking for water on Mars, setting up a communications relay around the Moon or even monitoring bush fire behaviour on Earth. Any mission is possible; the challenge will be to configure the right satellite for the job.</p>
 
-                      <hr class="my-5">
-
-                      <div class="row mt-5 mb-3 align-items-end">
-                          <div class="col">
-                              <h2 class="mb-0">Mars Yard</h2>
-                          </div>
-                          <div class="col">
-                              <img src="./img/cospark/unsw.png" width="100" class="float-right">
-                          </div>
-                      </div>
-                      <div class="row my-4">
-                          <div class="col-md-4 mb-3 mb-md-0">
-                              <img src="img/cospark/mars-yard-1.jpg" class="img-fluid">
-                          </div>
-                          <div class="col-md-4 mb-3 mb-md-0">
-                              <img src="img/cospark/mars-yard-2.jpg" class="img-fluid">
-                          </div>
-                          <div class="col-md-4 mb-3 mb-md-0">
-                              <img src="img/cospark/mars-yard-3.jpg" class="img-fluid">
-                          </div>
-                      </div>
-                      <p>Our Mars Yard will be a recreation of the former Mars Lab at the Powerhouse Museum in Sydney. Brought to you by the team from UNSW, participants will get to program Mars Rovers to navigate across our custom designed Mars landscape in search for evidence of life. This activation will be facilitated by our resident NASA Scientist, Dr Adrian Brown, Deputy Program Scientist for the Mars 2020 Rover Mission.</p>
-                      <p>For a taste of what you can expect, check out this video.</p>
-
-                      <div class="embed-responsive embed-responsive-16by9">
-                          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CKBVt6je2SA" allowfullscreen></iframe>
-                      </div>
-
-                      <hr class="my-5">
-
+                      <hr class="my-5">
 
                       <div class="row mt-5 mb-3 d-flex align-items-end">
                           <div class="col">
