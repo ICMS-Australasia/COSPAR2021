@@ -18,7 +18,7 @@ include('include/header.php');
         <div class="middle">
             <div class="container" style="max-width: 1300px !important;">
                 <div class="row pt-5 pb-4">
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <a href="must-dos-in-sydney.php" class="box mb-4">
                             <div class="row align-items-center">
                                 <div class="col-md-5"><img src="img/things/must.jpg" alt="" class="img-fluid"></div>
@@ -30,8 +30,8 @@ include('include/header.php');
                                 </div>
                             </div>
                         </a>
-                    </div>
-                    <div class="col-md-6">
+                    </div> -->
+                    <!-- <div class="col-md-6">
                         <a href="dining-on-a-budget.php" class="box mb-4">
                             <div class="row align-items-center">
                                 <div class="col-md-5"><img src="img/things/dining.jpg" alt="" class="img-fluid"></div>
@@ -43,7 +43,7 @@ include('include/header.php');
                                 </div>
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="col-md-6">
                         <a href="observatories.php" class="box mb-4">
                             <div class="row align-items-center">

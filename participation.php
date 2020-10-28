@@ -84,7 +84,7 @@ include('include/header.php');
                                 </div>
                             </a>
                         </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <a href="koala-competition.php" class="box mb-4">
                             <div class="row align-items-center">
                                 <div class="col-md-5"><img src="img/participation/koala.jpg" alt="" class="img-fluid"></div>
@@ -96,7 +96,7 @@ include('include/header.php');
                                 </div>
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="col-md-6">
                         <a href="accommodation.php" class="box mb-4">
                             <div class="row align-items-center">
@@ -110,7 +110,7 @@ include('include/header.php');
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <a href="visa-information.php" class="box mb-4">
                             <div class="row align-items-center">
                                 <div class="col-md-5"><img src="img/participation/visa.jpg" alt="" class="img-fluid"></div>
@@ -122,7 +122,7 @@ include('include/header.php');
                                 </div>
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="col-md-6">
                         <a href="sponsorship-and-exhibition.php" class="box mb-4">
                             <div class="row align-items-center">
