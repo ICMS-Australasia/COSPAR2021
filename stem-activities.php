@@ -12,7 +12,7 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Activities & Partners</h1>
-                      <div class="row mt-5 mb-3 align-items-end">
+                      <!-- <div class="row mt-5 mb-3 align-items-end">
                           <div class="col">
                               <h2 class="mb-0">Monash Nova Rover</h2>
                           </div>
@@ -51,7 +51,7 @@ include('include/cospark.php');
                       <p>Have you ever wondered if there are aliens on other planets? In this workshop, you’ll learn what tools scientists use when looking for alien worlds. You'll use a NASA JPL planet simulator to explore how planet and star characteristics affect the planetary conditions needed for life. You will also learn about planets that break these rules, and how scientists search for “life as we don't know it”. There are two options for this workshop, you can either do this workshop in your own time, or in a seminar led by two astrobiologists, where you get to ask them all your questions about the search for aliens!</p>
                       <p>For a taste of what to expect, check out this video: <a href="https://www.youtube.com/watch?v=vzvBURvuiJs" target="_blank">https://www.youtube.com/watch?v=vzvBURvuiJs</a></p>
 
-                      <hr class="my-5">
+                      <hr class="my-5"> -->
 
                       <div class="row mt-5 mb-3 align-items-end">
                           <div class="col">
