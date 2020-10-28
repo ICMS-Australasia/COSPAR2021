@@ -80,20 +80,23 @@ include('include/header.php');
             <p><i class="fas fa-times-circle"></i> Low camera angles are not flattering. This angle will distort your facial features and cast a shadow on your image; above all is not particularly comfortable.</p>
           </div>
           <div class="col-md-6">
-            <img src="https://via.placeholder.com/600x400" class="img-fluid">
+            <img src="img/presenter-position.jpg" class="img-fluid">
             <div class="caption mb-4">
                	<i class="fas fa-check-circle"></i> Here is an example of how to raise your device to eyelevel to get the perfect shot
             </div>
-
-            <img src="https://via.placeholder.com/600x400" class="img-fluid">
+            <img src="img/presenter-positionbad.jpg" class="img-fluid">
             <div class="caption mb-4">
-               	<i class="fas fa-times-circle"></i> Low camera angles are not flattering.
+               	<i class="fas fa-times-circle"></i> Low camera angles are not flattering
             </div>
           </div>
         </div>
 
+        <p>
+          <img src="img/presenter-webcam.jpg" class="img-fluid">
+        </p>
 
-        <div class="row icon align-items-center">
+
+        <div class="row icon align-items-center mt-4 pt-2">
           <div class="icon-image col-md-1">
             <div class="icon-number">3</div>
           </div>

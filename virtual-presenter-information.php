@@ -32,7 +32,7 @@ include('include/header.php');
           beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes, and keywords, to registered delegates only.</p>
         <h2 class="mt-5 mb-3">When will the final program be available</h2>
         <p>For the overall program and details of your Scientific event, please consult the Assembly website at: <a href="https://www.cospar-assembly.org" target="_blank">https://www.cospar-assembly.org</a>.</p>
-        <p>With the latest call for abstracts now closed and under review, the final program will be available to view by 31 October.</p>
+        <p>With the latest call for abstracts now closed and under review, the final program will be available to view after 31 October.</p>
         <h2 class="mt-5 mb-3">Time zones</h2>
         <p>The program schedule is designed to deliver the full program across global time zones. Each pre-recorded presentation will be scheduled to play twice.</p>
         <p>The program for each day will be concentrated into a three-hour block early in the Australian/Asian day (suitable for the American time zones), and repeated again at the end of the Australian/Asian day and into the evening (suitable for

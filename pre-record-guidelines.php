@@ -47,7 +47,7 @@ include('include/header.php');
 </div>
 
 
-<p>Depending on the method you choose to record you should have a PowerPoint or video presentation to accompany your presentation. Please check the Framing, Lighting, and Design Guidelines for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
+<p>Depending on the method you choose to record you should have a PowerPoint or video presentation to accompany your presentation. Please check the Framing, Lighting, and Recording Guidelines for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
@@ -117,21 +117,14 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
 
-<h3>Uploading your pre-recorded presentation</h3>
-
-<p>When your video presentation is finished, please upload it to YouTube as an ‘Unlisted’ video (meaning the video can only be accessed with the private link).</p>
-
-<p><a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">Here are written instructions for uploading to YouTube</a></p>
-<p><a href="https://youtu.be/6C4dEpT0rYg" target="_blank">Here are video instructions for uploading to YouTube</a></p>
-<p><a href="https://youtubedownload.minitool.com/youtube/unlisted-youtube-videos.html" target="_blank">Here are instructions to locate your video’s private link</a></p>
-
 <h3>Dropbox System Requirements</h3>
 
 <p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file, and drag it to your Dropbox folder.</p>
 
+
 <h3>To sign up for a Dropbox account:</h3>
 
-<p>Once you have completed the video upload to YouTube, please upload your files to Dropbox.  This will allow our team to have access to all the presenter documents and files in one location.</p>
+<p>Once you have completed both your video pre-recordings (short summary and contributed/solicited talk), please upload your files to Dropbox.  This will allow our team to have access to all the presenter documents and files in one location.</p>
 
 <p>Instructions on how to create an account on dropbox can be found on dropbox.com.</p>
 
@@ -145,9 +138,11 @@ include('include/header.php');
 
 <p>Once you create an account, you can upload files to your Dropbox account.  Copy the URL ready to upload in the Presenters’ portal.</p>
 
+
 <h3>Captioning your pre-recorded presentation</h3>
 
-<p>It is important that all pre-recorded videos are captioned – please ensure you have read the ‘COSPAR-2021-HYBRID Framing, Lighting and Design Guidelines’ document for detailed instructions on automatic captions. YouTube automatically captions videos and you can edit the script for accuracy. Please allow time to ensure your captions are working and accurate in your video before sending.</p>
+<p>It is important that all pre-recorded videos are captioned – please ensure you have read the ‘<a href="framing-lighting-and-recording-guidelines">COSPAR-2021-HYBRID Framing, Lighting and Recording Guidelines</a>’ document for detailed instructions on automatic captions. YouTube automatically captions videos and you can edit the script for accuracy. Please allow time to ensure your captions are working and accurate in your video before sending.</p>
+
 
 <h3>File Naming Protocols</h3>
 <p>So that we can synchronise the correct video files with the confirmed COSPAR-2021-Hybrid Event Schedule, all pre-recorded videos will need to follow the File Naming Protocols below :
@@ -161,12 +156,14 @@ include('include/header.php');
 
 <p>For example,</p>
 <ul>
-  <li>Date of presentation: 28 January 2021</li>
+  <li>Date of presentation: SatC2.1</li>
   <li>COSPARid:  D2.2-3</li>
-  <li>Presenter Name:  Smith</li>
+  <li>Presenter Name:  JaneDoeFullPrerecordedVideo
+</li>
 </ul>
 
-<p>The file name should look like this: 28JAN D2.2-3 SMITH</p>
+<p>The file name should look like this: SatC2.1COSPARIDJaneDoeFullPrerecordedVideo</p>
+
 
 <h3>Multiple Presentations</h3>
 <p>If you have more than one presentation to prepare, please create separate sub-folders in your Drop box to allow us to easily identify each virtual presentation.</p>
@@ -182,6 +179,20 @@ include('include/header.php');
   <li>Full length pre-recorded video presentation – as per confirmed timings of program</li>
   <li>PowerPoint presentation file (slides)</li>
 </ol>
+
+
+<h3>Uploading your pre-recorded presentation</h3>
+
+<h3>Contributed or Solicited Talks only</h3>
+
+<p>When you contributed/solicited talk has been recorded, please upload it to YouTube as an ‘Unlisted’ video (meaning the video can only be accessed with the private link).</p>
+
+<p><a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">Here are written instructions for uploading to YouTube</a></p>
+<p><a href="https://youtu.be/6C4dEpT0rYg" target="_blank">Here are video instructions for uploading to YouTube</a></p>
+<p><a href="https://youtubedownload.minitool.com/youtube/unlisted-youtube-videos.html" target="_blank">Here are instructions to locate your video’s private link</a></p>
+
+
+
 
 <h2 class="mt-5 mb-3">Terms and Conditions</h2>
 
@@ -208,12 +219,6 @@ include('include/header.php');
   <div class="d-flex align-items-center mb-3 mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation – as per confirmed timings of program</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides)</div>
 </div>
-
-
-
-
-
-
 
 <h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>
 
