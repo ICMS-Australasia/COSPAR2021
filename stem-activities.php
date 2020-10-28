@@ -49,9 +49,9 @@ include('include/cospark.php');
                           </div>
                       </div>
                       <p>Have you ever wondered if there are aliens on other planets? In this workshop, you’ll learn what tools scientists use when looking for alien worlds. You'll use a NASA JPL planet simulator to explore how planet and star characteristics affect the planetary conditions needed for life. You will also learn about planets that break these rules, and how scientists search for “life as we don't know it”. There are two options for this workshop, you can either do this workshop in your own time, or in a seminar led by two astrobiologists, where you get to ask them all your questions about the search for aliens!</p>
-                      <p>For a taste of what to expect, check out this video:</p>
+                      <p>For a taste of what to expect, check out this video: </p>
                       <div class="embed-responsive embed-responsive-16by9">
-                          <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=vzvBURvuiJs" allowfullscreen></iframe>
+                          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vzvBURvuiJs" allowfullscreen></iframe>
                       </div>
 
                       <hr class="my-5">
