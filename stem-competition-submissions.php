@@ -18,7 +18,7 @@ include('include/cospark.php');
 
                         </div>
                       </div>
-                      <div class="row" id="submission-buttons"></div>
+                      <div class="row mt-5" id="submission-buttons"></div>
 
                       <!-- JSON file of all submissions -->
                       <script type="text/javascript" src="./competition-submissions.js"></script>
