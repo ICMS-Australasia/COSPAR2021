@@ -128,7 +128,7 @@ include('include/header.php');
             </td>
             <td>
               <ul>
-                <li>Framing, lighting and design guidelines</li>
+                <li>Framing, lighting and recording guidelines</li>
                 <li>Platform Requirements: Hardware and Operations System Configurations for Attendees </li>
               </ul>
             </td>

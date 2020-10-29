@@ -15,7 +15,7 @@
   </a>
 
   <a href="system-configuration-requirements" class="col-md-12 <?php if ( $title == "System configuration requirements" ) { ?>d-none<?php } ?>">
-    <img src="img/presenter-tile5.jpg" alt="">
+    <img src="img/presenter-tile6.jpg" alt="">
     <div>System configuration requirements</div>
   </a>
 
