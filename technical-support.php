@@ -91,7 +91,7 @@ include('include/header.php');
               <strong>Registration deadline</strong>
             </td>
             <td>
-              30 November 2020
+              30 November 2020 for discounted early-bird presenter rate
             </td>
           </tr>
           <tr>

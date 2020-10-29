@@ -33,10 +33,8 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Decide how you want to record your presentation</h2></div>
 </div>
 
-
-
-<p>We suggest using Zoom or any other video conferencing software that will enable video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
-<p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you could record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
+<p>We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
+<p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you may record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
 
 
 <div class="row icon align-items-center">
@@ -46,8 +44,7 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare your presentation content</h2></div>
 </div>
 
-
-<p>Depending on the method you choose to record you should have a PowerPoint or video presentation to accompany your presentation. Please check the Framing, Lighting and Recording Guidelines for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
+<p>Select your method of recording depending on whether you have a PowerPoint or video component to your presentation Please check the <a href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a> for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
@@ -59,8 +56,8 @@ include('include/header.php');
 <h3>Prior to recording your presentation, we suggest the following;</h3>
 
 <ul>
-  <li><strong>Use headphones with a microphone attachment or ensure your webcam sound is clear</strong> – it is imperative that the audio of your presentation is clear and sufficiently loud. Please use a pair of headphones that also have a microphone attachment to plug into your laptop (if they are wireless please make sure they are fully charged). Ensure the microphone on your headphones is not touching your collar, hair, jewellery etc as this can impair your audio.</li>
-  <li><strong>Restart Your Computer</strong> – this refreshes your computer and ensures no programs are running in the background. Please close any programs that may open automatically and connect to the internet (Skype, Dropbox, Spotify etc).</li>
+  <li><strong>Use headphones with a microphone attachment or ensure your webcam sound is clear</strong> – it is imperative that the audio of your presentation is clear and sufficiently loud. Please use a pair of headphones that also have a microphone attachment to plug into your laptop (if they are wireless please make sure they are fully charged). Ensure the microphone on your headphones is not touching your collar, hair, jewellery, etc. as this can impair your audio.</li>
+  <li><strong>Restart Your Computer</strong> – this refreshes your computer and ensures no programs are running in the background. Please close any programs that may open automatically and connect to the internet (Skype, Dropbox, Spotify, etc.) to ensure they do not connect to the internet.</li>
   <li><strong>Strong Connection</strong> – to ensure your connection is stable for the session, make sure no one else on your network is partaking in high internet usage activities e.g. Zoom, Netflix, gaming – if unavoidable, please try hot spotting from your mobile device. The data download is minimal and will ensure your connection is more stable.</li>
 </ul>
 
@@ -92,21 +89,21 @@ include('include/header.php');
   <div class="icon-image col-md-1">
     <div class="icon-number">4</div>
   </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record both your presentations keeping to your allocated program schedule time</h2></div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record both your presentations (short summary and full versions) keeping to your allocated program schedule time</h2></div>
 </div>
 
 <table class="table">
   <tr>
     <td>15-minute contributed talk</td>
-    <td>3 minutes</td>
+    <td>3 minute short summary</td>
   </tr>
   <tr>
     <td>20-minute solicited talk</td>
-    <td>3 minutes</td>
+    <td>3 minute short summary</td>
   </tr>
   <tr>
     <td>30-minute solicited review talk</td>
-    <td>6 minutes</td>
+    <td>6 minutes short summary</td>
   </tr>
 </table>
 
@@ -126,7 +123,7 @@ include('include/header.php');
 
 <p>Once you have completed both your video pre-recordings (short summary and contributed/solicited talk), please upload your files to Dropbox.  This will allow our team to have access to all the presenter documents and files in one location.</p>
 
-<p>Instructions on how to create an account on dropbox can be found on dropbox.com.</p>
+<p>Instructions on how to create an account on Dropbox can be found on <a href="https://www.dropbox.com/" target="_blank">dropbox.com</a>.</p>
 
 <ol>
   <li>Create an account on <a href="https://www.dropbox.com/" target="_blank">dropbox.com</a>.</li>
@@ -156,13 +153,14 @@ include('include/header.php');
 
 <p>For example,</p>
 <ul>
-  <li>Date of presentation: SatC2.1</li>
-  <li>COSPARid:  D2.2-3</li>
+  <li>Date of presentation: Tues2Feb</li>
+  <li>COSPAR 2021 scientific event number (COSPARid): A3.1-6-21 </li>
+  <li>Room: E3.4</li>
   <li>Presenter Name:  JaneDoeFullPrerecordedVideo
 </li>
 </ul>
 
-<p>The file name should look like this: SatC2.1COSPARIDJaneDoeFullPrerecordedVideo</p>
+<p>The file name should look like this: Tues2Feb A3.1-6-21 E3.4 JaneDoeFullPrerecordedVideo</p>
 
 
 <h3>Multiple Presentations</h3>
@@ -173,7 +171,7 @@ include('include/header.php');
 
 <ol>
   <li>Speaker photo (high resolution min 300dpi) and biography ( 100 words)</li>
-  <li>ZARM Abstract acceptance letter</li>
+  <li>Abstract acceptance letter</li>
   <li>Abstract (in word) or transcript</li>
   <li>Pre-recorded short video presentation – 3 or 6 minutes</li>
   <li>Full length pre-recorded video presentation – as per confirmed timings of program</li>
@@ -214,9 +212,9 @@ include('include/header.php');
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM Abstract acceptance letter</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in word) or transcript</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation – 3 or 6 minutes (Video uploaded to YouTube)</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation – 3 or 6 minutes</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Transcript for pre-prepared presentations in Word document</div>
-  <div class="d-flex align-items-center mb-3 mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation – as per confirmed timings of program</div>
+  <div class="d-flex align-items-center mb-3 mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation – as per confirmed timings of program (Video uploaded to YouTube)</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides)</div>
 </div>
 
