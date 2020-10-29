@@ -144,7 +144,7 @@
                                         <li class="nav-item">
                                             <a class="nav-link" href="venue.php">Venue</a>
                                         </li>
-                                        <li class="nav-item dropdown">
+                                        <!--li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                 Australia
                                                 <i class="far fa-angle-down"></i>
@@ -155,7 +155,7 @@
                                                 <a class="dropdown-item" href="helpful-information.php">Helpful Information</a>
                                                 <a class="dropdown-item" href="visa-information.php">Visa Information</a>
                                             </div>
-                                        </li>
+                                        </li-->
                                         <!-- <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                 Sydney
