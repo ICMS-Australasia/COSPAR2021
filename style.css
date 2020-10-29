@@ -429,6 +429,9 @@ a.button-secondary {
   height: 150px;
   object-fit: cover; }
 
+a.active {
+  background: #491865; }
+
 .submission-popups .modal-dialog {
   max-width: 1400px; }
   .submission-popups .modal-dialog .modal-content {
@@ -617,17 +620,18 @@ a.button-secondary {
     margin-bottom: 10px; }
   .stem-page .button-secondary:hover {
     background: #841068; }
-.stem-page #submission-buttons button {
+.stem-page #submission-buttons a {
   background: #841068;
   color: white;
   font-weight: bold;
+  font-size: 1.2em;
   border: none;
+  text-decoration: none;
   transition: background-color 0.3s ease-in-out; }
-  .stem-page #submission-buttons button:hover {
+  .stem-page #submission-buttons a:hover {
     background-color: #491865; }
 .stem-page #submission-buttons .active {
-  background: #491865 !important;
-  transform: scale(1.1); }
+  background: #491865; }
 
 .animation {
   background: linear-gradient(to bottom, #00003a, #ea038c); }
@@ -785,10 +789,11 @@ a.button-secondary {
 .presenter-pdf {
   color: #142453;
   font-weight: bold;
-  text-decoration: underline; }
+  text-decoration: underline;
+  padding-left: 25px; }
   .presenter-pdf img {
     padding-right: 20px;
-    width: 85px;
+    width: 75px;
     height: auto; }
   .presenter-pdf:hover {
     color: #0c4da2; }

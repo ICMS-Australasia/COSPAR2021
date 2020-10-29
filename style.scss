@@ -676,6 +676,11 @@ a.button-secondary {
   }
 }
 
+
+
+a.active {
+  background: #491865;
+}
 .submission-popups {
   .modal-dialog {
     max-width: 1400px;
@@ -968,21 +973,20 @@ a.button-secondary {
   }
 
   #submission-buttons {
-    button {
+    a {
       background: #841068;
       color: white;
       font-weight: bold;
+      font-size: 1.2em;
       border: none;
+      text-decoration: none;
       transition: background-color 0.3s ease-in-out;
-
       &:hover {
         background-color: #491865;
       }
     }
-
     .active {
-      background: #491865 !important;
-      transform: scale(1.1);
+      background: #491865;
     }
   }
 }
@@ -1240,10 +1244,11 @@ a.button-secondary {
   color: #142453;
   font-weight: bold;
   text-decoration: underline;
+  padding-left: 25px;
 
   img {
     padding-right: 20px;
-    width: 85px;
+    width: 75px;
     height: auto;
   }
 
