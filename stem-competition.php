@@ -12,7 +12,7 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">COSPAR-K Paint the Sky Competition</h1>
-                      <a href="./stem-competition-submissions" class="button-secondary mb-4 mt-5">
+                      <a href="./stem-competition-submissions.php?page=1" class="button-secondary mb-4 mt-5">
                           <span class="button-head">Paint the Sky Student Art Gallery</span>
                           <span class="button-body">Click here to view all competition submissions</span>
                       </a>
