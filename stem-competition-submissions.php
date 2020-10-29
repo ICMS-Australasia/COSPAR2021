@@ -38,7 +38,7 @@ include('include/cospark.php');
                       <!-- Creating the buttons for the pages -->
                       <script type="text/javascript" src="./pagination.js"></script>
 
-                      <script type="text/javascript">
+                      <script type="text/javascript" async>
                       let compiledHTML = pageArr[pageNum-1].map((sub, index) =>
                         `
                         <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-4 col-sm-4 col-md-2 archive-item">
