@@ -13,47 +13,70 @@ include('include/cospark.php');
                       <h2>Click each Artwork to view a description by the artist</h2>
 
 
-                      <div class="stem-news mt-5" id="submissions">
+                      <div class="stem-news mt-5">
+                        <div class="row" id="submissions">
+
+                        </div>
                       </div>
                       <div class="row" id="submission-buttons"></div>
 
+                      <!-- JSON file of all submissions -->
                       <script type="text/javascript" src="./competition-submissions.js"></script>
+                      <!-- Splitting up the array into chuncks -->
+                      <script type="text/javascript">
+                        let pageArr = [];
+                        for (let i = 0; i < submissions.length; i += 24) {
+                          pageArr.push(submissions.slice(i, i + 24));
+                        }
+                        //Grabbing queries
+                        let queries = window.location.search;
+                        let parameters = new URLSearchParams(queries);
+
+                        //Assigning page query to variable
+                        let pageNum = parseInt(parameters.get('page'));
+                      </script>
+                      <!-- Creating the buttons for the pages -->
                       <script type="text/javascript" src="./pagination.js"></script>
 
                       <script type="text/javascript">
+                      let compiledHTML = pageArr[pageNum-1].map((sub, index) =>
+                        `
+                        <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-4 col-sm-4 col-md-2 archive-item">
+                          <div class="archive-image">
+                            <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%" loading="lazy">
+                          </div>
+                          <div class="archive-title">
+                              ${sub.title}
+                          </div>
+                        </a>
+                        <div class="submission-popups">
+                          <div class="modal fade" id="submission-${index}">
+                            <div class="modal-dialog modal-dialog-centered">
+                              <div class="modal-content">
+                                <!-- modal content -->
+                                <div class="row p-0 m-0">
+                                  <div class="col-md p-0 m-0">
+                                    <img src="${sub.img}" class="img-fluid" loading="lazy">
+                                  </div>
+                                  <div class="col-md-3 p-5 m-0 d-flex align-items-center">
+                                    <div>
+                                      <a type="button" class="close" data-dismiss="modal">&times;</a>
+                                      <span class="pop-title">${sub.title}</span>
+                                      <p class="pop-description">${sub.desc}</p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <!-- end modal content -->
+                            </div>
+                          </div>
+                        </div>
+                        `
+                      ).join(``);
+
+                      document.getElementById('submissions').innerHTML = compiledHTML;
                         // submissions = submissions.map((sub, index) =>
-                        //   `
-                        //   <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-4 col-sm-4 col-md-2 archive-item">
-                        //     <div class="archive-image">
-                        //       <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%" loading="lazy">
-                        //     </div>
-                        //     <div class="archive-title">
-                        //         ${sub.title}
-                        //     </div>
-                        //   </a>
-                        //   <div class="submission-popups">
-                        //     <div class="modal fade" id="submission-${index}">
-                        //       <div class="modal-dialog modal-dialog-centered">
-                        //         <div class="modal-content">
-                        //           <!-- modal content -->
-                        //           <div class="row p-0 m-0">
-                        //             <div class="col-md p-0 m-0">
-                        //               <img src="${sub.img}" class="img-fluid" loading="lazy">
-                        //             </div>
-                        //             <div class="col-md-3 p-5 m-0 d-flex align-items-center">
-                        //               <div>
-                        //                 <a type="button" class="close" data-dismiss="modal">&times;</a>
-                        //                 <span class="pop-title">${sub.title}</span>
-                        //                 <p class="pop-description">${sub.desc}</p>
-                        //               </div>
-                        //             </div>
-                        //           </div>
-                        //         </div>
-                        //         <!-- end modal content -->
-                        //       </div>
-                        //     </div>
-                        //   </div>
-                        //   `
+
                         // );
 
                         //Create groups of submissions
