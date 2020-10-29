@@ -125,6 +125,19 @@
                                         <li class="nav-item">
                                             <a class="nav-link" href="program-glance">Full Program</a>
                                         </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Virtual Presenter Information
+                                                <i class="far fa-angle-down"></i>
+                                            </a>
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                <a class="dropdown-item" href="virtual-presenter-information">Virtual Presenter Information Overview</a>
+                                                <a class="dropdown-item" href="pre-record-guidelines">Pre-recorded Presentation Guidelines</a>
+                                                <a class="dropdown-item" href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a>
+                                                <a class="dropdown-item" href="system-configuration-requirements">System Configuration Requirements</a>
+                                                <a class="dropdown-item" href="technical-support">Technical Support</a>
+                                            </div>
+                                        </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="sponsorship-and-exhibition.php">Sponsorship</a>
                                         </li>

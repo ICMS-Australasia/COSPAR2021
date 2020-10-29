@@ -8,9 +8,9 @@ include('include/header.php');
     <div class="row py-5">
       <div class="col py-4">
         <h1><?php echo $title; ?></h1>
-        <!--div class="sub">
-          <a href="#" target="_blank" class="presenter-pdf"><img src="https://via.placeholder.com/100x125" alt="">Download <?php echo $title; ?> PDF (64kb)</a>
-        </div-->
+        <div class="sub">
+          <a href="pdfs/Framing-lighting-recording-guidelines.pdf" target="_blank" class="presenter-pdf"><img src="img/presenter-pdf-framing.jpg" alt="">Download <?php echo $title; ?> PDF</a>
+        </div>
       </div>
     </div>
   </div>
