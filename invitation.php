@@ -37,7 +37,7 @@ include('include/header.php');
                     <p>The COSPAR community is well-positioned to respond positively to the changing environment and to utilise collaborative technology and with that, have wider access to information and a global research base. The ability to combine our
                       traditional in-person meeting with an online virtual forum means that location, distance and isolation is now less of a barrier for participation. The preparations for this will enable full flexibility over the balance of virtual and
                       in-person, in step with the uncertainties around COVID. Knowledge-sharing will remain the cornerstone of the Assembly and your engagement and contributions will be paramount to the success of the delivery. Heightening your experience will
-                      include the legacy of all sessions being recorded and uploaded as on-demand content; allowing you to experience all sessions, as you desire, and extending the value, impact and legacy of the world’s largest and leading space research forum
+                      include the legacy of all sessions being recorded and uploaded as on-demand content; allowing you to experience all sessions, as you desire and extending the value, impact and legacy of the world’s largest and leading space research forum
                       and community.</p>
                     <p>We look forward to continuing to increase these outcomes as we adapt to the shifting events landscape and the global impact for our COSPAR space community. Rather than settle for a low-key Assembly under the constraints of COVID, we are
                       excited about embracing the future and making the gathering even more successful than previously imagined.</p>
@@ -111,7 +111,7 @@ include('include/header.php');
                         <td>31 December 2020</td>
                       </tr>
                       <tr>
-                        <td><strong>Facilitated training with the on-line system for chairs, speakers, and participants</strong></td>
+                        <td><strong>Facilitated training with the on-line system for chairs, speakers and participants</strong></td>
                         <td>Early January 2021</td>
                       </tr>
                       <tr>

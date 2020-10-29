@@ -21,7 +21,7 @@
             <td><strong>Deadline to register @ standard early bird rate</strong><br>  31 December 2020</td>
           </tr>
           <tr>
-            <td><strong>Facilitated training with the on-line system for chairs, speakers, and participants</strong><br>  Early January 2021</td>
+            <td><strong>Facilitated training with the on-line system for chairs, speakers and participants</strong><br>  Early January 2021</td>
           </tr>
           <tr>
             <td><strong>COSPAR-2021-Hybrid</strong> <br> 28 January to 4 February 2021</td>

@@ -72,7 +72,7 @@ include('include/header.php');
                             <a data-toggle="collapse" href="#Guhathakurta">Read more.</a>
                         </p>
                         <div class="collapse" id="Guhathakurta">
-                            <p>She is also the Program Scientist for the recently launched twin satellites "Solar TErrestrial RElations Observatory" (STEREO). STEREO is a two-year mission which will employ two nearly identical space-based observatories - one ahead of Earth in its orbit, the other trailing behind - to provide the first-ever stereoscopic measurements to study the Sun and the nature of its coronal mass ejections, or CMEs and their impact on space-weather. In addition to leading science missions for the LWS program, Dr Guhathakurta also manages a theory, modeling and data analysis program to integrate scientific output, data, and models to generate a comprehensive, systems understanding of Sun-Heliosphere-Planets coupling. She is the discipline scientist of this new discipline titled "Heliophysics".</p>
+                            <p>She is also the Program Scientist for the recently launched twin satellites "Solar TErrestrial RElations Observatory" (STEREO). STEREO is a two-year mission which will employ two nearly identical space-based observatories - one ahead of Earth in its orbit, the other trailing behind - to provide the first-ever stereoscopic measurements to study the Sun and the nature of its coronal mass ejections, or CMEs and their impact on space-weather. In addition to leading science missions for the LWS program, Dr Guhathakurta also manages a theory, modeling and data analysis program to integrate scientific output, data and models to generate a comprehensive, systems understanding of Sun-Heliosphere-Planets coupling. She is the discipline scientist of this new discipline titled "Heliophysics".</p>
                         </div>
                     </div>
                 </div>
@@ -84,11 +84,11 @@ include('include/header.php');
                         <h3>Shirley Ho</h3>
                         <strong>Flatiron Institute <br>
                             <em>Machine Learning for Astrophysical Simulations</em></strong>
-                        <p>Shirley Ho's research interests have ranged from using machine learning and statistics to tackle fundamental challenges in cosmology to finding new structures in our own Milky Way. Ho has broad expertise in theoretical astrophysics, observational astronomy, and data science. Ho’s recent interest has been on understanding and developing novel tools in machine learning techniques, and applying them to astrophysical challenges.
+                        <p>Shirley Ho's research interests have ranged from using machine learning and statistics to tackle fundamental challenges in cosmology to finding new structures in our own Milky Way. Ho has broad expertise in theoretical astrophysics, observational astronomy and data science. Ho’s recent interest has been on understanding and developing novel tools in machine learning techniques and applying them to astrophysical challenges.
                             <a data-toggle="collapse" href="#Ho">Read more.</a>
                         </p>
                         <div class="collapse" id="Ho">
-                            <p>Her goal is to understand the universe’s beginning, evolution, and its ultimate fate. Ho earned her Ph.D. in astrophysical sciences from Princeton University in 2008 and her bachelor’s degrees in computer science and physics from the University of California, Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining Carnegie Mellon University in 2011 as an assistant professor. She became the Cooper Siegel Career Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016, and to the Center of Computational Astrophysics (Simons Foundation) in 2018 as the group leader in Cosmology X Data Science.</p>
+                            <p>Her goal is to understand the universe’s beginning, evolution and its ultimate fate. Ho earned her Ph.D. in astrophysical sciences from Princeton University in 2008 and her bachelor’s degrees in computer science and physics from the University of California, Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining Carnegie Mellon University in 2011 as an assistant professor. She became the Cooper Siegel Career Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016 and to the Center of Computational Astrophysics (Simons Foundation) in 2018 as the group leader in Cosmology X Data Science.</p>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@ include('include/header.php');
                         <h3>Michael Seablom</h3>
                         <strong>NASA HQ <br>
                             <em>Autonomous Capabilities for Future NASA Science Missions</em></strong>
-                        <p>Michael Seablom is the Chief Technologist for the Science Mission Directorate at NASA Headquarters. He has the responsibility for surveying and assessing technology needs for the Heliophysics, Astrophysics, Earth Science, and Planetary Science Divisions, and is the primary liaison to the NASA Office of Chief Technologist and the Space Technology Mission Directorate.</p>
+                        <p>Michael Seablom is the Chief Technologist for the Science Mission Directorate at NASA Headquarters. He has the responsibility for surveying and assessing technology needs for the Heliophysics, Astrophysics, Earth Science and Planetary Science Divisions and is the primary liaison to the NASA Office of Chief Technologist and the Space Technology Mission Directorate.</p>
                     </div>
                 </div>
                 <div class="row speakers mt-4 mb-4">
@@ -136,11 +136,11 @@ include('include/header.php');
                         <h3>Salah Sukkarieh</h3>
                         <strong>University of Sydney & Agerris <br>
                             <em>Intelligent Robotics in the Field</em></strong>
-                        <p>Salah Sukkarieh is the Professor of Robotics and Intelligent Systems at the University of Sydney, and is the <a href="https://lmpassage.external.lmco.com/,DanaInfo=agerris.com,SSL+" target="_blank">CEO of Agerris</a>, a new Agtech startup company from the ACFR developing autonomous robotic solutions to improve agricultural productivity and environmental sustainability. He was the Director Research and Innovation at the Australian Centre for Field Robotics from 2007-2018, where he led the strategic research and industry engagement program in the world's largest field robotics institute.
+                        <p>Salah Sukkarieh is the Professor of Robotics and Intelligent Systems at the University of Sydney and is the <a href="https://lmpassage.external.lmco.com/,DanaInfo=agerris.com,SSL+" target="_blank">CEO of Agerris</a>, a new Agtech startup company from the ACFR developing autonomous robotic solutions to improve agricultural productivity and environmental sustainability. He was the Director Research and Innovation at the Australian Centre for Field Robotics from 2007-2018, where he led the strategic research and industry engagement program in the world's largest field robotics institute.
                             <a data-toggle="collapse" href="#Sukkarieh">Read more.</a>
                         </p>
                         <div class="collapse" id="Sukkarieh">
-                            <p>He is an international expert in the research, development and commercialisation of field robotic systems and has led a number of robotics and intelligent systems R&D projects in logistics, commercial aviation, aerospace, education, environment monitoring, agriculture and mining. Salah was awarded the NSW Science and Engineering Award for Excellence in Engineering and Information and Communications Technologies in 2014, the 2017 CSIRO Eureka Prize for Leadership in Innovation and Science, and the 2019 NSW Australian of the Year nominee. Salah is a Fellow of Australian Academy of Technological Sciences and Engineering (ATSE), and has over 500 academic and industry publications in robotics and intelligent systems.</p>
+                            <p>He is an international expert in the research, development and commercialisation of field robotic systems and has led a number of robotics and intelligent systems R&D projects in logistics, commercial aviation, aerospace, education, environment monitoring, agriculture and mining. Salah was awarded the NSW Science and Engineering Award for Excellence in Engineering and Information and Communications Technologies in 2014, the 2017 CSIRO Eureka Prize for Leadership in Innovation and Science and the 2019 NSW Australian of the Year nominee. Salah is a Fellow of Australian Academy of Technological Sciences and Engineering (ATSE) and has over 500 academic and industry publications in robotics and intelligent systems.</p>
                         </div>
                     </div>
                 </div>
@@ -152,11 +152,11 @@ include('include/header.php');
                         <h3>Animesh Garg</h3>
                         <strong>University of Toronto, Vector Institute & Nvidia <br>
                             <em>Decision-Making with Casual Model</em></strong>
-                        <p>Animesh Garg is a CIFAR Chair Assistant Professor of Computer Science at the University of Toronto and a Faculty Member at the Vector Institute where he leads the Toronto People, AI, and Robotics (PAIR) research group. He is affiliated with the Mechanical and Industrial Engineering (courtesy) and UofT Robotics Institute, and is a Senior Researcher at Nvidia Research in ML for Robotics.
+                        <p>Animesh Garg is a CIFAR Chair Assistant Professor of Computer Science at the University of Toronto and a Faculty Member at the Vector Institute where he leads the Toronto People, AI and Robotics (PAIR) research group. He is affiliated with the Mechanical and Industrial Engineering (courtesy) and UofT Robotics Institute and is a Senior Researcher at Nvidia Research in ML for Robotics.
                             <a data-toggle="collapse" href="#Garg">Read more.</a>
                         </p>
                         <div class="collapse" id="Garg">
-                            <p>Prior to this, Animesh earned a Ph.D. from UC Berkeley, and was a postdoc at the Stanford AI Lab. His research focuses on machine learning algorithms for perception and control in robotics. His work aims to build Generalizable Autonomy in robotics which involves a confluence of representations and algorithms for reinforcement learning, control, and perception. His work has received multiple Best Paper Awards (ICRA, IROS, Hamlyn Symposium, Neurips Workshop, ICML Workshop) and has been covered in the press (New York Times, IEEE Spectrum, VentureBeat, Nature, BBC).</p>
+                            <p>Prior to this, Animesh earned a Ph.D. from UC Berkeley and was a postdoc at the Stanford AI Lab. His research focuses on machine learning algorithms for perception and control in robotics. His work aims to build Generalizable Autonomy in robotics which involves a confluence of representations and algorithms for reinforcement learning, control and perception. His work has received multiple Best Paper Awards (ICRA, IROS, Hamlyn Symposium, Neurips Workshop, ICML Workshop) and has been covered in the press (New York Times, IEEE Spectrum, VentureBeat, Nature, BBC).</p>
                         </div>
                     </div>
                 </div>
@@ -180,7 +180,7 @@ include('include/header.php');
                     <li>What cloud compute offerings are available for space researchers to develop workflows?</li>
                     <li>How can we use open source software and cloud compute to massively scale scientific data processing?</li>
                     <li>How can scientists equip ourselves with the skills to take advantage of these technologies?</li>
-                    <li>How can cloud compute and web technologies be used to engage the public in citizen science, and for enhancing STEAM* education?</li>
+                    <li>How can cloud compute and web technologies be used to engage the public in citizen science and for enhancing STEAM* education?</li>
                 </ol>
                 <p>*Science, Technology, Engineering, the Arts and Mathematics (STEAM)</p>
                 <p><strong>Speakers</strong></p>
@@ -203,7 +203,7 @@ include('include/header.php');
                         <h3>Hsin-Fang Chiang</h3>
                         <strong>Vera C. Rubin Observatory <br>
                             <em>Scientific Computing in the Clouds for the Rubin Observatory</em></strong>
-                        <p>Hsin-Fang Chiang has a PhD in Astronomy from the University of Illinois at Urbana-Champaign, and is a data management developer at the Vera C. Rubin Observatory since 2015.  The goal of the Rubin Observatory is to survey the entire sky continuously for 10 years and produce 500 petabytes of images to help us address a wide range of fundamental astrophysical questions. Hsin-Fang implements end-to-end data processing workflow, executes production, and prepares data access for the observatory.  Recently, she co-leads experiments to explore portable and scalable solutions in cloud environments for data hosting and processing.
+                        <p>Hsin-Fang Chiang has a PhD in Astronomy from the University of Illinois at Urbana-Champaign and is a data management developer at the Vera C. Rubin Observatory since 2015.  The goal of the Rubin Observatory is to survey the entire sky continuously for 10 years and produce 500 petabytes of images to help us address a wide range of fundamental astrophysical questions. Hsin-Fang implements end-to-end data processing workflow, executes production and prepares data access for the observatory.  Recently, she co-leads experiments to explore portable and scalable solutions in cloud environments for data hosting and processing.
                         </p>
                     </div>
                 </div>
@@ -215,7 +215,7 @@ include('include/header.php');
                         <h3>Grant Miller </h3>
                         <strong>Zooniverse <br>
                             <em>The Zooniverse Citizen Science Platform</em></strong>
-                        <p>A former exoplanet researcher, Grant is now Project Manager of the Zooniverse citizen science platform based at the University of Oxford. His job involves managing an international community of researchers, volunteers, and web developers with the goal of enabling and progressing research across multiple diverse disciplines such as astronomy, ecology, biomedical sciences, and the humanities.</p>
+                        <p>A former exoplanet researcher, Grant is now Project Manager of the Zooniverse citizen science platform based at the University of Oxford. His job involves managing an international community of researchers, volunteers and web developers with the goal of enabling and progressing research across multiple diverse disciplines such as astronomy, ecology, biomedical sciences and the humanities.</p>
                     </div>
                 </div>
                 <div class="row speakers mt-4 mb-4">
@@ -230,7 +230,7 @@ include('include/header.php');
                             <a data-toggle="collapse" href="#Abernathey">Read more.</a>
                         </p>
                         <div class="collapse" id="Abernathey">
-                            <p>Ryan is a physical oceanographer who studies the large-scale ocean circulation and its relationship with Earth's climate. A central theme is how ocean mesoscale turbulence, i.e. eddies, waves, and jets on scales of tens to hundreds of kilometers, contributes to the transport of momentum, heat, and geochemically relevant tracers. Regionally, his main focus is the Southern Ocean, which surrounds Antarctica and links the three main ocean basins. High-resolution numerical modeling and satellite remote sensing are key tools in this research, which has led to an interest in high performance computing and big data. Prof. Abernathey helps lead the Pangeo project, an international collaboration aimed at accelerating data-intensive geoscience research through open source software and open infrastructure. He is a core developer of several open source scientific python libraries, including Xarray, Zarr, and Xgcm.</p>
+                            <p>Ryan is a physical oceanographer who studies the large-scale ocean circulation and its relationship with Earth's climate. A central theme is how ocean mesoscale turbulence, i.e. eddies, waves and jets on scales of tens to hundreds of kilometers, contributes to the transport of momentum, heat and geochemically relevant tracers. Regionally, his main focus is the Southern Ocean, which surrounds Antarctica and links the three main ocean basins. High-resolution numerical modeling and satellite remote sensing are key tools in this research, which has led to an interest in high performance computing and big data. Prof. Abernathey helps lead the Pangeo project, an international collaboration aimed at accelerating data-intensive geoscience research through open source software and open infrastructure. He is a core developer of several open source scientific python libraries, including Xarray, Zarr and Xgcm.</p>
                         </div>
                     </div>
                 </div>

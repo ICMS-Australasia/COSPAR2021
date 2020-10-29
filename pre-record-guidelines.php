@@ -24,7 +24,7 @@ include('include/header.php');
 
 <h3>Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h3>
 
-<p>Please see below the following instructions for setting up, creating, and submitting your pre-recorded presentation. </p>
+<p>Please see below the following instructions for setting up, creating and submitting your pre-recorded presentation. </p>
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
@@ -35,7 +35,7 @@ include('include/header.php');
 
 
 
-<p>We suggest using Zoom or any other video conferencing software that will enable video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos, and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with 3 or more participants. If you have more than 3 presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
+<p>We suggest using Zoom or any other video conferencing software that will enable video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
 <p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you could record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
 
 
@@ -47,7 +47,7 @@ include('include/header.php');
 </div>
 
 
-<p>Depending on the method you choose to record you should have a PowerPoint or video presentation to accompany your presentation. Please check the Framing, Lighting, and Recording Guidelines for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
+<p>Depending on the method you choose to record you should have a PowerPoint or video presentation to accompany your presentation. Please check the Framing, Lighting and Recording Guidelines for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
@@ -119,7 +119,7 @@ include('include/header.php');
 
 <h3>Dropbox System Requirements</h3>
 
-<p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file, and drag it to your Dropbox folder.</p>
+<p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file and drag it to your Dropbox folder.</p>
 
 
 <h3>To sign up for a Dropbox account:</h3>

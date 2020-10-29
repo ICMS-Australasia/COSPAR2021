@@ -119,7 +119,7 @@ include('include/header.php');
             </td>
             <td>
               Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original
-                location, select the file, and drag it to your Dropbox folder.
+                location, select the file and drag it to your Dropbox folder.
             </td>
           </tr>
           <tr>

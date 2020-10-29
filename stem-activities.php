@@ -28,7 +28,7 @@ include('include/cospark.php');
                               <img src="img/cospark/rover2.jpg" class="img-fluid">
                           </div>
                       </div>
-                      <p>Monash Nova Rover are a team of university students who design, fabricate, and test the next generation of Mars rovers - inspiring future generations along the way. At COSPAR-K, we will be running an immersive activity where students can interact with our 2020 Mars Rover. They will complete tasks that actual Mars Rovers do, and learn more about the science of space exploration and life detection. For those unable to attend in-person, we will be providing Virtual Excursions through DART Connections where students can access the program. Students will be able to engage with activities that challenge their critical thinking skills, and engage them with interesting, interactive STEM ideas.</p>
+                      <p>Monash Nova Rover are a team of university students who design, fabricate and test the next generation of Mars rovers - inspiring future generations along the way. At COSPAR-K, we will be running an immersive activity where students can interact with our 2020 Mars Rover. They will complete tasks that actual Mars Rovers do and learn more about the science of space exploration and life detection. For those unable to attend in-person, we will be providing Virtual Excursions through DART Connections where students can access the program. Students will be able to engage with activities that challenge their critical thinking skills and engage them with interesting, interactive STEM ideas.</p>
 
                       <hr class="my-5">
 
@@ -48,7 +48,7 @@ include('include/cospark.php');
                               <img src="img/cospark/habitable-worlds2.jpg" class="img-fluid">
                           </div>
                       </div>
-                      <p>Have you ever wondered if there are aliens on other planets? In this workshop, you’ll learn what tools scientists use when looking for alien worlds. You'll use a NASA JPL planet simulator to explore how planet and star characteristics affect the planetary conditions needed for life. You will also learn about planets that break these rules, and how scientists search for “life as we don't know it”. There are two options for this workshop, you can either do this workshop in your own time, or in a seminar led by two astrobiologists, where you get to ask them all your questions about the search for aliens!</p>
+                      <p>Have you ever wondered if there are aliens on other planets? In this workshop, you’ll learn what tools scientists use when looking for alien worlds. You'll use a NASA JPL planet simulator to explore how planet and star characteristics affect the planetary conditions needed for life. You will also learn about planets that break these rules and how scientists search for “life as we don't know it”. There are two options for this workshop, you can either do this workshop in your own time, or in a seminar led by two astrobiologists, where you get to ask them all your questions about the search for aliens!</p>
                       <p>For a taste of what to expect, check out this video: </p>
                       <div class="embed-responsive embed-responsive-16by9">
                           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vzvBURvuiJs" allowfullscreen></iframe>

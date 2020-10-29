@@ -32,7 +32,7 @@ include('include/header.php');
                             <a data-toggle="collapse" href="#Boyce">Read more.</a>
                         </p>
                         <div class="collapse" id="Boyce">
-                            <p>Professor Boyce also chairs the Australian Academy of Science’s National Committee for Space and Radio Science, sits on the Executive Council of the Space Industry Association of Australia, and is an Associate Fellow of the American Institute for
+                            <p>Professor Boyce also chairs the Australian Academy of Science’s National Committee for Space and Radio Science, sits on the Executive Council of the Space Industry Association of Australia and is an Associate Fellow of the American Institute for
                                 Aeronautics and Astronautics (AIAA).</p>
                         </div>
                     </div>
@@ -49,8 +49,8 @@ include('include/header.php');
                             <a data-toggle="collapse" href="#Cairns">Read more.</a>
                         </p>
                         <div class="collapse" id="Cairns">
-                            <p>Prof. Cairns has over 240 refereed papers published or in press in books and journals, a Hirsch index of over 28, given over 3 plenary and 75 invited papers at international conferences, and obtained over US$7 M in competitive funding (excluding
-                                spacecraft projects) from Australian and US funding agencies. He has great experience leading international and national scientific societies (e.g., AOGS, the International Association for Geomagnetism and Aeronomy [IAGA], and the Australian
+                            <p>Prof. Cairns has over 240 refereed papers published or in press in books and journals, a Hirsch index of over 28, given over 3 plenary and 75 invited papers at international conferences and obtained over US$7 M in competitive funding (excluding
+                                spacecraft projects) from Australian and US funding agencies. He has great experience leading international and national scientific societies (e.g., AOGS, the International Association for Geomagnetism and Aeronomy [IAGA] and the Australian
                                 Institute of Physics's Solar Terrestrial and Space Physics [STSP] Group).</p>
                             <p>He is Australia's national representative to both the ICSU Committee on Space Research (COSPAR) and IAGA. Nationally Prof. Cairns is the past Chair (2005-2011) of the Australian Academy of Science's National Committee for Space Science. As such he
                                 led the development of Australia's first Decadal Plan in space science, published by the Academy of Science in 2010. He also played a major role in the joint Academy's Strategic Plan for Earth Observation from Space, released in late 2009.</p>
@@ -93,7 +93,7 @@ include('include/header.php');
                         <div class="collapse" id="Rea">
                             <p>Prior to her current role, Imogen had worked for a year or so as a Satellite-Based Augmentation System Test-bed Project Coordinator at FrontierSI (formerly the Cooperative Research Centre for Spatial Information), where she worked closely with
                                 industry to understand the benefits of the system to Australia and New Zealand. So she had some relevant experience under her belt when she arrived at Geoscience Australia.</p>
-                            <p>As a Year 12 student, Imogen attended the National Youth Science Forum and Australian Youth Aerospace Forum. These experiences inspired her to pursue a degree in aerospace engineering. “I was interested in space, and the hands-on element of
+                            <p>As a Year 12 student, Imogen attended the National Youth Science Forum and Australian Youth Aerospace Forum. These experiences inspired her to pursue a degree in aerospace engineering. “I was interested in space and the hands-on element of
                                 engineering,” she says. “And through this discipline I’ve learned how to break down and solve complex problems, as well as how to communicate complex ideas to the public.”</p>
                             <p>At uni, Imogen participated in the technical and operations teams of Monash Motorsport, travelling and racing the combustion vehicle in Europe with them. She also served for two years as President of the Australian Youth Aerospace Association,
                                 which gave her an opportunity each June to share some lessons learned through university and the space industry with secondary school students in Queensland.</p>
@@ -181,13 +181,13 @@ include('include/header.php');
                     <div class="col chair-text">
                         <h3>David Ball</h3>
                         <strong>Regional Director Australia New Zealand Lockheed Martin Space</strong>
-                        <p>Prior to joining Lockheed Martin, David was the Chief Executive Officer of the Space Environment Research Centre (SERC), and has held leadership roles in the Space Industry Association of Australia (SIAA) for more than a decade, culminating in his current tenure as Chair, SIAA.</p>
+                        <p>Prior to joining Lockheed Martin, David was the Chief Executive Officer of the Space Environment Research Centre (SERC) and has held leadership roles in the Space Industry Association of Australia (SIAA) for more than a decade, culminating in his current tenure as Chair, SIAA.</p>
                         <p>
                             With over 25 years of experience in the space, communications and defence sectors David has spent a significant portion of his career specialising in satellite communications. Holding senior positions with several commercial satellite communications operators, including Intelsat and PanAmSat, David’s previous roles encompassed sales management, business development, customer service engineering, space systems design and spacecraft and launch vehicle acquisition.
                             <a data-toggle="collapse" href="#Ball">Read more.</a>
                         </p>
                         <div class="collapse" id="Ball">
-                            <p>David has also had significant involvement in satellite frequency coordination activities, spacecraft insurance placement and capital raise processes, and has led communications projects for the Australian Department of Defence (through Envista Pty Ltd).</p>
+                            <p>David has also had significant involvement in satellite frequency coordination activities, spacecraft insurance placement and capital raise processes and has led communications projects for the Australian Department of Defence (through Envista Pty Ltd).</p>
                             <p>Earlier in his career David was an electronics engineering officer in the Royal Australian Air Force and was responsible for the engineering management of Defence communications systems with his final posting focused on military satellite communications systems.</p>
                             <p>David holds a Bachelor of Engineering degree (Communications Engineering) and a Graduate Diploma in Business Management and is a graduate member of the Australian Institute of Company Directors.</p>
                         </div>
@@ -200,11 +200,11 @@ include('include/header.php');
                     <div class="col chair-text">
                         <h3>Dr Mark Cheung</h3>
                         <strong>Astro- and Heliophysicist, Lockheed Martin Space</strong>
-                        <p>Dr. Mark Cheung is a Senior Staff Physicist at Lockheed Martin Advanced Technology Center in Palo Alto, California. His scientific investigations take place at the intersection of research themes connecting the Sun with Earth, magnetic fields with plasmas, and machine learning with space physics. He is the Principal Investigator for the Atmospheric Imaging Assembly (<a href="http://aia.lmsal.com" target="_blank">http://aia.lmsal.com</a>) on NASA’s Solar Dynamics Observatory (<a href="http://sdo.gsfc.nasa.gov" target="_blank">http://sdo.gsfc.nasa.gov</a>), which has been monitoring the Sun since 2010.
+                        <p>Dr. Mark Cheung is a Senior Staff Physicist at Lockheed Martin Advanced Technology Center in Palo Alto, California. His scientific investigations take place at the intersection of research themes connecting the Sun with Earth, magnetic fields with plasmas and machine learning with space physics. He is the Principal Investigator for the Atmospheric Imaging Assembly (<a href="http://aia.lmsal.com" target="_blank">http://aia.lmsal.com</a>) on NASA’s Solar Dynamics Observatory (<a href="http://sdo.gsfc.nasa.gov" target="_blank">http://sdo.gsfc.nasa.gov</a>), which has been monitoring the Sun since 2010.
                             <a data-toggle="collapse" href="#Cheung">Read more.</a>
                         </p>
                         <div class="collapse" id="Cheung">
-                            <p>Mark is an advisor for Frontier Development Lab, where machine learning and artificial intelligence techniques are applied to accelerate space science discovery and exploration. Previously, he was a Visiting Scholar at the Hansen Experimental Physics Laboratory, Stanford University and a Visiting Associate Professor at National Astronomical Observatory of Japan. Originally from Hong Kong, Mark grew up in Australia, studied physics at the University of Adelaide, and carried out graduate research at the University of Göttingen and Max Planck Institute for Solar System Research in Germany.</p>
+                            <p>Mark is an advisor for Frontier Development Lab, where machine learning and artificial intelligence techniques are applied to accelerate space science discovery and exploration. Previously, he was a Visiting Scholar at the Hansen Experimental Physics Laboratory, Stanford University and a Visiting Associate Professor at National Astronomical Observatory of Japan. Originally from Hong Kong, Mark grew up in Australia, studied physics at the University of Adelaide and carried out graduate research at the University of Göttingen and Max Planck Institute for Solar System Research in Germany.</p>
                         </div>
                     </div>
                 </div>

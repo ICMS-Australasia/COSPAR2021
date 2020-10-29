@@ -142,7 +142,7 @@ Access to the virtual platform is restricted to COSPAR 2021 registered delegates
             <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#eleven">
               <i class="fas fa-chevron-down"></i>What happens if my session runs overtime?</div>
             <div class="collapse" id="eleven">
-              <div class="faqs-card-body"> Your live presentation must end within your allocated time. If you run overtime, your presentation will automatically end, and audio will be muted.  For those presenting via a pre-recorded session, you must submit your video no longer than the time specified in the submission process. The COSPAR 2021 Secretariat will contact you prior to the event to edit your video if it is too long.
+              <div class="faqs-card-body"> Your live presentation must end within your allocated time. If you run overtime, your presentation will automatically end and audio will be muted.  For those presenting via a pre-recorded session, you must submit your video no longer than the time specified in the submission process. The COSPAR 2021 Secretariat will contact you prior to the event to edit your video if it is too long.
               </div>
             </div>
           </div>

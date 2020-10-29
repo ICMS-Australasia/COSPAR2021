@@ -180,7 +180,7 @@ if ($home == true or $title == 'Venue') {
         <div class="row pb-4">
             <div class="col-md pt-4">
                 <h4 class="mb-3">43rd COSPAR Scientific Assembly</h4>
-                <p>COSPAR's objectives are to promote on an international level scientific research in space, with emphasis on the exchange of results, information and opinions, and to provide a forum, open to all scientists, for the discussion of problems that may
+                <p>COSPAR's objectives are to promote on an international level scientific research in space, with emphasis on the exchange of results, information and opinions and to provide a forum, open to all scientists, for the discussion of problems that may
                     affect scientific space research.</p>
                 <p>
                     These objectives are achieved through the organization of Scientific Assemblies, publications and other means.</p>

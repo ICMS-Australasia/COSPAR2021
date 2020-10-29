@@ -57,7 +57,7 @@ include('include/header.php');
             </a>
             <div class="text">
                 <h2>Commission B</h2>
-                <h3>Space Studies of the Earth-Moon System, Planets, and Small Bodies of the Solar System</h3>
+                <h3>Space Studies of the Earth-Moon System, Planets and Small Bodies of the Solar System</h3>
                 <a href="abstracts/Commission-B.pdf" target="_blank">View Commission B (.pdf)</a>
             </div>
         </div>

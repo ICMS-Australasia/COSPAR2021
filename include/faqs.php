@@ -21,7 +21,7 @@
     <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#three">
       <i class="fas fa-chevron-down"></i>Will the Interdisciplinary Lectures, cross-disciplinary workshops and Assembly-wide events still occur?</div>
     <div class="collapse" id="three">
-      <div class="faqs-card-body">Yes. An outstanding selection of speakers from across the globe will deliver Interdisciplinary Lectures through the on-line platform. All Interdisciplinary Lectures will be live streamed and feature live moderated Q&A to ensure maximum benefit to the COSPAR scientific community. These Interdisciplinary Lectures will occur prior to the commencement of the main Programming to ensure maximum participation, each day, and also be available as on-demand content. Cross-disciplinary workshops, panel events, and public lectures will also be a highlight on the on-line platform.</div>
+      <div class="faqs-card-body">Yes. An outstanding selection of speakers from across the globe will deliver Interdisciplinary Lectures through the on-line platform. All Interdisciplinary Lectures will be live streamed and feature live moderated Q&A to ensure maximum benefit to the COSPAR scientific community. These Interdisciplinary Lectures will occur prior to the commencement of the main Programming to ensure maximum participation, each day and  also be available as on-demand content. Cross-disciplinary workshops, panel events and  public lectures will also be a highlight on the on-line platform.</div>
     </div>
   </div>
 </div>
@@ -33,14 +33,14 @@
     <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#four">
       <i class="fas fa-chevron-down"></i>How do I give my presentation if I can’t attend in-person?</div>
     <div class="collapse" id="four">
-      <div class="faqs-card-body"><strong>All presentations will be pre-recorded by presenters</strong>, with the duration consistent as per the original program timings. These will need to be uploaded for inclusion in the virtual conference delivery platform and will be available at the beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes, and keywords, to registered delegates only.</div>
+      <div class="faqs-card-body"><strong>All presentations will be pre-recorded by presenters</strong>, with the duration consistent as per the original program timings. These will need to be uploaded for inclusion in the virtual conference delivery platform and will be available at the beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes and  keywords, to registered delegates only.</div>
     </div>
   </div>
   <div class="faqs-card">
     <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#five">
       <i class="fas fa-chevron-down"></i>How will the Program work in varying time zones?</div>
     <div class="collapse" id="five">
-      <div class="faqs-card-body"><strong>The program schedule is designed to deliver the full program across global time zones.</strong> Instead of the oral program on any given day being delivered as parallel quarter-day sessions of consecutive 15-30 minute live talks, spread out over the Australian (and Asian) working day hours and thus representing significant strain for international delegates in different time zones, the program for each day will be concentrated into a three-hour block early in the Australian/Asian day (suitable for the American time zones), and repeated again at the end of the Australian/Asian day and into the evening (suitable for the European, African, and Middle-Eastern time zones). In this way, <strong>all time zones will be catered for</strong>.</div>
+      <div class="faqs-card-body"><strong>The program schedule is designed to deliver the full program across global time zones.</strong> Instead of the oral program on any given day being delivered as parallel quarter-day sessions of consecutive 15-30 minute live talks, spread out over the Australian (and Asian) working day hours and thus representing significant strain for international delegates in different time zones, the program for each day will be concentrated into a three-hour block early in the Australian/Asian day (suitable for the American time zones) and  repeated again at the end of the Australian/Asian day and into the evening (suitable for the European, African and  Middle-Eastern time zones). In this way, <strong>all time zones will be catered for</strong>.</div>
     </div>
   </div>
   <div class="faqs-card">
@@ -73,7 +73,7 @@
   <li>The pre-recording and slide will be available via the platform throughout the Assembly.</li>
   <li>On the relevant day for each programmed poster session, those sessions will be delivered virtually following the three-hour oral blocks.</li>
   <li>The platform will present to the delegates the full array of posters for that session as thumbnails of each slide.</li>
-  <li>Clicking on a poster thumbnail will stream the summary presentation for that poster, while an adjacent link will take the delegate into a unique live break-out room with the poster presenter and other interested delegates, and interaction with the presenter and amongst those other delegates will be enabled.</li>
+  <li>Clicking on a poster thumbnail will stream the summary presentation for that poster, while an adjacent link will take the delegate into a unique live break-out room with the poster presenter and other interested delegates and  interaction with the presenter and amongst those other delegates will be enabled.</li>
 </ul>
 
       </div>
@@ -88,7 +88,7 @@
     <div class="faqs-card-header collapsed collapsed" data-toggle="collapse" data-target="#ten">
       <i class="fas fa-chevron-down"></i>Technical support for virtual participants in COSPAR-2021-Hybrid.</div>
     <div class="collapse" id="ten">
-      <div class="faqs-card-body">The Professional Conference Organiser (PCO) for COSPAR-2021-Hybrid is ICMS Australasia (ICMSA), whose Digital Event Team will arrange for, implement, manage and execute the complex and comprehensive communications systems that will be employed for COSPAR-2021-Hybrid. ICMSA has extensive experience in successful hybrid conferences, and it is for this reason that COSPAR is confident that COSPAR-2021-Hybrid will be a success. </div>
+      <div class="faqs-card-body">The Professional Conference Organiser (PCO) for COSPAR-2021-Hybrid is ICMS Australasia (ICMSA), whose Digital Event Team will arrange for, implement, manage and execute the complex and comprehensive communications systems that will be employed for COSPAR-2021-Hybrid. ICMSA has extensive experience in successful hybrid conferences and  it is for this reason that COSPAR is confident that COSPAR-2021-Hybrid will be a success. </div>
     </div>
   </div>
   <div class="faqs-card">

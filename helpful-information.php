@@ -115,7 +115,7 @@ include('include/header.php');
                                 <p>Bike racks are available in Exhibition Car Park 1 including male and female shower and change room facilities. Personal locks are required. Find your Sydney cycling route here.</p>
 
                                 <h2 class="mt-5 mb-3">Taxes</h2>
-                        		<p>A Goods and Services Tax (GST) of 10% applies to all consumer goods, and is included in retail prices.</p>
+                        		<p>A Goods and Services Tax (GST) of 10% applies to all consumer goods and is included in retail prices.</p>
 
                                 <h2 class="mt-5 mb-3">Disability access</h2>
                         		<h3>Wheelchair access, or other mobility disability access, during Congress</h3>

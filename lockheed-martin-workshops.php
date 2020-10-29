@@ -79,7 +79,7 @@ include('include/header.php');
                     <li>What cloud compute offerings are available for space researchers to develop workflows?</li>
                     <li>How can we use open source software and cloud compute to massively scale scientific data processing?</li>
                     <li>How can scientists equip ourselves with the skills to take advantage of these technologies?</li>
-                    <li>How can cloud compute and web technologies be used to engage the public in citizen science, and for enhancing STEAM* education?</li>
+                    <li>How can cloud compute and web technologies be used to engage the public in citizen science and for enhancing STEAM* education?</li>
                 </ol>
                 <p>*Science, Technology, Engineering, the Arts and Mathematics (STEAM)</p>
                 <p><strong>Technical Organizing Committee (TBC)</strong></p>
