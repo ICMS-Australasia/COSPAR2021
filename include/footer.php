@@ -239,10 +239,17 @@ if ($home == true or $title == 'Venue') {
                     <div class="col-md-6 mb-1">
                         <p>
                             <strong>Selina Moscatt</strong>
-                            Director Conferences<br>
+                            Director of Business Strategy<br>
                             <a href="mailto:enquiries@cospar2021.org">enquiries@cospar2021.org</a>
                         </p>
                     </div>
+                    <div class="col-md-6 mb-1">
+                        <h5>Program & Video Content Manager</h5>
+                        <p>
+                            <strong>Emma McPartlan</strong>
+                            <a href="mailto:program@cospar2021.org">program@cospar2021.org</a>
+                        </p>
+                    </div>
                     <div class="col-md-6 mb-1">
                         <h5>Sponsorship & Exhibitions</h5>
                         <p>
