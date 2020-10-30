@@ -19,7 +19,7 @@ include('include/header.php');
           <div class="col-md p-0">
 
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jCTS8k91ADk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lTrVbHfzkw4?modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
           </div>

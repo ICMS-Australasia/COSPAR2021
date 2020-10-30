@@ -185,7 +185,7 @@ include('include/header.php');
 
 <p>When you contributed/solicited talk has been recorded, please upload it to YouTube as an ‘Unlisted’ video (meaning the video can only be accessed with the private link).</p>
 
-<p><a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">Here are written instructions for uploading to YouTube</a></p>
+<p><a href="https://support.google.com/youtube/answer/57407" target="_blank">Here are written instructions for uploading to YouTube</a></p>
 <p><a href="https://youtu.be/6C4dEpT0rYg" target="_blank">Here are video instructions for uploading to YouTube</a></p>
 <p><a href="https://youtubedownload.minitool.com/youtube/unlisted-youtube-videos.html" target="_blank">Here are instructions to locate your video’s private link</a></p>
 

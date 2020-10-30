@@ -19,9 +19,11 @@ include('include/header.php');
                 <div class="row pt-5">
                   <div class="col-md-12 mb-3" style="font-size:1.1em;">
 
-                      <div class="embed-responsive embed-responsive-16by9 mb-5">
-                          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jCTS8k91ADk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                      </div>
+                    <div class="embed-responsive embed-responsive-16by9 mb-5">
+
+                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lTrVbHfzkw4?modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+
 
 
                     <img src="img/logo-co2.jpg" class="float-right ml-md-4 mb-md-4" width="160" alt="">
