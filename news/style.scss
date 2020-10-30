@@ -2,131 +2,150 @@ $darkblue: #142453;
 $lightblue: #0c4da2;
 
 body {
-    background: #f2f2f2;
+  background: #f2f2f2;
 }
 
 td {
-    font: 16px/24px Arial, "sans-serif";
+  font: 16px/24px Arial, "sans-serif";
 }
 
 a {
-    color: #000;
+  color: #000;
 }
 
 h1,
 h2 {
-    margin-top: 0;
-    color: $darkblue;
-    letter-spacing: -1px;
-    font: bold 30px/42px Arial, "sans-serif";
-    margin-bottom: 5px;
+  margin-top: 0;
+  color: $darkblue;
+  letter-spacing: -1px;
+  font: bold 30px/42px Arial, "sans-serif";
+  margin-bottom: 15px;
 }
 
 h3 {
-    color: #231f20;
-    letter-spacing: -1px;
-    font: bold 22px/32px Arial, "sans-serif";
-    margin-bottom: 10px;
-    margin-top: 40px;
+  color: #231f20;
+  letter-spacing: -1px;
+  font: bold 22px/32px Arial, "sans-serif";
+  margin-bottom: 10px;
+  margin-top: 30px;
 }
 
 .first {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .last {
-    margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 .info td {
-    font: 11px/16px Arial, sans-serif;
+  font: 11px/16px Arial, sans-serif;
 }
 
 .block {
-    img {
-        display: block;
-    }
+  img {
+    display: block;
+  }
 }
 
 .menu {
-    background: $darkblue url(http://www.cospar2020.org/news/img/menu-bg.jpg);
+  background: $darkblue url(http://www.cospar2020.org/news/img/menu-bg.jpg);
+  color: white;
+
+  a {
     color: white;
-    a{
-        color: white;
-    }
-    h2{
-        color:white;
-        margin-bottom: 0;
-    }
-    td {
-        font: 18px/30px Arial, sans-serif;
-    }
+  }
+
+  h2 {
+    color: white;
+    margin-bottom: 0;
+  }
+
+  td {
+    font: 18px/30px Arial, sans-serif;
+  }
 }
 
-td.bigger{
+td.bigger {
+  font: 18px/28px Arial, sans-serif;
+
+  td {
     font: 18px/28px Arial, sans-serif;
-    td{
-        font: 18px/28px Arial, sans-serif;
-    }
+  }
 }
 
 .content > td {
-    background: white;
-    border-bottom: solid 1px #f2f2f2;
+  background: white;
+  border-bottom: solid 1px #f2f2f2;
 
-    .button {
-        background-color: #0c4da2;
-        text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
-        border-radius: 3px;
-        margin-top: 15px;
-        margin-bottom: 25px;
+  .button {
+    background-color: #0c4da2;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: 25px;
 
-        td {
-            font: bold 28px/28px Arial, "sans-serif";
-            font-weight: bold;
-            letter-spacing: -1px;
-            text-align: center;
-        }
-
-        a {
-            color: white;
-        }
+    td {
+      font: bold 28px/28px Arial, "sans-serif";
+      font-weight: bold;
+      letter-spacing: -1px;
+      text-align: center;
     }
+
+    a {
+      color: white;
+    }
+  }
 }
 
-.standout{
-  h2{
+.standout {
+  h2 {
     color: white;
   }
-    td{
-        background: $darkblue;
-        color: white;
-        strong{
-            font-weight: bold;
-            font-size: 18px;
-        }
 
+  td {
+    background: $darkblue;
+    color: white;
+
+    strong {
+      font-weight: bold;
+      font-size: 18px;
     }
+  }
 }
-
 
 .header {
-    background: $darkblue;
-    a {
-        text-decoration: none;
-        h1, h2 { color: white; margin: 0; }
-        h1 { font-size: 2.2em; }
-        h2 { font-size: 1.8em; }
+  background: $darkblue;
+    a{
+      color: white;
+      text-decoration: none;
     }
+    h1,
+    h2 {
+      color: white;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 1.8em;
+    }
+
 }
 
-.header-margin{
+.header-margin {
   margin-bottom: 18px;
 }
 
 .table {
   border-collapse: collapse;
-  th, td {
+
+  td,
+  th {
     border: 0;
   }
 
@@ -140,10 +159,8 @@ td.bigger{
     &:first-child {
       background: #142453;
       text-align: left;
-
     }
   }
-
 
   td {
     text-align: center;
@@ -156,25 +173,52 @@ td.bigger{
   }
 }
 
-.faqs{
+.faqs {
   margin-top: 20px;
   border-collapse: collapse;
-  img{
+
+  img {
     margin-top: 8px;
   }
-  h3{
-    margin-top: 0;
 
+  h3 {
+    margin-top: 0;
   }
 }
 
 .footer {}
 
-.alpha{
+.alpha {
   list-style: lower-alpha;
 }
-.list-space{
-  li{
+
+.list-space {
+  li {
     margin-bottom: 7px;
+  }
+}
+
+.abstracts {
+  background: #f2f2f2;
+
+  td {
+    border: solid 1px #dedede;
+  }
+}
+
+.commissions{
+  text-align: center;
+  h2{
+  font: bold 46px/46px Arial, "sans-serif";
+  margin-bottom: 0 !important;
+  }
+  h3{
+  font: bold 28px/36px Arial, "sans-serif";
+  margin-top: 25px;
+  margin-bottom: 25px !important;
+  }
+  .link{
+    font: 18px/18px Arial, "sans-serif";
+    margin-bottom: 10px;
   }
 }
