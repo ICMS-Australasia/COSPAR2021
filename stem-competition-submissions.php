@@ -30,10 +30,17 @@ include('include/cospark.php');
                         }
                         //Grabbing queries
                         let queries = window.location.search;
-                        let parameters = new URLSearchParams(queries);
-
+                        let parameters, pageNum;
+                        //If there are no search queries
+                        if (queries == "") {
+                          //Set page to 1
+                          pageNum = 1;
+                        } else {
+                          //use the search queries to set the page
+                          parameters = new URLSearchParams(queries);
+                          pageNum = parseInt(parameters.get('page'));
+                        }
                         //Assigning page query to variable
-                        let pageNum = parseInt(parameters.get('page'));
                       </script>
                       <!-- Creating the buttons for the pages -->
                       <script type="text/javascript" src="./pagination.js"></script>
