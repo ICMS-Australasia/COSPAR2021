@@ -1,7 +1,7 @@
 
-  <a href="virtual-presenter-information" class="col-md-12 <?php if ( $title == "Virtual Presenter Information" ) { ?>d-none<?php } ?>">
+  <a href="presenter-information" class="col-md-12 <?php if ( $title == "Presenter Information" ) { ?>d-none<?php } ?>">
     <img src="img/presenter-tile4.jpg" alt="">
-    <div>Virtual Presenter Information</div>
+    <div>Presenter Information</div>
   </a>
 
   <a href="pre-record-guidelines" class="col-md-12 <?php if ( $title == "Pre-recorded presentation guidelines" ) { ?>d-none<?php } ?>">
