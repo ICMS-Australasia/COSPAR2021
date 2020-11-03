@@ -280,7 +280,7 @@ include('include/header.php');
 <h2 class="mt-5 mb-3">Speaker Enquiries</h2>
 
 
-<p>For all enquiries regarding virtual presentations</p>
+<p>For all enquiries regarding presentations</p>
 <p><strong>Emma McPartlan</strong><br>
   Email: <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
 

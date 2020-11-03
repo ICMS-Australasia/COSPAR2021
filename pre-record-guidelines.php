@@ -164,7 +164,7 @@ include('include/header.php');
 
 
 <h3>Multiple Presentations</h3>
-<p>If you have more than one presentation to prepare, please create separate sub-folders in your Drop box to allow us to easily identify each virtual presentation.</p>
+<p>If you have more than one presentation to prepare, please create separate sub-folders in your Drop box to allow us to easily identify each presentation.</p>
 
 <h3>Presenters’ Portal</h3>
 <p>Each presenter will receive an automatic Login token via email. This is a personalised link to the presenters’ portal.  In the portal, presenters will need to provide the following documents via a Dropbox link:</p>

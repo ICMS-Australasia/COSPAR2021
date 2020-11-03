@@ -127,11 +127,11 @@
                                         </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                Virtual Presenter Information
+                                                Presenter Information
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                <a class="dropdown-item" href="virtual-presenter-information">Virtual Presenter Information Overview</a>
+                                                <a class="dropdown-item" href="presenter-information">Presenter Information Overview</a>
                                                 <a class="dropdown-item" href="pre-record-guidelines">Pre-recorded Presentation Guidelines</a>
                                                 <a class="dropdown-item" href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a>
                                                 <a class="dropdown-item" href="system-configuration-requirements">System Configuration Requirements</a>

@@ -22,7 +22,7 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
-        <h2 class=" mb-3">Technical support for virtual participants in COSPAR-2021-Hybrid.</h2>
+        <h2 class=" mb-3">Technical support for participants in COSPAR-2021-Hybrid.</h2>
 
         <p>The Professional Conference Organiser (PCO) for COSPAR-2021-Hybrid is ICMS Australasia (ICMSA). Our Digital Event Team will implement, manage and execute the complex and comprehensive communications systems that will be employed for COSPAR-2021-Hybrid.  We are here to help you every step of the way.</p>
 
