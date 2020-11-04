@@ -67,10 +67,19 @@ td.bigger {
     .content > td .button a {
       color: white; }
 
+.standout h1 {
+  font-size: 48px;
+  line-height: 66px;
+  color: white;
+  text-align: center;
+  margin: 0; }
+  .standout h1 a {
+    color: white; }
 .standout h2 {
   color: white; }
 .standout td {
   background: #142453;
+  background-image: url("img/menu-bg.jpg");
   color: white; }
   .standout td strong {
     font-weight: bold;
@@ -103,7 +112,6 @@ td.bigger {
     background: #fbaf42;
     color: white;
     text-align: center;
-    font-weight: bold;
     font: 18px/30px Arial, sans-serif; }
     .table th:first-child {
       background: #142453;
@@ -112,8 +120,7 @@ td.bigger {
     text-align: center;
     border: solid 1px #dfdfdf; }
     .table td:first-child {
-      text-align: left;
-      font-weight: bold; }
+      text-align: left; }
 
 .faqs {
   margin-top: 20px;
@@ -146,5 +153,35 @@ td.bigger {
   .commissions .link {
     font: 18px/18px Arial, "sans-serif";
     margin-bottom: 10px; }
+
+.muted {
+  font-size: 14px;
+  color: #666; }
+
+.boxes .box {
+  background: #142453;
+  color: white; }
+  .boxes .box .box-link {
+    padding: 20px;
+    text-align: center; }
+  .boxes .box img {
+    display: block; }
+  .boxes .box a {
+    font-weight: bold;
+    color: white;
+    font-size: 22px; }
+
+.reasons {
+  margin-top: 30px; }
+  .reasons p {
+    margin-top: 10px;
+    margin-bottom: 30px; }
+
+.facebook {
+  background: #4267B2; }
+  .facebook a {
+    color: white;
+    font-weight: bold;
+    font-size: 26px; }
 
 /*# sourceMappingURL=style.css.map */

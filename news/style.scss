@@ -99,12 +99,23 @@ td.bigger {
 }
 
 .standout {
+  h1{
+    font-size: 48px;
+    line-height: 66px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    a{
+      color: white;
+    }
+  }
   h2 {
     color: white;
   }
 
   td {
     background: $darkblue;
+    background-image: url('img/menu-bg.jpg');
     color: white;
 
     strong {
@@ -153,7 +164,6 @@ td.bigger {
     background: #fbaf42;
     color: white;
     text-align: center;
-    font-weight: bold;
     font: 18px/30px Arial, sans-serif;
 
     &:first-child {
@@ -168,7 +178,6 @@ td.bigger {
 
     &:first-child {
       text-align: left;
-      font-weight: bold;
     }
   }
 }
@@ -221,4 +230,50 @@ td.bigger {
     font: 18px/18px Arial, "sans-serif";
     margin-bottom: 10px;
   }
+}
+
+.muted{
+  font-size: 14px;
+  color: #666;
+}
+
+.boxes{
+  .box{
+    background: $darkblue;
+    color: white;
+
+    .box-link{
+      padding: 20px;
+      text-align: center;
+    }
+    img{
+      display: block;
+    }
+    a{
+      font-weight: bold;
+      color: white;
+      font-size: 22px;
+    }
+  }
+}
+
+.reasons{
+margin-top: 30px;
+  p{
+
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+
+}
+
+.facebook{
+  background: #4267B2;
+
+  a{
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+  }
+
 }
