@@ -256,7 +256,7 @@ if ($home == true or $title == 'Venue') {
                     <strong>Privacy Policy</strong>
                 </a></p>
             </div>
-            <div class="col-md-4 pt-4 px-md-5 list">
+            <div class="col-md-3 pt-4 px-md-5 list">
                 <div class="row">
                     <div class="col-md-12 mb-2">
                       <a href="https://cospar2021.org/keeping-you-safe "><img src="img/COSPAR2021-Keeping-Safe-logo.png" class="img-fluid mb-4"></a>
