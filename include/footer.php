@@ -196,35 +196,7 @@ if ($home == true or $title == 'Venue') {
 </ul>
 
             </div>
-            <div class="col-md-4 pt-4 px-md-5 list">
-                <div class="row">
-                    <div class="col-md-12 mb-2">
-                        <h4 class="mb-3">Participation</h4>
-                        <a href="registration.php">Registration</a>
-                        <a href="program.php">Program Overview</a>
-                        <a href="speakers.php">Speakers</a>
-                        <a href="preliminary-program.php">Preliminary Program</a>
-                        <!-- <a href="koala-competition.php">Koala Competition</a> -->
-                        <a href="accommodation.php">Accommodation</a>
-                        <!-- <a href="visa-information.php">Visa information</a> -->
-                        <a href="sponsorship-and-exhibition.php">Sponsorship & Exhibition</a>
-                    </div>
-                    <div class="col-md-12 mb-2">
-                        <h4 class="mb-3">Destination</h4>
-                        <a href="venue.php">Venue</a>
-                        <!-- <a href="around-australia.php">Around Australia</a> -->
-                        <!-- <a href="just-outside-sydney.php">Just outside Sydney</a> -->
-                        <a href="helpful-information.php">Helpful Information</a>
-                    </div>
-                    <div class="col-md-12 mb-2">
-                        <h4 class="mb-3">Things to see & do</h4>
-                        <!-- <a href="must-dos-in-sydney.php">Must do's in Sydney</a> -->
-                        <!-- <a href="dining-on-a-budget.php">Dining on a budget</a> -->
-                        <a href="observatories.php">Observatories</a>
-                        <a href="stem.php">STEM COSPAR 2021</a>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-md-5 pt-4">
                 <h4 class="mb-3">COSPAR 2021 Secretariat</h4>
                 <h5>General Enquiries</h5>
@@ -284,6 +256,14 @@ if ($home == true or $title == 'Venue') {
                     <strong>Privacy Policy</strong>
                 </a></p>
             </div>
+            <div class="col-md-4 pt-4 px-md-5 list">
+                <div class="row">
+                    <div class="col-md-12 mb-2">
+                      <a href="https://cospar2021.org/keeping-you-safe "><img src="img/COSPAR2021-Keeping-Safe-logo.png" class="img-fluid mb-4"></a>
+                      <p>We are continuously following the advice of the <a class="d-inline" href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert" target="_blank">Australian Department of Health</a>, <a class="d-inline" href="https://www.nsw.gov.au/covid-19" target="_blank">NSW Government</a> and the venue at <a class="d-inline" href="https://www.iccsydney.com.au/EventSafe" target="_blank">ICC, Sydney</a>. The health and safety of our delegates, partners and staff remain our number one priority. <br><br> <a class="d-inline" href="https://cospar2021.org/keeping-you-safe">Read more</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
