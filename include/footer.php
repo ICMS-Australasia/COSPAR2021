@@ -260,7 +260,8 @@ if ($home == true or $title == 'Venue') {
                 <div class="row">
                     <div class="col-md-12 mb-2">
                       <a href="https://cospar2021.org/keeping-you-safe "><img src="img/COSPAR2021-Keeping-Safe-logo.png" class="img-fluid mb-4"></a>
-                      <p>We are continuously following the advice of the <a class="d-inline" href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert" target="_blank">Australian Department of Health</a>, <a class="d-inline" href="https://www.nsw.gov.au/covid-19" target="_blank">NSW Government</a> and the venue at <a class="d-inline" href="https://www.iccsydney.com.au/EventSafe" target="_blank">ICC, Sydney</a>. The health and safety of our delegates, partners and staff remain our number one priority. <br><br> <a class="d-inline" href="https://cospar2021.org/keeping-you-safe">Read more</a></p>
+                      <p>We are continuously following the advice of the <a class="d-inline" href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert" target="_blank">Australian Department of Health</a>, <a class="d-inline" href="https://www.nsw.gov.au/covid-19" target="_blank">NSW Government</a> and the venue at <a class="d-inline" href="https://www.iccsydney.com.au/EventSafe" target="_blank">ICC, Sydney</a>. The health and safety of our delegates, partners and staff remain our number one priority.</p>
+                      <p>See more information on <a class="d-inline" href="https://cospar2021.org/keeping-you-safe">Keeping you Safe.</a></p>
                     </div>
                 </div>
             </div>
