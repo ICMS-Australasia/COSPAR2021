@@ -9,7 +9,7 @@ include('include/header.php');
       <div class="col py-4">
         <h1><?php echo $title; ?></h1>
         <div class="sub">
-          <!--a href="#" target="_blank" class="presenter-pdf"><img src="img/presenter-pdf-video.jpg" style="width:120px;">View a complete set of Step by Step Video Instructions</a-->
+          <a href="https://youtu.be/D0CWfvLQiEo" target="_blank" class="presenter-pdf"><img src="img/presenter-pdf-video.jpg" style="width:120px;">View a complete set of Step by Step Video Instructions</a>
         </div>
       </div>
     </div>
@@ -134,7 +134,7 @@ include('include/header.php');
   <div class="icon-image col-md-1">
     <div class="icon-number">9</div>
   </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Where do I upload?</h2></div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Call to Action</h2></div>
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mb-4">
