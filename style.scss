@@ -1039,7 +1039,7 @@ a.active {
     color: white;
     padding: 0.75em 1.25em;
     display: inline-block;
-    font-size: 1.1em;
+    font-size: 1.5em;
     font-weight: 700;
 
     &:first-child {
@@ -1064,9 +1064,8 @@ a.active {
 .stem-card {
   transition: background 0.3s;
   background-color: #491865;
-  margin-bottom: 1.75em;
   color: white;
-
+  margin-bottom: 1.75em;
   .stem-card-title {
     color: white;
     text-align: center;

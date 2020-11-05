@@ -13,14 +13,22 @@ include('include/cospark.php');
 
         <h1 class="mt-3 mb-5">About COSPAR-K</h1>
 
-        <div class="float-md-right ml-0 ml-md-5">
-          <img src="img/cospark/girl.jpg" class="img-fluid" width="450" alt="">
-        </div>
-
-        <p>Australia is buzzing with space conversations. With a new Australian Space Agency (ASA), there’s a momentous research push, an explosion of space-related start-ups and more opportunities than ever for young Australian’s to be part of the journey.</p>
-        <p>COSPAR-K is a FREE Space STEM Event that will run in partnership with the NSW Department of Education’s <a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">STEM Industry School Partnerships (SISP) Program</a> alongside the Scientific Assembly (COSPAR 2021). This dedicated STEM Park will feature an array of interactive experiences and activations specially designed for students, teachers and parents to get hands on and participate in. Industry and government partners will provide opportunities to discover the latest innovations and also provide fun through exploration. We want COSPAR-K to be the space to ignite passion in our future thinkers and leaders.</p>
-        <p>As the world’s leading space researchers and industries are coming to Australia in January 2021, there exists a once-in-a-generation opportunity to spark the next generation of STEM talent!</p>
-
+        <div class="row align-items-center">
+          <div class="col-md-7 order-2 order-md-1">
+            <p>COSPAR-K is a Free Space STEM Event that is running in partnership with the NSW Department of Education’s <a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">STEM Industry School Partnerships (SISP) Program</a>.</p>
+            <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank">COSPAR-2021-Hybrid</a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
+            <p>COSPAR-K will feature two hero zones: our Awesome Activities Arena and Spectacular Speakers Schedule.</p>
+
+            <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mb-md-0">
+                <span class="button-head">Explore the COSPAR-K Ground Map</span>
+            </a>
+          </div>
+          <div class="col-md-5 order-1 order-md-2">
+              <img src="img/cospark/girl.jpg" class="img-fluid mb-4 mb-md-0" width="450">
+          </div>
+        </div>
+
+
         <div class="row">
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Take-Off Dates</h2>
@@ -41,90 +49,42 @@ include('include/cospark.php');
 
           </div>
         </div>
-
-
-
-
-
-
-
-
-
-
-        <h2 class="mt-5 mb-3">COSPAR-K Missions</h2>
-        <h3>We Need Your Help To Achieve Them!</h3>
-
-        <div class="mission d-flex">
-          <div class="m-number">
-            1
-          </div>
-          <div class="m-text">
-            <strong>To inspire and engage with thousands of students from NSW with the hope that these students will:</strong>
-
-            <ul>
-              <li>Pursue STEM related school subjects as part of their Higher School Certificate</li>
-              <li>Influence their selection of STEM related university courses</li>
-              <li>Pursue a career in space research or another STEM profession</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="mission d-flex">
-          <div class="m-number">
-            2
-          </div>
-          <div class="m-text ">
-            <strong>Provide a forum for Australian STEM teachers to expand their knowledge of space science and to make connections with other STEM teachers.</strong>
-          </div>
-        </div>
-        <div class="mission d-flex">
-          <div class="m-number">
-            3
-          </div>
-          <div class="m-text align-self-center">
-            <strong>To generate wider interest in Australian space research to parents, volunteers and the general public.</strong>
-          </div>
-        </div>
-        <div class="mission d-flex">
-          <div class="m-number">
-            4
-          </div>
-          <div class="m-text align-self-center">
-            <strong>To profile industry and government initiatives being undertaken in the space science sector.</strong>
-          </div>
-        </div>
-
-        <div class="mission d-flex">
-          <div class="m-number">
-            5
-          </div>
-          <div class="m-text align-self-center">
-            <strong>Attendance and engagement objectives are:</strong>
-
-
-            <ul>
-              <li>50% gender split for student attendance and teacher talks</li>
-              <li>10% indigenous student attendance or online engagement</li>
-              <li>10% attendance or online engagement from students and teachers from rural and regional NSW</li>
-              <li>10,000+ post event views</li>
-            </ul>
-
-
-          </div>
-        </div>
-
-        <h2 class="mt-5 mb-3">The Importance of STEM Engagement to COSPAR 2021</h2>
-
-        <div class="float-md-right ml-0 ml-md-5 mt-2">
-          <img src="img/cospark/attendance.jpg" class="img-fluid" width="450" alt="">
-        </div>
-
-        <p>The skills that learning about Science, Technology, Engineering and Maths (STEM) bring will be the foundation of the future world economy. These skills, along with enterprise skills such as creativity, critical thinking and digital
-          literacy will be the key to creating a world-leading future workforce in Australia. 50 years on from humankind’s first steps on the Moon, the value of an inspired STEM generation is reflected in our daily lives.</p>
-        <p>STEM education is critically important for Australia, as over the past decade there has been strong demand requiring workforce skills in STEM areas, while at the same time there has been a fall in students studying these subjects at high
-          school and university. The time for better engagement is now. COSPAR-K provides this opportunity.</p>
-        <p>COSPAR 2021 is making a deliberate effort to reach out to and motivate young people to pursue STEM careers that will contribute to Australia's evolving high-tech economy as a lasting legacy of this Assembly.</p>
-
+
+        <h2>Booking Types</h2>
+        <p>There are five different booking types available:</p>
+        <ul>
+          <li><b>Individual Booking</b> – If you are attending by yourself to participate in the activities and speaker program at the ICC Sydney.</li>
+          <li><b>Group Booking</b> – If you are a parent/guardian and will be attending with a child or group of children to participate in the activities and speaker program at the ICC Sydney.</li>
+          <li><b>School Excursion</b> – if you are a teacher and bringing your students.</li>
+        </ul>
+
+        <h2>Why are we bringing COSPAR-K to Sydney?</h2>
+        <p>With Australia’s new Space Agency (ASA), Australia is buzzing with space conversations. There’s a momentous research push, an explosion of space-related start-ups and more opportunities than ever for young Australian’s to be part of the journey.</p>
+        <p>STEM education is critically important for Australia. The demand for strong workforce skills in STEM areas has reached a fever pitch, while at the same time there has been a fall in students studying these subjects at high school and university. The time for better engagement is now. COSPAR-K provides this opportunity.</p>
+        <p>The skills that learning about Science, Technology, Engineering and Maths bring will be the foundation of the future world economy. These skills, along with enterprise skills such as creativity, critical thinking and digital literacy will be the key to creating a world-leading future workforce in Australia. 50 years on from humankind’s first steps on the Moon, the value of an inspired STEM generation is reflected in our daily lives.</p>
+        <p>COSPAR-2021-Hybrid is making a deliberate effort to reach out to and motivate young people to pursue STEM careers that will contribute to Australia's evolving high-tech economy as a lasting legacy of this Assembly.</p>
+        <p>Get involved, be inspired and <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank">book today</a> - places are strictly limited.</p>
+        <h2>COSPAR-K Mission Objectives</h2>
+        <h3>We Need Your Help To Achieve Them!</h3>
+        <ol>
+          <li>To inspire and engage with thousands of students from NSW with the hope that these students will:</li>
+          <ul>
+            <li>Pursue STEM related school subjects as part of their Higher School Certificate</li>
+            <li>Influence their selection of STEM related university courses</li>
+            <li>Pursue a career in space research or another STEM profession</li>
+          </ul>
+          <li>Provide a forum for Australian STEM teachers to expand their knowledge of space science and to make connections with other STEM teachers.</li>
+          <li>To generate wider interest in Australian space research to parents, volunteers and the general public.</li>
+          <li>To profile industry and government initiatives being undertaken in the space science sector.</li>
+          <li>Attendance and engagement objectives are:</li>
+          <ul>
+            <li>50% gender split for student attendance and teacher talks</li>
+            <li>10% indigenous student attendance or online engagement</li>
+            <li>10% attendance or online engagement from students and teachers from rural and regional NSW</li>
+            <li>10,000+ post event views</li>
+          </ul>
+        </ol>
+
 
 
         <?php

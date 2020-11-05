@@ -11,8 +11,36 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">Keynotes</h1>
+                      <h1 class="mt-3 mb-5">Keynote Speakers</h1>
                       <p>COSPAR-K will feature a Keynote Speaker every lunch break to highlight the importance of STEM and why a career in space STEM is a future to consider. Be inspired, be challenged and be the future of Space STEM.</p>
+
+                      <div class="row text-center">
+                        <a href="#bland" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/phil-bland.jpg" class="img-fluid mb-3">
+                          <h2>Phil Bland</h2>
+                        </a>
+                        <a href="#johnson" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/christyl-johnson.jpg" class="img-fluid mb-3">
+                          <h2>Christyl Johnson</h2>
+                        </a>
+                        <a href="#boyce" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/russell-boyce.jpg" class="img-fluid mb-3">
+                          <h2>Russell Boyce</h2>
+                        </a>
+                        <a href="#tutt" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/corey-tutt.jpg" class="img-fluid mb-3">
+                          <h2>Corey Tutt</h2>
+                        </a>
+                        <a href="#harvey" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/lisa-harvey.png" class="img-fluid mb-3">
+                          <h2>Lisa Harvey</h2>
+                        </a>
+                        <a href="#antoniades" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/andreas-antoniades.jpg" class="img-fluid mb-3">
+                          <h2>Andreas Antoniades</h2>
+                        </a>
+                      </div>
+
 
                       <h2 class="mt-5 mb-3">Phil Bland</h2>
                       <div class="row my-4 align-items-center">

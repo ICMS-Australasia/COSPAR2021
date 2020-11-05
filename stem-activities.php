@@ -11,8 +11,67 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">Activities & Partners</h1>
-                      <div class="row mt-5 mb-3 align-items-end">
+                      <h1 class="mt-3 mb-5">Awesome Activities Arena</h1>
+
+                      <h2>Parkside Ballroom, ICC Sydney</h2>
+                      <p>Our activities are out of this world awesome! Check out the interactive experiences and activations specially designed for students, teachers and parents to get hands on and participate. Our incredible industry and government partners are providing opportunities for you to discover the latest innovations and also have fun through exploration.</p>
+                      <p>COSPAR-K will be the space to ignite passion in our future thinkers and leaders so get involved and book your ticket today.</p>
+                      <p>Click here to view the Arena Ground Map.</p>
+                      BOOK YOUR IN-PERSON TICKET NOW
+
+                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
+                          <span class="button-head">Book Your In-Person Ticket Now</span>
+                      </a>
+                      <p>Your COSPAR-K experience doesn’t end here, check out our <a href="stem-virtual-activities.php">Virtual Activities Program</a>.</p>
+
+
+                      <div class="row stem-cards mb-4 mt-5">
+                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card7.jpg">
+                            <h3 class="stem-card-title p-4">Plant vs Mars</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card7.jpg">
+                            <h3 class="stem-card-title p-4">Rocket Rescue</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card3.jpg">
+                            <h3 class="stem-card-title p-4">Drone Racing</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card3.jpg">
+                            <h3 class="stem-card-title p-4">Satellite Mission</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card3.jpg">
+                            <h3 class="stem-card-title p-4">Giant Moon & Mars Maps <br> &nbsp;</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card2.jpg">
+                            <h3 class="stem-card-title p-4">Mars Yard & Monash Nova Rover</h3>
+                          </div>
+                        </a>
+                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                          <div class="stem-card">
+                            <img class="img-fluid" src="img/cospark/card3.jpg">
+                            <h3 class="stem-card-title p-4">Virtual Reality Helicopter Simulators</h3>
+                          </div>
+                        </a>
+                      </div>
+
+
+                      <!-- <div class="row mt-5 mb-3 align-items-end">
                           <div class="col-7">
                               <h2 class="mb-0">Monash Nova Rover</h2>
                           </div>
@@ -150,7 +209,7 @@ include('include/cospark.php');
                           <li>Virtual Reality Experiences</li>
                           <li>Bottle Rocket Competition</li>
                           <li>Giant Moon Map Exploration</li>
-                        </ul>
+                        </ul> -->
 
                       <?php
                       include('include/cospark-footer.php');
