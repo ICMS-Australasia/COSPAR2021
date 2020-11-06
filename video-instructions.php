@@ -39,7 +39,7 @@ include('include/header.php');
 <div class="embed-responsive embed-responsive-16by9 mb-4">
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/M99vbTI0Xfs?modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-<p>Software and how to record.</p>
+<p>Software and how to record. It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">

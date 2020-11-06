@@ -26,6 +26,8 @@ include('include/header.php');
 
         <p>The Professional Conference Organiser (PCO) for COSPAR-2021-Hybrid is ICMS Australasia (ICMSA). Our Digital Event Team will implement, manage and execute the complex and comprehensive communications systems that will be employed for COSPAR-2021-Hybrid.  We are here to help you every step of the way.</p>
 
+        <p>It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
+
         <h2 class="mt-5 mb-3">Presentation Check-List</h2>
 
 
