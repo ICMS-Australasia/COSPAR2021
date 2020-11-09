@@ -19,7 +19,7 @@ include('include/cospark.php');
             <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank">COSPAR-2021-Hybrid</a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
             <p>COSPAR-K will feature two hero zones: our Awesome Activities Arena and Spectacular Speakers Schedule.</p>
 
-            <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mb-md-0">
+            <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4 mb-md-0">
                 <span class="button-head">Explore the COSPAR-K Ground Map</span>
             </a>
           </div>
