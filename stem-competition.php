@@ -12,24 +12,14 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Competitions</h1>
-                      <div class="row">
-                        <div class="col-12 col-md-7">
-                          <a href="./stem-competition-submissions.php?page=1" class="button-secondary mb-4" >
-                              <span class="button-head">Paint the Sky Student Art Gallery</span>
-                          </a>
-                        </div>
-                        <div class="col-12 col-md-5">
-                          <a href="./stem-past-competitions.php" class="button-secondary mb-4" style='width: 100%;'>
-                              <span class="button-head">Past Competitions</span>
-                          </a>
-                        </div>
-                      </div>
 
-                      <h2>COSPAR-K Lunar Classroom Competition</h2>
-                      <p>Calling all teachers on Planet Earth, we have a mission for you. Tell us what your teaching essentials are if you were tasked to set up the first ever classroom on the Moon!</p>
-                      <p>All your items must fit within a standard shoebox…apart from that the stars are your limit.</p>
-                      <p>Simply share your lunar classroom kit by uploading a photo or video to <a href="https://www.instagram.com/cospar_k/?hl=en" target="_blank">Instagram</a> or <a href="https://www.facebook.com/COSPARK2021" target="_blank">Facebook</a> and tag <b>#cosparklunarclassoom</b> to be in the draw to WIN!</p>
-                      <h3>The Design Kit Prize Pack</h3>
+                      <div class="alert alert-primary p-5 mb-5" style="background:#fbedfc">
+                        <h2 class="mt-0">COSPAR-K Lunar Classroom Competition</h2>
+                        <p>Calling all teachers on Planet Earth, we have a mission for you. Tell us what your teaching essentials are if you were tasked to set up the first ever classroom on the Moon!</p>
+                        <p>All your items must fit within a standard shoebox…apart from that the stars are your limit.</p>
+                        <p class="mb-0">Simply share your lunar classroom kit by uploading a photo or video to <b>Instagram</b>, <b>Facebook</b> or <b>Twitter</b> and tag <b>#cosparklunarclassoom</b> to be in the draw to WIN!</p>
+                      </div>
+                      <h2>The Design Kit Prize Pack</h2>
                       <p>We want to help your students create out of this world designs right here on Planet Earth. We also want you to preview one of our favourite activities that will be running at COSPAR-K - our FREE Space STEM Event.</p>
                       <p><a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">The STEM Industry School Partnerships (SISP)</a> team are the geniuses behind our Plants vs Mars activity and have curated this incredible Design Kit Prize Pack to add to your ultimate classroom kit. We love that resources encourage creative design thinking, collaborative practices and an interdisciplinary (cross-curriculum) approach to solve complex problems.</p>
                       <p>There are <b>25 PRIZE PACKS</b> up for grabs, so what are you waiting for?</p>
@@ -38,7 +28,7 @@ include('include/cospark.php');
                         <li>10 x Plants vs Mars STEAM Activity Cards by the <a href="" target="_blank">Imaginaturalist</a></li>
                         <li>1 x Class Bundle of <a href="" target="_blank">Splats</a></li>
                         <li>1 x Digital Download of <a href="" target="_blank">Smart Design Student Notebook</a></li>
-                        <li>1 x <a href="https://www.make.do/products/discover-7" target="_blank">Discover Makedo Kit</a></li>
+                        <li>1 x <a href="https://www.make.do/products/discover-7" target="_blank">Makedo DISCOVER Toolbox</a></li>
                         <li>1 x DIY <a href="https://www.make.do/blogs/makedo-makers/38999425-makedo-how-to-make-geodesic-dome" target="_blank">Geodesic Dome Instructions (K- Stage 3)</a></li>
                         <li>1 x DIY Geodesic Dome Kit (Stage 3 & 4)</li>
                         <li>1 x Micro:bit Go Pack for <a href="https://makecode.microbit.org/projects/plant-watering" target="_blank">Make Code Automated Watering System</a></li>
@@ -105,6 +95,19 @@ include('include/cospark.php');
                               <td>Fri 4 Dec</td>
                           </tr>
                       </table>
+
+                      <div class="row mt-5">
+                        <div class="col-12 col-md-7">
+                          <a href="./stem-competition-submissions.php?page=1" class="button-secondary mb-4" >
+                              <span class="button-head">Paint the Sky Student Art Gallery</span>
+                          </a>
+                        </div>
+                        <div class="col-12 col-md-5">
+                          <a href="./stem-past-competitions.php" class="button-secondary mb-4" style='width: 100%;'>
+                              <span class="button-head">Past Competitions</span>
+                          </a>
+                        </div>
+                      </div>
 
                       <?php
                       include('include/cospark-footer.php');
