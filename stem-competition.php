@@ -14,8 +14,7 @@ include('include/cospark.php');
                       <h1 class="mt-3 mb-4">COSPAR-K Lunar Classroom Competition</h1>
 
                       <a class="button-secondary mb-5 p-5" style='width: 100%; color: white;'>
-                          <span class="button-head" style="text-decoration: none;">Calling all teachers on Planet Earth, we have a mission for you. </span>
-                          <span class="button-body">Tell us what your teaching essentials are if you were tasked to set up the first ever classroom on the Moon!</span>
+                          <span class="button-body">Calling all teachers on Planet Earth, we have a mission for you. Tell us what your teaching essentials are if you were tasked to set up the first ever classroom on the Moon!</span>
                           <span class="button-body">All your items must fit within a standard shoebox…apart from that the stars are your limit.</span>
                           <span class="button-body mb-0">Simply share your lunar classroom kit by uploading a photo or video to <b>Instagram</b>, <b>Facebook</b> or <b>Twitter</b> and tag <b>#cosparklunarclassoom</b> to be in the draw to WIN!</span>
                       </a>
