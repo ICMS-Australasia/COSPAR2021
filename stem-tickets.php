@@ -12,8 +12,8 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Tickets</h1>
-                      <img src="https://via.placeholder.com/1280x720" class="img-fluid mb-5">
-                      <!-- <img src="./img/cospark/cospark-tickets.jpg" class="img-fluid mb-5"> -->
+                      <!-- <img src="https://via.placeholder.com/1280x720" class="img-fluid mb-5"> -->
+                      <img src="./img/cospark/tickets.jpg" class="img-fluid mb-5 w-100">
 
                       <p>Get ready to blast off! Find out all the ways you can be involved at COSPAR-K below. Enjoy everything on offer by making the most of our week-long Free Space STEM Event.</p>
                       <h2>In-Person @ The ICC Sydney</h2>
