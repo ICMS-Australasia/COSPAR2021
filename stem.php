@@ -23,7 +23,7 @@ include('include/cospark.php');
               <h3 class="stem-card-title p-4">About COSPAR-K</h3>
             </div>
           </a> -->
-          <a href="stem-tickets#cospark" class="col-md-6">
+          <a href="stem-tickets" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card7.jpg">
               <h2 class="stem-card-title p-4" style="line-height: 1.5rem">Tickets <br> <span style="font-size:0.5em; font-weight: 400;"><em>All the ways you can get involved</em></span></h2>
@@ -41,13 +41,13 @@ include('include/cospark.php');
               <h3 class="stem-card-title p-4">Competition</h3>
             </div>
           </a> -->
-          <a href="stem-activities#cospark" class="col-md-6">
+          <a href="stem-activities" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card2.jpg">
               <h2 class="stem-card-title p-4" style="line-height: 1.5rem">Awesome Activities Arena <br> <span style="font-size:0.5em; font-weight: 400;">&nbsp;</span></h2>
             </div>
           </a>
-          <a href="stem-keynotes#cospark" class="col-md-6">
+          <a href="stem-speakers-schedule" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card3.jpg">
               <h2 class="stem-card-title p-4">Spectacular Speakers Schedules</h2>
