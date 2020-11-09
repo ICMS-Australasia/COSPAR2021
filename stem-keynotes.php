@@ -108,7 +108,7 @@ include('include/cospark.php');
                       <div class="modal fade" id="antoniades">
                           <div class="modal-dialog modal-dialog-centered modal-lg">
                               <div class="modal-content">
-                                  <img src="img/cospark/lisa-antoniades.jpg" width="250">
+                                  <img src="img/cospark/andreas-antoniades.jpg" width="250">
                                   <h2>Andreas Antoniades</h2>
                                   <h3>Tuesday 2 Feb 2021, 2:45pm - 3:15pm</h3>
                                   <p>Andreas is passionate about developing engineering solutions to real-world problems, particularly for space and ensuring that these solutions are available and affordable to all. He is the Director of Saber Astronautics Australia and is kept busy with space mission operations, ground stations, democratisation of space and open source hardware, as well as currently building the nation's space Mission Control Centre, in Adelaide, SA.</p>
