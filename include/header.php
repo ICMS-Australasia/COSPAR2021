@@ -136,6 +136,7 @@
                                                 <a class="dropdown-item" href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a>
                                                 <a class="dropdown-item" href="system-configuration-requirements">System Configuration Requirements</a>
                                                 <a class="dropdown-item" href="technical-support">Technical Support</a>
+                                                <a class="dropdown-item" href="video-instructions">Step by Step Video Instructions</a>
                                             </div>
                                         </li>
                                         <li class="nav-item">

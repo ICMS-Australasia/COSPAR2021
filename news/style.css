@@ -172,10 +172,13 @@ td.bigger {
     font-size: 22px; }
 
 .reasons {
-  margin-top: 30px; }
+  margin-top: 40px; }
+  .reasons img {
+    width: 75px;
+    height: auto; }
   .reasons p {
     margin-top: 10px;
-    margin-bottom: 30px; }
+    margin-bottom: 35px; }
 
 .facebook {
   background: #4267B2; }
@@ -183,5 +186,11 @@ td.bigger {
     color: white;
     font-weight: bold;
     font-size: 26px; }
+
+.text-center {
+  text-align: center; }
+
+.m1 {
+  margin-top: 30px; }
 
 /*# sourceMappingURL=style.css.map */

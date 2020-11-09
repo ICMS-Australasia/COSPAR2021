@@ -26,6 +26,7 @@ include('include/header.php');
 
 <p>Please see below the following instructions for setting up, creating and submitting your pre-recorded presentation. </p>
 
+
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
     <div class="icon-number">1</div>
@@ -35,6 +36,8 @@ include('include/header.php');
 
 <p>We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
 <p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you may record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
+
+<p>It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
 
 
 <div class="row icon align-items-center">

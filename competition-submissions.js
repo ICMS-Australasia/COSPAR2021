@@ -1,3 +1,107 @@
+let winners = [
+  {
+    "title": "Freddy, Year 2",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/ceffbb8162ea445dafd69ff8de06b09a",
+    "desc": "My inspiration for my painting is the Emu in the Sky constellation. I chose this because I love birds. I named my painting Speed Bird. The dots that are white represent the stars."
+  },
+  {
+    "title": "Pamela, Year 5",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/e0b2c5e6c6874df3bf6d1ed00aaa1b8f",
+    "desc": "I was inspired by the Emu in the Sky painting because there was a lot of passion in the and history in the piece. The painting reminds me of the community and culture that we are in. It is also connected to space and the Aboriginal Astrology."
+  },
+  {
+    "title": "Cuen, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/293c8e842303418d85da53313b9c61af",
+    "desc": "“Forbidden Marriage” The art piece I made represents the 7 Sisters and the Jampijinpa man wanting one of the sisters as his wife. The six other sisters are protecting the one wanted for marriage."
+  },
+  {
+    "title": "Lola, Year 5",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/8691dcc3fbd54f55992e9bc961672522",
+    "desc": "The Southern Cross and Two Pointers\n  \n The Southern cross story is about 2 men and 1 woman who are the first people on earth. The and man dies and the death spirit puts him in the sky and the cross. Later when the 2 others die they joined him.\n \n This is my own work."
+  },
+  {
+    "title": "Sonny, Kindergarten",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/259f5bff00204c8a9b6e7280ceda1e3f",
+    "desc": "This artwork is based around Aboriginal Astrology and Wonnarua land. The student placed their Astrology birth month animal (possum) in amongst the constellations including the Southern Cross. The student also learnt about the strengths of their animal which connects to visible wellbeing."
+  },
+  {
+    "title": "Iseult, Year 4",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/9695bd99fda14a8b9ca98a53dc103063",
+    "desc": "In the top right-hand corner, the moon is speaking light all around the night. There is a shooting star with animal patterns in its trail. The animals ride on the star because they need to make it home before morning. The stars work together to make the beautiful sky."
+  },
+  {
+    "title": "HV, Year 5",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/7087cf72fcd341eaaa1152334efd6ad7",
+    "desc": "I chose to feature bioluminescence because recently I went fishing at night. It was amazing how the water lit up, and it was like the stars had fallen into the ocean. It was an incredible experience, and I thought I would share it through my art. Work by HV."
+  },
+  {
+    "title": "Logan, Year 2",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/45277cbe63084b3b91f8d7415a0ab8fb",
+    "desc": "2 Blue first learnt about the Emu in the sky when learning about Earth and Space. All the students were in awe of the Emu's beauty and were amazed to learn about how it was utilised by the worlds first astronomers, the Aboriginal people. This is Logan's interpretation of it."
+  },
+  {
+    "title": "Henry, Year 3",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/e7a7ef48249f43339b87b1137c7ba279",
+    "desc": "My artwork represents my dreaming story of the sun. Every day it takes the sun 12 hours to heat up, so when it is night, it burns the sky."
+  },
+  {
+    "title": "Matilda, Year 2",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/ffd08cf10b6147969c5840a707c58bde",
+    "desc": "Dark Emu is the dark space in the Milky Way. I know that in Autumn it shows that it is time to collect emu eggs. I made my artwork by using a pin, paint, paper and a lead pencil and it is my own work."
+  },
+  {
+    "title": "Niamh, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/1b0be07955a24aacb18f7ae4cc85e969",
+    "desc": "This artwork has been inspired by a Dreaming story from Cape York which explains how the moon was made. Aboriginal Astronomers believe the moon is a shining boomerang, thrown up by an old, weak man. I integrated a simple version of the Aboriginal technique - cross hatching."
+  },
+  {
+    "title": "Mei, Year 5",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/54d48b2b6f034992b14663fe6de49ebb",
+    "desc": "My artwork is about the story of Venus. I have use the technique of dot painting and blending oil pastels to create the effect of the beautiful sky. The story of Venus, the Morning and Evening Star comes from the Yolngu culture."
+  },
+  {
+    "title": "Marley, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/7f82f14e1faf419fbcbf4d444b5fdc51",
+    "desc": "For this artwork, I was inspired by the wonders of Aboriginal Astronomy and the vibrant colours of galaxies. The indigenous stories have inspired me to learn more about our night sky. I have used paint and oil pastels and the traditional Aboriginal technique of dot painting."
+  },
+  {
+    "title": "Kaidao, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/6a748fdbb3f24db3bc986059a8627348",
+    "desc": "What I did for art is about the Seven Sisters. All the sisters are on the right side of the painting running away from a man Orion who followed in the night sky."
+  },
+  {
+    "title": "Stephanie, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/ff5a0e865f614407900d44821cfa86a5",
+    "desc": "My artwork shows Njarrindjeri people’s Nunganari, a stingray on the Southern Cross with two sharks (pointer stars) pursuing it. This symbolises the connection between the sky and the world below it. This is my own artwork. My inspiration is Alma Nungarrayi’s Night Sky exhibition, specifically her colours and painting techniques."
+  },
+  {
+    "title": "Abbie, Year 5",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/259cad8e3f2649ecbf0f348c048e402c",
+    "desc": "My ‘Paint the Sky’ artwork is inspired by Alma Nungarrayi, a Walpiri woman from Yuendumu . My artwork consists of dot painting from the Northern Territory, the constellation Yuree and stars, which represent stars. Alma is known for her artworks which incorporate circles and this has inspired my original artwork."
+  },
+  {
+    "title": "Ripley, Year 6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/ba898f9ee03842b5a3acb87d3a678468",
+    "desc": "I was inspired by the seven sister’s constellation. Instead of painting the seven sisters, I have altered it and painted three sisters to represent myself and my two sisters. I chose this as I would protect my sisters with all my courage, because family means the most."
+  },
+  {
+    "title": "Aahana, Year 2",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/176710d2413e4fc8b250446b34099a58",
+    "desc": "My artwork is using the Emu in the Sky and the Milky Way. It also includes four spinning stars, the Southern Cross and the Big Dipper. I was inspired by the story told by Aboriginal People, Emu in the Sky. I also was inspired by Aboriginal colours."
+  },
+  {
+    "title": "Kade, Year 4",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/a03bb1b922ce477eb638d8d7bfbeb0d5",
+    "desc": "Seven Sisters Looking for their Mum. This artwork looks like the galaxies. The sky is very cloudy. There are seven planets, which are the seven sisters. The coloured stars are actually tears. The tears belong to the sisters, who are crying because they can't find their mum."
+  },
+  {
+    "title": "Jabiru Area School, Year 5/6",
+    "img": "https://az659834.vo.msecnd.net/eventsairaueprod/production-icmsaust-public/4981ab52892a4fb293903da43f310a14",
+    "desc": "Bu kukak dird dja kinhkinh kabenedjarrkbolkwolkan: (At night the Moon and stars bring light)\n \n We are a class of mostly Aboriginal students who are fascinated by the Seven Sisters Dreaming, although this story is not from our country, we have enjoyed studying Pleiades. We have used our maths blocks which we often use to regulate, they can calm us like the night sky."
+  }
+];
+
+
 let submissions =
 [
   {

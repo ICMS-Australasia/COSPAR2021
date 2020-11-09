@@ -25,6 +25,7 @@ include('include/cospark.php');
                       <!-- Splitting up the array into chuncks -->
                       <script type="text/javascript">
                         let pageArr = [];
+                        pageArr.push(winners);
                         for (let i = 0; i < submissions.length; i += 24) {
                           pageArr.push(submissions.slice(i, i + 24));
                         }
@@ -48,7 +49,8 @@ include('include/cospark.php');
                       <script type="text/javascript" async>
                       let compiledHTML = pageArr[pageNum-1].map((sub, index) =>
                         `
-                        <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-4 col-sm-4 col-md-2 archive-item">
+                        <a href="#submission-${index}" data-toggle="modal" target="_blank" class="col-4 col-sm-4 ${pageNum == 1 ? `col-md-3` : `col-md-2`} archive-item">
+                          ${pageNum == 1 ? `<div class="archive-date">Winner</div>`: ``}
                           <div class="archive-image">
                             <img src="${sub.img}?text=${sub.title}" class="img-fluid" width="100%" loading="lazy">
                           </div>

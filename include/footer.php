@@ -46,13 +46,13 @@ if ($home == true) {
                     </div>
                 </div>
             </a>
-            <a href="registration.php" class="col-md-4 pb-5">
+            <a href="presenter-information" class="col-md-4 pb-5">
                 <div class="card">
-                    <i class="far fa-address-card circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/things.jpg">
+                    <i class="fas fa-user-chart circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/presenters.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Early Bird Registration</h3>
-                        <p class="card-text">Early Bird Registration Extended to 30 November 2020</p>
+                        <h3 class="card-title">Presenter Information</h3>
+                        <p class="card-text">Required information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid</p>
                     </div>
                 </div>
             </a>
@@ -76,13 +76,13 @@ if ($home == true) {
                     </div>
                 </div>
             </a>
-            <a href="invitation.php#key-dates" class="col-md-4 pb-5">
+            <a href="registration.php" class="col-md-4 pb-5">
                 <div class="card">
-                    <i class="fas fa-calendar-week circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/key-dates.png">
+                    <i class="far fa-address-card circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/things.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Key Dates</h3>
-                        <p class="card-text">Keep up to date with COSPAR 2021 Hybrid</p>
+                        <h3 class="card-title">Early Bird Registration</h3>
+                        <p class="card-text">Early Bird Registration Extended to 30 November 2020</p>
                     </div>
                 </div>
             </a>
