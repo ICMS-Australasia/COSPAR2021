@@ -30,7 +30,7 @@ include('include/cospark.php');
                           <span class="button-head">Book your In-Person Tickets Now!</span>
                       </a>
 
-                      <h2>VIRTUAL via COSPAR-K TV <span style="font-size: 0.7em;"><em>powered by Microsoft</em></span></h2>
+                      <!-- <h2>VIRTUAL via COSPAR-K TV <span style="font-size: 0.7em;"><em>powered by Microsoft</em></span></h2>
                       <ul>
                         <li>Be inspired by our Spectacular Speakers covering topics for teachers, students and general space and science lovers.</li>
                         <li>Experience our specially developed virtual activities from your classroom or at home.</li>
@@ -40,7 +40,7 @@ include('include/cospark.php');
                       <a href="" target="_blank" class="button-secondary mb-5 mt-5">
                           <span class="button-head">Book your COSPAR-K TV Ticket Now</span>
                           <span class="button-body"><em>Powered by Microsoft</em></span>
-                      </a>
+                      </a> -->
 
                       <?php
                       include('include/cospark-footer.php');
