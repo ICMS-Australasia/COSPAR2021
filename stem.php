@@ -10,7 +10,7 @@ include('include/cospark.php');
     <div class="row py-5">
       <div class="col stem-page">
         <h5>Get involved with COSPAR-K: A Free Space STEM Event which will feature two hero zones: our <b>Awesome Activities Arena</b> and <b>Spectacular Speakers Schedule</b>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV powered by Microsoft.</h5>
-        <h5 class="my-4">The best part is tickets are 100% <b>FREE!</b></h5>
+        <h3 class="my-4">The best part is tickets are 100% <b>FREE!</b></h3>
 
         <a href="" class="button-main my-5">
           <span class="button-head">View the COSPAR-K Ground Map</span>
@@ -31,7 +31,8 @@ include('include/cospark.php');
           </a>
           <a href="stem-tickets#cospark" class="col-md-6">
             <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card7.jpg">
+              <img class="img-fluid" src="https://via.placeholder.com/550x450">
+              <!-- <img class="img-fluid" src="img/cospark/card7.jpg"> -->
               <h2 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.5em; font-weight: 400;"><em>powered by Microsoft</em></span></h2>
             </div>
           </a>
@@ -71,7 +72,7 @@ include('include/cospark.php');
             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_q2q-WBhH_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
-        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" class="button-main my-5">
+        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-5">
           <span class="button-head">Book your Tickets Now!</span>
         </a>
 

@@ -32,19 +32,23 @@ include('include/cospark.php');
         <div class="row">
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Take-Off Dates</h2>
-            <h3 class="mb-2">Public Days</h3>
-            <p>Friday 29 January – Sunday 31 January 2021</p>
-            <h3 class="mb-2">School Group Days</h3>
-            <p>Monday 1 February – Tuesday 2 February 2021</p>
+            <p>Friday 29 January – Tuesday 2 February 2021</p>
+
+            <h5 class="mb-2"><b>Operating two sessions per day:</b></h5>
+            <p><b>Morning</b> - 9:30am - 12:00pm <br>
+              <b>Afternoon</b> - 9:30am - 12:00pm</p>
+
+
+
           </div>
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Coordinates</h2>
 
             <h3 class="mb-2">ICC Sydney & Virtual Excursion</h3>
-            <p><strong>ICC Sydney</strong><br />
-              Level 2, Parkside Ballroom, 14 Darling Drive, Darling Harbour, Sydney</p>
+            <p><strong>In-Person</strong> @ ICC Sydney<br/>
+              <em>Parkside Ballroom & Pyrmont Theatre</em></p>
             <p>
-              Virtual Excursion & COSPAR-K TV will be broadcast via <a href="https://dartconnections.org.au/providers/cospar-k" target="_blank">DART Connections</a>
+              <b>Virtual Access</b> via COSPAR-K TV <em>powered by Microsoft</em>
             </p>
 
           </div>
@@ -53,9 +57,17 @@ include('include/cospark.php');
         <h2>Booking Types</h2>
         <p>There are five different booking types available:</p>
         <ul>
-          <li><b>Individual Booking</b> – If you are attending by yourself to participate in the activities and speaker program at the ICC Sydney.</li>
-          <li><b>Group Booking</b> – If you are a parent/guardian and will be attending with a child or group of children to participate in the activities and speaker program at the ICC Sydney.</li>
-          <li><b>School Excursion</b> – if you are a teacher and bringing your students.</li>
+          <li><b>In-Person Individual Booking</b> <br>
+            <em>If you are attending by yourself to participate in the activities and speaker program at the ICC Sydney.</em></li>
+          <li><b>In Person Individual Booking (Speaker Program Only)</b> <br>
+            <em>If you are attending by yourself to the ICC Sydney to watch the speaker program only.</em></li>
+          <li><b>In-Person Public Group Booking</b> <br>
+            <em>If you are a parent/guardian and will be attending with a child or group of children to participate in the activities and speaker program at the ICC Sydney.</em></li>
+          <li><b>In-Person School Excursion</b> <br>
+            <em>If you are a teacher and bringing your students to the ICC Sydney to participate in the activities and speaker program.</em></li>
+          <li><b>COSPAR-K TV powered by Microsoft</b> <br>
+            <em>Virtually stream the full speakers program and choose to add on virtual excursions for yourself or your group.</em></li>
+
         </ul>
 
         <h2>Why are we bringing COSPAR-K to Sydney?</h2>

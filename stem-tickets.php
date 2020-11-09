@@ -12,7 +12,8 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-5">Tickets</h1>
-                      <img src="./img/cospark/cospark-tickets.jpg" class="img-fluid mb-5">
+                      <img src="https://via.placeholder.com/1280x720" class="img-fluid mb-5">
+                      <!-- <img src="./img/cospark/cospark-tickets.jpg" class="img-fluid mb-5"> -->
 
                       <p>Get ready to blast off! Find out all the ways you can be involved at COSPAR-K below. Enjoy everything on offer by making the most of our week-long Free Space STEM Event.</p>
                       <h2>In-Person @ The ICC Sydney</h2>
@@ -26,7 +27,7 @@ include('include/cospark.php');
                       <p>All in-person bookings include access to COSPAR-K TV <em>powered by Microsoft</em> allowing you to live stream the full speaker schedule during the week.</p>
 
                       <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-5 mt-5">
-                          <span class="button-head">Book your In-Person Ticket Now!</span>
+                          <span class="button-head">Book your In-Person Tickets Now!</span>
                       </a>
 
                       <h2>VIRTUAL via COSPAR-K TV <span style="font-size: 0.7em;"><em>powered by Microsoft</em></span></h2>
@@ -36,7 +37,7 @@ include('include/cospark.php');
                         <li>Make the most of the week-long festival of Space STEM by continuing the fun and learning wherever you are on our beautiful Earth.</li>
                       </ul>
 
-                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-5 mt-5">
+                      <a href="" target="_blank" class="button-secondary mb-5 mt-5">
                           <span class="button-head">Book your COSPAR-K TV Ticket Now</span>
                           <span class="button-body"><em>Powered by Microsoft</em></span>
                       </a>
