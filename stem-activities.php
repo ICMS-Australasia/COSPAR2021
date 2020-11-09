@@ -22,47 +22,47 @@ include('include/cospark.php');
                       <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
                           <span class="button-head">Book Your In-Person Ticket Now</span>
                       </a>
-                      <p>Your COSPAR-K experience doesn’t end here, check out our <a href="stem-virtual-activities.php">Virtual Activities Program</a>.</p>
+                      <!-- <p>Your COSPAR-K experience doesn’t end here, check out our <a href="stem-virtual-activities.php">Virtual Activities Program</a>.</p> -->
 
 
                       <div class="row stem-cards mb-4 mt-5">
-                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                        <a href="./stem-activities.php?activity=PlantsVsMars" class="col-6 col-md-3">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card7.jpg">
                             <h3 class="stem-card-title p-4">Plant vs Mars</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                        <a href="./stem-activities.php?activity=RocketRescue" class="col-6 col-md-3">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card7.jpg">
                             <h3 class="stem-card-title p-4">Rocket Rescue</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                        <a href="./stem-activities.php?activity=DroneRacing" class="col-6 col-md-3">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card3.jpg">
                             <h3 class="stem-card-title p-4">Drone Racing</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-3">
+                        <a href="./stem-activities.php?activity=SatelliteMission" class="col-6 col-md-3">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card3.jpg">
                             <h3 class="stem-card-title p-4">Satellite Mission</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                        <a href="./stem-activities.php?activity=GiantMoonAndMarsMaps" class="col-6 col-md-4">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card3.jpg">
                             <h3 class="stem-card-title p-4">Giant Moon & Mars Maps <br> &nbsp;</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                        <a href="./stem-activities.php?activity=MarsYardAndMonashNovaRover" class="col-6 col-md-4">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card2.jpg">
                             <h3 class="stem-card-title p-4">Mars Yard & Monash Nova Rover</h3>
                           </div>
                         </a>
-                        <a href="#" data-toggle="modal" class="col-6 col-md-4">
+                        <a href="./stem-activities.php?activity=VirtualRealityHelicopterSimulators" class="col-6 col-md-4">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card3.jpg">
                             <h3 class="stem-card-title p-4">Virtual Reality Helicopter Simulators</h3>
