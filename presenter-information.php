@@ -30,6 +30,12 @@ include('include/header.php');
 
         <p>The details below are intended to provide the required information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid: the authors of all accepted abstracts, the Main Scientific Organizers (MSOs) and Deputy Organizers (DOs) of all scientific events, the Chairs of Scientific Commissions and Panels, and the COSPAR Program Committee. These details include instructions for how the Scientific Program for COSPAR-2021-Hybrid will be conducted, the opportunities and responsibilities of participating in the Scientific Program, and how to obtain the reduced registration rate in return for on-time delivery of pre-recorded presentations.</p>
 
+        <h2 class="mt-5 mb-3">Registration</h2>
+
+        <p>As a presenter, you must <a href="registration">register</a>, pay and submit, at a minimum your short-summary video by <strong>30 November 2020</strong>.</p>
+        <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must <a href="registration">register</a>, pay and submit your video presentations by <strong>30 November 2020</strong>.</p>
+
+
         <h2 class="mt-5 mb-3">Event Schedule</h2>
         <p>There is no change in the program (themes, sessions, layout), now that COSPAR-2021 is COSPAR-2021-Hybrid. </p>
         <p>All presentations will be pre-recorded by presenters, with the duration consistent as per the original program timings. Presentations will need to be uploaded for inclusion in the Assembly delivery platform ( no later than 30 November 2020) and will be available at the beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes, and keywords, to registered delegates only.</p>
@@ -46,10 +52,6 @@ include('include/header.php');
 
         <p>The program for each day will be concentrated into a three-hour block early in the Australian/Asian day (suitable for the American time zones) and repeated again at the end of the Australian/Asian day and into the evening (suitable for
           the European, African and Middle-Eastern time zones). In this way, all time zones will be catered for. Outside these times, the presentations will be available on-demand until 31 December 2021.</p>
-
-        <h2 class="mt-5 mb-3">Registration</h2>
-
-        <p>All presenters are reminded to register before <strong>30 November 2020</strong>, the early bird Presenter Registration Deadline. In order to be eligible for the early bird presenter rate, presentations will need to be uploaded for inclusion in the Assembly delivery platform on or before ( no later than) 30 November 2020) .</p>
 
         <h2 class="mt-5 mb-3">Platform</h2>
 
