@@ -47,7 +47,17 @@ include('include/cospark.php');
                         <li>1 x Bunch of limited edition <a href="https://www.cospar2021.org/stem#cospark" target="_blank">COSPAR-K</a> rocket bookmarks and holographic stickers</li>
                       </ul>
 
-                      <img src="https://via.placeholder.com/1280x400" class="img-fluid my-4">
+                      <div class="row align-items-center">
+                        <div class="col-md-7">
+                          <img src="./img/cospark/cospark-lunar-classroom.png" class="img-fluid my-4">
+                        </div>
+                        <div class="col-md">
+                          <img src="./img/cospark/a-humans-guide-to-the-future.jpg" class="img-fluid my-4">
+                        </div>
+                        <div class="col-md">
+                          <img src="./img/cospark/the-number-games.jpg" class="img-fluid my-4">
+                        </div>
+                      </div>
 
                       <h3>Entrant Eligibility</h3>
                       <p>Entrants must be:</p>
