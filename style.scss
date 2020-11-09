@@ -972,6 +972,30 @@ a.active {
     }
   }
 
+  .speakers-schedule {
+    a {
+      text-decoration: none;
+      transition: 0.2s all ease-in-out;
+      h3 {
+        text-decoration: underline;
+      }
+      .icon {
+        font-size: 10rem;
+        color: #491865;
+      }
+      &.disabled {
+        p, h3 { color: #e0e0e0; }
+        &:hover {
+          transform: none;
+        }
+      }
+      &:hover {
+        color: #841068;
+        transform: scale(1.05);
+      }
+    }
+  }
+
   #submission-buttons {
     a {
       background: #841068;

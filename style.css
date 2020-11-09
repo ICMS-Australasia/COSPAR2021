@@ -782,6 +782,27 @@ a.active {
 .stem-page .button-secondary:hover {
   background: #841068;
 }
+.stem-page .speakers-schedule a {
+  text-decoration: none;
+  transition: 0.2s all ease-in-out;
+}
+.stem-page .speakers-schedule a h3 {
+  text-decoration: underline;
+}
+.stem-page .speakers-schedule a .icon {
+  font-size: 10rem;
+  color: #491865;
+}
+.stem-page .speakers-schedule a.disabled p, .stem-page .speakers-schedule a.disabled h3 {
+  color: #e0e0e0;
+}
+.stem-page .speakers-schedule a.disabled:hover {
+  transform: none;
+}
+.stem-page .speakers-schedule a:hover {
+  color: #841068;
+  transform: scale(1.05);
+}
 .stem-page #submission-buttons a {
   background: #841068;
   color: white;
