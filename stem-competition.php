@@ -25,9 +25,9 @@ include('include/cospark.php');
                       <p>There are <b>25 PRIZE PACKS</b> up for grabs, so what are you waiting for?</p>
                       <p>Full prize inclusions are:</p>
                       <ul>
-                        <li>10 x Plants vs Mars STEAM Activity Cards by the <a href="" target="_blank">Imaginaturalist</a></li>
-                        <li>1 x Class Bundle of <a href="" target="_blank">Splats</a></li>
-                        <li>1 x Digital Download of <a href="" target="_blank">Smart Design Student Notebook</a></li>
+                        <li>10 x Plants vs Mars STEAM Activity Cards by the <a href="https://imaginaturalists.com.au/" target="_blank">Imaginaturalist</a></li>
+                        <li>1 x Class Bundle of <a href="https://splat3d.com/shop/" target="_blank">Splats</a></li>
+                        <li>1 x Digital Download of <a href="https://splat3d.com/resources/" target="_blank">Smart Design Student Notebook</a></li>
                         <li>1 x <a href="https://www.make.do/products/discover-7" target="_blank">Makedo DISCOVER Toolbox</a></li>
                         <li>1 x DIY <a href="https://www.make.do/blogs/makedo-makers/38999425-makedo-how-to-make-geodesic-dome" target="_blank">Geodesic Dome Instructions (K- Stage 3)</a></li>
                         <li>1 x DIY Geodesic Dome Kit (Stage 3 & 4)</li>
