@@ -13,7 +13,7 @@ include('include/cospark.php');
 
                       <h1 class="mt-3 mb-5">Tickets</h1>
                       <!-- <img src="https://via.placeholder.com/1280x720" class="img-fluid mb-5"> -->
-                      <p>Get ready to blast off! Find out all the ways you can be involved at COSPAR-K below. Enjoy everything on offer by making the most of our week-long Free Space STEM Event.</p>
+                      <p>Get ready to blast off! Find out all the ways you can be involved at COSPAR-K below. Enjoy everything on offer by making the most of our week-long Free Space STEM Event, both in-person and virtually.</p>
                       <img src="./img/cospark/tickets.jpg" class="img-fluid mb-5 w-100">
 
                       <h2>In-Person @ The ICC Sydney</h2>
@@ -25,7 +25,7 @@ include('include/cospark.php');
                       <p>Choose what you attend and when you attend via our booking system. There are 10 sessions to select from and you may book as an individual, public group or for a school excursion.</p>
                       <p><em>Sessions are currently capped at 150 people each due to COVID-19 restrictions.</em></p>
                       <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main mb-5 mt-5">
-                        <span class="button-body mb-0"><b>Book Your In-Person Tickets Now!</b></span>
+                        <span class="button-body"><b>Book Your In-Person Tickets Now!</b></span>
                       </a>
 
                       <h2>VIRTUAL via COSPAR-K TV <em>powered by Microsoft</em></h2>
@@ -36,8 +36,8 @@ include('include/cospark.php');
                       </ul>
 
                       <a href="stem-tv" class="button-secondary mb-5 mt-5">
-                        <span class="button-body mb-0"><b>COSPAR-K TV Bookings Opening Soon</b></span>
-                        <span class="button-body my-0"><em>powered by Microsoft</em></span>
+                        <span class="button-body mb-0"><b>COSPAR-K TV <em class="mr-1">powered by Microsoft</em>  Bookings Opening Soon</b></span>
+                        <span class="button-body my-0"></span>
                       </a>
 
 
