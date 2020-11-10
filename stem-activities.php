@@ -14,7 +14,7 @@ include('include/cospark.php');
 
                       <h1 class="mt-3 mb-5">Awesome Activities Arena</h1>
 
-                      <h2>Parkside Ballroom, ICC Sydney</h2>
+                      <h3>Parkside Ballroom, ICC Sydney</h3>
                       <p>Our activities are out of this world awesome! Check out the interactive experiences and activations specially designed for students, teachers and parents to get hands on and participate. Our incredible industry and government partners are providing opportunities for you to discover the latest innovations and also have fun through exploration.</p>
                       <p>COSPAR-K will be the space to ignite passion in our future thinkers and leaders so get involved and book your ticket today.</p>
                       <p>Click here to view the Arena Ground Map.</p>
