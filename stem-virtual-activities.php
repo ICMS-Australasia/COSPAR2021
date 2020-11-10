@@ -16,10 +16,7 @@ include('include/cospark.php');
                       <p>To compliment all the in-person action, we’ve created virtual activities so you can continue the fun and learning from wherever you choose. Providing extended access and remote access to those not able to attend in-person due to location or other reasons has driven the team to develop these fun and educational experiences which are accessible to all.</p>
                       <p>Places are limited for some activities so book your tickets today to secure your spot.</p>
 
-                      <a href="stem-tv" class="button-secondary mb-5 mt-4">
-                          <span class="button-head">Book your COSPAR-K TV Tickets</span>
-                          <span class="button-body"><em>Powered by Microsoft</em></span>
-                      </a>
+
 
                       <div class="row mt-5 mb-3 d-flex align-items-end">
                           <div class="col">
@@ -40,8 +37,9 @@ include('include/cospark.php');
                       <p>After years of training, the time has come for you to start the remarkable journey from Earth to Mars. Can you take off from Earth, navigate to the Moon and overcome cybersecurity threats along the way? After travelling millions of miles through space, can you then manage to establish human life on Mars?!</p>
                       <p>This activity is available for all five days of COSPAR-K, book your COSPAR-K TV <em>powered by Microsoft</em> tickets to access this game.</p>
 
-
-
+                      <a href="stem-tv" class="button-secondary mb-5 mt-4">
+                          <span class="button-body mb-0"><b>Book your COSPAR-K TV <em class="mr-1">Powered by Microsoft</em> Tickets</b></span>
+                      </a>
                       <?php
                       include('include/cospark-footer.php');
                       ?>
