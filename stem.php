@@ -17,57 +17,33 @@ include('include/cospark.php');
         </a>
 
         <div class="row stem-cards justify-content-center mb-4">
-          <!-- <a href="stem-about#cospark" class="col-md-6">
-            <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card1.jpg">
-              <h3 class="stem-card-title p-4">About COSPAR-K</h3>
-            </div>
-          </a> -->
           <a href="stem-tickets" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card7.jpg">
-              <h2 class="stem-card-title p-4" style="line-height: 1.5rem">Tickets <br> <span style="font-size:0.5em; font-weight: 400;"><em>All the ways you can get involved</em></span></h2>
+              <h3 class="stem-card-title p-4" style="line-height: 1.5rem">Tickets <br> <span style="font-size:0.7em; font-weight: 400;"><em>All the ways you can get involved</em></span></h3>
             </div>
           </a>
           <a href="stem-tickets#cospark" class="col-md-6">
             <div class="stem-card">
-              <img class="img-fluid" src="https://via.placeholder.com/550x450">
-              <h2 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.5em; font-weight: 400;"><em>powered by Microsoft</em></span></h2>
+              <img class="img-fluid" src="img/cospark/card9.jpg">
+              <h3 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.7em; font-weight: 400;"><em>powered by Microsoft</em></span></h3>
             </div>
           </a>
-          <!-- <a href="stem-competition#cospark" class="col-md-6">
-            <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card5.jpg">
-              <h3 class="stem-card-title p-4">Competition</h3>
-            </div>
-          </a> -->
           <a href="stem-activities" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card2.jpg">
-              <h2 class="stem-card-title p-4">Awesome Activities Arena</h2>
+              <h3 class="stem-card-title p-4">Awesome Activities Arena</h3>
             </div>
           </a>
           <a href="stem-speakers-schedule" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card3.jpg">
-              <h2 class="stem-card-title p-4">Spectacular Speakers Schedules</h2>
+              <h3 class="stem-card-title p-4">Spectacular Speakers Schedules</h3>
             </div>
           </a>
-          <!-- <a href="stem-power-talks#cospark" class="col-md-6">
-            <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card4.jpg">
-              <h3 class="stem-card-title p-4">Power Talks</h3>
-            </div>
-          </a> -->
-          <!-- <a href="stem-catalogue#cospark" class="col-md-6">
-            <div class="stem-card">
-              <img class="img-fluid" src="img/cospark/card6.jpg">
-              <h3 class="stem-card-title p-4">Catalogue</h3>
-            </div>
-          </a> -->
         </div>
 
-        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main my-5">
+        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main mb-5">
           <span class="button-head">View the COSPAR-K Ground Map</span>
         </a>
 
