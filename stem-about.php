@@ -75,7 +75,7 @@ include('include/cospark.php');
         <p>The skills that learning about Science, Technology, Engineering and Maths bring will be the foundation of the future world economy. These skills, along with enterprise skills such as creativity, critical thinking and digital literacy will be the key to creating a world-leading future workforce in Australia. 50 years on from humankind’s first steps on the Moon, the value of an inspired STEM generation is reflected in our daily lives.</p>
         <p>COSPAR-2021-Hybrid is making a deliberate effort to reach out to and motivate young people to pursue STEM careers that will contribute to Australia's evolving high-tech economy as a lasting legacy of this Assembly.</p>
         <p>Get involved, be inspired and <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank">book today</a> - places are strictly limited.</p>
-        <h2>COSPAR-K Mission Objectives</h2>
+        <h2 class="mt-5">COSPAR-K Mission Objectives</h2>
         <h3>We Need Your Help To Achieve Them!</h3>
         <div class="mission d-flex">
           <div class="m-number">
