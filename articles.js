@@ -1,12 +1,12 @@
 let latestNews = {
    "items":[
-      {
-         "title":"Edition #14: Introducing 3 Superstar Keynote Speakers!",
-         "type":"Email",
-         "image":"20.jpg",
-         "date":"Tuesday, 21 October 2020",
-         "link":"https://mailchi.mp/08b6a2748c1a/introducing-3-superstar-keynote-speakers"
-      },
+     {
+        "title":"Edition #15: Book Your In-Person Tickets Today!",
+        "type":"Email",
+        "image":"21.jpg",
+        "date":"Tuesday, 5 November 2020",
+        "link":"https://mailchi.mp/db564bc1f8f1/book-your-in-person-tickets-today"
+     },
       {
          "title":"Edition #13: 3, 2, 1 Blast Off! Bookings for Mission COSPAR-K are Go ",
          "type":"Email",
