@@ -22,6 +22,9 @@
   <div class="stem-menu">
     <a href="stem#cospark">Launch Pad</a>
     <a href="stem-about">About COSPAR-K</a>
+    <a href="stem-tickets">Tickets</a>
+    <a href="stem-activities">Activities</a>
+    <a href="stem-speakers">Speakers</a>
     <a href="stem-competition">Competition</a>
     <a href="stem-catalogue">Media</a>
   </div>
