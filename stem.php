@@ -45,15 +45,15 @@ include('include/cospark.php');
           </a>
         </div>
 
-        <a href="stem-tv.php" target="_blank" class="button-main mb-4">
-          <span class="button-body mb-0"><b>Book Your COSPAR-K TV Tickets Now</b></span>
+        <a href="stem-tv.php" target="_blank" class="button-secondary mb-4">
+          <span class="button-head mb-0"><b>Book Your COSPAR-K TV Tickets</b></span>
           <span class="button-body my-0"><em>powered by Microsoft</em></span>
         </a>
-        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main mb-4">
-          <span class="button-body mb-0"><b>Explore the COSPAR-K Ground Map</b></span>
+        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4">
+          <span class="button-head mb-0"><b>Explore the COSPAR-K Ground Map</b></span>
         </a>
-        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main mb-5">
-          <span class="button-body mb-0"><b>View the Promo Flyer</b></span>
+        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-5">
+          <span class="button-head mb-0"><b>View the Promo Flyer</b></span>
         </a>
 
         <div class="embed-responsive embed-responsive-16by9">
