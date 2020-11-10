@@ -16,7 +16,7 @@ include('include/cospark.php');
         <div class="row align-items-center">
           <div class="col-md-7 order-2 order-md-1">
             <p>COSPAR-K is a Free Space STEM Event that is running in partnership with the NSW Department of Education’s <a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">STEM Industry School Partnerships (SISP) Program</a>.</p>
-            <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank"><b>COSPAR-2021-Hybrid</b></a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
+            <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank"><b>COS</b>PAR-2021-Hybrid</a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
             <p>COSPAR-K will feature two hero zones: our <a href="stem-activities" class="purple"><b>Awesome Activities Arena</b></a> and <a href="stem-speakers-schedule" class="purple"><b>Spectacular Speakers Schedule</b></a>.</p>
 
             <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4 mb-md-0">
@@ -32,8 +32,8 @@ include('include/cospark.php');
         <div class="row">
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Take-Off Dates</h2>
-            <h3 class="mb-1"><b>Sessions:</b></h3>
             <p><b>Friday 29 January – Tuesday 2 February 2021</b></p>
+            <h3 class="mb-1"><b>Sessions:</b></h3>
             <p><b>Morning</b> - 9:30am - 12:00pm <br>
               <b>Afternoon</b> - 1:00pm - 3:30pm</p>
           </div>
