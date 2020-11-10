@@ -11,25 +11,21 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">COSPAR-K TV <span style="font-size:0.5em;"><em>powered by Microsoft</em></span></h1>
+                      <h1 class="mt-3 mb-5">COSPAR-K TV <em>powered by Microsoft</em> <img src="./img/cospark/microsoft.png" class="img-fluid my-0 ml-5" width="200"></h1>
 
-                      <img src="./img/cospark/microsoft.png" class="img-fluid w-50 mx-auto d-block">
+
 
                       <p>COSPAR-K TV <em>powered by Microsoft</em> is the <b>virtual experience</b> for our Free Space STEM Event. Bringing all the live action from the ICC Sydney to you, wherever you may be on our beautiful Earth: live stream the full speakers program and participate in virtual excursions.</p>
                       <p><b>ADD</b> COSPAR-K TV <em>powered by Microsoft</em> to your ‘in-person ticket’ and continue the Space STEM fun all week long in the classroom or back at home.</p>
                       <p>Alternatively for those unable to attend in-person, <b>ACCESS</b> COSPAR-K TV <em>powered by Microsoft</em> to join in the fun and learning no matter where you are.</p>
                       <p>See what’s available virtually below.</p>
 
-                      <a target="_blank" class="button-secondary mb-4 mt-5" style="color: white;">
-                          <span class="button-head">Bookings for COSPAR-K TV Opening Soon</span>
-                          <span class="button-body"><em>powered by Microsoft</em></span>
-                      </a>
 
                       <div class="row stem-cards justify-content-center mb-4">
                         <a href="stem-speakers-schedule" class="col-md-6">
                           <div class="stem-card">
                             <img class="img-fluid" src="img/cospark/card3.jpg">
-                            <h3 class="stem-card-title p-4">Spectacular Speakers Schedules</h3>
+                            <h3 class="stem-card-title p-4">Spectacular Speakers Schedule</h3>
                           </div>
                         </a>
                         <a href="stem-virtual-activities" class="col-md-6">
@@ -39,6 +35,10 @@ include('include/cospark.php');
                           </div>
                         </a>
                       </div>
+                      <a target="_blank" class="button-secondary mb-4 mt-5" style="color: white;">
+                          <span class="button-body mb-0"><b>Bookings for COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Opening Soon</b></span>
+                      </a>
+
                       <?php
                       include('include/cospark-footer.php');
                       ?>
