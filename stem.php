@@ -25,7 +25,7 @@ include('include/cospark.php');
               <h3 class="stem-card-title p-4" style="line-height: 1.5rem">Tickets <br> <span style="font-size:0.7em; font-weight: 400;"><em>All the ways you can get involved</em></span></h3>
             </div>
           </a>
-          <a href="stem-tickets#cospark" class="col-md-6">
+          <a href="stem-tv" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card9.jpg">
               <h3 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.7em; font-weight: 400;"><em>powered by Microsoft</em></span></h3>
