@@ -9,13 +9,22 @@ include('include/cospark.php');
   <div class="container">
     <div class="row py-5">
       <div class="col stem-page">
-        <h2 class="text-center">Get involved with COSPAR-K</h2>
-        <p class="mt-4 text-center">Our Free Space STEM Event which will feature two hero zones: our <span style="color: #5b0e5d"><b>Awesome Activities Arena</b></span> and <span style="color: #5b0e5d"><b>Spectacular Speakers Schedule</b></span>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV <em>powered by Microsoft</em>.</p>
+        <h1 class="text-center">Get involved at COSPAR-K</h1>
+        <p class="mt-4 text-center">Our Free Space STEM Event which will feature two hero zones: our <a href=""><b>Awesome Activities Arena</b></a> and <a href=""><b>Spectacular Speakers Schedule</b></span>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV <em>powered by Microsoft</em>.</p>
         <h3 class="my-4 text-center">The best part is tickets are 100% <b>FREE!</b></h3>
+        <div class="row">
+          <div class="col-6">
+            <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4">
+              <span class="button-body mb-0"><b>Explore the COSPAR-K Ground Map</b></span>
+            </a>
+          </div>
+          <div class="col-6">
+            <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-5">
+              <span class="button-body mb-0"><b>View the Promo Flyer</b></span>
+            </a>
+          </div>
+        </div>
 
-        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-4">
-          <span class="button-head">Book Your Tickets Now!</span>
-        </a>
 
 
         <div class="row stem-cards justify-content-center mb-4">
@@ -45,21 +54,14 @@ include('include/cospark.php');
           </a>
         </div>
 
-        <a href="stem-tv.php" target="_blank" class="button-secondary mb-4">
-          <span class="button-head mb-0"><b>Book Your COSPAR-K TV Tickets</b></span>
-          <span class="button-body my-0"><em>powered by Microsoft</em></span>
-        </a>
-        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4">
-          <span class="button-head mb-0"><b>Explore the COSPAR-K Ground Map</b></span>
-        </a>
-        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-5">
-          <span class="button-head mb-0"><b>View the Promo Flyer</b></span>
-        </a>
 
         <div class="embed-responsive embed-responsive-16by9">
             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_q2q-WBhH_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
+        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-4">
+          <span class="button-head">Book Your Tickets Now!</span>
+        </a>
 
         <?php
         include('include/cospark-footer.php');
