@@ -32,14 +32,10 @@ include('include/cospark.php');
         <div class="row">
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Take-Off Dates</h2>
-            <p>Friday 29 January – Tuesday 2 February 2021</p>
-
-            <h5 class="mb-2"><b>Operating two sessions per day:</b></h5>
+            <h3 class="mb-1"><b>Operating two sessions per day:</b></h3>
+            <p><b>Friday 29 January – Tuesday 2 February 2021</b></p>
             <p><b>Morning</b> - 9:30am - 12:00pm <br>
               <b>Afternoon</b> - 9:30am - 12:00pm</p>
-
-
-
           </div>
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Coordinates</h2>
@@ -78,27 +74,57 @@ include('include/cospark.php');
         <p>Get involved, be inspired and <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank">book today</a> - places are strictly limited.</p>
         <h2>COSPAR-K Mission Objectives</h2>
         <h3>We Need Your Help To Achieve Them!</h3>
-        <ol>
-          <li>To inspire and engage with thousands of students from NSW with the hope that these students will:</li>
-          <ul>
-            <li>Pursue STEM related school subjects as part of their Higher School Certificate</li>
-            <li>Influence their selection of STEM related university courses</li>
-            <li>Pursue a career in space research or another STEM profession</li>
-          </ul>
-          <li>Provide a forum for Australian STEM teachers to expand their knowledge of space science and to make connections with other STEM teachers.</li>
-          <li>To generate wider interest in Australian space research to parents, volunteers and the general public.</li>
-          <li>To profile industry and government initiatives being undertaken in the space science sector.</li>
-          <li>Attendance and engagement objectives are:</li>
-          <ul>
-            <li>50% gender split for student attendance and teacher talks</li>
-            <li>10% indigenous student attendance or online engagement</li>
-            <li>10% attendance or online engagement from students and teachers from rural and regional NSW</li>
-            <li>10,000+ post event views</li>
-          </ul>
-        </ol>
-
-
-
+        <div class="mission d-flex">
+          <div class="m-number">
+            1
+          </div>
+          <div class="m-text">
+            <strong>To inspire and engage with thousands of students from NSW with the hope that these students will:</strong>
+            <ul>
+              <li>Pursue STEM related school subjects as part of their Higher School Certificate</li>
+              <li>Influence their selection of STEM related university courses</li>
+              <li>Pursue a career in space research or another STEM profession</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mission d-flex">
+          <div class="m-number">
+            2
+          </div>
+          <div class="m-text ">
+            <strong>Provide a forum for Australian STEM teachers to expand their knowledge of space science and to make connections with other STEM teachers.</strong>
+          </div>
+        </div>
+        <div class="mission d-flex">
+          <div class="m-number">
+            3
+          </div>
+          <div class="m-text align-self-center">
+            <strong>To generate wider interest in Australian space research to parents, volunteers and the general public.</strong>
+          </div>
+        </div>
+        <div class="mission d-flex">
+          <div class="m-number">
+            4
+          </div>
+          <div class="m-text align-self-center">
+            <strong>To profile industry and government initiatives being undertaken in the space science sector.</strong>
+          </div>
+        </div>
+        <div class="mission d-flex">
+          <div class="m-number">
+            5
+          </div>
+          <div class="m-text align-self-center">
+            <strong>Attendance and engagement objectives are:</strong>
+            <ul>
+              <li>50% gender split for student attendance and teacher talks</li>
+              <li>10% indigenous student attendance or online engagement</li>
+              <li>10% attendance or online engagement from students and teachers from rural and regional NSW</li>
+              <li>10,000+ post event views</li>
+            </ul>
+          </div>
+        </div>
         <?php
                       include('include/cospark-footer.php');
                       ?>
