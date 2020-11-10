@@ -9,12 +9,14 @@ include('include/cospark.php');
   <div class="container">
     <div class="row py-5">
       <div class="col stem-page">
-        <p class="text-center">Get involved with COSPAR-K: A Free Space STEM Event which will feature two hero zones: our <b>Awesome Activities Arena</b> and <b>Spectacular Speakers Schedule</b>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV powered by Microsoft.</p>
+        <h2 class="text-center">Get involved with COSPAR-K</h2>
+        <p class="mt-4 text-center">Our Free Space STEM Event which will feature two hero zones: our <span style="color: #5b0e5d"><b>Awesome Activities Arena</b></span> and <span style="color: #5b0e5d"><b>Spectacular Speakers Schedule</b></span>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV <em>powered by Microsoft</em>.</p>
         <h3 class="my-4 text-center">The best part is tickets are 100% <b>FREE!</b></h3>
 
-        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-5">
-          <span class="button-head">Book your Tickets Now!</span>
+        <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-4">
+          <span class="button-head">Book Your Tickets Now!</span>
         </a>
+
 
         <div class="row stem-cards justify-content-center mb-4">
           <a href="stem-tickets" class="col-md-6">
@@ -43,8 +45,15 @@ include('include/cospark.php');
           </a>
         </div>
 
+        <a href="stem-tv.php" target="_blank" class="button-main mb-4">
+          <span class="button-body mb-0"><b>Book Your COSPAR-K TV Tickets Now</b></span>
+          <span class="button-body my-0"><em>powered by Microsoft</em></span>
+        </a>
+        <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main mb-4">
+          <span class="button-body mb-0"><b>Explore the COSPAR-K Ground Map</b></span>
+        </a>
         <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-main mb-5">
-          <span class="button-head">View the COSPAR-K Ground Map</span>
+          <span class="button-body mb-0"><b>View the Promo Flyer</b></span>
         </a>
 
         <div class="embed-responsive embed-responsive-16by9">
