@@ -25,7 +25,7 @@ include('include/cospark.php');
                       <p>Choose what you attend and when you attend via our booking system. There are 10 sessions to select from and you may book as an individual, public group or for a school excursion.</p>
                       <p><em>Sessions are currently capped at 150 people each due to COVID-19 restrictions.</em></p>
                       <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main mb-5 mt-5">
-                        <span class="button-head">Book Your In-Person Tickets Now!</span>
+                        <span class="button-body mb-0"><b>Book Your In-Person Tickets Now!</b></span>
                       </a>
 
                       <h2>VIRTUAL via COSPAR-K TV <em>powered by Microsoft</em></h2>
@@ -36,7 +36,7 @@ include('include/cospark.php');
                       </ul>
 
                       <a href="stem-tv" class="button-secondary mb-5 mt-5">
-                        <span class="button-head mb-0">COSPAR-K TV Bookings Opening Soon</span>
+                        <span class="button-body mb-0"><b>COSPAR-K TV Bookings Opening Soon</b></span>
                         <span class="button-body my-0"><em>powered by Microsoft</em></span>
                       </a>
 
