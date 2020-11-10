@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Catalogue';
+$title = 'Media';
 include('include/header.php');
 include('include/cospark.php');
 ?>
@@ -11,7 +11,7 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">Catalogue</h1>
+                      <h1 class="mt-3 mb-5">Media</h1>
 
                       <p>Catch up on all the stories here or <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-eoi/Site/Register" target="_blank">join our mailing list</a> to receive these updates direct from space! </p>
 
