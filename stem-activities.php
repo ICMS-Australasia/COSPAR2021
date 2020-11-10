@@ -19,13 +19,14 @@ include('include/cospark.php');
                       <p>COSPAR-K will be the space to ignite passion in our future thinkers and leaders so get involved and book your ticket today.</p>
                       <p>Click here to view the Arena Ground Map.</p>
 
-                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
-                          <span class="button-head">Book Your In-Person Ticket Now</span>
-                      </a>
+
                       <!-- <p>Your COSPAR-K experience doesn’t end here, check out our <a href="stem-virtual-activities.php">Virtual Activities Program</a>.</p> -->
 
                       <?php include('include/stem-activities-cards.php') ?>
-
+                      
+                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
+                          <span class="button-head">Book Your In-Person Ticket Now</span>
+                      </a>
 
                       <?php
                       include('include/cospark-footer.php');

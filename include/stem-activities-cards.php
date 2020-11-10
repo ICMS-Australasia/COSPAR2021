@@ -32,13 +32,13 @@
   <a href="./stem-activities-marsandmonash.php" class="col-sm-6 col-12 col-md-4">
     <div class="stem-card">
       <img class="img-fluid" src="img/cospark/activity-card6.jpg">
-      <h3 class="stem-card-title p-4">Mars Yard & Monash Nova Rover</h3>
+      <h3 class="stem-card-title p-4">Mars Yard</h3>
     </div>
   </a>
   <a href="./stem-activities-virtualreality.php" class="col-sm-6 col-12 col-md-4">
     <div class="stem-card">
       <img class="img-fluid" src="img/cospark/activity-card7.jpg">
-      <h3 class="stem-card-title p-4">Virtual Reality Helicopter Simulators</h3>
+      <h3 class="stem-card-title p-4">VR Helicopter Simulators</h3>
     </div>
   </a>
 </div>
