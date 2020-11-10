@@ -16,8 +16,8 @@ include('include/cospark.php');
                       <p>To compliment all the in-person action, we’ve created virtual activities so you can continue the fun and learning from wherever you choose. Providing extended access and remote access to those not able to attend in-person due to location or other reasons has driven the team to develop these fun and educational experiences which are accessible to all.</p>
                       <p>Places are limited for some activities so book your tickets today to secure your spot.</p>
 
-                      <a style="color:white" target="_blank" class="button-secondary mb-5 mt-4">
-                          <span class="button-head">Book your COSPAR-K TV Ticket Now</span>
+                      <a href="stem-tv" class="button-secondary mb-5 mt-4">
+                          <span class="button-head">Book your COSPAR-K TV Tickets</span>
                           <span class="button-body"><em>Powered by Microsoft</em></span>
                       </a>
 

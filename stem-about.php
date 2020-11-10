@@ -65,7 +65,7 @@ include('include/cospark.php');
             <em>Virtually stream the full speakers program and choose to add on virtual excursions for yourself or your group.</em></li>
         </ul>
 
-        <a href="stem-tickets" target="_blank" class="button-secondary mb-5 mt-5">
+        <a href="stem-tickets" class="button-secondary mb-5 mt-5">
           <span class="button-head">Book Your Tickets Today!</span>
         </a>
 

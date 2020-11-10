@@ -35,7 +35,7 @@ include('include/cospark.php');
                         <li>Make the most of the week-long festival of Space STEM by continuing the fun and learning wherever you are on our beautiful Earth.</li>
                       </ul>
 
-                      <a href="stem-tv" target="_blank" class="button-secondary mb-5 mt-5">
+                      <a href="stem-tv" class="button-secondary mb-5 mt-5">
                         <span class="button-head mb-0">COSPAR-K TV Bookings Opening Soon</span>
                         <span class="button-body my-0"><em>powered by Microsoft</em></span>
                       </a>
