@@ -64,7 +64,7 @@ include('include/header.php');
                         <td><strong><a href="#parkroyaldh">Park Royal Darling Harbour</a></strong></td>
                         <td><strong>4.5</strong></td>
                         <td><strong>650m</strong></td>
-                        <td><strong>$290</strong></td>
+                        <td><strong>$270</strong></td>
                     </tr>
                     <tr>
                         <td><strong><a href="#novoteldh">Novotel Darling Harbour</a></strong></td>
