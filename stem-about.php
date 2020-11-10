@@ -16,11 +16,11 @@ include('include/cospark.php');
         <div class="row align-items-center">
           <div class="col-md-7 order-2 order-md-1">
             <p>COSPAR-K is a Free Space STEM Event that is running in partnership with the NSW Department of Education’s <a href="https://sispprogram.schools.nsw.gov.au/" target="_blank">STEM Industry School Partnerships (SISP) Program</a>.</p>
-            <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank">COSPAR-2021-Hybrid</a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
-            <p>COSPAR-K will feature two hero zones: our Awesome Activities Arena and Spectacular Speakers Schedule.</p>
+            <p>It coincides with an international scientific assembly, <a href="https://www.cospar2021.org/index" target="_blank"><b>COSPAR-2021-Hybrid</b></a> and is the dedicated STEM <b>Park</b> hence the name COS(+)PAR-K was born.</p>
+            <p>COSPAR-K will feature two hero zones: our <a href="stem-activities" class="purple"><b>Awesome Activities Arena</b></a> and <a href="stem-speakers-schedule" class="purple"><b>Spectacular Speakers Schedule</b></a>.</p>
 
             <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-4 mb-md-0">
-                <span class="button-head">Explore the COSPAR-K Ground Map</span>
+                <span class="button-body my-0"><b>Explore the COSPAR-K Ground Map</b></span>
             </a>
           </div>
           <div class="col-md-5 order-1 order-md-2">
@@ -32,10 +32,10 @@ include('include/cospark.php');
         <div class="row">
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Take-Off Dates</h2>
-            <h3 class="mb-1"><b>Operating two sessions per day:</b></h3>
+            <h3 class="mb-1"><b>Sessions:</b></h3>
             <p><b>Friday 29 January – Tuesday 2 February 2021</b></p>
             <p><b>Morning</b> - 9:30am - 12:00pm <br>
-              <b>Afternoon</b> - 9:30am - 12:00pm</p>
+              <b>Afternoon</b> - 1:00pm - 3:30pm</p>
           </div>
           <div class="col-md-6">
             <h2 class="mt-5 mb-3">Coordinates</h2>
@@ -61,12 +61,15 @@ include('include/cospark.php');
             <em>If you are a parent/guardian and will be attending with a child or group of children to participate in the activities and speaker program at the ICC Sydney.</em></li>
           <li><b>In-Person School Excursion</b> <br>
             <em>If you are a teacher and bringing your students to the ICC Sydney to participate in the activities and speaker program.</em></li>
-          <li><b>COSPAR-K TV powered by Microsoft</b> <br>
+          <li><b>COSPAR-K TV <em>powered by Microsoft</em></b> <br>
             <em>Virtually stream the full speakers program and choose to add on virtual excursions for yourself or your group.</em></li>
-
         </ul>
 
-        <h2>Why are we bringing COSPAR-K to Sydney?</h2>
+        <a href="stem-tickets" target="_blank" class="button-secondary mb-5 mt-5">
+          <span class="button-head">Book Your Tickets Today!</span>
+        </a>
+
+        <h2>Why Are We Bringing COSPAR-K to Sydney?</h2>
         <p>With Australia’s new Space Agency (ASA), Australia is buzzing with space conversations. There’s a momentous research push, an explosion of space-related start-ups and more opportunities than ever for young Australian’s to be part of the journey.</p>
         <p>STEM education is critically important for Australia. The demand for strong workforce skills in STEM areas has reached a fever pitch, while at the same time there has been a fall in students studying these subjects at high school and university. The time for better engagement is now. COSPAR-K provides this opportunity.</p>
         <p>The skills that learning about Science, Technology, Engineering and Maths bring will be the foundation of the future world economy. These skills, along with enterprise skills such as creativity, critical thinking and digital literacy will be the key to creating a world-leading future workforce in Australia. 50 years on from humankind’s first steps on the Moon, the value of an inspired STEM generation is reflected in our daily lives.</p>
