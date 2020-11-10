@@ -924,7 +924,10 @@ a.active {
   h3 {
     color: #841068;
   }
-
+  a.purple {
+    color: #491865;
+    &:hover { color: #841068; }
+  }
   .button-main {
     text-decoration: none;
     font-size: 1em;

@@ -744,6 +744,12 @@ a.active {
 .stem-page h3 {
   color: #841068;
 }
+.stem-page a.purple {
+  color: #491865;
+}
+.stem-page a.purple:hover {
+  color: #841068;
+}
 .stem-page .button-main {
   text-decoration: none;
   font-size: 1em;
