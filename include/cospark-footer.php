@@ -9,18 +9,30 @@
 <h2 class="mt-5 mb-3 text-center">Transmitting On Socials #COSPARK2021</h2>
 
 <div class="row align-items-center mb-4 mt-4 pt-2 justify-content-center">
-  <a href="https://www.instagram.com/cospar_k/?hl=en" class="col-md-4 mb-3 mb-md-0 text-center">
-    <img src="
-    img/cospark/instagram.png" class="mr-3" width="65"><strong style="font-size:1.4em;">@cospar_k</strong>
-  </a>
-  <a href="https://www.linkedin.com/company/35892179/admin/ " class="col-md-4 mb-3 mb-md-0 text-center">
-    <img src="
-    img/cospark/linkedin.png" class="mr-3" width="70"><strong style="font-size:1.4em;">@cospar-k</strong>
-  </a>
-  <a href="https://www.facebook.com/COSPARK2021" class="col-md-4 mb-3 mb-md-0 text-center">
-    <img src="
-    img/cospark/facebook.png" class="mr-3" width="61" style="border-radius:3px;"><strong style="font-size:1.4em;">@COSPARK2021</strong>
-  </a>
+  <div class="col-md-4">
+    <a href="https://www.instagram.com/cospar_k/?hl=en" class=" mb-3 mb-md-0 text-center">
+
+
+      <img src="img/cospark/instagram.png" class="mr-3" width="65">
+    </a>
+
+
+    <a href="https://www.linkedin.com/company/35892179/admin/ " class=" mb-3 mb-md-0 text-center">
+
+
+      <img src="img/cospark/linkedin.png" class="mr-3" width="70">
+    </a>
+
+
+    <a href="https://www.facebook.com/COSPARK2021" class=" mb-3 mb-md-0 text-center">
+
+
+      <img src="img/cospark/facebook.png" class="mr-3" width="61" style="border-radius:3px;">
+    </a>
+
+
+  </div>
+
 </div>
 
 

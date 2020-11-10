@@ -37,7 +37,7 @@ include('include/cospark.php');
           <a href="stem-tv" class="col-md-6">
             <div class="stem-card">
               <img class="img-fluid" src="img/cospark/card9.jpg">
-              <h3 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.7em; font-weight: 400;"><em>powered by Microsoft</em></span></h3>
+              <h3 class="stem-card-title p-4" style="line-height: 1.5rem">COSPAR-K TV <br> <span style="font-size:0.7em; font-weight: 400;"><em>Powered by Microsoft</em></span></h3>
             </div>
           </a>
           <a href="stem-activities" class="col-md-6">
