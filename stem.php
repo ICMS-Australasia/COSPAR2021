@@ -10,7 +10,7 @@ include('include/cospark.php');
     <div class="row py-5">
       <div class="col stem-page">
         <h1 class="text-center">Get involved at COSPAR-K</h1>
-        <p class="mt-4 text-center">Our Free Space STEM Event which will feature two hero zones: our <a href=""><b>Awesome Activities Arena</b></a> and <a href=""><b>Spectacular Speakers Schedule</b></span>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV <em>powered by Microsoft</em>.</p>
+        <p class="mt-4 text-center">Our Free Space STEM Event which will feature two hero zones: our <a href=""><b>Awesome Activities Arena</b></a> and <a href=""><b>Spectacular Speakers Schedule</b></a>. We have something for everyone, whether you can attend in-person or would like to connect in virtually via COSPAR-K TV <em>powered by Microsoft</em>.</p>
         <h3 class="my-4 text-center">The best part is tickets are 100% <b>FREE!</b></h3>
         <div class="row">
           <div class="col-6">
