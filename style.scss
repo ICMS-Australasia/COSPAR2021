@@ -910,6 +910,11 @@ a.active {
     font-size: 3.1em;
     padding-bottom: 10px;
     font-weight: bold;
+    a {
+      color: inherit;
+      &:hover { color: darken(#c3d82d, 10%); }
+
+    }
   }
 
   h2 {
@@ -971,7 +976,11 @@ a.active {
       background: #841068;
     }
   }
-
+  .cospark-alert {
+    font-size: 1.4em;
+    background-color: #491865;
+    color: white;
+  }
   .speakers-schedule {
     a {
       text-decoration: none;
@@ -1063,7 +1072,7 @@ a.active {
     color: white;
     padding: 0.75em 1.25em;
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 1.1em;
     font-weight: 700;
 
     &:first-child {
