@@ -11,7 +11,7 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">COSPAR-K TV <em style="font-weight: 400;">powered by Microsoft</em> <img src="./img/cospark/microsoft.png" class="img-fluid my-0 ml-5" width="200"></h1>
+                      <h1 class="mt-3 mb-5">COSPAR-K TV <em style="font-weight: 400; font-size: 0.8em">powered by Microsoft</em> <img src="./img/cospark/microsoft.png" class="img-fluid my-0 ml-5" width="200"></h1>
 
 
 
