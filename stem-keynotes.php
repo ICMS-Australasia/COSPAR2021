@@ -36,8 +36,7 @@ include('include/cospark.php');
                           <h2>Lisa Harvey-Smith</h2>
                         </a>
                         <a href="#brown" data-toggle="modal" class="col-md-4 mb-4">
-                          <!-- <img src="img/cospark/adrian-brown.png" class="img-fluid mb-3"> -->
-                          <img src="https://via.placeholder.com/400x450?text=Adrian+Brown" class="img-fluid mb-3">
+                          <img src="img/cospark/adrian-brown.jpg" class="img-fluid mb-3">
                           <h2>Adrian Brown</h2>
                         </a>
                         <a href="#tutt" data-toggle="modal" class="col-md-4 mb-4">
@@ -67,8 +66,7 @@ include('include/cospark.php');
                       <div class="modal fade" id="brown">
                           <div class="modal-dialog modal-dialog-centered modal-lg">
                               <div class="modal-content">
-                                  <!-- <img src="img/cospark/adrian-brown.jpg" width="250"> -->
-                                  <img src="https://via.placeholder.com/400x450?text=Adrian+Brown" width="250">
+                                  <img src="img/cospark/adrian-brown.jpg" width="250">
                                   <h2>Adrian Brown</h2>
                                   <h3>Sunday 31 Jan 2021, 2:45pm – 3:15pm</h3>
                                   <p>Dr. Adrian Brown is currently working as a planetary science researcher at the NASA Headquarters in Washington D.C. where he is the Deputy Program Scientist on the Mars2020 rover mission. Adrian’s fields of research include Mars, astrobiology and remote sensing spectroscopy and has a background in computer science and electrical engineering.</p>
