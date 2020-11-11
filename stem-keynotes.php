@@ -15,6 +15,10 @@ include('include/cospark.php');
                       <p>COSPAR-K will feature a Keynote Speaker every lunch break to highlight the importance of STEM and why a career in space STEM is a future to consider. Be inspired, be challenged and be the future of Space STEM.</p>
 
                       <div class="row text-center">
+                        <a href="#calandrelli" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/emily-calandrelli.jpg" class="img-fluid mb-3">
+                          <h2>Emily Calandrelli</h2>
+                        </a>
                         <a href="#boyce" data-toggle="modal" class="col-md-4 mb-4">
                           <img src="img/cospark/russell-boyce.jpg" class="img-fluid mb-3">
                           <h2>Russell Boyce</h2>
@@ -31,6 +35,11 @@ include('include/cospark.php');
                           <img src="img/cospark/lisa-harvey.png" class="img-fluid mb-3">
                           <h2>Lisa Harvey-Smith</h2>
                         </a>
+                        <a href="#brown" data-toggle="modal" class="col-md-4 mb-4">
+                          <!-- <img src="img/cospark/adrian-brown.png" class="img-fluid mb-3"> -->
+                          <img src="https://via.placeholder.com/400x450?text=Adrian+Brown" class="img-fluid mb-3">
+                          <h2>Adrian Brown</h2>
+                        </a>
                         <a href="#tutt" data-toggle="modal" class="col-md-4 mb-4">
                           <img src="img/cospark/corey-tutt.jpg" class="img-fluid mb-3">
                           <h2>Corey Tutt</h2>
@@ -41,6 +50,37 @@ include('include/cospark.php');
                         </a>
                       </div>
                       <!-- Modal Content -->
+                      <div class="modal fade" id="calandrelli">
+                          <div class="modal-dialog modal-dialog-centered modal-lg">
+                              <div class="modal-content">
+                                  <img src="img/cospark/emily-calandrelli.jpg" width="250">
+                                  <h2>Emily Calandrelli</h2>
+                                  <h3>Friday 29 Jan 2021, 10:30am – 11:00am</h3>
+                                  <p>Emily Calandrelli is the host and co-executive producer of the hit Netflix series Emily’s Wonder Lab. Each episode features Emily and a group of kid-scientists as they learn about STEAM through experiments and fun activities. Emily is also an Executive Producer and Emmy nominated host of FOX’s Xploration Outer Space and was a correspondent on Netflix’s, Bill Nye Saves The World.</p>
+                                  <p>Emily, who was named to Adweek’s ‘11 Celebrities and Influencers Raising the Bar for Creativity in 2017’, is also an accomplished writer and speaker on the topics of space exploration, scientific literacy, and equality. Her chapter book series, The Ada Lace Adventures, centers around an eight-year-old girl with a knack for science, math, and solving mysteries with technology, the second book in the series, Ada Lace: Sees Red, was included in the National Science Teachers Association’s list of best STEM books for 2018. The third book, Ada Lace: Take Me To Your Leader, was part of the initiative from NASA and CASIS, Story Time from Space where the book was launched into space and read by an astronaut aboard the ISS to an audience of kids. The fifth and most recent book in the series, Ada Lace: and the Suspicious Artist which was released in February 2019. All 5 books in the series are available at Barnes and Noble as well as Amazon.</p>
+                                  <p>Emily frequently gives talks about the importance of science literacy, the benefits of space exploration, and the challenges for women in STEM careers for clients like Google, Pixar, MIT, Texas Instruments as well as dozens of K-12 schools across the nation. Her first two TEDx talks, “I Don’t Do Math” and “Space Exploration Is The Worst,” have garnered over one million views on YouTube.</p>
+                                  <p>Prior to her work in science communication, Emily attended West Virginia University, where she received a Bachelors of Science degrees in Mechanical Engineering and Aerospace Engineering, and MIT where she received two Masters of Science degrees, one in Aeronautics and Astronautics and the other in Technology and Policy. Through her work, she wants to make science relatable, easy to understand and more exciting today than ever before in history.</p>
+                                  <button type="button" class="close" data-dismiss="modal">x</button>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="modal fade" id="brown">
+                          <div class="modal-dialog modal-dialog-centered modal-lg">
+                              <div class="modal-content">
+                                  <!-- <img src="img/cospark/adrian-brown.jpg" width="250"> -->
+                                  <img src="https://via.placeholder.com/400x450?text=Adrian+Brown" width="250">
+                                  <h2>Adrian Brown</h2>
+                                  <h3>Sunday 31 Jan 2021, 2:45pm – 3:15pm</h3>
+                                  <p>Dr. Adrian Brown is currently working as a planetary science researcher at the NASA Headquarters in Washington D.C. where he is the Deputy Program Scientist on the Mars2020 rover mission. Adrian’s fields of research include Mars, astrobiology and remote sensing spectroscopy and has a background in computer science and electrical engineering.</p>
+                                  <p>Adrian is a fully qualified private pilot and has used this skill to enhance his knowledge of remote sensing by flying over study regions in Western Australia. He holds current endorsements on C172 and Piper Warrior single engine aircraft. He is qualified in remote first aid and as an outback four wheel drive exponent and served with the Royal Australian Navy as a Weapons Engineer and Fire Control Officer on Her Majesty's Australian Ships CANBERRA and ARUNTA, in addition to numerous shore postings around Australia.</p>
+                                  <p>Adrian is an Australian citizen, and grew up in Melbourne, Victoria. He is a fan of the Australian Rules football club Essendon, and an avid listener to JJJ and TAL.</p>
+                                  <p>He completed his PhD in Earth and Planetary Science at Macquarie University, in Sydney, Australia. The topic of his defence was "Hyperspectral Mapping of Ancient Hydrothermal Systems". His advisors were Prof. Malcolm Walter of the Australian Centre for Astrobiology and Dr. Thomas Cudahy of CSIRO Exploration and Mining in Perth, Western Australia. Further information is available here.</p>
+                                  <p>After completing his PhD, Adrian was selected as a 2006 NASA Postdoctoral Scholar at the NASA Ames Research Center in Mountain View, Calif. Adrian then became a research scientist at the non-profit SETI Institute where he conducted planetary science research, primarily on Mars using the CRISM instrument on NASA's MRO spacecraft. While at the SETI Institute, Adrian ran the research and public SETI Seminar series and was the program chief for the SETICON II convention.</p>
+                                  <p>In 2015, Adrian moved to the East Coast and has since taken up his current role at NASA Headquarters in Washington D.C.</p>
+                                  <button type="button" class="close" data-dismiss="modal">x</button>
+                              </div>
+                          </div>
+                      </div>
                       <div class="modal fade" id="bland">
                           <div class="modal-dialog modal-dialog-centered modal-lg">
                               <div class="modal-content">
