@@ -313,11 +313,6 @@ include('include/header.php');
                               <p>
                                 <strong>$270</strong>room/night inclusive of breakfast for one & Wi-Fi</p>
                             </div>
-                            <div class="col-md-6">
-                              <p>
-                                <img src="img/accommodation/parkroyal3.jpg" class="img-fluid">
-                              </p>
-                            </div>
                           </div>
                         </div>
                         <div class="col-md-4 text-center">
