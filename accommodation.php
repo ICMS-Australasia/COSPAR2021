@@ -311,18 +311,13 @@ include('include/header.php');
                             <div class="col-md-6">
                               <h3>Superior Room</h3>
                               <p>
-                                <strong>$305</strong>room/night inclusive of breakfast for one & Wi-Fi</p>
+                                <strong>$270</strong>room/night inclusive of breakfast for one & Wi-Fi</p>
                             </div>
                             <div class="col-md-6">
                               <p>
                                 <img src="img/accommodation/parkroyal3.jpg" class="img-fluid">
                               </p>
-                            </div>
-                            <div class="col-md-6">
-                              <h3>Darling Harbour Room </h3>
-                              <p>
-                                <strong>$340</strong>room/night inclusive of breakfast for one & Wi-Fi</p>
-                            </div>
+                            </div>
                           </div>
                         </div>
                         <div class="col-md-4 text-center">
