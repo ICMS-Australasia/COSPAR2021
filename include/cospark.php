@@ -20,7 +20,7 @@
 </div>
 <div class="animation-bottom">
   <div class="stem-menu d-flex justify-content-center align-items-center">
-    <a href="stem#cospark"><i class="fas fa-rocket mr-2" style="font-size: 1.5em;"></i> Home</a>
+    <a href="stem#cospark" class='d-flex align-items-center'><i class="fas fa-rocket mr-2" style="font-size: 1.5em;"></i> Home</a>
     <a href="stem-about">About COSPAR-K</a>
     <a href="stem-tickets">Tickets</a>
     <a href="stem-activities">Activities</a>
