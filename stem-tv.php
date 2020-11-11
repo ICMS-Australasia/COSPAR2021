@@ -11,7 +11,7 @@ include('include/cospark.php');
                     <div class="col stem-page">
 
 
-                      <h1 class="mt-3 mb-5">COSPAR-K TV <em>powered by Microsoft</em> <img src="./img/cospark/microsoft.png" class="img-fluid my-0 ml-5" width="200"></h1>
+                      <h1 class="mt-3 mb-5">COSPAR-K TV <em style="font-weight: 400;">powered by Microsoft</em> <img src="./img/cospark/microsoft.png" class="img-fluid my-0 ml-5" width="200"></h1>
 
 
 
@@ -21,16 +21,16 @@ include('include/cospark.php');
                       <p>See what’s available virtually below.</p>
 
 
-                      <div class="row stem-cards justify-content-center mb-4">
+                      <div class="row stem-cards justify-content-center mb-4 mt-5">
                         <a href="stem-speakers-schedule" class="col-md-6">
                           <div class="stem-card">
-                            <img class="img-fluid" src="img/cospark/card3.jpg">
+                            <img class="img-fluid" src="img/cospark/card11.jpg" style="object-fit: cover; height:300px; width:100%">
                             <h3 class="stem-card-title p-4">Spectacular Speakers Schedule</h3>
                           </div>
                         </a>
                         <a href="stem-virtual-activities" class="col-md-6">
                           <div class="stem-card">
-                            <img class="img-fluid" src="img/cospark/card8.jpg">
+                            <img class="img-fluid" src="img/cospark/card8.jpg" style="object-fit: cover; height:300px; width:100%">
                             <h3 class="stem-card-title p-4">Virtual Activities Program</h3>
                           </div>
                         </a>
