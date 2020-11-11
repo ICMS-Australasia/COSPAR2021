@@ -19,8 +19,8 @@
     </div>
 </div>
 <div class="animation-bottom">
-  <div class="stem-menu">
-    <a href="stem#cospark">Launch Pad</a>
+  <div class="stem-menu d-flex justify-content-center align-items-center">
+    <a href="stem#cospark"><i class="fas fa-rocket" style="font-size: 1.5em;"></i></a>
     <a href="stem-about">About COSPAR-K</a>
     <a href="stem-tickets">Tickets</a>
     <a href="stem-activities">Activities</a>
