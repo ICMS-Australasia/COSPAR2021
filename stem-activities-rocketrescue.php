@@ -16,7 +16,7 @@ include('include/cospark.php');
 
                       <div class="row mt-5 mb-3 d-flex align-items-end">
                           <div class="col">
-                              <h2 class="mb-0">Robot Rescue</h2>
+                              <h2 class="mb-0">Rocket Rescue</h2>
                           </div>
                           <div class="col">
                               <img src="./img/cospark/sisp.png" width="200" class="float-right">
@@ -37,10 +37,6 @@ include('include/cospark.php');
                       <hr class="my-5">
 
                       <?php include('include/stem-activities-cards.php') ?>
-
-                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
-                          <span class="button-head">Book Your In-Person Ticket Now</span>
-                      </a>
 
                       <?php
                       include('include/cospark-footer.php');
