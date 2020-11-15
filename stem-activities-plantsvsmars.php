@@ -36,10 +36,6 @@ include('include/cospark.php');
 
                       <?php include('include/stem-activities-cards.php') ?>
 
-                      <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mb-4 mt-5">
-                          <span class="button-head">Book Your In-Person Ticket Now</span>
-                      </a>
-
                       <?php
                       include('include/cospark-footer.php');
                       ?>
