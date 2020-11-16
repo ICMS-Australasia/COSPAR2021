@@ -22,7 +22,8 @@ include('include/header.php');
     <div class="row py-5">
       <div class="col-md">
         <h2 class="mb-4">Early Bird Registration Rates Extended</h2>
-        <p>Registration for the 43rd COSPAR Scientific Assembly is now open. Please read the registration information carefully before beginning the online registration.</p>
+        <h3>BONUS OFFER until 30 November 2020</h3>
+        <p>We are excited to announce a special bonus to all COSPAR-2021-Hybrid participants. Register for COSPAR-Hybrid-2021 by 30 November; and as a thank you for registering early, you will receive admission to a special Assembly pre-event featuring three of our Interdisciplinary Speakers. <a href="#entitlements">Click Here</a> to review all the benefits of attending COSPAR-2021-Hybrid.</p>
         <h2 class="mt-5 mb-4">Registration Categories and Rates</h2>
         <p>The COSPAR 2021 registrations fees are listed below in Australian dollars with conversion rates (as at September 2020) to USD and EUR. All listed registration fees are inclusive of Australian Goods and Services Tax (GST).</p>
         <p>Registrations are accepted by credit card (MasterCard, Visa or American Express). A tax invoice may also be provided upon request.</p>
@@ -134,7 +135,7 @@ include('include/header.php');
         <p>As a presenter, you must register, pay and submit, at a minimum your short-summary video by 30 November 2020.</p>
         <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must register, pay and submit your video presentations by <strong>30 November 2020</strong>.</p>
 
-        <h2 class="mt-5 mb-4">Entitlements</h2>
+        <h2 class="mt-5 mb-4" id="entitlements">Entitlements</h2>
         <h3>Benefits of attending COSPAR-2021-Hybrid, for Virtual Delegates</h3>
         <p><strong>The virtual participants in COSPAR-2021-Hybrid will receive:</strong></p>
         <div class="row">

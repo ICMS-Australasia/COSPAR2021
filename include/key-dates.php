@@ -17,7 +17,7 @@
           <tr>
             <td><strong>Presenter deadline to upload pre-recorded talk and access "presenter early bird rate"</strong> <br> 30 November 2020</td>
           </tr>
-          <tr>
+          <!-- <tr>
             <td><strong>Deadline to register @ standard early bird rate</strong><br>  31 December 2020</td>
           </tr>
           <tr>
@@ -31,7 +31,7 @@
           </tr>
           <tr>
             <td><strong>Access to pre-recorded content closes</strong><br>  31 December 2021</td>
-          </tr>
+          </tr> -->
 </table>
 
 <?php if ($title == "Registration") { ?>

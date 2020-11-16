@@ -152,6 +152,7 @@ include('include/header.php');
     <div class="container">
         <div class="row pt-5 pb-5">
             <div class="col">
+                <p>We are excited to announce a special bonus to all COSPAR-2021-Hybrid participants. Register for COSPAR-Hybrid-2021 by 30 November; and as a thank you for registering early, you will receive admission to a special Assembly pre-event featuring three of our Interdisciplinary Speakers.</p>
                 <h2 class="mb-5">Interdisciplinary Speakers</h2>
                 <div class="row">
                     <div class="col-md-6 mb-4 mt-3 mt-md-0">
