@@ -345,7 +345,7 @@ $(function () {
     `
       <h2><b>Presenter Early Bird Closes</b></h2>
       <h1 style="font-size:6em">${days} Days</h1>
-      <p>Short video due Nov 30, 2020</p>
+      <p>Short video due 30/11/2020</p>
     `;
     // If the count down is finished, write some text
     if (distance < 0) {
