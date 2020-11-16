@@ -2,22 +2,10 @@
     <tr>
         <th colspan="2"><h3 style="color:white;" class="m-0">Key Dates</h3></th>
     </tr>
-    <tr>
-            <td><strong>Existing abstracts are available for updating</strong><br>16 September 2020</td>
-          </tr>
-          <tr>
-            <td><strong>New abstracts can be submitted</strong><br>  16 September 2020</td>
-          </tr>
-          <tr>
-            <td><strong>New abstract submission period closes</strong> <br> 11 October 2020</td>
-          </tr>
-          <tr>
-            <td><strong>New authors notified of selection outcome</strong> <br> 19 October 2020</td>
-          </tr>
           <tr>
             <td><strong>Presenter deadline to upload pre-recorded talk and access "presenter early bird rate"</strong> <br> 30 November 2020</td>
           </tr>
-          <!-- <tr>
+          <tr>
             <td><strong>Deadline to register @ standard early bird rate</strong><br>  31 December 2020</td>
           </tr>
           <tr>
@@ -31,7 +19,7 @@
           </tr>
           <tr>
             <td><strong>Access to pre-recorded content closes</strong><br>  31 December 2021</td>
-          </tr> -->
+          </tr>
 </table>
 
 <?php if ($title == "Registration") { ?>
