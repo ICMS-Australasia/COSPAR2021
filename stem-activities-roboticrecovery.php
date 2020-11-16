@@ -19,7 +19,7 @@ include('include/cospark.php');
                               <h2 class="mb-0">Robotic Recovery Mission</h2>
                           </div>
                           <div class="col">
-                              <img src="./img/cospark/pitsco-tetrix.jpg" width="150" class="float-right">
+                              <img src="./img/cospark/pitsco-tetrix.png" width="150" class="float-right">
                           </div>
                       </div>
                       <p>Mission critical! A rocket has landed on Mars with vital resupply materials on board, and it is your responsibility to recover the rocket and bring it safely to base.</p>
@@ -27,12 +27,10 @@ include('include/cospark.php');
                       <p>Can you traverse and conquer the red planet?</p>
                       <div class="row my-4">
                           <div class="col-12 col-md-6 mb-3 mb-md-0">
-                              <!-- <img src="img/cospark/robot-recovery-1.jpg" class="img-fluid"> -->
-                              <img src="https://via.placeholder.com/600x300" class="img-fluid">
+                              <img src="img/cospark/robotic-recovery-1.jpg" class="img-fluid">
                           </div>
                           <div class="col-12 col-md-6 mb-3 mb-md-0">
-                              <!-- <img src="img/cospark/robot-recovery-2.jpg" class="img-fluid"> -->
-                              <img src="https://via.placeholder.com/600x300" class="img-fluid">
+                              <img src="img/cospark/robotic-recovery-2.jpg" class="img-fluid">
                           </div>
                       </div>
 

@@ -23,16 +23,16 @@ include('include/cospark.php');
                       <p>This interactive activity and photo opportunity is every sci-fi lover’s dream!</p>
                       <div class="row my-4">
                           <div class="col-md-5 mb-3 mb-md-0">
-                              <img src="https://via.placeholder.com/600x400" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
+                              <img src="img/cospark/daleks-1.jpg" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
                           </div>
                           <div class="col-md-7 mb-3 mb-md-0">
-                              <img src="https://via.placeholder.com/800x400" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
+                              <img src="img/cospark/daleks-2.jpg" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
                           </div>
                           <div class="col-md-7 mb-3 mb-md-0">
-                              <img src="https://via.placeholder.com/800x400" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
+                              <img src="img/cospark/daleks-3.jpg" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
                           </div>
                           <div class="col-md-5 mb-3 mb-md-0">
-                              <img src="https://via.placeholder.com/600x400" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
+                              <img src="img/cospark/daleks-4.jpg" class="img-fluid mb-3" style="object-fit:cover; height: 300px; width: 100%;">
                           </div>
                       </div>
 
