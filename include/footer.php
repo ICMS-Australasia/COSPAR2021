@@ -270,10 +270,17 @@ if ($home == true or $title == 'Venue') {
 </div>
 <!-- footer -->
 <?php } ?>
+
 <!-- JavaScript -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip();
+})
+</script>
 
 <?php if ( $title == "Speakers"){ ?>
   <script type="text/javascript">
@@ -284,8 +291,6 @@ if ($home == true or $title == 'Venue') {
   </script>
 <?php } ?>
 
-
-
 <?php if ($cospark==true || $home == true){ ?>
 
   <script>
@@ -318,6 +323,39 @@ if ($home == true or $title == 'Venue') {
     }
   }, 1000);
   </script>
+  <script>
+
+
+  // Set the date we're counting down to
+  var countDownDate = new Date("Nov 30, 2020 23:59:00").getTime();
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+    // Get today's date and time
+    var now = new Date().getTime();
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+    // Time calculations for days, hours, minutes and seconds
+    var years = Math.floor(distance / (1000 * 60 * 60 * 24) / 365);
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24)) - years * 365;
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    // Display the result in the element with id="demo"
+    document.getElementById("abstract-countdown").innerHTML =
+    `
+      <h2><b>Presenter Early Bird Closes</b></h2>
+      <h1 style="font-size:6em">${days} Days</h1>
+      <p>Short video due 30/11/2020</p>
+    `;
+    // If the count down is finished, write some text
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("abstract-countdown").innerHTML = "";
+    }
+  }, 1000);
+  </script>
+
+
 <?php } ?>
 </body>
 </html>
