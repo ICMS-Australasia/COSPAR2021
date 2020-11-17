@@ -1346,3 +1346,35 @@ a.active {
     }
   }
 }
+
+.ticker {
+  background:#142453;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  color:#0c4da2;
+  font-size:1.1em;
+  font-weight:bold;
+}
+.ticker a {
+  color:white;
+  margin-left:7px;
+}
+.ticker__list {
+  display: flex;
+  align-items: center;
+  animation: ticker 55s infinite linear;
+}
+.ticker:hover .ticker__list {
+  animation-play-state: paused;
+}
+.ticker__item {
+  padding:10px;
+  width:650px;
+  text-align: center;
+}
+@keyframes ticker {
+  100% {
+    transform: translateX(-100%);
+  }
+}
