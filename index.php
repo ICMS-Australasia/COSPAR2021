@@ -48,15 +48,29 @@ include('include/header.php');
 </div-->
 <!-- video -->
 <!-- welcome -->
-<!-- <div class="container">
-    <div class="row pt-5">
+<div class="container-fluid">
+    <div class="row">
         <div class="col-md-12">
-            <a href="abstracts.php">
-              <img src="./img/COSPAR2021-October-feature-v1.jpg" class="img-fluid" width="100%">
-            </a>
+
+          <div class="ticker">
+            <div class="ticker__list">
+              <div class="ticker__item"><a href="">Presenter access “presenter early bird rate” 30 November 2020</a></div>
+              <div class="ticker__item">Presenter deadline to upload pre-recorded short video 30 November 2020</div>
+              <div class="ticker__item">Presenter deadline to upload pre-recorded FULL video 30 December 2021</div>
+            </div>
+          </div>
+
+          <script>
+          var ticker = document.querySelector(".ticker"),
+            list = document.querySelector(".ticker__list"),
+            clone = list.cloneNode(true);
+
+          ticker.append(clone);
+          </script>
+
         </div>
     </div>
-</div> -->
+</div>
 <div class="welcome" id="invitation">
   <div class="container">
     <div class="row pt-5">
