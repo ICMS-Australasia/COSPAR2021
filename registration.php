@@ -21,7 +21,6 @@ include('include/header.php');
   <div class="container">
     <div class="row py-5">
       <div class="col-md">
-        <h2 class="mb-4">Early Bird Registration Rates Extended</h2>
         <h3>BONUS OFFER until 30 November 2020</h3>
         <p>We are excited to announce a special bonus to all COSPAR-2021-Hybrid participants. Register for COSPAR-Hybrid-2021 by 30 November; and as a thank you for registering early, you will receive admission to a special Assembly pre-event featuring three of our Interdisciplinary Speakers. <a href="#entitlements">Click Here</a> to review all the benefits of attending COSPAR-2021-Hybrid.</p>
         <h2 class="mt-5 mb-4">Registration Categories and Rates</h2>
