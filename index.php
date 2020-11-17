@@ -54,9 +54,9 @@ include('include/header.php');
 
           <div class="ticker">
             <div class="ticker__list">
-              <div class="ticker__item"><a href="">Presenter access “presenter early bird rate” 30 November 2020</a></div>
-              <div class="ticker__item">Presenter deadline to upload pre-recorded short video 30 November 2020</div>
-              <div class="ticker__item">Presenter deadline to upload pre-recorded FULL video 30 December 2021</div>
+              <div class="ticker__item">&bull; <a href="registration">Presenter access "presenter early bird rate" 30 November 2020</a></div>
+              <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
+              <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded FULL video 31 December 2021</a></div>
             </div>
           </div>
 
