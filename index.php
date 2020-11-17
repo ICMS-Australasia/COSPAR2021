@@ -49,7 +49,7 @@ include('include/header.php');
 <!-- video -->
 <!-- welcome -->
 <div class="container-fluid">
-    <div class="row">
+    <div class="row mx-0">
         <div class="col-md-12">
 
           <div class="ticker">
