@@ -25,7 +25,7 @@ include('include/header.php');
                                 <div class="col m-0">
                                     <div class="p-4 p-md-0 pr-md-4">
                                         <h2>Registration</h2>
-                                        Early Bird Registration opens <strong>15 August 2019</strong> until 30 November 2020.
+                                        Presenter Early Bird Closes <b>30/11/2020</b>.
                                     </div>
                                 </div>
                             </div>
@@ -37,8 +37,8 @@ include('include/header.php');
                                 <div class="col-md-5"><img src="img/participation/abstracts.jpg" alt="" class="img-fluid"></div>
                                 <div class="col m-0">
                                     <div class="p-4 p-md-0 pr-md-4">
-                                        <h2>Abstracts Reopened</h2>
-                                        The abstract submission is reopened from 16 September 2020 until <strong>11 October 2020</strong>.
+                                        <h2>Abstracts</h2>
+                                        Presenter Short Videos Due <b>30/11/2020</b> and Full Videos by <b>31/12/2020</b>
                                     </div>
                                 </div>
                             </div>
