@@ -36,13 +36,13 @@ if ($home == true) {
                     </div>
                 </div>
             </a> -->
-            <a href="participation.php" class="col-md-4 pb-5">
+            <a href="registration.php" class="col-md-4 pb-5">
                 <div class="card">
-                    <i class="fas fa-people-arrows circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/participation.jpg">
+                    <i class="far fa-address-card circle-icon"></i>
+                    <img class="card-img-top" src="img/tiles/things.jpg">
                     <div class="card-body p-4">
-                        <h3 class="card-title">Participation</h3>
-                        <p class="card-text">COSPAR-2021-Hybrid redefines global removing barriers of distance and isolation. Participation is at your fingertips.</p>
+                        <h3 class="card-title">Presenter Deadline</h3>
+                        <p class="card-text">Presenters Early Bird and Short video due 30 November. Full video due 31 December.</p>
                     </div>
                 </div>
             </a>
@@ -55,6 +55,16 @@ if ($home == true) {
                         <p class="card-text">Required information to everyone associated with the Scientific Program for COSPAR-2021-Hybrid</p>
                     </div>
                 </div>
+            </a>
+            <a href="participation.php" class="col-md-4 pb-5">
+              <div class="card">
+                <i class="fas fa-people-arrows circle-icon"></i>
+                <img class="card-img-top" src="img/tiles/participation.jpg">
+                <div class="card-body p-4">
+                  <h3 class="card-title">Participation</h3>
+                  <p class="card-text">COSPAR-2021-Hybrid redefines global removing barriers of distance and isolation. Participation is at your fingertips.</p>
+                </div>
+              </div>
             </a>
             <a href="cross-disciplinary-workshops.php" class="col-md-4 pb-5">
                 <div class="card">
@@ -73,16 +83,6 @@ if ($home == true) {
                     <div class="card-body p-4">
                         <h3 class="card-title">Frequently Asked Questions</h3>
                         <p class="card-text">Quickly find the answers to COSPAR 2021 Hybrid.</p>
-                    </div>
-                </div>
-            </a>
-            <a href="registration.php" class="col-md-4 pb-5">
-                <div class="card">
-                    <i class="far fa-address-card circle-icon"></i>
-                    <img class="card-img-top" src="img/tiles/things.jpg">
-                    <div class="card-body p-4">
-                        <h3 class="card-title">Presenter Deadline</h3>
-                        <p class="card-text">Presenters Early Bird and Short video due 30 November. Full video due 31 December.</p>
                     </div>
                 </div>
             </a>
