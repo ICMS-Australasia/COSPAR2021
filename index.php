@@ -48,9 +48,9 @@ include('include/header.php');
 </div-->
 <!-- video -->
 <!-- welcome -->
-<div class="container-fluid">
+<div class="container-fluid px-0">
     <div class="row mx-0">
-        <div class="col-md-12">
+        <div class="col-md-12 px-0">
 
           <div class="ticker">
             <div class="ticker__list">
