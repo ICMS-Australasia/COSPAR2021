@@ -3,10 +3,13 @@
         <th colspan="2"><h3 style="color:white;" class="m-0">Key Dates</h3></th>
     </tr>
           <tr>
-            <td><strong>Presenter deadline to upload pre-recorded talk and access "presenter early bird rate"</strong> <br> 30 November 2020</td>
+            <td><strong>Presenter deadline to upload pre-recorded short video and access "presenter early bird rate"</strong> <br> 30 November 2020</td>
           </tr>
           <tr>
             <td><strong>Deadline to register @ standard early bird rate</strong><br>  31 December 2020</td>
+          </tr>
+          <tr>
+            <td><strong>Presenter Full video</strong><br>  31 December 2020</td>
           </tr>
           <tr>
             <td><strong>Facilitated training with the on-line system for chairs, speakers and participants</strong><br>  Early January 2021</td>
