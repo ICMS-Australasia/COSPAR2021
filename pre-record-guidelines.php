@@ -117,12 +117,11 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
 
-<h3>Dropbox System Requirements</h3>
+<h3>Dropbox* System Requirements</h3>
 
 <p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file and drag it to your Dropbox folder.</p>
 
-
-<h3>To sign up for a Dropbox account:</h3>
+<h3>To sign up for a Dropbox* account:</h3>
 
 <p>Once you have completed both your video pre-recordings (short summary and contributed/solicited talk), please upload your files to Dropbox.  This will allow our team to have access to all the presenter documents and files in one location.</p>
 
@@ -138,6 +137,7 @@ include('include/header.php');
 
 <p>Once you create an account, you can upload files to your Dropbox account.  Copy the URL ready to upload in the Presenters’ portal.</p>
 
+<p><em>*If your organisation does not allow the use of Dropbox please use an alternative cloud file storage system (e.g. GoogleDrive, Microsoft OneDrive etc.) in replacement.</em></p>
 
 <h3>Captioning your pre-recorded presentation</h3>
 
@@ -156,15 +156,13 @@ include('include/header.php');
 
 <p>For example,</p>
 <ul>
-  <li>Date of presentation: Tues2Feb</li>
-  <li>COSPAR 2021 scientific event number (COSPARid): A3.1-6-21 </li>
-  <li>Room: E3.4</li>
-  <li>Presenter Name:  JaneDoeFullPrerecordedVideo
+  <li>Date of presentation: TUES2FEB</li>
+  <li>COSPAR 2021 scientific event number (COSPARid): A3.1-6-21</li>
+  <li>Presenter Name: JANEDOEFULLPRERECORDEDVIDEO
 </li>
 </ul>
 
-<p>The file name should look like this: Tues2Feb A3.1-6-21 E3.4 JaneDoeFullPrerecordedVideo</p>
-
+<p>The file name should look like this: TUES2FEB A3.1-6-21 JANEDOEFULLPRERECORDEDVIDEO</p>
 
 <h3>Multiple Presentations</h3>
 <p>If you have more than one presentation to prepare, please create separate sub-folders in your Drop box to allow us to easily identify each presentation.</p>
@@ -173,14 +171,13 @@ include('include/header.php');
 <p>Each presenter will receive an automatic Login token via email. This is a personalised link to the presenters’ portal.  In the portal, presenters will need to provide the following documents via a Dropbox link:</p>
 
 <ol>
-  <li>Speaker photo (high resolution min 300dpi) and biography ( 100 words)</li>
+  <li>Speaker photo (high resolution min 300 dpi) and biography (100 words)</li>
   <li>Abstract acceptance letter</li>
-  <li>Abstract (in word) or transcript</li>
-  <li>Pre-recorded short video presentation – 3 or 6 minutes</li>
-  <li>Full length pre-recorded video presentation – as per confirmed timings of program</li>
-  <li>PowerPoint presentation file (slides)</li>
+  <li>Abstract (in a Word document) or transcript</li>
+  <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
+  <li>PowerPoint presentation file (slides) used within the short video presentation</li>
+  <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li>
 </ol>
-
 
 <h3>Uploading your pre-recorded presentation</h3>
 
@@ -191,9 +188,6 @@ include('include/header.php');
 <p><a href="https://support.google.com/youtube/answer/57407" target="_blank">Here are written instructions for uploading to YouTube</a></p>
 <p><a href="https://youtu.be/6C4dEpT0rYg" target="_blank">Here are video instructions for uploading to YouTube</a></p>
 <p><a href="https://youtubedownload.minitool.com/youtube/unlisted-youtube-videos.html" target="_blank">Here are instructions to locate your video’s private link</a></p>
-
-
-
 
 <h2 class="mt-5 mb-3">Terms and Conditions</h2>
 
@@ -212,13 +206,12 @@ include('include/header.php');
 <h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
 
 <div class="mt-4 ml-4 d-block">
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM Abstract acceptance letter</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in word) or transcript</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation – 3 or 6 minutes</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Transcript for pre-prepared presentations in Word document</div>
-  <div class="d-flex align-items-center mb-3 mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation – as per confirmed timings of program (Video uploaded to YouTube)</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides)</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography </div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides) used within the short video presentation</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</div>
 </div>
 
 <h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>
