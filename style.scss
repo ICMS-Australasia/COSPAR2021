@@ -910,6 +910,11 @@ a.active {
     font-size: 3.1em;
     padding-bottom: 10px;
     font-weight: bold;
+    a {
+      color: inherit;
+      &:hover { color: darken(#c3d82d, 10%); }
+
+    }
   }
 
   h2 {
@@ -919,7 +924,10 @@ a.active {
   h3 {
     color: #841068;
   }
-
+  a.purple {
+    color: #491865;
+    &:hover { color: #841068; }
+  }
   .button-main {
     text-decoration: none;
     font-size: 1em;
@@ -969,6 +977,34 @@ a.active {
 
     &:hover {
       background: #841068;
+    }
+  }
+  .cospark-alert {
+    font-size: 1.4em;
+    background-color: #491865;
+    color: white;
+  }
+  .speakers-schedule {
+    a {
+      text-decoration: none;
+      transition: 0.2s all ease-in-out;
+      h3 {
+        text-decoration: underline;
+      }
+      .icon {
+        font-size: 10rem;
+        color: #491865;
+      }
+      &.disabled {
+        p, h3 { color: #e0e0e0; }
+        &:hover {
+          transform: none;
+        }
+      }
+      &:hover {
+        color: #841068;
+        transform: scale(1.05);
+      }
     }
   }
 
@@ -1064,9 +1100,8 @@ a.active {
 .stem-card {
   transition: background 0.3s;
   background-color: #491865;
-  margin-bottom: 1.75em;
   color: white;
-
+  margin-bottom: 1.75em;
   .stem-card-title {
     color: white;
     text-align: center;
