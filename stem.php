@@ -19,7 +19,7 @@ include('include/cospark.php');
             </a>
           </div>
           <div class="col-6">
-            <a href="./COSPAR-K-Ground-Map-Combined.pdf" target="_blank" class="button-secondary mb-5">
+            <a href="./COSPAR-K-Promo-Flyer.pdf" target="_blank" class="button-secondary mb-5">
               <span class="button-body mb-0"><b>View the Promo Flyer</b></span>
             </a>
           </div>
