@@ -32,12 +32,12 @@ include('include/header.php');
                         </a>
                     </div>
 					<div class="col-md-6">
-                        <a href="abstracts.php" class="box mb-4">
+                        <a href="presenter-information.php" class="box mb-4">
                             <div class="row align-items-center">
                                 <div class="col-md-5"><img src="img/participation/abstracts.jpg" alt="" class="img-fluid"></div>
                                 <div class="col m-0">
                                     <div class="p-4 p-md-0 pr-md-4">
-                                        <h2>Abstracts</h2>
+                                        <h2>Presenter Videos</h2>
                                         Presenter Short Videos Due <b>30/11/2020</b> and Full Videos by <b>31/12/2020</b>
                                     </div>
                                 </div>
