@@ -15,7 +15,7 @@ include('include/cospark.php');
 
                       <h3>Pyrmont Theatre, ICC Sydney</h3>
                       <p>Our speaker line-up is truly amazing! We’ve curated this speaker program to highlight the importance of STEM and why a career in Space STEM is a future to seriously consider. We want you to be inspired, be challenged and be the future of Space STEM.</p>
-                      <p>Thanks to our super star partners Microsoft, no matter where you are on our beautiful Earth you can live-stream the entire COSPAR-K speakers program.</p>
+                      <p>Thanks to our friends at Microsoft, no matter where you are on our beautiful Earth you can live-stream the entire COSPAR-K speakers program.</p>
 
                       <div class="row mt-5 speakers-schedule">
                         <a href="stem-keynotes" class=" col-12 col-sm-4 text-center">
