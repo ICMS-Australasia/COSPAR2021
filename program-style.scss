@@ -89,13 +89,32 @@ $border: 1px 0 0 0 rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(0, 0, 0, 0.1), 1px 1px 0 0
     color: white;
   }
 
+  .bg-S-darker {
+    background-color: darken($S, 10%);
+    color: white;
+  }
+
+  .bg-S-darkest {
+    background-color: darken($S, 20%);
+    color: white;
+  }
+
   .bg-S-light {
     background-color: lighten($S, 20%);
+    color: white;
+  }
+  .bg-S-lighter {
+    background-color: lighten($S, 25%);
     color: white;
   }
 
   .bg-event {
     background-color: $event;
     color: #0a0a0a;
+  }
+
+  .bg-teal {
+    background-color: #11998e;
+    color: white;
   }
 }
