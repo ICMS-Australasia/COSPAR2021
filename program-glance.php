@@ -57,131 +57,305 @@ include('include/header.php');
                           <th width="14.2%" class="border-white" colspan="2"><a href="/program-wednesday.php" class="table-header justify-content-center">
                             <div><strong>Wednesday <br> 3 Feb 2021</strong><br /><span>View Full Program</span></div>
                           </a> </th>
-                          <th width="7.5%" class="border-white">
-
-                            <a href="/program-thursday4.php" class="table-header justify-content-center">
-                              <div><strong>Thursday <br> 4 Feb 2021</strong><Br /><span>View Full Program</span></div>
-                            </a>
-
-                          </th>
                         </tr>
+                        <tr>
+                          <td class="bg-dark-grey border-white"><b>COSPAR Council Meeting</b> <br> CET 14:00 - 15:30 <br> (Closed except to COSPAR Council members)</td>
+                          <td class="border-white"></td>
+                          <td colspan="2" class="bg-S-darkest border-white"><b>Space Agency Round Table</b> <br> CET 14:00 - 15:30 </td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                        </tr>
+                        <tr>
+                          <td class="border-white"></td>
+                          <td colspan="9" class="bg-stem border-white"><b>COSPAR-K Space Science STEM Event</b></td>
+                          <td colspan="2" class="border-white"></td>
+                        </tr>
                         <tr>
                           <td rowspan="2" class="border-white"></td>
-                          <td rowspan="2" class="border-white"></td>
-                          <td class="bg-light-grey border-white" colspan="2"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:30-08:30</td>
-                          <td class="bg-light-grey"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:30-08:30</td>
-                          <td class="bg-dark-grey border-white"><b>Women in Science Breakfast</b></td>
-                          <td class="bg-light-grey"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:30-08:30</td>
-                          <td class="bg-dark-grey border-white"><b>NSW Govt Chief Scientist Breakfast</b></td>
-                          <td class="bg-light-grey"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:30-08:30</td>
-                          <td class="bg-dark-grey border-white"><b>Space Ethics and law</b></td>
-                          <td class="bg-light-grey" colspan="2"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:30-08:30</td>
-                          <td rowspan="4" class="border-white"></td>
+                          <td class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00-07:30</td>
+                          <td class="bg-light-grey border-white" colspan="2"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00-07:30</td>
+                          <td colspan="2" class="bg-S-darkest border-white"><b>Leadership Forum</b> <br>
+                            AEDT 07:00 - 08:00 (Live) <br><br>
+                            Keoki Jackson (USA) <br>
+                            Russell Boyce (AUS) <br>
+                            Elanora Huntington (AUS) <br>
+                            <em>Moderator Darryl Krook</em>
+                          </td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
                         </tr>
                         <tr>
-                          <td colspan="2" class="bg-S-light border-white"><b>Interdisciplinary Lecture</b> <br> 08:30-09:15</td>
-                          <td colspan="2" class="bg-S-light border-white"><b>Interdisciplinary Lecture</b> <br> 08:30-09:15</td>
-                          <td colspan="2" class="bg-S-light border-white"><b>Interdisciplinary Lecture</b> <br> 08:30-09:15</td>
-                          <td colspan="2" class="bg-S-light border-white"><b>Interdisciplinary Lecture</b> <br> 08:30-09:15</td>
-                          <td colspan="2" class="bg-S-light"><b>Interdisciplinary Lecture</b> <br> 08:30-09:15</td>
+                          <td class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            John Church <br>
+                            University of New South Wales, Sydney, Australia <br>
+                            <u>Climate Change, the Ocean and Cryosphere</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            Hitoshi Kuninaka <br>
+                            Astronautical Science (ISAS), Japan Aerospace Exploration Agency (JAXA), Kanagawa, Japan <br>
+                            <u>The Hayabusa II mission and return</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            Carlé McGetchin Pieters <br>
+                            Brown University, USA <br>
+                            <u>The Earth-Moon System: Our Past, Present and Future</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            Michele Dougherty <br>
+                            Professor of Space Physics at Imperial College London (UK) <br>
+                            <u>New Aspects of the Magnetospheres of Jupiter and Saturn</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            Marica Branchesi <br>
+                            Gran Sasso Science Institute and INFN-LNGS, L'Aquila, Italy <br>
+                            <u>New High Energy Astrophysics Involving Gravitational Waves and Satellite Observations</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 07:15 - 08:00 <br><br>
+                            Francis A. Cucinotta <br>
+                            University of Nevada, Las Vegas, USA <br>
+                            <u>Radiobiology, Radiation and Why They Matter for Space Research and Exploration</u></td>
                         </tr>
-                        <tr>
-                            <td rowspan="10" class="bg-light-grey border-white"><b>IAA Day</b> <br> 09:00-16:00</td>
-                          <td colspan="9" class="bg-stem border-white"><b>COSPAR-K Space Science STEM Event</b></td>
-                          <td rowspan="2" colspan="2"></td>
-                        </tr>
-                        <tr>
-                          <td colspan="3" class="border-white"></td>
-                          <td class="bg-event border-white" colspan="2"><b>Cross-disciplinary Workshop</b> <br> Machine Learning for Space Sciences <br> (09:30-13:00) and (14:30-18:00) </td>
-                          <td class="bg-event border-white"colspan="2"><b>Cross-disciplinary Workshop</b> <br> Autonomy for Future Space Science Missions <br> (09:30-13:00) and (14:30-18:00) </td>
-                          <td class="bg-event"colspan="2"><b>Cross-disciplinary Workshop</b> <br> Cloud Computing for Space Research <br> (09:30-13:00) and (14:30-18:00) </td>
-                        </tr>
-                        <tr>
-                          <td class="bg-S border-white"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S" colspan="2"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td rowspan="3" class="bg-light-grey border-white"><b>COSPAR Council Session 2</b> <br> <em>Council members only</em> <br>  09:30-12:30</td>
-                        </tr>
-                        <tr>
-                          <td class=" border-white"><b>Break</b> <br> 11:00-11:30</td>
-                          <td colspan="2" class=" border-white"><b>Break</b> <br> 11:00-11:30</td>
-                          <td colspan="2" class=" border-white"><b>Break</b> <br> 11:00-11:30</td>
-                          <td colspan="2" class=" border-white"><b>Break</b> <br> 11:00-11:30</td>
-                          <td colspan="2" class=" border-white"><b>Break</b> <br> 11:00-11:30</td>
-                          <td colspan="2"><b>Break</b> <br> 11:00-11:30</td>
-                        </tr>
-                        <tr>
-                          <td class="bg-S border-white"><b>Scientific Sessions</b> <br> 09:30-11:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 11:30-13:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 11:30-13:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 11:30-13:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 11:30-13:00</td>
-                          <td class="bg-S" colspan="2"><b>Scientific Sessions</b> <br> 11:30-13:00</td>
-                        </tr>
-                        <tr>
-                          <td rowspan="2" class=" border-white"></td>
-                          <td class="bg-light-grey" rowspan="2"><b>Open SC/Panel Business Meetings</b> <br> 13:00-14:00</td>
-                          <td class="bg-lunch border-white" rowspan="2">LUNCH BREAK & <b>Special Events</b> <br> 13:00-14:00</td>
-                          <td class="bg-dark-grey border-white" colspan="2"><b>Leadership Dialogue Q&A</b> <br> 13:00-14:00</td>
-                          <td class="bg-light-grey" rowspan="2"><b>Open SC/Panel Business Meetings</b> <br> 13:00-14:30</td>
-                          <td class="bg-lunch border-white" rowspan="2">LUNCH BREAK & <b>Special Events</b> <br> 13:00-14:30</td>
-                          <td class="bg-light-grey" rowspan="2"><b>Open SC/Panel Business Meetings</b> <br> 13:00-14:30</td>
-                          <td class="bg-lunch border-white" rowspan="2">LUNCH BREAK & <b>Special Events</b> <br> 13:00-14:30</td>
-                          <td class="bg-light-grey" rowspan="2"><b>COSPAR Reviewer Workshop </b> <br> 13:00-14:30</td>
-                          <td class="bg-lunch" rowspan="2">LUNCH BREAK & <b>Special Events</b> <br> 13:00-14:30</td>
-                          <td rowspan="8" class="border-white"></td>
-                        </tr>
-                        <tr>
-                          <td class="bg-light-grey"><b>Open SC/Panel Business Meetings</b> <br> 13:00-14:30</td>
-                          <td class="bg-lunch">LUNCH BREAK & <b>Special Events</b> <br> 13:00-14:30</td>
-                        </tr>
-                        <tr>
-                          <td class="bg-S border-white"><b>Scientific Sessions</b> <br> 14:00-15:30</td>
-                          <td class="bg-S border-white" colspan="2"><b>Latest Results</b> <br> 14:00-15:30</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 14:30-16:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 14:30-16:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 14:30-16:00</td>
-                          <td class="bg-S" colspan="2"><b>Scientific Sessions</b> <br> 14:30-16:00</td>
-                        </tr>
-                        <tr>
-                          <td rowspan="2" class=" border-white"><b>Break</b> <br> 15:30-16:00</td>
-                          <td><b>Break</b> <br> 15:30-15:45</td>
-                          <td class="bg-S  border-white" rowspan="2"><b>Space Agency Round Table</b> <br> 15:45-17:15</td>
-                          <td colspan="2" rowspan="2" class=" border-white"><b>Break</b> <br> 16:00-16:30</td>
-                          <td colspan="2" rowspan="2" class=" border-white"><b>Break</b> <br> 16:00-16:30</td>
-                          <td colspan="2" rowspan="2" class=" border-white"><b>Break</b> <br> 16:00-16:30</td>
-                          <td colspan="2" rowspan="2"><b>Break</b> <br> 16:00-16:30</td>
-                        </tr>
-                        <tr>
-                          <td><b>Break</b> <br> 17:15-17:30</td>
-                        </tr>
-                        <tr>
-                            <td rowspan="2" class="bg-light-grey border-white"><b>COSPAR Council Session 1</b> <br> <em>Council members only</em> <br>  15:30-18:00</td>
-                          <td class="bg-S border-white"><b>Scientific Sessions</b> <br> 16:00-17:30</td>
-                          <td class="bg-event border-white" colspan="2" rowspan="2"><b>Opening & Awards Ceremony</b> <br> 17:30-19:30 <br> Darling Harbour Theatre </td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 16:30-18:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 16:30-18:00</td>
-                          <td class="bg-S border-white" colspan="2"><b>Scientific Sessions</b> <br> 16:30-18:00</td>
-                          <td class="bg-S" colspan="2"><b>Scientific Sessions</b> <br> 16:30-18:00</td>
-                        </tr>
-                        <tr>
-                          <td class="bg-S border-white"><b>Interdisciplinary Lecture</b> <br> 18:00-18:45</td>
-                          <td class="bg-event border-white" colspan="2"><b>Post Mixer Session</b> <br> 18:00-20:00 Level 3 & 4 Foyer</td>
-                          <td class="bg-event border-white" colspan="2"><b>Post Mixer Session</b> <br> 18:00-20:00 Level 3 & 4 Foyer</td>
-                          <td class="bg-event border-white" colspan="2"><b>Post Mixer Session</b> <br> 18:00-20:00 Level 3 & 4 Foyer</td>
-                          <td class="bg-light-grey" colspan="2" rowspan="2"><b>COSPAR Council Evening</b> <br> <em>Council members only</em> <br> 20:00-22:00</td>
-                        </tr>
-                        <tr>
-                         <td class="bg-light-grey border-white"><b>IAA Banquet</b> <br>  20:00-22:00</td>
-                          <td class="bg-S border-white"><b>COSPAR Author Workshop</b> <br> 19:30-21:00</td>
-                          <td class="bg-event border-white" colspan="2"><b>Welcome Reception</b> <br> 19:30-22:00 <br> Grand Ballroom & ICC</td>
-                          <td class="bg-S border-white" colspan="2"><b>Public Lecture</b> <br> 20:00-21:30 <br> <b>Abigail Allwood</b> <br> Australian geologist and astrobiologist at the NASA Jet Propulsion Laboratory </td>
-                          <td class="bg-event border-white" colspan="2"><b>Gala Party @ Luna-R Park</b> <br> Evening for All <br> 20:00-21:30</td>
-                          <td colspan="2">Free Evening</td>
-                        </tr>
+                        <tr>
+                          <td rowspan="2" class="bg-dark-grey border-white"><b>Future Leaders Forum Workshop</b></td>
+                          <td class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b>
+                            ORALS
+                            AEDT 08:00 - 11:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 08:00 - 09:30</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 08:00 - 11:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 08:00 - 11:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 08:00 - 11:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  1 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 08:00 - 11:00</td>
+                        </tr>
+                        <tr>
+                          <td class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 11:00 - 12:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 09:30 - 11:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 11:00 - 12:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 11:00 - 12:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 11:00 - 12:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 11:00 - 12:00
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td class="border-white">
+                            <b>Lunch</b> <br> (12:00 - 13:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Lunch</b> <br> (12:00 - 13:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Lunch</b> <br> (12:00 - 13:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Lunch</b> <br> (12:00 - 13:30)
+                          </td>
+                          <td colspan="2" class="bg-event border-white">
+                            <b>Public Lecture: Abigail Allwood (USA)</b> <br>
+                            AEDT 1200-1330 <br> <br>
+                            Australian geologist and astrobiologist at the NASA Jet Propulsion Laboratory
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Lunch</b> <br> (12:00 - 13:30)
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td colspan="11" class="bg-S-darker border-white">
+                            <b>INTERSECT Program</b> <br>
+                            AEDT 13:30 - 15:00
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                          <td colspan="2" class="border-white">
+                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td colspan="11" class="bg-S-darker border-white">
+                            <b>INTERSECT Program</b> <br>
+                            AEDT 15:30 - 17:00
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td class="border-white"></td>
+                          <td colspan="2" class="bg-teal border-white">
+                            <b>Opening & Awards Ceremony</b> <br> AEDT 17:00 - 18:00 <br> Darling Harbour Theatre
+                          </td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                          <td colspan="2" class="border-white"></td>
+                        </tr>
+                        <tr>
+                          <td class='border-white'></td>
+                          <td class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            John Church <br>
+                            University of New South Wales, Sydney, Australia <br>
+                            <u>Climate Change, the Ocean and Cryosphere</u></td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            Hitoshi Kuninaka
+                            Astronautical Science (ISAS), Japan Aerospace Exploration Agency (JAXA), Kanagawa, Japan, The Hayabusa II mission and return
+                            The Status of Hayabusa II and the Results thus far from Hayabusa I and II</td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            Carlé McGetchin Pieters <br>
+                            Brown University, USA <br>
+                            The Earth-Moon System: Our Past, Present and Future</td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            Michele Dougherty <br>
+                            Professor of Space Physics at Imperial College London (UK) <br>
+                            New Aspects of the Magnetospheres of Jupiter and Saturn</td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            Marica Branchesi <br>
+                            Gran Sasso Science Institute and INFN-LNGS, L'Aquila, Italy <br>
+                            New High Energy Astrophysics Involving Gravitational Waves and Satellite Observations</td>
+                          <td colspan="2" class="bg-S border-white">
+                            <b>Interdisciplinary Lecture</b> <br>
+                            AEDT 18:15 - 19:00 <br><br>
+                            Francis A. Cucinotta <br>
+                            University of Nevada, Las Vegas, USA <br>
+                            Radiobiology, Radiation and Why They Matter for Space Research and Exploration</td>
+                        </tr>
+                        <tr>
+                          <td class="border-white"></td>
+                          <td class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b>
+                            ORALS
+                            AEDT 19:00 - 22:00</td>
+                          <td rowspan="2" class="bg-teal border-white">
+                            <b>Welcome Party <br>
+                              AEDT 19:00 - 21:30</b> <br>
+                              Event Deck @ ICC</td>
+                          <td class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 19:00 - 20:30</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 19:00 - 22:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 19:00 - 22:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 19:00 - 22:00</td>
+                          <td colspan="2" class="bg-S-light border-white">
+                            <b>BLOCK  2 <br>
+                              Virtual Scientific Sessions</b> <br>
+                            ORALS <br>
+                            AEDT 19:00 - 22:00</td>
+                        </tr>
+                        <tr>
+                          <td class="border-white"></td>
+                          <td class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 20:30 - 21:30
+                          </td>
+                          <td class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 09:30 - 11:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 20:30 - 21:30
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 20:30 - 21:30
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 20:30 - 21:30
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 20:30 - 21:30
+                          </td>
+                        </tr>
                       </table>
 
 
