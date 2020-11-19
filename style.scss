@@ -1414,7 +1414,34 @@ a.active {
   }
 }
 
-.sixways{
+.sixways {
   background: #f2f2f2;
-  
+
+  h2 {
+    font-weight: bold;
+    color: #142453;
+  }
+
+  .counter {
+    border-radius: 50%;
+    display: inline-block;
+    width: 33px;
+    height: 33px;
+    margin-right: 5px;
+    background: #142453;
+    color: white;
+    text-align: center;
+  }
+
+  .sixways_heading {
+    color: #0c4da2;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+
+  .col-md-6 {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+  }
 }

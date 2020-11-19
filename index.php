@@ -95,34 +95,32 @@ include('include/header.php');
     </div>
   </div>
 </div>
-<div class="sixways">
+<!-- Six Ways -->
+<div class="sixways py-3">
   <div class="container">
     <div class="row">
       <div class="col">
-        <h1>6 Steps to Recording your Presentation Short Summary Video</h1>
-        <div class="row">
+        <h2>6 Steps to Recording your Presentation Short Summary Video</h2>
+        <div class="row mt-3">
           <div class="col-md-6">
-            <div class="sixways_heading">1. Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show
+            <div class="sixways_heading"><span class="counter">1</span> Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show
             PowerPoints etc.
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading">2. Prepare your presentation content</div>
-            Select your method of recording depending on whether you have a PowerPoint or video component to your presentation
+            <div class="sixways_heading"><span class="counter">2</span> Prepare your presentation content</div> Select your method of recording depending on whether you have a PowerPoint or video component to your presentation
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading">3. Prepare to record your presentation</div>
-            We suggest checking your computer settings and using a headset with microphone
+            <div class="sixways_heading"><span class="counter">3</span> Prepare to record your presentation</div> We suggest checking your computer settings and using a headset with microphone
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading">4. Record your short summary presentation video</div>
+            <div class="sixways_heading"><span class="counter">4</span> Record your short summary presentation video</div>
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading">5. Submitting your pre-recorded presentation</div>
-            Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the presentation portal
+            <div class="sixways_heading"><span class="counter">5</span> Submitting your pre-recorded presentation</div> Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the presentation portal
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading">6. Register through the presenter portal that has been emailed directly to you</div>
-            Please make contact with <a href="mailto:enquiries@cospar2021.org">enquiries@cospar2021.org</a> if you do not have your login details
+            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org">enquiries@cospar2021.org</a> if you do not have your
+            login details
           </div>
         </div>
         <p>See the <a href="https://cospar2021.org/pre-record-guidelines ">full instruction guidelines here</a>.</p>
@@ -130,6 +128,7 @@ include('include/header.php');
     </div>
   </div>
 </div>
+<!-- Six Ways -->
 <div class="welcome" id="invitation">
   <div class="container">
     <div class="row pt-5">
