@@ -74,8 +74,8 @@ include('include/header.php');
                         </tr>
                         <tr>
                           <td rowspan="2" class="border-white"></td>
-                          <td class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00-07:30</td>
-                          <td class="bg-light-grey border-white" colspan="2"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00-07:30</td>
+                          <td class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> AEDT 07:00 - 07:30</td>
+                          <td class="bg-light-grey border-white" colspan="2"><b>Industry / Education / Outreach Breakfast Events</b> <br> AEDT 07:00 - 07:30</td>
                           <td colspan="2" class="bg-S-darkest border-white"><b>Leadership Forum</b> <br>
                             AEDT 07:00 - 08:00 (Live) <br><br>
                             Keoki Jackson (USA) <br>
@@ -83,9 +83,9 @@ include('include/header.php');
                             Elanora Huntington (AUS) <br>
                             <em>Moderator Darryl Krook</em>
                           </td>
-                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
-                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
-                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> 07:00 - 07:30</td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> AEDT 07:00 - 07:30</td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> AEDT 07:00 - 07:30</td>
+                          <td colspan="2" class="bg-light-grey border-white"><b>Industry / Education / Outreach Breakfast Events</b> <br> AEDT 07:00 - 07:30</td>
                         </tr>
                         <tr>
                           <td class="bg-S border-white">
@@ -187,59 +187,59 @@ include('include/header.php');
                         <tr>
                           <td class='border-white'></td>
                           <td class="border-white">
-                            <b>Lunch</b> <br> (12:00 - 13:30)
+                            <b>In-Person Networking/Lunch</b> <br> AEDT 11:00 - 12:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Lunch</b> <br> (12:00 - 13:30)
+                            <b>In-Person Networking/Lunch</b> <br> AEDT 11:00 - 12:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Lunch</b> <br> (12:00 - 13:30)
+                            <b>In-Person Networking/Lunch</b> <br> AEDT 11:00 - 12:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Lunch</b> <br> (12:00 - 13:30)
+                            <b>In-Person Networking/Lunch</b> <br> AEDT 11:00 - 12:30
                           </td>
                           <td colspan="2" class="bg-event border-white">
                             <b>Public Lecture: Abigail Allwood (USA)</b> <br>
-                            AEDT 1200-1330 <br> <br>
+                            AEDT 12:00 - 13:30 <br> <br>
                             Australian geologist and astrobiologist at the NASA Jet Propulsion Laboratory
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Lunch</b> <br> (12:00 - 13:30)
+                            <b>In-Person Networking/Lunch</b> <br> AEDT 11:00 - 12:30
                           </td>
                         </tr>
                         <tr>
                           <td class='border-white'></td>
                           <td colspan="11" class="bg-S-darker border-white">
-                            <b>INTERSECT Program</b> <br>
-                            AEDT 13:30 - 15:00
+                            <b>INTERSET Program</b> <br>
+                            AEDT 12:30 - 14:00
                           </td>
                         </tr>
                         <tr>
                           <td class='border-white'></td>
                           <td class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                           <td colspan="2" class="border-white">
-                            <b>Afternoon Tea Break</b> <br> (15:00 - 15:30)
+                            <b>In-Person Afternoon Tea Break</b> <br> AEDT 14:00 - 14:30
                           </td>
                         </tr>
                         <tr>
                           <td class='border-white'></td>
                           <td colspan="11" class="bg-S-darker border-white">
-                            <b>INTERSECT Program</b> <br>
-                            AEDT 15:30 - 17:00
+                            <b>INTERSET Program</b> <br>
+                            AEDT 14:30 - 16:00
                           </td>
                         </tr>
                         <tr>
@@ -333,27 +333,27 @@ include('include/header.php');
                           <td class="border-white"></td>
                           <td class="bg-S-lighter border-white">
                             <b>Virtual Posters</b> <br>
-                            AEDT 20:30 - 21:30
+                            AEDT 22:00 - 23:00
                           </td>
                           <td class="bg-S-lighter border-white">
                             <b>Virtual Posters</b> <br>
-                            AEDT 09:30 - 11:00
-                          </td>
-                          <td colspan="2" class="bg-S-lighter border-white">
-                            <b>Virtual Posters</b> <br>
                             AEDT 20:30 - 21:30
                           </td>
                           <td colspan="2" class="bg-S-lighter border-white">
                             <b>Virtual Posters</b> <br>
-                            AEDT 20:30 - 21:30
+                            AEDT 22:00 - 23:00
                           </td>
                           <td colspan="2" class="bg-S-lighter border-white">
                             <b>Virtual Posters</b> <br>
-                            AEDT 20:30 - 21:30
+                            AEDT 22:00 - 23:00
                           </td>
                           <td colspan="2" class="bg-S-lighter border-white">
                             <b>Virtual Posters</b> <br>
-                            AEDT 20:30 - 21:30
+                            AEDT 22:00 - 23:00
+                          </td>
+                          <td colspan="2" class="bg-S-lighter border-white">
+                            <b>Virtual Posters</b> <br>
+                            AEDT 22:00 - 23:00
                           </td>
                         </tr>
                       </table>
