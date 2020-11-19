@@ -99,9 +99,9 @@ include('include/header.php');
 <div class="sixways py-5">
   <div class="container">
     <div class="row">
-      <div class="col">
-        <h2>6 Steps to Recording your Presentation Short Summary Video</h2>
-        <div class="row mt-3">
+      <div class="col mt-2">
+        <h2 style="line-height:1.4; font-size:2.3em;">6 Steps to Recording your Presentation Short Summary Video</h2>
+        <div class="row mt-4">
           <div class="col-md-6">
             <div class="sixways_heading"><span class="counter">1</span> Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show
             PowerPoints etc.
@@ -119,11 +119,11 @@ include('include/header.php');
             <div class="sixways_heading"><span class="counter">5</span> Submitting your pre-recorded presentation</div> Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the presentation portal
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org" style="color:#142453;">enquiries@cospar2021.org</a> if you do not have your
+            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org" style="color:#142453; text-decoration:underline;">enquiries@cospar2021.org</a> if you do not have your
             login details
           </div>
         </div>
-        <p>See the <a href="https://cospar2021.org/pre-record-guidelines" style="color:#142453;">full instruction guidelines here</a>.</p>
+        <p class="mb-0">See the <a href="https://cospar2021.org/pre-record-guidelines" style="color:#142453; text-decoration:underline;">full instruction guidelines here</a>.</p>
       </div>
     </div>
   </div>
