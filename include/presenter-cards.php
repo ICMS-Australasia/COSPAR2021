@@ -4,6 +4,11 @@
     <div>Presenter Information</div>
   </a>
 
+  <a href="poster-presentation-guidelines" class="col-md-12 <?php if ( $title == "Poster presentation guidelines" ) { ?>d-none<?php } ?>">
+    <img src="img/presenter-tile5.jpg">
+    <div>Poster Presentation Guidelines</div>
+  </a>
+
   <a href="pre-record-guidelines" class="col-md-12 <?php if ( $title == "Pre-recorded presentation guidelines" ) { ?>d-none<?php } ?>">
     <img src="img/presenter-tile2.jpg">
     <div>Pre-recorded presentation guidelines</div>

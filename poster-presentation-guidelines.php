@@ -28,7 +28,7 @@ include('include/header.php');
         <h3 class="mt-3 mb-3">Author Guidelines</h3>
 
 <p>Poster presenters are expected to submit a short summary video and PDF Poster for the Assembly. Only those submissions that accompany a paid registration will be included within the virtual platform.</p>
-<p>Deadline for submission of the short summary video, and registration for presenters, is <strong>30 November 2020</strong>.</p>
+<p class="mb-5">Deadline for submission of the short summary video, and registration for presenters, is <strong>30 November 2020</strong>.</p>
 
 <h3 class="mt-3 mb-3">Virtual Presentation Details</h3>
 
@@ -90,14 +90,16 @@ include('include/header.php');
 <p>The length of each summary videos is 3 minutes for a poster presentation.</p>
 
 <h3 class="mt-3 mb-3">How do I record my summary video?</h3>
-<p>You will need a laptop with a webcam or desktop computer. A detailed presentation filming sheet can be found on the COSPAR-2021-Hybrid website at http://cospar2021.org/virtual-presenter-information</p>
+<p>You will need a laptop with a webcam or desktop computer. A detailed presentation filming sheet can be found on the <a href="presenter-information">COSPAR-2021-Hybrid website</a>.</p>
 
 <h3 class="mt-3 mb-3">What are the size requirements for my PDF Poster?</h3>
 <p>Posters are to be a single slide PowerPoint (or equivalent) in Poster size.</p>
 
-<h3 class="mt-3 mb-3">Specifications for size setting are:</h3>
-<p>84.1 - Width
-  118.9 - Height</p>
+<p>Specifications for size setting are:</p>
+  <ul>
+    <li>84.1 - Width</li>
+    <li>118.9 - Height</li>
+  </ul>
 
 <h3 class="mt-3 mb-3">What else do I need to include?</h3>
 <p>As an accepted Poster presenter, you are required to submit the below files:</p>
@@ -135,7 +137,7 @@ include('include/header.php');
 <h3 class="mt-3 mb-3">Where do I upload my files?</h3>
 <p>Submissions are to be made through the COSPAR 2021 Presentation Portal using the below link:</p>
 
-<a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="button-main mt-4" target="_blank">Presenter Portal</a>
+<a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="button-main my-4" target="_blank">Presenter Portal</a>
 
 <h3 class="mt-3 mb-3">When is the submission deadline?</h3>
 <p>Presenters must submit their short summary video by 30 November 2020.</p>

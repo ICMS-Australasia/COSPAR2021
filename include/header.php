@@ -132,6 +132,7 @@
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                                 <a class="dropdown-item" href="presenter-information">Presenter Information Overview</a>
+                                                <a class="dropdown-item" href="poster-presentation-guidelines">Poster Presentation Guidelines</a>
                                                 <a class="dropdown-item" href="pre-record-guidelines">Pre-recorded Presentation Guidelines</a>
                                                 <a class="dropdown-item" href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a>
                                                 <a class="dropdown-item" href="system-configuration-requirements">System Configuration Requirements</a>
