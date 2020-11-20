@@ -1,0 +1,169 @@
+<?php
+$title = 'Poster presentation guidelines';
+include('include/header.php');
+?>
+<!-- title -->
+<div class="title">
+  <div class="container">
+    <div class="row py-5">
+      <div class="col py-4">
+        <h1><?php echo $title; ?></h1>
+        <!--div class="sub">
+          <a href="" target="_blank" class="presenter-pdf"><img src="" alt="">Download <?php echo $title; ?> PDF</a>
+        </div-->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- title -->
+<!-- content -->
+<div class="content">
+  <div class="container">
+    <div class="row py-5 presenter-info">
+      <div class="col">
+        <h2>Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h2>
+
+        <p>Please see below the following instructions for setting up, creating and submitting your Poster Presentation.</p>
+
+        <h3 class="mt-3 mb-3">Author Guidelines</h3>
+
+<p>Poster presenters are expected to submit a short summary video and PDF Poster for the Assembly. Only those submissions that accompany a paid registration will be included within the virtual platform.</p>
+<p>Deadline for submission of the short summary video, and registration for presenters, is <strong>30 November 2020</strong>.</p>
+
+<h3>Virtual Presentation Details</h3>
+
+<p>All virtual presentations will be delivered <strong>via pre-recorded</strong> webcast and will be accessed and viewed via the COSPAR-2021-Hybrid Assembly virtual platform.</p>
+
+<p>Please <a href="presenter-information">refer to the website</a> for suggested guidelines for presenting with a webcam- tips and best practices, and Framing & Lighting guidelines.</p>
+
+<h3>Virtual Platform Preparation</h3>
+
+<p>More specific information regarding presenter access and navigation within the COSPAR-2021-Hybrid platform as well as instructions on when to arrive at your session etc. will be sent to you in due course.</p>
+
+
+<h3>Technical Summary</h3>
+
+<table border="0" cellspacing="0" cellpadding="0" width="0" class="table">
+  <tr>
+    <td width="35%">
+      <strong>Presentation source</strong>
+    </td>
+    <td>
+      Webcam
+    </td>
+  </tr>
+  <tr>
+    <td>How will content be supplied?</td>
+    <td>MP4 Video files</td>
+  </tr>
+
+  <tr>
+    <td>How do I upload my files?</td>
+    <td>Via Dropbox</td>
+  </tr>
+
+<tr>
+  <td>Short Summary Presentation</td>
+  <td>3 minutes for a poster presentation</td>
+</tr>
+
+<tr>
+  <td>Poster Format</td>
+  <td>A standard single screen PowerPoint (or equivalent) slide in poster size. In order to upload your designed poster, you will need to save your PowerPoint slide as a PDF</td>
+</tr>
+
+<tr>
+  <td>Presenter registration deadline</td>
+  <td>30 November 2020</td>
+</tr>
+
+<tr>
+  <td>Early bird registration deadline</td>
+  <td>30 December 2020</td>
+</tr>
+
+</table>
+
+<h2>Presentation FAQs</h2>
+
+<h3>How long is my summary video?</h3>
+<p>The length of each summary videos is 3 minutes for a poster presentation.</p>
+
+<h3>How do I record my summary video?</h3>
+<p>You will need a laptop with a webcam or desktop computer. A detailed presentation filming sheet can be found on the COSPAR-2021-Hybrid website at http://cospar2021.org/virtual-presenter-information</p>
+
+<h3>What are the size requirements for my PDF Poster?</h3>
+<p>Posters are to be a single slide PowerPoint (or equivalent) in Poster size.</p>
+
+<h3>Specifications for size setting are:</h3>
+<p>84.1 - Width
+  118.9 - Height</p>
+
+<h3>What else do I need to include?</h3>
+<p>As an accepted Poster presenter, you are required to submit the below files:</p>
+<ul>
+  <li>Short summary video MP4</li>
+  <li>Speaker biography – short 100-word maximum</li>
+  <li>Speaker photo – high resolution (min 600 dpi)</li>
+  <li>ZARM Acceptance Letter</li>
+  <li>Copy of Abstract (in a Word Doc)</li>
+  <li>Poster PDF</li>
+</ul>
+
+<h3>What do I do with my files once created?</h3>
+<p>Presenters must upload and save their files to a file sharing service (Dropbox or WeTransfer or equivalent) so they can be sent through the presentation portal.</p>
+
+<p>Your Dropbox (or equivalent) folder acts as cloud storage, allowing access from anywhere in the world. Take the file from its original location, select the file, and drag it to your Dropbox folder.</p>
+
+<h3>How do I name my files?</h3>
+<p>Once your files are in Dropbox you should rename them to follow the File Naming Protocol:</p>
+<ul>
+  <li>Date of presentation</li>
+  <li>COSPARid (Scientific event number as per acceptance letter)</li>
+  <li>Presenter name</li>
+  <li>File type</li>
+</ul>
+
+<p>For example,</p>
+<ul>
+  <li>Date of presentation: TUES2FEB</li>
+  <li>COSPAR 2021 scientific event number (COSPARid): A3.1-6-21</li>
+  <li>Presenter Name: JANEDOEFULLPRERECORDEDVIDEO</li>
+  <li>The file name should look like this: TUES2FEB A3.1-6-21 JANEDOEFULLPRERECORDEDVIDEO</li>
+</ul>
+
+<h3>Where do I upload my files?</h3>
+<p>Submissions are to be made through the COSPAR 2021 Presentation Portal using the below link:</p>
+
+<a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="button-main mt-4" target="_blank">Presenter Portal</a>
+
+<h3>When is the submission deadline?</h3>
+<p>Presenters must submit their short summary video by 30 November 2020.</p>
+<p>They can then have until 30 December 2020, if necessary, to upload their full PDF Poster.</p>
+
+<h3>For all enquiries regarding speaker papers, presentation formats, or presentation submissions:</h3>
+
+<p>Emma McPartlan<br />
+  <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
+
+
+
+
+
+      </div>
+      <div class="col-md-3">
+        <div class="row presenter-cards">
+
+          <?php
+          include('include/presenter-cards.php');
+          ?>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- content -->
+<?php
+include('include/footer.php');
+?>
