@@ -35,7 +35,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-0 ml-md-auto text-center">
+        <ul class="navbar-nav ml-0 ml-md-auto text-center stem-menu">
             <li class="nav-item">
                 <a class="nav-link" href="stem#cospark"><i class="fas fa-rocket mr-2" style="font-size: 1.5em;"></i> Home</a>
             </li>
