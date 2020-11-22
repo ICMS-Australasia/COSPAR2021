@@ -18,7 +18,7 @@
         </div>
     </div>
 </div>
-<div class="animation-bottom">
+<div class="animation-bottom d-none d-md-block">
   <div class="stem-menu d-flex justify-content-center align-items-center">
     <a href="stem#cospark" class='d-flex align-items-center'><i class="fas fa-rocket mr-2" style="font-size: 1.5em;"></i> Home</a>
     <a href="stem-about">About COSPAR-K</a>
@@ -29,3 +29,34 @@
     <a href="stem-catalogue">Media</a>
   </div>
 </div>
+
+<nav class="navbar navbar-expand-lg navbar-light animation-bottom d-block d-sm-block d-md-none">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-0 ml-md-auto text-center">
+            <li class="nav-item">
+                <a class="nav-link" href="stem#cospark"><i class="fas fa-rocket mr-2" style="font-size: 1.5em;"></i> Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-about">About COSPAR-K</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-tickets">Tickets</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-tickets">Activities</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-speakers-schedule">Speakers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-competition">Competition</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stem-catalogue">Media</a>
+            </li>
+        </ul>
+    </div>
+</nav>
