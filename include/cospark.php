@@ -46,7 +46,7 @@
                 <a class="nav-link" href="stem-tickets">Tickets</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="stem-tickets">Activities</a>
+                <a class="nav-link" href="stem-activities">Activities</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="stem-speakers-schedule">Speakers</a>
