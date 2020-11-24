@@ -100,8 +100,8 @@ td.bigger {
 
 .standout {
   h1 {
-    font-size: 40px;
-    line-height: 66px;
+    font-size: 44px;
+    line-height: 1.4;
     color: white;
     text-align: center;
     margin: 0;
@@ -112,7 +112,10 @@ td.bigger {
   }
 
   h2 {
+    margin-top: 10px;
     color: white;
+    font-size: 28px;
+    text-align: center;
   }
 
   td {

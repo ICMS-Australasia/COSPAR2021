@@ -68,15 +68,18 @@ td.bigger {
       color: white; }
 
 .standout h1 {
-  font-size: 40px;
-  line-height: 66px;
+  font-size: 44px;
+  line-height: 1.4;
   color: white;
   text-align: center;
   margin: 0; }
   .standout h1 a {
     color: white; }
 .standout h2 {
-  color: white; }
+  margin-top: 10px;
+  color: white;
+  font-size: 28px;
+  text-align: center; }
 .standout td {
   background: #142453;
   background-image: url("img/menu-bg.jpg");
