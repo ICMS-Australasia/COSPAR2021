@@ -22,6 +22,10 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due 30 November 2020
+        </div>
+
 <h3>Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h3>
 
 <p>Please see below the following instructions for setting up, creating and submitting your pre-recorded presentation. </p>
@@ -92,7 +96,7 @@ include('include/header.php');
   <div class="icon-image col-md-1">
     <div class="icon-number">4</div>
   </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record both your presentations (short summary and full versions) keeping to your allocated program schedule time</h2></div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video by 30 November 2020 keeping to your allocated program schedule time</h2></div>
 </div>
 
 <table class="table">
@@ -209,9 +213,9 @@ include('include/header.php');
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography </div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter</div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes. <strong>Due 30 November 2020.</strong></div>
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides) used within the short video presentation</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. <strong>Due 31 December 2020.</strong> </div>
 </div>
 
 <h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>

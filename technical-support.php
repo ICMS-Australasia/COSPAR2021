@@ -22,6 +22,10 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due 30 November 2020
+        </div>
+
         <h2 class=" mb-3">Technical support for participants in COSPAR-2021-Hybrid.</h2>
 
         <p>The Professional Conference Organiser (PCO) for COSPAR-2021-Hybrid is ICMS Australasia (ICMSA). Our Digital Event Team will implement, manage and execute the complex and comprehensive communications systems that will be employed for COSPAR-2021-Hybrid.  We are here to help you every step of the way.</p>

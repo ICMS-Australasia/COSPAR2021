@@ -21,6 +21,12 @@ include('include/header.php');
   <div class="container">
     <div class="row py-5 presenter-info">
       <div class="col">
+
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due 30 November 2020
+        </div>
+
+
         <h2 class="mb-3">Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h2>
 
         <p>Please see below the following instructions for setting up, creating and submitting your Poster Presentation.</p>

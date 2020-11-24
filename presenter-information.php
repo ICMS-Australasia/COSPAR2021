@@ -21,6 +21,11 @@ include('include/header.php');
   <div class="container">
     <div class="row py-5 presenter-info">
       <div class="col">
+
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due 30 November 2020
+        </div>
+
         <h2>Participation in COSPAR-2021-Hybrid: How it will it work.</h2>
 
         <h3 class="mt-3 mb-3">COSPAR-2021-Hybrid will be held from 28 January 2021 to 4 February 2021 and will be Hybrid – a blend of in-person in Sydney, Australia (both interactive and on-demand).</h3>

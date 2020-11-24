@@ -22,6 +22,10 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due 30 November 2020
+        </div>
+
         <p>This is a guide on some basic principles to achieve the best framing and lighting for your pre-recorded presentation.</p>
         <p>We ask that you please read through this guide and adhere to the filming requirements in as many ways as possible, so that all the videos created or live sessions will have the same and uniform high-quality look to them.</p>
         <p>In short; we want you to be able to present your research in the best way possible!</p>
