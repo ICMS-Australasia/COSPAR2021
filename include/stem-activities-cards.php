@@ -56,5 +56,5 @@
 </div>
 
 <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary my-4">
-    <span class="button-head">Book Your In-Person Ticket Now</span>
+    <span class="button-head">Book Your FREE In-Person Ticket Now</span>
 </a>

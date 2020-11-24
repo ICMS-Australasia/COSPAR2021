@@ -60,7 +60,7 @@ include('include/cospark.php');
         </div>
 
         <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-main my-4">
-          <span class="button-head">Book Your Tickets Now!</span>
+          <span class="button-head">Book Your FREE Tickets Now!</span>
         </a>
 
         <?php
