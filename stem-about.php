@@ -66,7 +66,7 @@ include('include/cospark.php');
         </ul>
 
         <a href="stem-tickets" class="button-secondary mb-5 mt-5">
-          <span class="button-head">Book Your Tickets Today!</span>
+          <span class="button-head">Book Your FREE Tickets Today!</span>
         </a>
 
         <h2>Why Are We Bringing COSPAR-K to Sydney?</h2>

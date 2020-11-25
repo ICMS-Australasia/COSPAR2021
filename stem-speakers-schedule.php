@@ -41,7 +41,7 @@ include('include/cospark.php');
                       <div class="row my-4">
                         <div class="col-md-6 col-12">
                           <a href="https://icmsaust.eventsair.com/cospar-2021/cospar-k-tickets/Site/Register" target="_blank" class="button-secondary mt-4 mt-md-0">
-                            <span class="button-body mb-0"><b>Book Your In-Person Tickets Now!</b></span>
+                            <span class="button-body mb-0"><b>Book Your FREE In-Person Tickets Now!</b></span>
                             <span class="button-body my-0">Pyrmont Theatre, ICC Sydney</span>
                           </a>
                         </div>
