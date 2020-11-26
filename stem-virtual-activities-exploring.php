@@ -18,7 +18,7 @@ include('include/cospark.php');
                               <h2 class="mb-0">Exploring Habitable Worlds </h2>
                           </div>
                           <div class="col">
-                              <img src="./img/cospark/praxical.png" width="150" class="float-right">
+                              <img src="./img/cospark/praxical.png" width="100" class="float-right">
                           </div>
                       </div>
                       <div class="row my-4">
