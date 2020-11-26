@@ -75,6 +75,9 @@ td.bigger {
   margin: 0; }
   .standout h1 a {
     color: white; }
+.standout h1.bigger {
+  font-size: 54px;
+  line-height: 1.3; }
 .standout h2 {
   margin-top: 10px;
   color: white;
