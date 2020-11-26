@@ -18,7 +18,7 @@ include('include/cospark.php');
                               <h2 class="mb-0">COSPAR-K On-line Scavenger Hunt</h2>
                           </div>
                           <div class="col">
-                              <img src="./img/cospark/nasa.png" width="200" class="float-right">
+                              <img src="./img/cospark/nasa.png" width="150" class="float-right">
                           </div>
                       </div>
                       <div class="row my-4 align-items-center">
