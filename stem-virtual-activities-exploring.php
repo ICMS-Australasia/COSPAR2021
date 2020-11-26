@@ -22,8 +22,11 @@ include('include/cospark.php');
                           </div>
                       </div>
                       <div class="row my-4">
-                          <div class="col-md-12 mb-3 mb-md-0">
-                              <img src="img/cospark/scavenger-hunt-1.png" class="img-fluid">
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/habitable-worlds1.jpg" class="img-fluid">
+                          </div>
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/habitable-worlds2.jpg" class="img-fluid">
                           </div>
                       </div>
 
@@ -36,6 +39,9 @@ include('include/cospark.php');
                       <p>In this interactive workshop, you can make predictions as to how planetary conditions (i.e. a planets size, distance from its star and the type of star it orbits around) can affect its potential habitably. You will vote to make predictions, along with have the opportunity to ask questions to astrobiologists Luke and Bonnie.</p>
 
                       <div class="mission d-flex">
+                        <div class="m-number">
+                          &nbsp;
+                        </div>
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <ul class='mb-4'>

@@ -18,13 +18,16 @@ include('include/cospark.php');
                               <h2 class="mb-0">Discover Mars from the Classroom</h2>
                           </div>
                           <div class="col">
-                              <img src="./img/cospark/sisp.png" width="200" class="float-right">
+                              <img src="./img/cospark/nova-rover-team.png" width="100" class="float-right">
                           </div>
                       </div>
                       <div class="row my-4">
-                          <div class="col-md-12 mb-3 mb-md-0">
-                              <img src="img/cospark/scavenger-hunt-1.png" class="img-fluid">
-                          </div>
+                        <div class="col-md-6 col-6 mb-4">
+                          <img src="img/cospark/rover1.jpg" class="img-fluid" style="object-fit: cover; height: 300px; width: 100%">
+                        </div>
+                        <div class="col-md-6 col-6 mb-4">
+                          <img src="img/cospark/rover2.jpg" class="img-fluid" style="object-fit: cover; height: 300px; width: 100%">
+                        </div>
                       </div>
 
                       <p>The team from <a href="https://www.novarover.space/" target="_blank">Monash Nova Rover</a> are coming to COSPAR-K to run the Mars Yard. There are opportunities for your class or group to virtually access their custom designed and manufactured 6-wheeled rover, Wombat.</p>
@@ -34,6 +37,9 @@ include('include/cospark.php');
                       <p>These sessions will be incredibly popular so <a href="./stem-tv" target="_blank">book your group in today</a>!</p>
 
                       <div class="mission d-flex">
+                        <div class="m-number">
+                          &nbsp;
+                        </div>
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <ul class='mb-4'>

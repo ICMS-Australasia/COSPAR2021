@@ -33,6 +33,9 @@ include('include/cospark.php');
                       <p>This activity is available for all five days of COSPAR-K, book your COSPAR-K TV <em>powered by Microsoft</em> tickets to access this game.</p>
 
                       <div class="mission d-flex">
+                        <div class="m-number">
+                          &nbsp;
+                        </div>
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <p class="mb-0">This on-line activity is available for all five days of COSPAR-K. <a href="./stem-tv">Book your COSPAR-K TV powered by Microsoft tickets</a> to access this game.</p>

@@ -23,7 +23,7 @@ include('include/cospark.php');
                       </div>
                       <div class="row my-4">
                           <div class="col-md-12 mb-3 mb-md-0">
-                              <img src="img/cospark/scavenger-hunt-1.png" class="img-fluid">
+                              <img src="img/cospark/satellite-mission-1.png" class="img-fluid">
                           </div>
                       </div>
 
@@ -40,6 +40,9 @@ include('include/cospark.php');
                       </ol>
 
                       <div class="mission d-flex">
+                        <div class="m-number">
+                          &nbsp;
+                        </div>
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <p class="mb-0">This on-line activity is available for all five days of COSPAR-K. <a href="./stem-tv">Book your COSPAR-K TV powered by Microsoft tickets</a> to access this game.</p>

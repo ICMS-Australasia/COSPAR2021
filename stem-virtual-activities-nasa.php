@@ -18,12 +18,12 @@ include('include/cospark.php');
                               <h2 class="mb-0">Virtual Q&A with NASA</h2>
                           </div>
                           <div class="col">
-                              <img src="./img/cospark/sisp.png" width="200" class="float-right">
+                              <img src="./img/cospark/nasa.png" width="175" class="float-right">
                           </div>
                       </div>
                       <div class="row my-4">
                           <div class="col-md-12 mb-3 mb-md-0">
-                              <img src="img/cospark/scavenger-hunt-1.png" class="img-fluid">
+                              <img src="img/cospark/nasa-1.png" class="img-fluid">
                           </div>
                       </div>
 
@@ -36,6 +36,9 @@ include('include/cospark.php');
                       </ul>
 
                       <div class="mission d-flex">
+                        <div class="m-number">
+                          &nbsp;
+                        </div>
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <ul class='mb-4'>
