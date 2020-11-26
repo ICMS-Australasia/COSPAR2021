@@ -868,6 +868,12 @@ a.active {
   padding: 20px;
   color: white;
 }
+.mission .m-text a {
+  color: white;
+}
+.mission .m-text a:hover {
+  color: #e6e6e6;
+}
 
 .stem-menu {
   text-align: center;

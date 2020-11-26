@@ -1064,6 +1064,10 @@ a.active {
     font-size: 1.1em;
     padding: 20px;
     color: white;
+    a {
+      color: white;
+      &:hover { color: darken(white, 10%); }
+    }
   }
 }
 // stem menu
