@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Virtual Activities';
+$title = 'Virtual Q&A with NASA';
 include('include/header.php');
 include('include/cospark.php');
 ?>

@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Virtual Activities';
+$title = 'COSPAR-K On-line Scavenger Hunt';
 include('include/header.php');
 include('include/cospark.php');
 ?>

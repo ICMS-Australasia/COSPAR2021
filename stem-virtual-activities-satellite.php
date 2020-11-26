@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Virtual Activities';
+$title = 'Satellite Mission Virtual Activity';
 include('include/header.php');
 include('include/cospark.php');
 ?>

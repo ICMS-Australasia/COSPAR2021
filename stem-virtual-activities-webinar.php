@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Virtual Activities';
+$title = 'Dr Adrian Brown Webinar';
 include('include/header.php');
 include('include/cospark.php');
 ?>
@@ -15,7 +15,7 @@ include('include/cospark.php');
 
                       <div class="row mt-5 mb-3 d-flex align-items-end">
                           <div class="col">
-                              <h2 class="mb-0">COSPAR-K On-line Scavenger Hunt</h2>
+                              <h2 class="mb-0">Dr Adrian Brown Webinar</h2>
                           </div>
                           <div class="col">
                               <img src="./img/cospark/nasa.png" width="175" class="float-right">
