@@ -77,7 +77,7 @@ include('include/header.php');
   <li>For some tip and tricks on lighting and framing for video recording please see the guidelines attached to your presentation email.</li>
 </ul>
 
-<h3>*Specifications for the pre-recorded Mp4 files</h3>
+<!-- <h3>*Specifications for the pre-recorded Mp4 files</h3>
 
 <ul>
   <li>Video Dimensions: 1280x720</li>
@@ -88,7 +88,7 @@ include('include/header.php');
   <li>Audio Bitrate: 128Kbps</li>
   <li>Audio Specifications: 44100Hz</li>
   <li>Audio Codec: AAC</li>
-</ul>
+</ul> -->
 
 <p>It is really important to follow the specifications, otherwise your file may not be useable.</p>
 
@@ -121,6 +121,8 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
 
+<p><strong style="color:#cc0000;">You can use any file transfer program of your choosing i.e. Dropbox, Google Drive, WeTransfer, Send Anywhere, Hightail. Etc.</strong></p>
+
 <h3>Dropbox* System Requirements</h3>
 
 <p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file and drag it to your Dropbox folder.</p>
@@ -143,9 +145,9 @@ include('include/header.php');
 
 <p><em>*If your organisation does not allow the use of Dropbox please use an alternative cloud file storage system (e.g. GoogleDrive, Microsoft OneDrive etc.) in replacement.</em></p>
 
-<h3>Captioning your pre-recorded presentation</h3>
+<!-- <h3>Captioning your pre-recorded presentation</h3>
 
-<p>It is important that all pre-recorded videos are captioned – please ensure you have read the ‘<a href="framing-lighting-and-recording-guidelines">COSPAR-2021-HYBRID Framing, Lighting and Recording Guidelines</a>’ document for detailed instructions on automatic captions. YouTube automatically captions videos and you can edit the script for accuracy. Please allow time to ensure your captions are working and accurate in your video before sending.</p>
+<p>It is important that all pre-recorded videos are captioned – please ensure you have read the ‘<a href="framing-lighting-and-recording-guidelines">COSPAR-2021-HYBRID Framing, Lighting and Recording Guidelines</a>’ document for detailed instructions on automatic captions. YouTube automatically captions videos and you can edit the script for accuracy. Please allow time to ensure your captions are working and accurate in your video before sending.</p> -->
 
 
 <h3>File Naming Protocols</h3>

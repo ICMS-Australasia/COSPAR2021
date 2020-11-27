@@ -95,6 +95,47 @@ include('include/header.php');
     </div>
   </div>
 </div>
+<!-- Training Video -->
+<div class="training-video py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col mt-2">
+        <h2 style="line-height:1.4; font-size:2.3em;" class="text-center">Recording and Submitting your Short Summary Video</h2>
+
+        <div class="embed-responsive embed-responsive-16by9 mt-5 mb-4">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rSSPczirws8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        </div>
+
+        <div class="text-center mb-4 pb-4">
+          <a href="COSPAR2021-Presenter-Training-Slides.pdf" target="_blank" class="training-slides d-inline-flex align-items-center">
+            <img src="img/training-slides.jpg" class="mr-3">Download and view the Presenter Training Slides
+          </a>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 text-center">
+            <strong>Presentation and Submission Questions</strong><br />
+            <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a>
+          </div>
+          <div class="col-md-6 text-center">
+            <strong>Registration Questions</strong><br />
+            <a href="mailto:registration@cospar2021.org">registration@cospar2021.org</a>
+          </div>
+
+        </div>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Training Video-->
 <!-- Six Ways -->
 <div class="sixways py-5">
   <div class="container">
