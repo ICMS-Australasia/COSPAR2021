@@ -146,16 +146,20 @@ include('include/header.php');
               <strong>Checklist</strong>
             </td>
             <td>
-              <ul>
-                <li>Speaker photo and biography</li>
-                <li>ZARM Abstract acceptance letter</li>
-                <li>Abstract (in word) or transcript </li>
-                <li>Pre-recorded short video presentation – 3, 4.5 or 6 minutes (Video uploaded to YouTube)</li>
-                <li>Transcript for pre-prepared presentations in Word document</li>
-                <li>Full length pre-recorded video presentation – as per confirmed timings of program<br />
-                <strong style="color:#cc0000;">Your full length presentation is not due until 31 December 2020.</strong></li>
-                <li>PowerPoint presentation file (slides)</li>
-              </ul>
+
+              <strong>For 30 November</strong>
+<ul>
+  <li>Pre-recorded short video mp4 summary – 3, or 6 minutes</li>
+  <li>Speaker photo and biography</li>
+</ul>
+<strong>For 31 December</strong>
+<ul>
+  <li>ZARM Abstract acceptance letter</li>
+  <li>Abstract (in word) or transcript</li>
+  <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
+</ul>
+
+
             </td>
           </tr>
           <tr>

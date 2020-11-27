@@ -211,17 +211,19 @@ include('include/header.php');
 
 <h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
 
+<h3>Due 30 November 2020</h3>
+
 <div class="mt-4 ml-4 d-block">
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography </div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> <div>
-    Pre-recorded short video presentation MP4 file– 3 or 6 minutes. <span style="font-weight:bold;">Due 30 November 2020.</span>
-  </div></div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> PowerPoint presentation file (slides) used within the short video presentation</div>
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> <div>
-    Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. <span style="font-weight:bold;">Due 31 December 2020.</span>
-  </div> </div>
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes.</div>
+<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography.</div>
+</div>
+
+<h3>Due 31 December 2020</h3>
+
+<div class="mt-4 ml-4 d-block">
+  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter. </div>
+<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript, </div>
+<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. </div>
 </div>
 
 <h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>

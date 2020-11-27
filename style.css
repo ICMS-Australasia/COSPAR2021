@@ -1204,5 +1204,23 @@ a.active {
 .training-video .training-slides:hover {
   border: solid 1px #a7a7a7;
 }
+.training-video .training-button {
+  background: #fdaa10;
+  transition: background 0.3s;
+  padding: 1em 1.5em;
+  font-size: 1.75em;
+  display: inline-block;
+  margin: 0 auto;
+  border-radius: 3px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+.training-video .training-button:hover {
+  background: #fd9b10;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+}
 
 /*# sourceMappingURL=style.css.map */
