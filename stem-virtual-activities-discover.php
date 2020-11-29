@@ -50,7 +50,7 @@ include('include/cospark.php');
                             <li>Tues 2 Feb 2021, 12:00pm – 1:00pm AEDT</li>
                           </ul>
                           <strong>Capacity Per Session:</strong>
-                            <p class="mb-0">xxx people</p>
+                            <p class="mb-0">12 people</p>
                         </div>
                       </div>
 
