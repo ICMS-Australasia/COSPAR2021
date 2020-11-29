@@ -35,8 +35,8 @@ include('include/cospark.php');
                           </div>
                         </a>
                       </div>
-                      <a target="_blank" class="button-secondary mb-4 mt-4" style="color: white;">
-                          <span class="button-body mb-0"><b>Bookings for COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Opening Soon</b></span>
+                      <a target="_blank" class="button-secondary mb-4 mt-4" href="https://icmsaust.eventsair.com/cospar-2021/cosparktvtickets" target="_blank">
+                          <span class="button-body mb-0"><b>Bookings for COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Now Open!</b></span>
                       </a>
 
                       <?php

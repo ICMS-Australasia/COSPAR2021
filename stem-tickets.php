@@ -36,7 +36,7 @@ include('include/cospark.php');
                       </ul>
 
                       <a href="stem-tv" class="button-secondary mb-5 mt-5">
-                        <span class="button-body mb-0"><b>COSPAR-K TV <em class="mr-1">powered by Microsoft</em>  Bookings Opening Soon</b></span>
+                        <span class="button-body mb-0"><b>COSPAR-K TV <em class="mr-1">powered by Microsoft</em>  Bookings Now Open!</b></span>
                         <span class="button-body my-0"></span>
                       </a>
 
