@@ -39,10 +39,6 @@ include('include/cospark.php');
                           <span class="button-body mb-0"><b>Bookings for COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Now Open!</b></span>
                       </a>
 
-                      <a href="stem-tv" class="button-secondary mb-5 mt-4">
-                        <span class="button-body mb-0"><b>Book Your FREE COSPAR-K TV <em class="mr-1">Powered by Microsoft</em> Tickets</b></span>
-                      </a>
-
                       <?php
                       include('include/cospark-footer.php');
                       ?>
