@@ -80,9 +80,9 @@ include('include/header.php');
     <div class="col-md-12 px-0">
       <div class="ticker">
         <div class="ticker__list">
-          <div class="ticker__item">&bull; <a href="registration">Presenter access "presenter early bird rate" 30 November 2020</a></div>
           <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
-          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded FULL video 31 December 2021</a></div>
+          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
+          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
         </div>
       </div>
       <script>
@@ -95,6 +95,58 @@ include('include/header.php');
     </div>
   </div>
 </div>
+<!-- Training Video -->
+<div class="training-video py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col mt-2">
+        <h2 style="line-height:1.4; font-size:2.3em;" class="text-center">Presenter Training Video</h2>
+        <p class="text-center">A step-by-step guide: How to record and submit your short summary video.</p>
+
+        <div class="embed-responsive embed-responsive-16by9 mt-4 mb-4 w-75 text-center mx-auto">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rSSPczirws8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        </div>
+
+        <div class="text-center mb-4">
+          <a href="COSPAR2021-Presenter-Training-Slides.pdf" target="_blank" class="training-slides d-inline-flex align-items-center">
+            <img src="img/training-slides.jpg" class="mr-3">Download and view the Presenter Training Slides
+          </a>
+        </div>
+
+        <div class="text-center mb-5 mt-3">
+        <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="training-button">Submit your Video</a>
+        </div>
+
+        <div class="row">
+          <div class="col-md-2">
+
+          </div>
+          <div class="col-md text-center">
+            <strong>Presentation and Submission Questions</strong><br />
+            <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a>
+          </div>
+          <div class="col-md text-center">
+            <strong>Registration Questions</strong><br />
+            <a href="mailto:registration@cospar2021.org">registration@cospar2021.org</a>
+          </div>
+          <div class="col-md-2">
+
+          </div>
+
+        </div>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Training Video-->
 <!-- Six Ways -->
 <div class="sixways py-5">
   <div class="container">

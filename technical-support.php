@@ -79,6 +79,7 @@ include('include/header.php');
           <tr>
             <td>
               <strong>Duration of full length presentations as per program</strong>
+              <strong style="color:#cc0000;">Your full length presentation is not due until 31 December 2020.</strong>
             </td>
             <td>
               15-minute contributed talk<br> 20-minute and 30-minute solicited review talks
@@ -100,7 +101,7 @@ include('include/header.php');
               30 November 2020 for discounted early-bird presenter rate
             </td>
           </tr>
-          <tr>
+          <!--tr>
             <td>
               <strong>Video File Specs</strong>
             </td>
@@ -118,10 +119,11 @@ include('include/header.php');
               &nbsp;
               It is really important to follow the specifications, otherwise the file may not be useable.
             </td>
-          </tr>
+          </tr-->
           <tr>
             <td>
-              <strong>Dropbox System Requirements *</strong>
+              <strong>Dropbox System Requirements</strong>
+              <strong style="color:#cc0000;">You can use any file transfer program of your choosing i.e. Dropbox, Google Drive, WeTransfer, Send Anywhere, Hightail. Etc.</strong>
             </td>
             <td>
               Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original
@@ -144,15 +146,20 @@ include('include/header.php');
               <strong>Checklist</strong>
             </td>
             <td>
-              <ul>
-                <li>Speaker photo and biography</li>
-                <li>ZARM Abstract acceptance letter</li>
-                <li>Abstract (in word) or transcript </li>
-                <li>Pre-recorded short video presentation – 3, 4.5 or 6 minutes (Video uploaded to YouTube)</li>
-                <li>Transcript for pre-prepared presentations in Word document</li>
-                <li>Full length pre-recorded video presentation – as per confirmed timings of program</li>
-                <li>PowerPoint presentation file (slides)</li>
-              </ul>
+
+              <strong>For 30 November</strong>
+<ul>
+  <li>Pre-recorded short video mp4 summary – 3, or 6 minutes</li>
+  <li>Speaker photo and biography</li>
+</ul>
+<strong>For 31 December</strong>
+<ul>
+  <li>ZARM Abstract acceptance letter</li>
+  <li>Abstract (in word) or transcript</li>
+  <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
+</ul>
+
+
             </td>
           </tr>
           <tr>

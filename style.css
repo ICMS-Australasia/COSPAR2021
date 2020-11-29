@@ -1188,4 +1188,45 @@ a.active {
   padding-bottom: 1.25em;
 }
 
+.training-video a {
+  color: #142453;
+  text-decoration: underline;
+}
+.training-video a:hover {
+  color: #0c4da2;
+}
+.training-video h2 {
+  font-weight: bold;
+  color: #142453;
+}
+.training-video .training-slides {
+  padding: 0.5em 1em 0.5em 0.5em;
+  border-radius: 5px;
+  background: #f2f2f2;
+  border: solid 1px #d9d9d9;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.training-video .training-slides:hover {
+  border: solid 1px #a7a7a7;
+}
+.training-video .training-button {
+  background: #fdaa10;
+  transition: background 0.3s;
+  padding: 1em 1.5em;
+  font-size: 1.75em;
+  display: inline-block;
+  margin: 0 auto;
+  border-radius: 3px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+.training-video .training-button:hover {
+  background: #fd9b10;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+}
+
 /*# sourceMappingURL=style.css.map */
