@@ -17,7 +17,7 @@ include('include/cospark.php');
                       <p>Places are limited for some activities so book your tickets today to secure your spot.</p>
 
                       <a href="stem-tv" class="button-secondary mb-5 mt-4">
-                        <span class="button-body mb-0"><b>Book Your FREE COSPAR-K TV <em class="mr-1">Powered by Microsoft</em> Tickets</b></span>
+                        <span class="button-body mb-0"><b>Book Your FREE COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Tickets</b></span>
                       </a>
 
                       <?php include('include/stem-virtual-activities-cards.php'); ?>
