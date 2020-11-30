@@ -327,7 +327,7 @@ $(function () {
 
 
   // Set the date we're counting down to
-  var countDownDate2 = new Date("Dec 1, 2020 00:00:00").getTime();
+  var countDownDate2 = new Date("Dec 1, 2020 00:01:00").getTime();
   // Update the count down every 1 second
   var x = setInterval(function() {
     // Get today's date and time
@@ -344,7 +344,7 @@ $(function () {
     document.getElementById("abstract-countdown").innerHTML =
     `
       <h2><b>Presenter Early Bird Closes</b></h2>
-      <h1 style="font-size:6em">${days} Days</h1>
+      <h1 style="font-size:6em">${hours} Hours</h1>
       <p>Short video due 30/11/2020</p>
     `;
     // If the count down is finished, write some text
