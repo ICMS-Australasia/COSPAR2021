@@ -50,7 +50,7 @@ include('include/cospark.php');
                         <div class="m-text">
                           <strong>Available Sessions:</strong>
                           <ul class='mb-4'>
-                            <li>Tues 2 Feb 2021, 9:00am – 10:00am AEDT</li>
+                            <li>Mon 1 Feb 2021, 9:00am – 10:00am AEDT</li>
                           </ul>
                           <strong>Capacity Per Session:</strong>
                             <p class="mb-0">250 people</p>
