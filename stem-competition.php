@@ -87,7 +87,7 @@ include('include/cospark.php');
                           </tr>
                           <tr align="center">
                               <td><b>Submission Close</b></td>
-                              <td>Sun 29 November</td>
+                              <td>Thurs 28 January</td>
                           </tr>
                           <tr align="center" bgcolor="#fbedfc">
                               <td><b>Winners Announced & Contacted for Prizes</b></td>
