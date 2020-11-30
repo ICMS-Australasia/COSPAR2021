@@ -89,9 +89,9 @@ include('include/cospark.php');
                         </div>
                       </div>
 
-                      <div id="speaker-program">
+                      <!-- <div id="speaker-program">
 
-                      </div>
+                      </div> -->
 
                       <script type="text/javascript">
                       let days = [
