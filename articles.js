@@ -1,6 +1,13 @@
 let latestNews = {
    "items":[
      {
+        "title":"Edition #16: Daleks Taking Over COSPAR-K",
+        "type":"Email",
+        "image":"22.jpg",
+        "date":"Wednesday, 18 November 2020",
+        "link":"https://mailchi.mp/5c82b2afbb2f/daleks-taking-over-cospar-k"
+     },
+     {
         "title":"Edition #15: Book Your In-Person Tickets Today!",
         "type":"Email",
         "image":"21.jpg",
