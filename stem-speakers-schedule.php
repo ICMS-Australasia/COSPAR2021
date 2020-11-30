@@ -115,7 +115,7 @@ include('include/cospark.php');
                             </tr>
                             <tr>
                               <td>10:15am - 10:45am</td>
-                              <td>Keynote 1</td>
+                              <td>Keynote</td>
                               <td>
                                 <b>Emily Calandrelli</b> <br>
                                 TBA <br>
@@ -195,7 +195,7 @@ include('include/cospark.php');
                             </tr>
                             <tr>
                               <td>2:15pm - 2:45pm</td>
-                              <td>Keynote 2</td>
+                              <td>Keynote</td>
                               <td>
                                 <b>Russell Boyce</b> <br>
                                 TBA <br>
@@ -249,7 +249,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>10:45am - 11:15am</td>
-                            <td>Keynote 3</td>
+                            <td>Keynote</td>
                             <td><b>Pam Melroy</b> <br>
                               TBA <br>
                               <em>Retired United States Air Force officer, NASA Astronaut, and Space Shuttle Commander</em></td>
@@ -302,7 +302,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:15pm - 2:45pm</td>
-                            <td>Keynote 4</td>
+                            <td>Keynote</td>
                             <td><b>Christyl Johnson</b> <br>
                               TBA <br>
                               <em>NASA Goddard Space Flight Centre</em></td>
@@ -359,7 +359,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>10:45am - 11:15am</td>
-                            <td>Keynote 5</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Phil Bland</b> <br>
                               TBA <br>
@@ -429,7 +429,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:15pm - 2:45pm</td>
-                            <td>Keynote 6</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Lisa Harvey-Smith</b> <br>
                               TBA <br>
@@ -438,7 +438,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:45pm - 3:15pm</td>
-                            <td>Keynote 7</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Adrian Brown</b> <br>
                               TBA <br>
@@ -490,7 +490,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>10:45am - 11:15am</td>
-                            <td>Keynote 8</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Corey Tutt</b> <br>
                               TBA <br>
@@ -560,7 +560,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:15pm - 2:45pm</td>
-                            <td>Keynote 9</td>
+                            <td>Keynote</td>
                             <td>
                               <b>TBA</b></td>
                           </tr>
@@ -618,7 +618,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>10:45am - 11:15am</td>
-                            <td>Keynote 10</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Andy Aldrin</b> <br>
                               TBA <br>
@@ -688,7 +688,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:15pm - 2:45pm</td>
-                            <td>Keynote 11</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Andreas Antoniades</b> <br>
                               TBA <br>
@@ -697,7 +697,7 @@ include('include/cospark.php');
                           </tr>
                           <tr>
                             <td>2:45pm - 3:15pm</td>
-                            <td>Keynote 12</td>
+                            <td>Keynote</td>
                             <td>
                               <b>Rosa Doran</b> <br>
                               TBA <br>
