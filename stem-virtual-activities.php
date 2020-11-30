@@ -16,10 +16,6 @@ include('include/cospark.php');
                       <p>To compliment all the in-person action, we have created virtual activities so you can continue the fun and learning from wherever you choose. Providing extended access and remote access to those not able to attend in-person due to location or other reasons has driven the team to develop these fun and educational experiences, which are accessible to all.</p>
                       <p>Places are limited for some activities so book your tickets today to secure your spot.</p>
 
-                      <a href="stem-tv" class="button-secondary mb-5 mt-4">
-                        <span class="button-body mb-0"><b>Book Your FREE COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Tickets</b></span>
-                      </a>
-
                       <?php include('include/stem-virtual-activities-cards.php'); ?>
 
                       <?php
