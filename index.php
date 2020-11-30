@@ -29,7 +29,11 @@ include('include/header.php');
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6">
-        <div id="abstract-countdown" class="mt-5 my-md-0 text-center"></div>
+        <div id="abstract-countdown" class="mt-5 my-md-0 text-center">
+          <h2><b>Presenter Early Bird Closes</b></h2>
+               <h1 style="font-size:6em">TODAY</h1>
+               <p>Short video due 30/11/2020</p>
+        </div>
       </div>
       <div class="col-md-6">
         <div class="embed-responsive embed-responsive-16by9 my-5">
