@@ -96,7 +96,7 @@ include('include/cospark.php');
                       <script type="text/javascript">
                       let days = [
                         `
-                        <table class="" cellpadding="20" cellspacing="0" border="1" width="100%">
+                        <table class="speakers-table mt-5" cellpadding="20" cellspacing="0" border="0" width="100%">
                             <colgroup>
                               <col width="18%">
                               <col width="15%">
@@ -106,15 +106,15 @@ include('include/cospark.php');
                               <th colspan="3">Day 1 | Friday 29th Jan</th>
                             </tr>
                             <tr>
-                              <td>9:30am - 10:00am</td>
+                              <td align="center">9:30am - 10:00am</td>
                               <td colspan="2">Arrival, Check-in & Welcome</td>
                             </tr>
                             <tr>
-                              <td>10:00am - 10:15am</td>
+                              <td align="center">10:00am - 10:15am</td>
                               <td colspan="2">Official COSPAR-K Opening <br> <b>TBA</b> </td>
                             </tr>
-                            <tr>
-                              <td>10:15am - 10:45am</td>
+                            <tr class="keynote">
+                              <td align="center">10:15am - 10:45am</td>
                               <td>Keynote</td>
                               <td>
                                 <b>Emily Calandrelli</b> <br>
@@ -122,18 +122,18 @@ include('include/cospark.php');
                                 <em>The Space Gal</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>10:45am - 11:00am</td>
+                            <tr class="power-talk">
+                              <td align="center">10:45am - 11:00am</td>
                               <td>Power Talk</td>
                               <td><b>TBA</b></td>
                             </tr>
-                            <tr>
-                              <td>11:00am - 11:15am</td>
+                            <tr class="power-talk">
+                              <td align="center">11:00am - 11:15am</td>
                               <td>Power Talk</td>
                               <td><b>TBA</b></td>
                             </tr>
-                            <tr>
-                              <td>11:15am - 11:30am</td>
+                            <tr class="power-talk">
+                              <td align="center">11:15am - 11:30am</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Amelia Travers  </b> <br>
@@ -141,8 +141,8 @@ include('include/cospark.php');
                                 <em>Avid Research</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>11:30am - 11:45am</td>
+                            <tr class="power-talk">
+                              <td align="center">11:30am - 11:45am</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Dana Quick  </b> <br>
@@ -150,8 +150,8 @@ include('include/cospark.php');
                                 <em>Chatswood High School</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>11:45am - 12:00pm</td>
+                            <tr class="power-talk">
+                              <td align="center">11:45am - 12:00pm</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Anneli Cole  </b> <br>
@@ -159,15 +159,15 @@ include('include/cospark.php');
                                 <em>Questacon</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td colspan="3">Break</td>
+                            <tr class="break">
+                              <td colspan="3"><b>Break</b></td>
                             </tr>
                             <tr>
-                              <td>1:00pm - 1:30pm</td>
+                              <td align="center">1:00pm - 1:30pm</td>
                               <td colspan="2">Arrival, Check-in & Welcome</td>
                             </tr>
-                            <tr>
-                              <td>1:30pm - 1:45pm</td>
+                            <tr class="power-talk">
+                              <td align="center">1:30pm - 1:45pm</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Michael Myers</b> <br>
@@ -175,8 +175,8 @@ include('include/cospark.php');
                                 <em>Re-engineering Australia Foundation Ltd</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>1:45pm - 2:00pm</td>
+                            <tr class="power-talk">
+                              <td align="center">1:45pm - 2:00pm</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Harrison Verrios</b> <br>
@@ -184,8 +184,8 @@ include('include/cospark.php');
                                 <em>Monash University Nova Rover team</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>2:00pm - 2:15pm</td>
+                            <tr class="power-talk">
+                              <td align="center">2:00pm - 2:15pm</td>
                               <td>Power Talk</td>
                               <td>
                                 <b>Heather Catchpole</b> <br>
@@ -193,8 +193,8 @@ include('include/cospark.php');
                                 <em>Refraction Media</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>2:15pm - 2:45pm</td>
+                            <tr class="keynote">
+                              <td align="center">2:15pm - 2:45pm</td>
                               <td>Keynote</td>
                               <td>
                                 <b>Russell Boyce</b> <br>
@@ -202,8 +202,8 @@ include('include/cospark.php');
                                 <em>UNSW Canberra Space</em>
                               </td>
                             </tr>
-                            <tr>
-                              <td>2:45pm - 3:45pm</td>
+                            <tr class="panel">
+                              <td align="center">2:45pm - 3:45pm</td>
                               <td>Panel Discussion 1</td>
                               <td>
                                 <b>TBA</b> <br>
@@ -213,7 +213,7 @@ include('include/cospark.php');
                           </table>
                         `,
                         `
-                        <table class="" cellpadding="20" cellspacing="0" border="1" width="100%">
+                        <table class="speakers-table mt-5" cellpadding="20" cellspacing="0" border="0" width="100%">
                           <colgroup>
                             <col width="18%">
                             <col width="15%">
@@ -223,92 +223,92 @@ include('include/cospark.php');
                             <th colspan="3">Day 2 | Saturday 30th Jan</th>
                           </tr>
                           <tr>
-                            <td>9:30am - 10:00am</td>
+                            <td align="center">9:30am - 10:00am</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>10:00am  - 10:15am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:00am  - 10:15am</td>
                             <td>Power Talk</td>
                             <td><b>Laura Betz</b> <br>
                               A Telescope Like a Time machine - NASA's James Webb Space Telescope  <br>
                               <em>NASA</em></td>
                           </tr>
-                          <tr>
-                            <td>10:15am - 10:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:15am - 10:30am</td>
                             <td>Power Talk</td>
                             <td><b>Jess McCarthy</b> <br>
                               Out of this WORLD! <br>
                               <em>Mosman High School</em></td>
                           </tr>
-                          <tr>
-                            <td>10:30am - 10:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:30am - 10:45am</td>
                             <td>Power Talk</td>
                             <td><b>Daniel Ricardo</b> <br>
                               Student Pathways and Opportunities for a Career in Space <br>
                               <em>Monash University Nova Rover Team</em></td>
                           </tr>
-                          <tr>
-                            <td>10:45am - 11:15am</td>
+                          <tr class="keynote">
+                            <td align="center">10:45am - 11:15am</td>
                             <td>Keynote</td>
                             <td><b>Pam Melroy</b> <br>
                               TBA <br>
                               <em>Retired United States Air Force officer, NASA Astronaut, and Space Shuttle Commander</em></td>
                           </tr>
-                          <tr>
-                            <td>11:15am - 11:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:15am - 11:30am</td>
                             <td>Power Talk</td>
                             <td><b>Matt Dodds</b> <br>
                               The Benefits of Challenging Students Through the Teaching of Rocket Science <br>
                               <em>Farrer Memorial Agricultural High School</em></td>
                           </tr>
-                          <tr>
-                            <td>11:30am - 11:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:30am - 11:45am</td>
                             <td>Power Talk</td>
                             <td><b>Christopher Capon</b> <br>
                               How to Start a Space Company <br>
                               <em>UNSW Canberra Space / Space Services Australia</em></td>
                           </tr>
-                          <tr>
-                            <td>11:45am - 12:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">11:45am - 12:00pm</td>
                             <td>Power Talk</td>
                             <td><b>Kevin Simmons</b> <br>
                               BLUE-SKY Learning: The Wolverine and Wolfpack CubeSat Teams (2015-2020) <br>
                               <em>BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team</em></td>
                           </tr>
-                          <tr><td colspan="3">Break</td></tr>
+                          <tr class="break"><td colspan="3"><b>Break</b></td></tr>
                           <tr>
-                            <td>1:00pm - 1:30pm</td>
+                            <td align="center">1:00pm - 1:30pm</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td></tr>
-                          <tr>
-                            <td>1:30pm - 1:45pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:30pm - 1:45pm</td>
                             <td>Power Talk</td>
                             <td><b>Jim Christensen</b> <br>
                               Giant Moon and Mars Maps in the Classroom <br>
                               <em>Aldrin Family Foundation</em></td>
                           </tr>
-                          <tr>
-                            <td>1:45pm - 2:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:45pm - 2:00pm</td>
                             <td>Power Talk</td>
                             <td><b>Shawna Christenson</b> <br>
                               Forming a Science Identity in Primary Education <br>
                               <em>Aerospace Public Policy Institute</em></td>
                           </tr>
-                          <tr>
-                            <td>2:00pm - 2:15pm</td>
+                          <tr class="power-talk">
+                            <td align="center">2:00pm - 2:15pm</td>
                             <td>Power Talk</td>
                             <td><b>Joshua Chou</b> <br>
                               How to Survive in Space and Treat Disease on Earth <br>
                               <em>UTS - Senior Lecturer</em></td>
                           </tr>
-                          <tr>
-                            <td>2:15pm - 2:45pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:15pm - 2:45pm</td>
                             <td>Keynote</td>
                             <td><b>Christyl Johnson</b> <br>
                               TBA <br>
                               <em>NASA Goddard Space Flight Centre</em></td>
                           </tr>
-                          <tr>
-                            <td>2:45pm - 3:45pm</td>
+                          <tr class="panel">
+                            <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 2</td>
                             <td><b>Zeina Chalich and Sarah Weston</b> <br>
                               Investigations in M for STEM <br>
@@ -317,7 +317,7 @@ include('include/cospark.php');
                         </table>
                         `,
                         `
-                        <table class="" cellpadding="20" cellspacing="0" border="1" width="100%">
+                        <table class="speakers-table mt-5" cellpadding="20" cellspacing="0" border="0" width="100%">
                           <colgroup>
                             <col width="18%">
                             <col width="15%">
@@ -327,11 +327,11 @@ include('include/cospark.php');
                             <th colspan="3">Day 3 | Sunday 31st Jan</th>
                           </tr>
                           <tr>
-                            <td>9:30am  10:00am</td>
+                            <td align="center">9:30am - 10:00am</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>10:00am - 10:15am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:00am - 10:15am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Scott Sleap</b> <br>
@@ -339,8 +339,8 @@ include('include/cospark.php');
                               <em>Stem Industry School Partnership Program</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:15am - 10:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:15am - 10:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Shawna Christenson</b> <br>
@@ -348,8 +348,8 @@ include('include/cospark.php');
                               <em>Aerospace Public Policy Institute</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:30am - 10:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:30am - 10:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Jim Christensen</b> <br>
@@ -357,8 +357,8 @@ include('include/cospark.php');
                               <em>Aldrin Family Foundation</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:45am - 11:15am</td>
+                          <tr class="keynote">
+                            <td align="center">10:45am - 11:15am</td>
                             <td>Keynote</td>
                             <td>
                               <b>Phil Bland</b> <br>
@@ -366,8 +366,8 @@ include('include/cospark.php');
                               <em>Space & Planetary Science at Curtin University</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:15am - 11:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:15am - 11:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Barath Kumar</b> <br>
@@ -375,8 +375,8 @@ include('include/cospark.php');
                               <em>College Of Agricultural Technology, Theniheni</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:30am - 11:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:30am - 11:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Ariel Elbaum</b> <br>
@@ -384,8 +384,8 @@ include('include/cospark.php');
                               <em>Monash University Nova Rover team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:45am - 12:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">11:45am - 12:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>John Kiss</b> <br>
@@ -393,15 +393,15 @@ include('include/cospark.php');
                               <em>Univ. North Carolina-Greensboro</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td colspan="3">Break</td>
+                          <tr class="break">
+                            <td colspan="3"><b>Break</b></td>
                           </tr>
                           <tr>
-                            <td>1:00pm  1:30pm</td>
+                            <td align="center">1:00pm - 1:30pm</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>1:30pm - 1:45pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:30pm - 1:45pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Dean Hannah & Brian Barter</b> <br>
@@ -409,8 +409,8 @@ include('include/cospark.php');
                               <em>Excite and Educate</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>1:45pm - 2:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:45pm - 2:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Samer Elhoushy</b> <br>
@@ -418,8 +418,8 @@ include('include/cospark.php');
                               <em>BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:00pm - 2:15pm</td>
+                          <tr class="power-talk">
+                            <td align="center">2:00pm - 2:15pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Bonnie Teece</b> <br>
@@ -427,8 +427,8 @@ include('include/cospark.php');
                               <em>UNSW - PhD Student</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:15pm - 2:45pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:15pm - 2:45pm</td>
                             <td>Keynote</td>
                             <td>
                               <b>Lisa Harvey-Smith</b> <br>
@@ -436,8 +436,8 @@ include('include/cospark.php');
                               <em>Australia's Women in STEM Ambassador</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:45pm - 3:15pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:45pm - 3:15pm</td>
                             <td>Keynote</td>
                             <td>
                               <b>Adrian Brown</b> <br>
@@ -448,7 +448,7 @@ include('include/cospark.php');
                         </table>
                         `,
                         `
-                        <table class="" cellpadding="20" cellspacing="0" border="1" width="100%">
+                        <table class="speakers-table mt-5" cellpadding="20" cellspacing="0" border="0" width="100%">
                           <colgroup>
                             <col width="18%">
                             <col width="15%">
@@ -458,11 +458,11 @@ include('include/cospark.php');
                             <th colspan="3">Day 4 | Monday 1st Feb</th>
                           </tr>
                           <tr>
-                            <td>9:30am  10:00am</td>
+                            <td align="center">9:30am - 10:00am</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>10:00am - 10:15am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:00am - 10:15am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Michael Beiharz</b> <br>
@@ -470,8 +470,8 @@ include('include/cospark.php');
                               <em>Knox Grammar School</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:15am - 10:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:15am - 10:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Cran Middlecoat</b> <br>
@@ -479,8 +479,8 @@ include('include/cospark.php');
                               <em>It's Rocket Science Adventures</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:30am - 10:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:30am - 10:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Jim Christensen</b> <br>
@@ -488,8 +488,8 @@ include('include/cospark.php');
                               <em>Aldrin Family Foundation</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:45am - 11:15am</td>
+                          <tr class="keynote">
+                            <td align="center">10:45am - 11:15am</td>
                             <td>Keynote</td>
                             <td>
                               <b>Corey Tutt</b> <br>
@@ -497,8 +497,8 @@ include('include/cospark.php');
                               <em>Deadly Science</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:15am - 11:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:15am - 11:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Paul Kiesling</b> <br>
@@ -506,8 +506,8 @@ include('include/cospark.php');
                               <em>BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:30am - 11:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:30am - 11:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Rebecca Muir</b> <br>
@@ -515,8 +515,8 @@ include('include/cospark.php');
                               <em>Monash University Nova Rover team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:45am - 12:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">11:45am - 12:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Matt Scott</b> <br>
@@ -524,15 +524,15 @@ include('include/cospark.php');
                               <em>NSW Department of Education</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td colspan="3">Break</td>
+                          <tr class="break">
+                            <td colspan="3"><b>Break</b></td>
                           </tr>
                           <tr>
-                            <td>1:00pm  1:30pm</td>
+                            <td align="center">1:00pm - 1:30pm</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>1:30pm - 1:45pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:30pm - 1:45pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Paul Hepplewhite</b> <br>
@@ -540,8 +540,8 @@ include('include/cospark.php');
                               <em>NSW Treasury</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>1:45pm - 2:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:45pm - 2:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Luke Steller</b> <br>
@@ -549,8 +549,8 @@ include('include/cospark.php');
                               <em>UNSW (PhD Student)</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:00pm - 2:15pm</td>
+                          <tr class="power-talk">
+                            <td align="center">2:00pm - 2:15pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Lloyd Godson</b> <br>
@@ -558,14 +558,14 @@ include('include/cospark.php');
                               <em>Hastings Secondary College Westport Campus</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:15pm - 2:45pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:15pm - 2:45pm</td>
                             <td>Keynote</td>
                             <td>
                               <b>TBA</b></td>
                           </tr>
-                          <tr>
-                            <td>2:45pm - 3:45pm</td>
+                          <tr class="panel">
+                            <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 3</td>
                             <td>
                               <b>See panels tab</b> <br>
@@ -576,7 +576,7 @@ include('include/cospark.php');
                         </table>
                         `,
                         `
-                        <table class="" cellpadding="20" cellspacing="0" border="1" width="100%">
+                        <table class="speakers-table mt-5" cellpadding="20" cellspacing="0" border="0" width="100%">
                           <colgroup>
                             <col width="18%">
                             <col width="15%">
@@ -586,11 +586,11 @@ include('include/cospark.php');
                             <th colspan="3">Day 5 | Tuesday 2nd Feb</th>
                           </tr>
                           <tr>
-                            <td>9:30am  10:00am</td>
+                            <td align="center">9:30am - 10:00am</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>10:00am - 10:15am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:00am - 10:15am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Harrison Verrios</b> <br>
@@ -598,8 +598,8 @@ include('include/cospark.php');
                               <em>Monash University Nova Rover team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:15am - 10:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:15am - 10:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Anita Beck</b> <br>
@@ -607,8 +607,8 @@ include('include/cospark.php');
                               <em>Questacon - The National Science And Technology Centre</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:30am - 10:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">10:30am - 10:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Joel Murch-Shafer & John Helzer</b> <br>
@@ -616,8 +616,8 @@ include('include/cospark.php');
                               <em>BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>10:45am - 11:15am</td>
+                          <tr class="keynote">
+                            <td align="center">10:45am - 11:15am</td>
                             <td>Keynote</td>
                             <td>
                               <b>Andy Aldrin</b> <br>
@@ -625,8 +625,8 @@ include('include/cospark.php');
                               <em>Aldrin Family Foundation</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:15am - 11:30am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:15am - 11:30am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Cynthia Nguygen</b> <br>
@@ -634,8 +634,8 @@ include('include/cospark.php');
                               <em>Monash University Nova Rover team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:30am - 11:45am</td>
+                          <tr class="power-talk">
+                            <td align="center">11:30am - 11:45am</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Ian Preston</b> <br>
@@ -643,8 +643,8 @@ include('include/cospark.php');
                               <em>STEM Industry School Partnership Program</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>11:45am - 12:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">11:45am - 12:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Sarah Baker</b> <br>
@@ -652,15 +652,15 @@ include('include/cospark.php');
                               <em>SA Department of Education</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td colspan="3">Break</td>
+                          <tr class="break">
+                            <td colspan="3"><b>Break</b></td>
                           </tr>
                           <tr>
-                            <td>1:00pm - 1:30pm</td>
+                            <td align="center">1:00pm - 1:30pm</td>
                             <td colspan="2">Arrival, Check-in & Welcome</td>
                           </tr>
-                          <tr>
-                            <td>1:30pm - 1:45pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:30pm - 1:45pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Peta Kourbelis</b> <br>
@@ -668,8 +668,8 @@ include('include/cospark.php');
                               <em>Hamilton Secondary College</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>1:45pm - 2:00pm</td>
+                          <tr class="power-talk">
+                            <td align="center">1:45pm - 2:00pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Andrew O'Brien</b> <br>
@@ -677,8 +677,8 @@ include('include/cospark.php');
                               <em>NSW Department of Education</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:00pm - 2:15pm</td>
+                          <tr class="power-talk">
+                            <td align="center">2:00pm - 2:15pm</td>
                             <td>Power Talk</td>
                             <td>
                               <b>Shefin Mariya Joju</b> <br>
@@ -686,8 +686,8 @@ include('include/cospark.php');
                               <em>Monash University Nova Rover team</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:15pm - 2:45pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:15pm - 2:45pm</td>
                             <td>Keynote</td>
                             <td>
                               <b>Andreas Antoniades</b> <br>
@@ -695,8 +695,8 @@ include('include/cospark.php');
                               <em>Sabre Astronautics</em>
                             </td>
                           </tr>
-                          <tr>
-                            <td>2:45pm - 3:15pm</td>
+                          <tr class="keynote">
+                            <td align="center">2:45pm - 3:15pm</td>
                             <td>Keynote</td>
                             <td>
                               <b>Rosa Doran</b> <br>

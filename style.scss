@@ -1007,6 +1007,32 @@ a.active {
       }
     }
   }
+  .speakers-table {
+    th {
+      background: #c3d82d;
+      font-size: 2rem;
+      border: 1px solid darken(#c3d82d, 10%);
+    }
+    td {
+      border: 1px solid rgba(220, 232, 131, 0.7);
+    }
+    .keynote {
+      background: lighten(#c3d82d, 25%);
+      td { border: 1px solid rgba(224, 248, 217, 0.9); }
+    }
+    .power-talk {
+      background: lighten(#c3d82d, 40%);
+    }
+    .panel {
+      background: lighten(#491865, 70%);
+      td { border: 1px solid rgba(222, 191, 240, 0.7); }
+    }
+    .break {
+      text-align: center;
+      background: #f2f2f2;
+      td { border: 1px solid #f2f2f2; }
+    }
+  }
 
   #submission-buttons {
     a {
