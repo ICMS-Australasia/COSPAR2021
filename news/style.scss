@@ -120,7 +120,11 @@ td.bigger {
     color: white;
     font-size: 28px;
     text-align: center;
+    a {
+      color: white;
+    }
   }
+
 
   td {
     background: $darkblue;
@@ -305,4 +309,7 @@ td.bigger {
 }
 .m2{
   margin-top: 40px !important;
+}
+.nounderline{
+  text-decoration: none;
 }

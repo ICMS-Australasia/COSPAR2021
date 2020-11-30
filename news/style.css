@@ -83,6 +83,8 @@ td.bigger {
   color: white;
   font-size: 28px;
   text-align: center; }
+  .standout h2 a {
+    color: white; }
 .standout td {
   background: #142453;
   background-image: url("img/menu-bg.jpg");
@@ -201,5 +203,8 @@ td.bigger {
 
 .m2 {
   margin-top: 40px !important; }
+
+.nounderline {
+  text-decoration: none; }
 
 /*# sourceMappingURL=style.css.map */
