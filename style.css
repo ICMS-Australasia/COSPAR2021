@@ -823,7 +823,6 @@ a.active {
 .stem-page .speakers-table th {
   background: #c3d82d;
   font-size: 2rem;
-  border: 1px solid #9fb121;
 }
 .stem-page .speakers-table td {
   border: 1px solid rgba(220, 232, 131, 0.7);
