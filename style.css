@@ -820,6 +820,35 @@ a.active {
   color: #841068;
   transform: scale(1.05);
 }
+.stem-page .speakers-table th {
+  background: #c3d82d;
+  font-size: 2rem;
+}
+.stem-page .speakers-table td {
+  border: 1px solid rgba(220, 232, 131, 0.7);
+}
+.stem-page .speakers-table .keynote {
+  background: #e2ec99;
+}
+.stem-page .speakers-table .keynote td {
+  border: 1px solid rgba(224, 248, 217, 0.9);
+}
+.stem-page .speakers-table .power-talk {
+  background: #f4f8d9;
+}
+.stem-page .speakers-table .panel {
+  background: #f3e8fa;
+}
+.stem-page .speakers-table .panel td {
+  border: 1px solid rgba(222, 191, 240, 0.7);
+}
+.stem-page .speakers-table .break {
+  text-align: center;
+  background: #f2f2f2;
+}
+.stem-page .speakers-table .break td {
+  border: 1px solid #f2f2f2;
+}
 .stem-page #submission-buttons a {
   background: #841068;
   color: white;
@@ -867,6 +896,12 @@ a.active {
   font-size: 1.1em;
   padding: 20px;
   color: white;
+}
+.mission .m-text a {
+  color: white;
+}
+.mission .m-text a:hover {
+  color: #e6e6e6;
 }
 
 .stem-menu {
