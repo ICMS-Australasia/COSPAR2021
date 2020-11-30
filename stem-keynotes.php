@@ -23,6 +23,10 @@ include('include/cospark.php');
                           <img src="img/cospark/russell-boyce.jpg" class="img-fluid mb-3">
                           <h2>Russell Boyce</h2>
                         </a>
+                        <a href="#melroy" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/pam-melroy.jpg" class="img-fluid mb-3">
+                          <h2>Pam Melroy</h2>
+                        </a>
                         <a href="#johnson" data-toggle="modal" class="col-md-4 mb-4">
                           <img src="img/cospark/christyl-johnson.jpg" class="img-fluid mb-3">
                           <h2>Christyl Johnson</h2>
@@ -152,6 +156,22 @@ include('include/cospark.php');
                                   <p>Andreas is passionate about developing engineering solutions to real-world problems, particularly for space and ensuring that these solutions are available and affordable to all. He is the Director of Saber Astronautics Australia and is kept busy with space mission operations, ground stations, democratisation of space and open source hardware, as well as currently building the nation's space Mission Control Centre, in Adelaide, SA.</p>
                                   <p>Prior to Saber, Andreas created and ran a start-up, Obelisk Systems which developed next-generation CubeSat hardware, both for educational and commercial environments. This led to the development of the STEM education platform StarLAB which was a platform catered to high school students, ensuring they received the best in coding, hardware, sensing and robotics education to skill them for the rapidly evolving world.</p>
                                   <p>His presentation is a must-see for all aspiring Astronautic Engineers!</p>
+                                  <button type="button" class="close" data-dismiss="modal">x</button>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="modal fade" id="melroy">
+                          <div class="modal-dialog modal-dialog-centered modal-lg">
+                              <div class="modal-content">
+                                  <img src="img/cospark/pam-melroy.jpg" width="250">
+                                  <h2>Pam Melroy</h2>
+                                  <h3>Saturday 30 Jan 2021, 10:45am – 11:15am</h3>
+                                  <p>Pam Melroy is an aerospace executive with government and industry experience across civil, commercial and national security space. She is a retired Air Force test pilot and former NASA astronaut and one of only two women to command the Space Shuttle.</p>
+                                  <p>Colonel Melroy received a Bachelor’s degree Wellesley College and a Master of Science degree from the Massachusetts Institute of Technology. She was a United States Air Force pilot and test pilot with more than 6,000 hours flight time in over 50 different aircraft.</p>
+                                  <p>NASA selected Colonel Melroy as an astronaut candidate in March 1995. She flew three missions in space: as Space Shuttle pilot during STS-92 in 2000 and STS-112 in 2002 and as Space Shuttle Commander during STS-120 in 2007. All three missions were assembly missions to build the International Space Station. She has logged more than 38 days in space.</p>
+                                  <p>After NASA, Colonel Melroy served in a variety of executive positions with Lockheed Martin, the FAA’s Office of Commercial Space Transportation and DARPA. She is now an independent consultant.</p>
+                                  <p>Pam’s been to space and now coming to COSPAR-K, we just cannot wait to hear from her!</p>
+
                                   <button type="button" class="close" data-dismiss="modal">x</button>
                               </div>
                           </div>
