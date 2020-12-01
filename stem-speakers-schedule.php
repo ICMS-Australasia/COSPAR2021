@@ -52,7 +52,7 @@ include('include/cospark.php');
                         </div>
                       </div>
 
-                      <hr class="my-5">
+                      <!-- <hr class="my-5">
 
                       <h1>Speaker Program</h1>
 
@@ -87,7 +87,7 @@ include('include/cospark.php');
                             <span class="button-body my-0">2nd Feb</span>
                           </a>
                         </div>
-                      </div>
+                      </div> -->
 
                       <!-- <div id="speaker-program">
 
