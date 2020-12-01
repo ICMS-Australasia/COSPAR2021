@@ -8,123 +8,31 @@ include('include/header.php');
 
 ?>
 <!-- <a href="abstracts.php" class="abstract-flash">
-
     <div class="container">
-
         <div class="row py-3">
-
             <div class="col py-3">
-
                 <div class="opacity-change">Call for Abstracts Extended to 23 February 2020</div>
-
             </div>
-
         </div>
-
     </div>
-
 </a> -->
 <!-- banner -->
 <div class="bigheader home">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-6">
-        <div id="abstract-countdown" class="mt-5 my-md-0 text-center">
-          <h2><b>Presenter Early Bird Closes</b></h2>
-               <h1 style="font-size:6em">TODAY</h1>
-               <p>Short video due 30/11/2020</p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="embed-responsive embed-responsive-16by9 my-5">
-          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/aUk-5vTjqAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- banner -->
-<!-- video -->
-<!--div class="bigheader home-video">
-
-    <div class="container">
-
-        <div class="row align-items-center">
-
-            <div class="col-md p-0">
-
-
-
-              <div class="embed-responsive embed-responsive-16by9">
-
-                <video controls autoplay muted>
-
-                  <source src="img/fingertips.mp4" type="video/mp4">
-
-                Your browser does not support the video tag.
-
-                </video>
-
-              </div>
-
-
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div-->
-<!-- video -->
-<!-- welcome -->
-<div class="container-fluid px-0">
-  <div class="row mx-0">
-    <div class="col-md-12 px-0">
-      <div class="ticker">
-        <div class="ticker__list">
-          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
-          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
-          <div class="ticker__item">&bull; <a href="presenter-information">Presenter deadline to upload pre-recorded short video 30 November 2020</a></div>
-        </div>
-      </div>
-      <script>
-        var ticker = document.querySelector(".ticker"),
-          list = document.querySelector(".ticker__list"),
-          clone = list.cloneNode(true);
-        ticker.append(clone);
-
-      </script>
-    </div>
-  </div>
-</div>
-<!-- Training Video -->
-<div class="training-video py-5">
-  <div class="container">
     <div class="row">
       <div class="col mt-2">
-        <h2 style="line-height:1.4; font-size:2.3em;" class="text-center">Presenter Training Video</h2>
-        <p class="text-center">A step-by-step guide: How to record and submit your short summary video.</p>
-
         <div class="embed-responsive embed-responsive-16by9 mt-4 mb-4 w-75 text-center mx-auto">
-            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rSSPczirws8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rSSPczirws8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-
         <div class="text-center mb-4">
           <a href="COSPAR2021-Presenter-Training-Slides.pdf" target="_blank" class="training-slides d-inline-flex align-items-center">
-            <img src="img/training-slides.jpg" class="mr-3">Download and view the Presenter Training Slides
-          </a>
+            <img src="img/training-slides.jpg" class="mr-3">Download and view the Presenter Training Slides </a>
         </div>
-
-        <div class="text-center mb-5 mt-3">
-        <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="training-button">Submit your Video</a>
+        <div class="text-center mb-4 mt-3 py-2">
+          <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="training-button">Submit your Video</a>
         </div>
-
-        <div class="row">
+        <div class="row mb-5">
           <div class="col-md-2">
-
           </div>
           <div class="col-md text-center">
             <strong>Presentation and Submission Questions</strong><br />
@@ -135,21 +43,67 @@ include('include/header.php');
             <a href="mailto:registration@cospar2021.org">registration@cospar2021.org</a>
           </div>
           <div class="col-md-2">
-
           </div>
-
         </div>
-
-
-
-
-
-
-
       </div>
     </div>
   </div>
 </div>
+<!-- welcome -->
+<div class="container-fluid px-0">
+  <div class="row mx-0">
+    <div class="col-md-12 px-0">
+      <div class="ticker">
+        <div class="ticker__list">
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
+        </div>
+      </div>
+      <script>
+        var ticker = document.querySelector(".ticker"),
+          list = document.querySelector(".ticker__list"),
+          clone = list.cloneNode(true);
+        ticker.append(clone);
+      </script>
+    </div>
+  </div>
+</div>
+<!-- Training Video -->
+<!--div class="training-video py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col mt-2">
+        <h2 style="line-height:1.4; font-size:2.3em;" class="text-center">Presenter Training Video</h2>
+        <p class="text-center">A step-by-step guide: How to record and submit your short summary video.</p>
+        <div class="embed-responsive embed-responsive-16by9 mt-4 mb-4 w-75 text-center mx-auto">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rSSPczirws8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="text-center mb-4">
+          <a href="COSPAR2021-Presenter-Training-Slides.pdf" target="_blank" class="training-slides d-inline-flex align-items-center">
+            <img src="img/training-slides.jpg" class="mr-3">Download and view the Presenter Training Slides </a>
+        </div>
+        <div class="text-center mb-5 mt-3">
+          <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="training-button">Submit your Video</a>
+        </div>
+        <div class="row">
+          <div class="col-md-2">
+          </div>
+          <div class="col-md text-center">
+            <strong>Presentation and Submission Questions</strong><br />
+            <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a>
+          </div>
+          <div class="col-md text-center">
+            <strong>Registration Questions</strong><br />
+            <a href="mailto:registration@cospar2021.org">registration@cospar2021.org</a>
+          </div>
+          <div class="col-md-2">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div-->
 <!-- Training Video-->
 <!-- Six Ways -->
 <div class="sixways py-5">
@@ -159,8 +113,8 @@ include('include/header.php');
         <h2 style="line-height:1.4; font-size:2.3em;">6 Steps to Recording your Presentation Short Summary Video</h2>
         <div class="row mt-4">
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">1</span> Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show
-            PowerPoints etc.
+            <div class="sixways_heading"><span class="counter">1</span> Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and
+            sound, play videos and show PowerPoints etc.
           </div>
           <div class="col-md-6">
             <div class="sixways_heading"><span class="counter">2</span> Prepare your presentation content</div> Select your method of recording depending on whether you have a PowerPoint or video component to your presentation
@@ -172,11 +126,12 @@ include('include/header.php');
             <div class="sixways_heading"><span class="counter">4</span> Record your short summary presentation video</div>
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">5</span> Submitting your pre-recorded presentation</div> Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the presentation portal
+            <div class="sixways_heading"><span class="counter">5</span> Submitting your pre-recorded presentation</div> Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the
+            presentation portal
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org" style="color:#142453; text-decoration:underline;">enquiries@cospar2021.org</a> if you do not have your
-            login details
+            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org"
+              style="color:#142453; text-decoration:underline;">enquiries@cospar2021.org</a> if you do not have your login details
           </div>
         </div>
         <p class="mb-0">See the <a href="https://cospar2021.org/pre-record-guidelines" style="color:#142453; text-decoration:underline;">full instruction guidelines here</a>.</p>
