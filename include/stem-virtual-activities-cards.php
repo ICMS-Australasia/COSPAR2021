@@ -37,6 +37,6 @@
   </a>
 </div>
 
-<a href="./stem-tv" class="button-secondary mb-5 mt-4">
+<a href="https://icmsaust.eventsair.com/cospar-2021/cosparktvtickets/Site/Register" target="_blank" class="button-secondary mb-5 mt-4">
     <span class="button-body mb-0"><b>Book Your FREE COSPAR-K TV <em class="mr-1">powered by Microsoft</em> Tickets</b></span>
 </a>
