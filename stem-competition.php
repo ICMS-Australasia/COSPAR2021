@@ -91,7 +91,7 @@ include('include/cospark.php');
                           </tr>
                           <tr align="center" bgcolor="#fbedfc">
                               <td><b>Winners Announced & Contacted for Prizes</b></td>
-                              <td>Fri 4 Dec</td>
+                              <td>Fri 4 February</td>
                           </tr>
                       </table>
 
