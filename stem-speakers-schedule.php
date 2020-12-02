@@ -52,7 +52,7 @@ include('include/cospark.php');
                         </div>
                       </div>
 
-                      <!-- <hr class="my-5">
+                      <hr class="my-5">
 
                       <h1>Speaker Program</h1>
 
@@ -87,11 +87,11 @@ include('include/cospark.php');
                             <span class="button-body my-0">2nd Feb</span>
                           </a>
                         </div>
-                      </div> -->
+                      </div>
 
-                      <!-- <div id="speaker-program">
+                      <div id="speaker-program">
 
-                      </div> -->
+                      </div>
 
                       <script type="text/javascript">
                       let days = [
@@ -336,7 +336,7 @@ include('include/cospark.php');
                             <td>
                               <b>Scott Sleap</b> <br>
                               STEM Industry School Partnerships (SISP) Program - Space Education Programs <br>
-                              <em>Stem Industry School Partnership Program</em>
+                              <em>STEM Industry School Partnership Program</em>
                             </td>
                           </tr>
                           <tr class="power-talk">
@@ -603,7 +603,7 @@ include('include/cospark.php');
                             <td>Power Talk</td>
                             <td>
                               <b>Anita Beck</b> <br>
-                              Mission to Mars - One Science Centres response to the Coronavirus pandemic <br>
+                              Mission to Mars - One Science Centres Response to the Coronavirus Pandemic <br>
                               <em>Questacon - The National Science And Technology Centre</em>
                             </td>
                           </tr>
@@ -629,7 +629,7 @@ include('include/cospark.php');
                             <td align="center">11:15am - 11:30am</td>
                             <td>Power Talk</td>
                             <td>
-                              <b>Cynthia Nguygen</b> <br>
+                              <b>Cynthia Nguyen</b> <br>
                               The Future of STEM Education in Australia From the Eyes of Pre-Service Teachers <br>
                               <em>Monash University Nova Rover team</em>
                             </td>
