@@ -18,7 +18,7 @@ include('include/cospark.php');
                       <p>Thanks to our friends at Microsoft, no matter where you are on our beautiful Earth you can live-stream the entire COSPAR-K speakers program.</p>
 
                       <div class="row my-4">
-                        <div class="col-md-6 col-12">
+                        <div class="col-12">
                           <a href="./COSPAR-K-Teachers-PD-Flyer-Final.pdf" target="_blank" class="button-secondary mt-4 mt-md-0">
                             <span class="button-body mb-0"><b>View the Teacher PD Promo Flyer</b></span>
                           </a>
