@@ -424,7 +424,7 @@ include('include/cospark.php');
                             <td>
                               <b>Georgia Alexakis, Stephanie Nguyen, Amelia Chung & Alexandra Ventura</b> <br>
                               Creating a Research Facility for Titan <br>
-                              <em>UNSW - PhD Student</em>
+                              <em>Students of Sydney Catholic School</em>
                             </td>
                           </tr>
                           <tr class="keynote">
