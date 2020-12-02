@@ -207,7 +207,7 @@ include('include/cospark.php');
                               <td>Panel Discussion 1</td>
                               <td>
                                 <b>TBA</b> <br>
-                                Future Workforce Panel <br>
+                                The Space Race <br>
                               </td>
                             </tr>
                           </table>
@@ -311,7 +311,7 @@ include('include/cospark.php');
                             <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 2</td>
                             <td><b>Zeina Chalich and Sarah Weston</b> <br>
-                              Investigations in M for STEM <br>
+                            Engaging the Best Talent <br>
                               <em>NSW Department of Education</em></td>
                           </tr>
                         </table>
@@ -568,8 +568,7 @@ include('include/cospark.php');
                             <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 3</td>
                             <td>
-                              NSW Space Industry Development Strategy <br>
-                              <em>See panels tab</em>
+                            NSW Space Space to Grow
                             </td>
                           </tr>
                         </table>
