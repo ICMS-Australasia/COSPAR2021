@@ -181,7 +181,7 @@ include('include/cospark.php');
                               <td>
                                 <b>Harrison Verrios</b> <br>
                                 Monash Nova Rover - Students Building Robots <br>
-                                <em>Monash University Nova Rover team</em>
+                                <em>Monash University Nova Rover Team</em>
                               </td>
                             </tr>
                             <tr class="power-talk">
@@ -252,7 +252,7 @@ include('include/cospark.php');
                             <td>Keynote</td>
                             <td><b>Pam Melroy</b> <br>
                               TBA <br>
-                              <em>Retired United States Air Force officer, NASA Astronaut, and Space Shuttle Commander</em></td>
+                              <em>Retired United States Air Force Officer, NASA Astronaut, and Space Shuttle Commander</em></td>
                           </tr>
                           <tr class="power-talk">
                             <td align="center">11:15am - 11:30am</td>
@@ -381,7 +381,7 @@ include('include/cospark.php');
                             <td>
                               <b>Ariel Elbaum</b> <br>
                               Why You Shouldn't Give Up on Your Dream to be an Astronaut <br>
-                              <em>Monash University Nova Rover team</em>
+                              <em>Monash University Nova Rover Team</em>
                             </td>
                           </tr>
                           <tr class="power-talk">
@@ -422,7 +422,7 @@ include('include/cospark.php');
                             <td align="center">2:00pm - 2:15pm</td>
                             <td>Power Talk</td>
                             <td>
-                              <b>Bonnie Teece</b> <br>
+                              <b>Georgia Alexakis, Stephanie Nguyen, Amelia Chung & Alexandra Ventura</b> <br>
                               Creating a Research Facility for Titan <br>
                               <em>UNSW - PhD Student</em>
                             </td>
@@ -512,7 +512,7 @@ include('include/cospark.php');
                             <td>
                               <b>Rebecca Muir</b> <br>
                               Developing and Integrating the First Life Detection Payload on the 2018 Monash Nova Rover <br>
-                              <em>Monash University Nova Rover team</em>
+                              <em>Monash University Nova Rover Team</em>
                             </td>
                           </tr>
                           <tr class="power-talk">
@@ -568,7 +568,6 @@ include('include/cospark.php');
                             <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 3</td>
                             <td>
-                              <b>See panels tab</b> <br>
                               NSW Space Industry Development Strategy <br>
                               <em>See panels tab</em>
                             </td>
@@ -595,7 +594,7 @@ include('include/cospark.php');
                             <td>
                               <b>Harrison Verrios</b> <br>
                               Monash Nova Rover - Students Building Robots <br>
-                              <em>Monash University Nova Rover team</em>
+                              <em>Monash University Nova Rover Team</em>
                             </td>
                           </tr>
                           <tr class="power-talk">
@@ -631,7 +630,7 @@ include('include/cospark.php');
                             <td>
                               <b>Cynthia Nguyen</b> <br>
                               The Future of STEM Education in Australia From the Eyes of Pre-Service Teachers <br>
-                              <em>Monash University Nova Rover team</em>
+                              <em>Monash University Nova Rover Team</em>
                             </td>
                           </tr>
                           <tr class="power-talk">
@@ -647,7 +646,7 @@ include('include/cospark.php');
                             <td align="center">11:45am - 12:00pm</td>
                             <td>Power Talk</td>
                             <td>
-                              <b>Sarah Baker</b> <br>
+                              <b>Sarah J. Baker</b> <br>
                               Space Education in South Australia <br>
                               <em>SA Department of Education</em>
                             </td>
@@ -683,7 +682,7 @@ include('include/cospark.php');
                             <td>
                               <b>Shefin Mariya Joju</b> <br>
                               The Life of a Space STEM Student <br>
-                              <em>Monash University Nova Rover team</em>
+                              <em>Monash University Nova Rover Team</em>
                             </td>
                           </tr>
                           <tr class="keynote">
