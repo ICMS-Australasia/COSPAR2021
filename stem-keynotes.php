@@ -52,7 +52,7 @@ include('include/cospark.php');
                           <h2>Andreas Antoniades</h2>
                         </a>
                         <a href="#doran" data-toggle="modal" class="col-md-4 mb-4">
-                          <img src="img/cospark/rosa-doran.jpg" class="img-fluid mb-3">
+                          <img src="img/cospark/rosa-doran.png" class="img-fluid mb-3">
                           <h2>Rosa Doran</h2>
                         </a>
                       </div>
@@ -183,7 +183,7 @@ include('include/cospark.php');
                       <div class="modal fade" id="doran">
                           <div class="modal-dialog modal-dialog-centered modal-lg">
                               <div class="modal-content">
-                                  <img src="img/cospark/rosa-doran.jpg" width="250">
+                                  <img src="img/cospark/rosa-doran.png" width="250">
                                   <h2>Rosa Doran</h2>
                                   <h3>Tuesday 2 Feb 2021, 2:45pm – 3:15pm</h3>
                                   <h4>Innovation in Education with Space Exploration</h4>
