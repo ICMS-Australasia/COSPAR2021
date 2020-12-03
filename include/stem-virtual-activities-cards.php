@@ -29,6 +29,12 @@
       <h3 class="stem-card-title p-4">Dr Adrian Brown Webinar</h3>
     </div>
   </a>
+  <a href="./stem-virtual-activities-teacher.php" class="col-sm-6 col-12 col-md-4">
+    <div class="stem-card">
+      <img class="img-fluid" src="img/cospark/vactivity-card7.png">
+      <h3 class="stem-card-title p-4">Teach the Teacher Taster</h3>
+    </div>
+  </a>
   <a href="./stem-virtual-activities-nasa.php" class="col-sm-6 col-12 col-md-4">
     <div class="stem-card">
       <img class="img-fluid" src="img/cospark/vactivity-card5.png">
