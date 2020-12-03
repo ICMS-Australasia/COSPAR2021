@@ -1,6 +1,6 @@
 <?php
 $cospark = true;
-$title = 'Dr Adrian Brown Webinar';
+$title = 'Teach the Teacher Taster';
 include('include/header.php');
 include('include/cospark.php');
 ?>
