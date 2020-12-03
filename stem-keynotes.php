@@ -156,7 +156,7 @@ include('include/cospark.php');
                               <div class="modal-content">
                                   <img src="img/cospark/andreas-antoniades.jpg" width="250">
                                   <h2>Andreas Antoniades</h2>
-                                  <h3>Tuesday 2 Feb 2021, 12:15am - 2:45pm</h3>
+                                  <h3>Tuesday 2 Feb 2021, 2:15pm - 2:45pm</h3>
                                   <p>Andreas is passionate about developing engineering solutions to real-world problems, particularly for space and ensuring that these solutions are available and affordable to all. He is the Director of Saber Astronautics Australia and is kept busy with space mission operations, ground stations, democratisation of space and open source hardware, as well as currently building the nation's space Mission Control Centre, in Adelaide, SA.</p>
                                   <p>Prior to Saber, Andreas created and ran a start-up, Obelisk Systems which developed next-generation CubeSat hardware, both for educational and commercial environments. This led to the development of the STEM education platform StarLAB which was a platform catered to high school students, ensuring they received the best in coding, hardware, sensing and robotics education to skill them for the rapidly evolving world.</p>
                                   <p>His presentation is a must-see for all aspiring Astronautic Engineers!</p>
