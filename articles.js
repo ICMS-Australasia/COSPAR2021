@@ -1,6 +1,13 @@
 let latestNews = {
    "items":[
      {
+        "title":"Edition #17: Register for Virtual Access via COSPAR-K TV powered by Microsoft",
+        "type":"Email",
+        "image":"23.jpg",
+        "date":"Wednesday, 2nd December 2020",
+        "link":"https://mailchi.mp/0fbde5ead9dc/register-for-virtual-access-via-cospar-k-tv-powered-by-microsoft"
+     },
+     {
         "title":"Edition #16: Daleks Taking Over COSPAR-K",
         "type":"Email",
         "image":"22.jpg",
