@@ -51,6 +51,10 @@ include('include/cospark.php');
                           <img src="img/cospark/andreas-antoniades.jpg" class="img-fluid mb-3">
                           <h2>Andreas Antoniades</h2>
                         </a>
+                        <a href="#doran" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/rosa-doran.jpg" class="img-fluid mb-3">
+                          <h2>Rosa Doran</h2>
+                        </a>
                       </div>
                       <!-- Modal Content -->
                       <div class="modal fade" id="calandrelli">
@@ -152,7 +156,7 @@ include('include/cospark.php');
                               <div class="modal-content">
                                   <img src="img/cospark/andreas-antoniades.jpg" width="250">
                                   <h2>Andreas Antoniades</h2>
-                                  <h3>Tuesday 2 Feb 2021, 2:45pm - 3:15pm</h3>
+                                  <h3>Tuesday 2 Feb 2021, 12:15am - 2:45pm</h3>
                                   <p>Andreas is passionate about developing engineering solutions to real-world problems, particularly for space and ensuring that these solutions are available and affordable to all. He is the Director of Saber Astronautics Australia and is kept busy with space mission operations, ground stations, democratisation of space and open source hardware, as well as currently building the nation's space Mission Control Centre, in Adelaide, SA.</p>
                                   <p>Prior to Saber, Andreas created and ran a start-up, Obelisk Systems which developed next-generation CubeSat hardware, both for educational and commercial environments. This led to the development of the STEM education platform StarLAB which was a platform catered to high school students, ensuring they received the best in coding, hardware, sensing and robotics education to skill them for the rapidly evolving world.</p>
                                   <p>His presentation is a must-see for all aspiring Astronautic Engineers!</p>
@@ -172,6 +176,23 @@ include('include/cospark.php');
                                   <p>After NASA, Colonel Melroy served in a variety of executive positions with Lockheed Martin, the FAA’s Office of Commercial Space Transportation and DARPA. She is now an independent consultant.</p>
                                   <p>Pam’s been to space and now coming to COSPAR-K, we just cannot wait to hear from her!</p>
 
+                                  <button type="button" class="close" data-dismiss="modal">x</button>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="modal fade" id="doran">
+                          <div class="modal-dialog modal-dialog-centered modal-lg">
+                              <div class="modal-content">
+                                  <img src="img/cospark/rosa-doran.jpg" width="250">
+                                  <h2>Rosa Doran</h2>
+                                  <h3>Tuesday 2 Feb 2021, 2:45pm – 3:15pm</h3>
+                                  <h4>Innovation in Education with Space Exploration</h4>
+                                  <p>Rosa will present a series of innovative models for the integration of Space Exploration in classrooms. The main objective is to invite the audience to think outside the box and reinvent education, not as a pre-designed journey, pre-established for what is perceived as the average student, but as an individual path, <b>co-designed</b> and uniquely embraced by each individual learner.</p>
+                                  <p>She will share a series of best practices for innovation in education along with concrete examples for its integration in the classroom.</p>
+                                  <p>Space as an engine to gather enthusiasm for the STEAM domain and will be used to provide concrete ideas on how to integrate these in a classroom settings using proven examples. The main aim is to invite participants to rethink their perceived notions of what is the importance of school in our lives and the urgent transformation required to transform classrooms into bed tests for the future generations of this planet's leaders. The role of institutions that ultimately have in their hands the future of Earth and its inhabitants.</p>
+                                  <h4>About Rosa</h4>
+                                  <p>Rosa Doran is a science educator devoted to the integration of modern trends for innovation in classroom with a special emphasis on the use of Astronomy for STEAM learning.</p>
+                                  <p>She received a PhD on Science Education from the University of Coimbra in 2020. She is the president of the executive council of NUCLIO (Núcleo Interativo de Astronomia), an NGO for development, Vice-President of the panel education of COSPAR, Chair of the Galileo Teacher Training Program and the Vice-President of the Executive Committee of the Global Hands-on Universe Association.</p>
                                   <button type="button" class="close" data-dismiss="modal">x</button>
                               </div>
                           </div>
