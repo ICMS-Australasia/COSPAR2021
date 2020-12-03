@@ -23,7 +23,7 @@ include('include/header.php');
       <div class="col">
 
         <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
-          Only your short summary video is due 30 November 2020
+          Only your short summary video is due <b>NOW</b>.
         </div>
 
 <h3>Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h3>
@@ -156,14 +156,14 @@ include('include/header.php');
 
 <ul>
   <li>Date of presentation</li>
-  <li>COSPARid</li>
+  <li>COSPAR ID (this is the ID number on your acceptance letter)</li>
   <li>Presenter Name</li>
 </ul>
 
 <p>For example,</p>
 <ul>
   <li>Date of presentation: TUES2FEB</li>
-  <li>COSPAR 2021 scientific event number (COSPARid): A3.1-6-21</li>
+  <li>COSPAR 2021 scientific event number (COSPAR ID): A3.1-6-21</li>
   <li>Presenter Name: JANEDOEFULLPRERECORDEDVIDEO
 </li>
 </ul>
@@ -182,7 +182,7 @@ include('include/header.php');
   <li>Abstract (in a Word document) or transcript</li>
   <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
   <li>PowerPoint presentation file (slides) used within the short video presentation</li>
-  <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li>
+  <!-- <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li> -->
 </ol>
 
 <h3>Uploading your pre-recorded presentation</h3>

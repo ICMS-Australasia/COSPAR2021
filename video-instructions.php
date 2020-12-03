@@ -23,7 +23,7 @@ include('include/header.php');
       <div class="col">
 
         <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
-          Only your short summary video is due 30 November 2020
+          Only your short summary video is due <b>NOW</b>.
         </div>
 
 

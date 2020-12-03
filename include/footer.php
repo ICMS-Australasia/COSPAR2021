@@ -42,7 +42,7 @@ if ($home == true) {
                     <img class="card-img-top" src="img/tiles/things.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">Presenter Deadline</h3>
-                        <p class="card-text">Presenters Early Bird and Short video due 30 November. Full video due 31 December.</p>
+                        <p class="card-text">Presenters Early Bird and Short video are due <b>now</b>. Full video due <b>31 December</b>.</p>
                     </div>
                 </div>
             </a>

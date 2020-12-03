@@ -106,10 +106,13 @@ include('include/header.php');
 </div-->
 <!-- Training Video-->
 <!-- Six Ways -->
-<div class="sixways py-5">
+<div class="sixways py-5" >
   <div class="container">
     <div class="row">
       <div class="col mt-2">
+        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
+          Only your short summary video is due <b>NOW</b>.
+        </div>
         <h2 style="line-height:1.4; font-size:2.3em;">6 Steps to Recording your Presentation Short Summary Video</h2>
         <div class="row mt-4">
           <div class="col-md-6">
@@ -139,14 +142,35 @@ include('include/header.php');
     </div>
   </div>
 </div>
+<div class="sixways py-5" style="background: white;">
+  <div class="container">
+    <div class="row">
+      <div class="col mt-2">
+        <h2 style="line-height:1.4; font-size:2em;">Via Dropbox or your preferred File Transfer software.  Make sure you have on-hand before you start:</h2>
+        <div class="row mt-4">
+          <div class="col-md-6">
+            <div class="sixways_heading"><span class="counter">1</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. They are not mandatory but will add the each individuals profile to the world.
+          </div>
+          <div class="col-md-6">
+            <div class="sixways_heading"><span class="counter">2</span> Abstract acceptance letter</div> <em>Why?</em> To confirm you are who you say you are and it has your ID number recorded at the top of the page.
+          </div>
+          <div class="col-md-6">
+            <div class="sixways_heading"><span class="counter">3</span> Abstract (in a Word document) or transcript</div> <em>Why?</em> So that delegates who’s first language may not be English and indeed for presenters who’s first language may not be English it will help everyone to get a clear understanding.
+          </div>
+          <div class="col-md-6">
+            <div class="sixways_heading"><span class="counter">4</span> Pre-Recorded short summary video presentation MP4 file (3 or 6 minutes as per your acceptance)</div> <em>Why?</em> The 3-minute video, is required now to build a profile of you as a speaker, in order to better present  and share your research .  The video “teaser” is to entice other attendees to attend your talk.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Six Ways -->
-<div class="welcome" id="invitation">
+<!-- <div class="welcome" id="invitation">
   <div class="container">
     <div class="row pt-5">
       <div class="col-md-12 mt-2 mb-3 text-center">
         <h2 class="mb-4" style="line-height:1.4; font-size:3em;" id="chair">From the Desk of the Chair</h2>
-        <!-- <h3 class="mb-5">News just in. COSPAR HQ have been inundated with requests for an extension. In the interest of having the best science at the largest space research conference; <br> <a href="abstracts.php" style="color:#0c4da2; text-decoration:underline;">COSPAR 2021 abstracts will remain open until 11 October 2020.</a></h3>
- -->
       </div>
       <div class="col-md-12 mb-3" style="font-size:1.1em;">
         <img src="img/logo-co2.jpg" class="float-right ml-md-4 mb-md-4" width="160" alt="">
@@ -189,8 +213,7 @@ include('include/header.php');
       </div>
     </div>
   </div>
-</div> <?php
-
-        include('include/footer.php');
-
-        ?>
+</div> -->
+<?php
+include('include/footer.php');
+?>
