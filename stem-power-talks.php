@@ -9,10 +9,8 @@ include('include/cospark.php');
             <div class="container">
                 <div class="row py-5">
                     <div class="col stem-page">
-
-
-                      <h1 class="mt-3 mb-5">Power Talks</h1>
-                      <a href="mailto:stem@cospar2021.org" target="_blank" class="button-secondary mb-4 mt-5">
+                       <h1 class="mt-3 mb-5">Power Talks</h1>
+                      <!-- <a href="mailto:stem@cospar2021.org" target="_blank" class="button-secondary mb-4 mt-5">
                           <span class="button-head">Space STEM Power Talks Submissions Have Now Closed!</span>
                           <span class="button-body">Contact Mission Control for more info</span>
                       </a>
@@ -31,7 +29,243 @@ include('include/cospark.php');
                           <div class="col-md-12 mb-3 mb-md-0">
                              <img src="img/cospark/power-talks-2.jpg" class="img-fluid">
                           </div>
-                      </div>
+                      </div> -->
+
+
+                      <div class="row text-center" id="power-cards">
+
+                      </div>
+                      <div id="power-modals">
+
+                      </div>
+
+                      <script type="text/javascript">
+                        let ptalks = [
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          },
+                          {
+                            "fname": "FirstName",
+                            "lname": "LastName",
+                            "affiliation": "Affiliation",
+                            "img": "https://via.placeholder.com/200x250",
+                            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                          }
+                        ];
+                        let cards = ptalks.map((pt,index) =>
+                          `<a href="#${pt.lname}-${index}" data-toggle="modal" class="col-md-3 mb-4">
+                            <img src="${pt.img}" class="img-fluid mb-3">
+                            <h3 class="mb-2">${pt.fname} ${pt.lname}</h3>
+                            <p><b>${pt.affiliation}</b></p>
+                          </a>`
+                        ).join(``);
+
+                        let modals = ptalks.map((pt,index) =>
+                          `
+                          <div class="modal fade" id="${pt.lname}-${index}">
+                              <div class="modal-dialog modal-dialog-centered modal-lg">
+                                  <div class="modal-content">
+                                      <img src="${pt.img}" width="200">
+                                      <h2>${pt.fname} ${pt.lname}</h2>
+                                      <h3>${pt.affiliation}</h3>
+                                      <p>${pt.desc}</p>
+                                      <button type="button" class="close" data-dismiss="modal">x</button>
+                                  </div>
+                              </div>
+                          </div>
+                          `
+                        ).join(``);
+
+                        document.getElementById('power-cards').innerHTML = cards;
+                        document.getElementById('power-modals').innerHTML = modals;
+
+                      </script>
 
 
                       <?php
