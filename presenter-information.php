@@ -37,13 +37,13 @@ include('include/header.php');
 
         <h2 class="mt-5 mb-3">Registration</h2>
 
-        <p>As a presenter, you must <a href="registration">register</a>, pay and submit, at a minimum your short-summary video by <strong>30 November 2020</strong>.</p>
-        <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must <a href="registration">register</a>, pay and submit your video presentations by <strong>30 November 2020</strong>.</p>
+        <p>As a presenter, you must <a href="registration">register</a>, pay and submit, at a minimum your short-summary video <strong>now</strong>.</p>
+        <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must <a href="registration">register</a>, pay and submit your video presentations <strong>now</strong>.</p>
 
 
         <h2 class="mt-5 mb-3">Event Schedule</h2>
         <p>There is no change in the program (themes, sessions, layout), now that COSPAR-2021 is COSPAR-2021-Hybrid. </p>
-        <p>All presentations will be pre-recorded by presenters, with the duration consistent as per the original program timings. Presentations will need to be uploaded for inclusion in the Assembly delivery platform ( no later than 30 November 2020) and will be available at the beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes, and keywords, to registered delegates only.</p>
+        <p>All presentations will be pre-recorded by presenters, with the duration consistent as per the original program timings. Presentations will need to be uploaded for inclusion in the Assembly delivery platform ( due now ) and will be available at the beginning of the Assembly, searchable according to COSPAR Commissions and Panels, technical themes, and keywords, to registered delegates only.</p>
 
         <h2 class="mt-5 mb-3">When will the final program be available</h2>
 

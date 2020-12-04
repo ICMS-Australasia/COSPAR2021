@@ -149,16 +149,10 @@ include('include/header.php');
         <h2 style="line-height:1.4; font-size:2em;">Via Dropbox or your preferred File Transfer software.  Make sure you have on-hand before you start:</h2>
         <div class="row mt-4">
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">1</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. They are not mandatory but will add the each individuals profile to the world.
+            <div class="sixways_heading"><span class="counter">1</span> Pre-Recorded short summary video presentation MP4 file (3 or 6 minutes as per your acceptance)</div> <em>Why?</em> The 3-minute video, is required now to build a profile of you as a speaker, in order to better present  and share your research .  The video “teaser” is to entice other attendees to attend your talk.
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">2</span> Abstract acceptance letter</div> <em>Why?</em> To confirm you are who you say you are and it has your ID number recorded at the top of the page.
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">3</span> Abstract (in a Word document) or transcript</div> <em>Why?</em> So that delegates who’s first language may not be English and indeed for presenters who’s first language may not be English it will help everyone to get a clear understanding.
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">4</span> Pre-Recorded short summary video presentation MP4 file (3 or 6 minutes as per your acceptance)</div> <em>Why?</em> The 3-minute video, is required now to build a profile of you as a speaker, in order to better present  and share your research .  The video “teaser” is to entice other attendees to attend your talk.
+            <div class="sixways_heading"><span class="counter">2</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. They are not mandatory but will add the each individuals profile to the world.
           </div>
         </div>
       </div>
