@@ -110,7 +110,7 @@ include('include/header.php');
   <div class="icon-image col-md-1">
     <div class="icon-number">4</div>
   </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video now keeping to your allocated program schedule time</h2></div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video <u>Now</u>, keeping to your allocated program schedule time</h2></div>
 </div>
 
 <table class="table">
@@ -194,8 +194,6 @@ include('include/header.php');
   <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
   <li>PowerPoint presentation file (slides) used within the short video presentation</li>
   <li>Speaker photo (high resolution min 300 dpi) and biography (100 words)</li>
-  <li>Abstract acceptance letter</li>
-  <li>Abstract (in a Word document) or transcript</li>
   <!-- <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li> -->
 </ol>
 
