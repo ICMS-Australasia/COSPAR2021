@@ -146,13 +146,31 @@ include('include/header.php');
   <div class="container">
     <div class="row">
       <div class="col mt-2">
-        <h2 style="line-height:1.4; font-size:2em;">Via Dropbox or your preferred File Transfer software.  Make sure you have on-hand before you start:</h2>
+        <h2 style="line-height:1.4; font-size:2em;">Required Now</h2>
+
+        <div class="alert alert-primary pt-4 pb-4 mb-4" style="font-size:1em;">
+
+        <p class="mt-0">We appreciate that the File Transfer can we a little complex.  We have provided this section of the video from the 5-minute point in various languages for you to read and refer to if required.</p>
+
+        <p class="mb-0">
+          <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>English</strong></a>
+          <a href="translations/COSPAR2021_Translation_French.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>French</strong></a>
+          <a href="translations/COSPAR2021_Translation_German.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>German</strong></a>
+          <a href="translations/COSPAR2021_Translation_Mandarin.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Mandarin</strong></a>
+          <a href="translations/COSPAR2021_Translation_Russian.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Russian</strong></a>
+          <a href="translations/COSPAR2021_Translation_Japanese.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Japanese</strong></a>
+          <a href="translations/COSPAR2021_Translation_Dutch.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Dutch</strong></a>
+          <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Hindi</strong></a>
+        </p>
+
+        </div>
+
         <div class="row mt-4">
           <div class="col-md-6">
             <div class="sixways_heading"><span class="counter">1</span> Pre-Recorded short summary video presentation MP4 file (3 or 6 minutes as per your acceptance)</div> <em>Why?</em> The 3-minute video, is required now to build a profile of you as a speaker, in order to better present  and share your research .  The video “teaser” is to entice other attendees to attend your talk.
           </div>
           <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">2</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. They are not mandatory but will add the each individuals profile to the world.
+            <div class="sixways_heading"><span class="counter">2</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. The photo and bio are not mandatory.  However, they will add to each individuals profile to the rest of the world.
           </div>
         </div>
       </div>

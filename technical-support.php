@@ -127,7 +127,24 @@ include('include/header.php');
             </td>
             <td>
               Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original
-                location, select the file and drag it to your Dropbox folder.
+                location, select the file and drag it to your Dropbox folder.<br /><br />
+
+                <div class="alert alert-primary pt-4 pb-4 mb-4" style="font-size:1em;">
+
+                <p class="mt-0">We appreciate that the File Transfer can we a little complex.  We have provided this section of the video from the 5-minute point in various languages for you to read and refer to if required.</p>
+
+                <p class="mb-0">
+                  <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3"><strong>English</strong></a>
+                  <a href="translations/COSPAR2021_Translation_French.pdf" target="_blank" class="pr-3"><strong>French</strong></a>
+                  <a href="translations/COSPAR2021_Translation_German.pdf" target="_blank" class="pr-3"><strong>German</strong></a>
+                  <a href="translations/COSPAR2021_Translation_Mandarin.pdf" target="_blank" class="pr-3"><strong>Mandarin</strong></a>
+                  <a href="translations/COSPAR2021_Translation_Russian.pdf" target="_blank" class="pr-3"><strong>Russian</strong></a>
+                  <a href="translations/COSPAR2021_Translation_Japanese.pdf" target="_blank" class="pr-3"><strong>Japanese</strong></a>
+                  <a href="translations/COSPAR2021_Translation_Dutch.pdf" target="_blank" class="pr-3"><strong>Dutch</strong></a>
+                  <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3"><strong>Hindi</strong></a>
+                </p>
+
+                </div>
             </td>
           </tr>
           <tr>
