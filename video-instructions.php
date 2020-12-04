@@ -8,9 +8,9 @@ include('include/header.php');
     <div class="row py-5">
       <div class="col py-4">
         <h1><?php echo $title; ?></h1>
-        <div class="sub">
+        <!-- <div class="sub">
           <a href="https://youtu.be/D0CWfvLQiEo" target="_blank" class="presenter-pdf"><img src="img/presenter-pdf-video.jpg" style="width:120px;">View a complete set of Step by Step Video Instructions</a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
