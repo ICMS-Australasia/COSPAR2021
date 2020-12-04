@@ -33,9 +33,9 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">4</div>
+    <div class="icon-number">1</div>
   </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video by 30 November 2020 keeping to your allocated program schedule time</h2></div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video now keeping to your allocated program schedule time</h2></div>
 </div>
 
 <table class="table">
@@ -55,7 +55,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">5</div>
+    <div class="icon-number">2</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
@@ -136,7 +136,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">1</div>
+    <div class="icon-number">3</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Decide how you want to record your presentation</h2></div>
 </div>
@@ -149,7 +149,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">2</div>
+    <div class="icon-number">4</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare your presentation content</h2></div>
 </div>
@@ -158,7 +158,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">3</div>
+    <div class="icon-number">5</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare to record your presentation</h2></div>
 </div>
@@ -215,7 +215,7 @@ include('include/header.php');
 
 <h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
 
-<h3>Due 30 November 2020</h3>
+<h3>Due now</h3>
 
 <div class="mt-4 ml-4 d-block">
   <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes.</div>

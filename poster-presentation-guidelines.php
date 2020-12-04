@@ -34,7 +34,7 @@ include('include/header.php');
         <h3 class="mt-3 mb-3">Author Guidelines</h3>
 
 <p>Poster presenters are expected to submit a short summary video and PDF Poster for the Assembly. Only those submissions that accompany a paid registration will be included within the virtual platform.</p>
-<p class="mb-5">Deadline for submission of the short summary video, and registration for presenters, is <strong>30 November 2020</strong>.</p>
+<p class="mb-5">Deadline for submission of the short summary video, and registration for presenters, is <strong>now</strong>.</p>
 
 <h3 class="mt-3 mb-3">Virtual Presentation Details</h3>
 
@@ -80,7 +80,7 @@ include('include/header.php');
 
 <tr>
   <td><strong>Presenter registration deadline</strong></td>
-  <td>30 November 2020</td>
+  <td>Due now</td>
 </tr>
 
 <tr>
@@ -146,7 +146,7 @@ include('include/header.php');
 <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="button-main my-4" target="_blank">Presenter Portal</a>
 
 <h3 class="mt-3 mb-3">When is the submission deadline?</h3>
-<p>Presenters must submit their short summary video by 30 November 2020.</p>
+<p>Presenters must submit their short summary video now.</p>
 <p>They can then have until 30 December 2020, if necessary, to upload their full PDF Poster.</p>
 
 <h3 class="mt-3 mb-3">For all enquiries regarding speaker papers, presentation formats, or presentation submissions:</h3>

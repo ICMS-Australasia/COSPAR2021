@@ -90,7 +90,7 @@ include('include/header.php');
               <strong>Presenter deadline to upload </strong>
             </td>
             <td>
-              30 November 2020
+              Due now
             </td>
           </tr>
           <tr>
@@ -147,7 +147,7 @@ include('include/header.php');
             </td>
             <td>
 
-              <strong>For 30 November</strong>
+              <strong>For 7 December</strong>
 <ul>
   <li>Pre-recorded short video mp4 summary – 3, or 6 minutes</li>
   <li>Speaker photo and biography</li>
