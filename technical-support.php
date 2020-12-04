@@ -98,7 +98,7 @@ include('include/header.php');
               <strong>Registration deadline</strong>
             </td>
             <td>
-              30 November 2020 for discounted early-bird presenter rate
+              Discounted early-bird rate due <b>NOW</b>!
             </td>
           </tr>
           <!--tr>
@@ -147,7 +147,7 @@ include('include/header.php');
             </td>
             <td>
 
-              <strong>For 7 December</strong>
+              <strong>Due Now</strong>
 <ul>
   <li>Pre-recorded short video mp4 summary – 3, or 6 minutes</li>
   <li>Speaker photo and biography</li>

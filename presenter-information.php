@@ -49,7 +49,6 @@ include('include/header.php');
 
         <p>For the overall program and details of your Scientific event, please consult the Assembly website at: <a href="https://www.cospar-assembly.org" target="_blank">https://www.cospar-assembly.org</a>.</p>
 
-        <p>With the latest call for abstracts now closed and under review, the final program will be available to view after 31 October.</p>
         <h2 class="mt-5 mb-3">Time zones</h2>
 
         <p>The program schedule is designed to deliver the full program across global time zones. Each pre-recorded presentation will be scheduled to play twice.</p>

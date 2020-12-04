@@ -26,6 +26,31 @@ include('include/header.php');
           Only your short summary video is due <b>NOW</b>.
         </div>
 
+        <h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
+
+        <h3>Due now</h3>
+
+        <div class="mt-4 ml-4 d-block">
+          <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes.</div>
+        <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography.</div>
+        </div>
+
+        <h3>Due 31 December 2020</h3>
+
+        <div class="mt-4 ml-4 d-block">
+          <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter. </div>
+        <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript, </div>
+        <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. </div>
+        </div>
+
+        <h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>
+
+        <p>For all enquiries regarding speaker papers, presentation formats, or presentation submissions</p>
+
+        <p><strong>Emma McPartlan</strong><br>
+        <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
+
+
 <h3>Congratulations on being accepted to present at COSPAR-2021-HYBRID!</h3>
 
 <p>Please see below the following instructions for setting up, creating and submitting your pre-recorded presentation. </p>
@@ -213,29 +238,8 @@ include('include/header.php');
   <li>I understand the Conference Organizing Committee, or authorized third-parties, are not liable for any legal action or costs pertaining to action sought on publishing or reproducing this file</li>
 </ol>
 
-<h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
 
-<h3>Due now</h3>
 
-<div class="mt-4 ml-4 d-block">
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes.</div>
-<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography.</div>
-</div>
-
-<h3>Due 31 December 2020</h3>
-
-<div class="mt-4 ml-4 d-block">
-  <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter. </div>
-<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript, </div>
-<div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. </div>
-</div>
-
-<h2 class="mt-5 mb-3">Presentation and Speaker Enquiries</h2>
-
-<p>For all enquiries regarding speaker papers, presentation formats, or presentation submissions</p>
-
-<p><strong>Emma McPartlan</strong><br>
-<a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
 
 
 
