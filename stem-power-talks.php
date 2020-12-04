@@ -32,7 +32,7 @@ include('include/cospark.php');
                       </div> -->
 
 
-                      <div class="row text-center" id="power-cards">
+                      <div class="row" id="power-cards">
 
                       </div>
                       <div id="power-modals">
@@ -46,28 +46,88 @@ include('include/cospark.php');
                               {
                                 "name": "Amelia Travers",
                                 "img": "https://via.placeholder.com/200x250",
-                              }
+                              },
                             ],
                             "presentation": "From Woomera to Andoya, Launching Rockets in High School",
                             "time": "11:15am - 11:30am",
                             "desc": "Amelia is a science communicator and web developer who was the first Australian to attend European Space Camp. She’s passionate about space science, particularly rockets, and some of the awesome opportunities available for young people at Science Camps. Amelia will be talking about her journey from a Space Camp in Woomera, Central Australia to launching a sounding rocket in Northern Norway. She’ll discuss some of the impacts these adventures had on her career, some of the amazing opportunities they led to and how she’s using all those experiences now as an adult and communicator with her project Avid Research!"
-                          }
+                          },
+                          {
+                            "speakers": [
+                              {
+                                "name": "Amelia Travers",
+                                "img": "https://via.placeholder.com/200x250",
+                              },
+                            ],
+                            "presentation": "From Woomera to Andoya, Launching Rockets in High School",
+                            "time": "11:15am - 11:30am",
+                            "desc": "Amelia is a science communicator and web developer who was the first Australian to attend European Space Camp. She’s passionate about space science, particularly rockets, and some of the awesome opportunities available for young people at Science Camps. Amelia will be talking about her journey from a Space Camp in Woomera, Central Australia to launching a sounding rocket in Northern Norway. She’ll discuss some of the impacts these adventures had on her career, some of the amazing opportunities they led to and how she’s using all those experiences now as an adult and communicator with her project Avid Research!"
+                          },
+                          {
+                            "speakers": [
+                              {
+                                "name": "Amelia Travers",
+                                "img": "https://via.placeholder.com/200x250",
+                              },
+                            ],
+                            "presentation": "From Woomera to Andoya, Launching Rockets in High School",
+                            "time": "11:15am - 11:30am",
+                            "desc": "Amelia is a science communicator and web developer who was the first Australian to attend European Space Camp. She’s passionate about space science, particularly rockets, and some of the awesome opportunities available for young people at Science Camps. Amelia will be talking about her journey from a Space Camp in Woomera, Central Australia to launching a sounding rocket in Northern Norway. She’ll discuss some of the impacts these adventures had on her career, some of the amazing opportunities they led to and how she’s using all those experiences now as an adult and communicator with her project Avid Research!"
+                          },
+                          {
+                            "speakers": [
+                              {
+                                "name": "Amelia Travers",
+                                "img": "https://via.placeholder.com/200x250",
+                              },
+                            ],
+                            "presentation": "From Woomera to Andoya, Launching Rockets in High School",
+                            "time": "11:15am - 11:30am",
+                            "desc": "Amelia is a science communicator and web developer who was the first Australian to attend European Space Camp. She’s passionate about space science, particularly rockets, and some of the awesome opportunities available for young people at Science Camps. Amelia will be talking about her journey from a Space Camp in Woomera, Central Australia to launching a sounding rocket in Northern Norway. She’ll discuss some of the impacts these adventures had on her career, some of the amazing opportunities they led to and how she’s using all those experiences now as an adult and communicator with her project Avid Research!"
+                          },
+                          {
+                            "speakers": [
+                              {
+                                "name": "Amelia Travers",
+                                "img": "https://via.placeholder.com/200x250",
+                              },
+                            ],
+                            "presentation": "From Woomera to Andoya, Launching Rockets in High School",
+                            "time": "11:15am - 11:30am",
+                            "desc": "Amelia is a science communicator and web developer who was the first Australian to attend European Space Camp. She’s passionate about space science, particularly rockets, and some of the awesome opportunities available for young people at Science Camps. Amelia will be talking about her journey from a Space Camp in Woomera, Central Australia to launching a sounding rocket in Northern Norway. She’ll discuss some of the impacts these adventures had on her career, some of the amazing opportunities they led to and how she’s using all those experiences now as an adult and communicator with her project Avid Research!"
+                          },
                         ];
+
                         let cards = ptalks.map((pt,index) =>
-                          `<a href="#${index}" data-toggle="modal" class="col-md-6 mb-4">
+                          `<a href="#pt-${index}" data-toggle="modal" class="col-md-6 mb-4">
                             <h3 class="mb-2">${pt.presentation}</h3>
                             <p><b>${pt.time}</b></p>
-                            <p><em>${pt.speakers}</em></p>
+                            <div class="row">
+                              ${pt.speakers.map(speaker =>
+                                `
+                                  <div class="col-md-3 text-center">
+                                    <img src="${speaker.img}" class="img-fluid mx-auto d-block" width='80'>
+                                    <p>${speaker.name}</p>
+                                  </div>
+                                `
+                              ).join(``)}
+                            </div>
                           </a>`
                         ).join(``);
 
                         let modals = ptalks.map((pt,index) =>
                           `
-                          <div class="modal fade" id="${index}">
+                          <div class="modal fade" id="pt-${index}">
                               <div class="modal-dialog modal-dialog-centered modal-lg">
                                   <div class="modal-content">
                                     <h2>${pt.presentation}</h2>
                                     <h3>${pt.time}</h3>
+                                    <div class="row ">
+                                      <div class="col-md-4 d-flex align-items-center">
+                                        <img src="${pt.speakers[0].img}" width="80" class="img-fluid ml-0 mr-3">
+                                        <p>${pt.speakers[0].name}</p>
+                                      </div>
+                                    </div>
                                     <p>${pt.desc}</p>
                                     <button type="button" class="close" data-dismiss="modal">x</button>
                                   </div>
