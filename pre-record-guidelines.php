@@ -56,9 +56,59 @@ include('include/header.php');
 <p>Please see below the following instructions for setting up, creating and submitting your pre-recorded presentation. </p>
 
 
+
+
+
+
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
     <div class="icon-number">1</div>
+  </div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Decide how you want to record your presentation</h2></div>
+</div>
+
+<p>We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
+<p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you may record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
+
+<p>It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
+
+
+<div class="row icon align-items-center">
+  <div class="icon-image col-md-1">
+    <div class="icon-number">2</div>
+  </div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare your presentation content</h2></div>
+</div>
+
+<p>Select your method of recording depending on whether you have a PowerPoint or video component to your presentation Please check the <a href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a> for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
+
+<div class="row icon align-items-center">
+  <div class="icon-image col-md-1">
+    <div class="icon-number">3</div>
+  </div>
+  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare to record your presentation</h2></div>
+</div>
+
+<h3>Prior to recording your presentation, we suggest the following;</h3>
+
+<ul>
+  <li><strong>Use headphones with a microphone attachment or ensure your webcam sound is clear</strong> – it is imperative that the audio of your presentation is clear and sufficiently loud. Please use a pair of headphones that also have a microphone attachment to plug into your laptop (if they are wireless please make sure they are fully charged). Ensure the microphone on your headphones is not touching your collar, hair, jewellery, etc. as this can impair your audio.</li>
+  <li><strong>Restart Your Computer</strong> – this refreshes your computer and ensures no programs are running in the background. Please close any programs that may open automatically and connect to the internet (Skype, Dropbox, Spotify, etc.) to ensure they do not connect to the internet.</li>
+  <li><strong>Strong Connection</strong> – to ensure your connection is stable for the session, make sure no one else on your network is partaking in high internet usage activities e.g. Zoom, Netflix, gaming – if unavoidable, please try hot spotting from your mobile device. The data download is minimal and will ensure your connection is more stable.</li>
+</ul>
+
+<h3>Specific requirements for pre-recorded videos</h3>
+
+<ul>
+  <li>The preferred video format is MP4*</li>
+  <li>Please ensure the lighting is appropriate so you as the presenter can be seen.</li>
+  <li>Please ensure the audio is adequate so you as the presenter can be heard.</li>
+  <li>For some tip and tricks on lighting and framing for video recording please see the guidelines attached to your presentation email.</li>
+</ul>
+
+<div class="row icon align-items-center">
+  <div class="icon-image col-md-1">
+    <div class="icon-number">4</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video now keeping to your allocated program schedule time</h2></div>
 </div>
@@ -80,7 +130,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">2</div>
+    <div class="icon-number">5</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
@@ -141,11 +191,11 @@ include('include/header.php');
 <p>Each presenter will receive an automatic Login token via email. This is a personalised link to the presenters’ portal.  In the portal, presenters will need to provide the following documents via a Dropbox link:</p>
 
 <ol>
+  <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
+  <li>PowerPoint presentation file (slides) used within the short video presentation</li>
   <li>Speaker photo (high resolution min 300 dpi) and biography (100 words)</li>
   <li>Abstract acceptance letter</li>
   <li>Abstract (in a Word document) or transcript</li>
-  <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
-  <li>PowerPoint presentation file (slides) used within the short video presentation</li>
   <!-- <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li> -->
 </ol>
 
@@ -158,52 +208,6 @@ include('include/header.php');
 <p><a href="https://support.google.com/youtube/answer/57407" target="_blank">Here are written instructions for uploading to YouTube</a></p>
 <p><a href="https://youtu.be/6C4dEpT0rYg" target="_blank">Here are video instructions for uploading to YouTube</a></p>
 <p><a href="https://youtubedownload.minitool.com/youtube/unlisted-youtube-videos.html" target="_blank">Here are instructions to locate your video’s private link</a></p>
-
-<div class="row icon align-items-center">
-  <div class="icon-image col-md-1">
-    <div class="icon-number">3</div>
-  </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Decide how you want to record your presentation</h2></div>
-</div>
-
-<p>We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and sound, play videos and show PowerPoints etc. Zoom meeting is free with a basic account. There is however a limit of 40 minutes for meetings with three or more participants. If you have more than three presenters, you may consider using a paid Zoom account, or another form of recording software such as Google Meet, Microsoft Teams etc. Zoom has a record function which will generate an MP4 file that you can download and edit if required. <a href="https://support.zoom.us/hc/en-us/articles/209182166-Customizing-Thumbnail-Video-Layout" target="_blank">Click here to learn how to customise your thumbnail video layout on Zoom for when you are presenting</a>.</p>
-<p><strong>Smart phones</strong> also have the capability of high-level recording. If you do not have a PowerPoint or visual components, you may record your presentation using your smartphone. Please ensure you are filming in landscape mode (holding the phone horizontally) rather than portrait mode (holding the phone vertically).</p>
-
-<p>It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
-
-
-<div class="row icon align-items-center">
-  <div class="icon-image col-md-1">
-    <div class="icon-number">4</div>
-  </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare your presentation content</h2></div>
-</div>
-
-<p>Select your method of recording depending on whether you have a PowerPoint or video component to your presentation Please check the <a href="framing-lighting-and-recording-guidelines">Framing, Lighting and Recording Guidelines</a> for tips and principles on presentation design. If your presentation is pre-prepared, we ask that you include a copy of your abstract and or a transcript and submit this as a Word document along with your presentation.</p>
-
-<div class="row icon align-items-center">
-  <div class="icon-image col-md-1">
-    <div class="icon-number">5</div>
-  </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Prepare to record your presentation</h2></div>
-</div>
-
-<h3>Prior to recording your presentation, we suggest the following;</h3>
-
-<ul>
-  <li><strong>Use headphones with a microphone attachment or ensure your webcam sound is clear</strong> – it is imperative that the audio of your presentation is clear and sufficiently loud. Please use a pair of headphones that also have a microphone attachment to plug into your laptop (if they are wireless please make sure they are fully charged). Ensure the microphone on your headphones is not touching your collar, hair, jewellery, etc. as this can impair your audio.</li>
-  <li><strong>Restart Your Computer</strong> – this refreshes your computer and ensures no programs are running in the background. Please close any programs that may open automatically and connect to the internet (Skype, Dropbox, Spotify, etc.) to ensure they do not connect to the internet.</li>
-  <li><strong>Strong Connection</strong> – to ensure your connection is stable for the session, make sure no one else on your network is partaking in high internet usage activities e.g. Zoom, Netflix, gaming – if unavoidable, please try hot spotting from your mobile device. The data download is minimal and will ensure your connection is more stable.</li>
-</ul>
-
-<h3>Specific requirements for pre-recorded videos</h3>
-
-<ul>
-  <li>The preferred video format is MP4*</li>
-  <li>Please ensure the lighting is appropriate so you as the presenter can be seen.</li>
-  <li>Please ensure the audio is adequate so you as the presenter can be heard.</li>
-  <li>For some tip and tricks on lighting and framing for video recording please see the guidelines attached to your presentation email.</li>
-</ul>
 
 <!-- <h3>*Specifications for the pre-recorded Mp4 files</h3>
 
