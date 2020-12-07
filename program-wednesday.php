@@ -41,46 +41,26 @@ $title = "Wednesday 3 February 2021"
                         <col width="8%">
                         <col width="8%">
                         <col>
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col>
                         <col width="8%">
                         <col>
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col>
                         <tr>
                           <th colspan="2"><strong>Room</strong></th>
-                          <th><strong>Industry / Education / Outreach Breakfast Events</strong>
-                            07:30 - 08:30</th>
-                          <th><strong>Interdisciplinary Lecture</strong>
-                            08:30 - 09:15</th>
-                          <th><strong>Scientific Sessions</strong>
-                            09:30 - 11:00</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Scientific Sessions</strong>
-                            11:30 - 13:00</th>
-                          <th><strong>Open SC/Panel Business Meetings</strong>
-                            13:00 - 14:30</th>
-                          <th><strong>Scientific Sessions</strong>
-                            14:30 - 16:00</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Scientific Sessions</strong>
-                            16:30 - 18:00</th>
+                          <th><strong>Industry / Education / Outreach Breakfast Events</strong></th>
+                          <th><strong>Interdisciplinary Lecture</strong></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th><strong>Open SC/Panel Business Meetings</strong></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Scientific Sessions</strong></th>
                         </tr>
                         <tr>
-                          <td rowspan="7" align="center" class="level"><span><strong>Level 2</strong></span></td>
-                          <td class="room"><strong>Pyrmont Theatre</strong></td>
-                          <td class="breakfast">&nbsp;</td>
-                          <td class="lecture"><strong>Interdisciplinary Lecture</strong></td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td class="workshop"><strong>COSPAR Reviewer Workshop</strong>
-                            13:00 - 14:30</td>
-                          <td>&nbsp;</td>
-                          <td></td>
-                          <td>&nbsp;</td>
-                        </tr>
-                        <tr>
+                          <td rowspan="6" align="center" class="level"><span><strong>Level 2</strong></span></td>
                           <td class="room"><strong>C2.1</strong></td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>

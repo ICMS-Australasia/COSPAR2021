@@ -39,55 +39,28 @@ $title = "Saturday 30 January 2021"
                         <col width="8%">
                         <col width="8%">
                         <col>
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col>
                         <col width="8%">
                         <col width="8%">
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col width="8%">
                         <col width="8%">
                         <tr align="center">
                           <th colspan="2"><strong>Room</strong></th>
-                          <th><strong>Industry / Education / Outreach Breakfast Events</strong>
-                            07:30 - 08:30</th>
-                          <th><strong>Interdisciplinary Lecture</strong>
-                            08:30 - 09:15</th>
-                          <th><strong>Scientific Sessions</strong>
-                            09:30 - 11:00</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Scientific Sessions</strong>
-                            11:30 - 13:00</th>
-                          <th><strong>Open SC/Panel Business Meetings</strong>
-                            13:00 - 14:00</th>
-                          <th><strong>Latest Results</strong>
-                            14:00 - 15:30</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Space Agency Round Table</strong>
-                            15:45 - 17:15</th>
+                          <th><strong>Industry / Education / Outreach Breakfast Events</strong></th>
+                          <th><strong>Interdisciplinary Lecture</strong></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th><strong>Open SC/Panel Business Meetings</strong></th>
+                          <th><strong>Latest Results</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Space Agency Round Table</strong></th>
                           <th><strong>Evening</strong></th>
                         </tr>
                         <tr>
-                          <td rowspan="7" align="center" class="level"><span><strong>Level 2</strong></span></td>
-                          <td class="room"><strong>Pyrmont Theatre</strong></td>
-                          <td class="breakfast"><strong>Women in Science Breakfast</strong></td>
-                          <td class="lecture"><strong>Interdisciplinary Lecture</strong></td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td class="additional"><strong>Latest Results</strong><br>
-                            14:00 - 15:30</td>
-                          <td></td>
-                          <td class="additional"><strong>Space Agency Round Table</strong><br>
-                            15:45 - 17:15</td>
-                          <td class="evening"><strong>Opening & Awards Ceremony</strong><br />
-                            17:30 - 19:30<br>
-                            Darling Harbour Theatre<br /><br />
-                            <strong>Welcome Reception</strong><br>
-                            19:30 - 22:00<br>
-                            Grand Ballroom</td>
-                        </tr>
-                        <tr>
+                          <td rowspan="6" align="center" class="level"><span><strong>Level 2</strong></span></td>
                           <td class="room"><strong>C2.1</strong></td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>

@@ -39,41 +39,24 @@ $title = "Friday 29 January 2021"
                         <col width="3%">
                         <col width="3%">
                         <col>
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col>
                         <col>
-                        <col width="2%" class="break">
+                        <col width="1%" class="break">
                         <col>
                         <col width="8%">
                         <tr>
                           <th colspan="2"><strong>Room</strong></th>
-                          <th><strong>Scientific Sessions</strong>
-                            09:30 - 11:00</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Scientific Sessions</strong>
-                            11:30 - 13:00</th>
-                          <th><strong>Scientific Sessions</strong>
-                            14:00 - 15:30</th>
-                          <th class="break"><span><strong>Break</strong></span></th>
-                          <th><strong>Scientific Sessions</strong>
-                            16:00 - 17:30</th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th><strong>Scientific Sessions</strong></th>
+                          <th class="break"></th>
+                          <th><strong>Scientific Sessions</strong></th>
                           <th><strong>Evening</strong></th>
                         </tr>
                         <tr>
-                          <td rowspan="7" class="level"><span><strong>Level 2</strong></span></td>
-                          <td class="room"><strong>Pyrmont Theatre</strong></td>
-                          <td>&nbsp;</td>
-                          <td class="break"></td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td class="break"></td>
-                          <td>&nbsp;</td>
-                          <td class="lecture">
-                            <div><strong>Interdisciplinary Lecture</strong>
-                              18:00 - 18:45</div>
-                          </td>
-                        </tr>
-                        <tr>
+                          <td rowspan="6" class="level"><span><strong>Level 2</strong></span></td>
                           <td class="room"><strong>C2.1</strong></td>
                           <td>&nbsp;</td>
                           <td class="break"></td>
