@@ -37,7 +37,7 @@ include('include/cospark.php');
                       </ul>
 
                       <div class="row align-items-center">
-                        <div class="col-md-8">
+                        <div class="col-md-9">
                           <img src="./img/cospark/cospark-lunar-classroom.png" class="img-fluid my-4">
                         </div>
                         <div class="col-md">
