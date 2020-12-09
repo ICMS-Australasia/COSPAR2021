@@ -12,7 +12,7 @@ include('include/cospark.php');
 
 
                       <h1 class="mt-3 mb-4">COSPAR-K Lunar Classroom Competition</h1>
-                      <div class="alert cospark-alert p-5 text-center">
+                      <div class="alert cospark-alert p-5 mb-4 text-center">
                         <p>Calling all teachers on Planet Earth, we have a mission for you. Tell us what your teaching essentials are if you were tasked to set up the first ever classroom on the Moon!</p>
                         <p>All your items must fit within a standard shoebox…apart from that the stars are your limit.</p>
                         <p class="mb-0">Simply share your lunar classroom kit by uploading a photo or video to <b>Instagram</b>, <b>Facebook</b> or <b>Twitter</b> and tag <b>#cosparklunarclassoom</b> to be in the draw to WIN!</p>
@@ -41,10 +41,7 @@ include('include/cospark.php');
                           <img src="./img/cospark/cospark-lunar-classroom.png" class="img-fluid my-4">
                         </div>
                         <div class="col-md">
-                          <img src="./img/cospark/a-humans-guide-to-the-future.jpg" class="img-fluid my-4">
-                        </div>
-                        <div class="col-md">
-                          <img src="./img/cospark/the-number-games.jpg" class="img-fluid my-4">
+                          <img src="./img/cospark/adam-and-jordan-books.jpg" class="img-fluid my-4">
                         </div>
                       </div>
 
