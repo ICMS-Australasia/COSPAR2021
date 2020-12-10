@@ -91,7 +91,17 @@ include('include/cospark.php');
                                 "presentation": "Space Junk Clean Up",
                                 "startTime": "11:45am",
                                 "endTime": "12:00pm",
-                                "desc": ""
+                                "desc": `Space exploration results in valuable discoveries, but also creates new problems in need of innovative solutions. One of these is space junk. Moving at thousands of kilometres an hour around our orbit and ranging in size from tiny flecks to entire satellites, space junk is becoming a hazard. Join Questacon as we challenge young people to tackle this issue using simple technology and materials.
+ <br><br>
+We will use our trusty Innovation Cycle thinking process to: <br>
+<ul>
+  <li>THINK about the problem;</li>
+  <li>MAKE a prototype using sphero robots;</li>
+  <li>TRY it out in our space junk testing zone, and;</li>
+  <li>REFINE the build with the help of recycled materials.</li>
+</ul>
+<br><br>
+Who knows maybe it will be you who will come up with the next space cleaning innovation!`
                               },
                               {
                                 "id": 6,
@@ -257,7 +267,7 @@ include('include/cospark.php');
                                 "presentation": "Giant Moon and Mars Maps in the Classroom",
                                 "startTime": "1:30pm",
                                 "endTime": "1:45pm",
-                                "desc": ""
+                                "desc": "Attendees will learn about the Aldrin Family Foundation Giant Moon Map and Giant Mars Map programs and how these materials can be used to help students learn about space topics."
                               },
                               {
                                 "id": 16,
@@ -331,7 +341,8 @@ include('include/cospark.php');
                                 "presentation": "The Use of Electric and Magnetic Fields to Mitigate Dust in a Lunar Environment",
                                 "startTime": "10:15am",
                                 "endTime": "10:30am",
-                                "desc": ""
+                                "desc": `Caeden Dooner is a senior and Owen Welch is a junior at William T. Dwyer High School in Palm Beach Gardens, Fl. Caeden is an IB student who dedicates time to work with both the Wolverine and Wolfpack CubeSat Development Teams. He currently is a team lead for their lunar rover project and he represented the US in the Future Space Scholars Meet in Beijing, China last year. Caeden hopes to pursue a career in aerospace engineering. <br><br>
+                                Owen Welch has been a part of the Weiss CubeSat Development Team (WCDT) for over 3 years. In this time, his most notable accomplishments have been to speak at the Humans to Mars Summit in 2018, help design and develop a CubeSat, and to lead a team of students to compete in the Future Space Scholars Meet finals in Beijing, China. As a student, his current goal is to become immersed in the world of science and acquire experience and knowledge from those above him before hopefully entering the field himself.`
                               },
                               {
                                 "id": 20,
@@ -347,7 +358,7 @@ include('include/cospark.php');
                                 "presentation": "We Came in Peace - The Apollo Visitor Complex Project",
                                 "startTime": "10:30am",
                                 "endTime": "10:45am",
-                                "desc": ""
+                                "desc": "In this session, participants will learn about the Aldrin Family Foundation's Home on the Moon Project. Home on the Moon  was initially designed in response to the learning needs of students at home due to the pandemic. In the project, students define their needs, research how these needs are met in their home, research conditions on the Moon, consider how the systems in their home would need to be modified to meet their needs on the Moon and design a home to be located on the Moon. The project is open-ended and supported by five on-line video presentations and a catalog of on-line resources. This project has been completed by students ranging from lower elementary, middle school and high school to teams of professionals participating in a Moon habitat analog study. "
                               },
                               {
                                 "id": 21,
@@ -505,7 +516,7 @@ include('include/cospark.php');
                                 "presentation": "Home on the Moon with the Aldrin Family Foundation",
                                 "startTime": "10:30am",
                                 "endTime": "10:45am",
-                                "desc": ""
+                                "desc": "In this session, participants will learn about the Aldrin Family Foundation's Home on the Moon Project. Home on the Moon  was initially designed in response to the learning needs of students at home due to the pandemic. In the project, students define their needs, research how these needs are met in their home, research conditions on the Moon, consider how the systems in their home would need to be modified to meet their needs on the Moon and design a home to be located on the Moon. The project is open-ended and supported by five on-line video presentations and a catalog of on-line resources. This project has been completed by students ranging from lower elementary, middle school and high school to teams of professionals participating in a Moon habitat analog study. "
                               },
                               {
                                 "id": 30,
