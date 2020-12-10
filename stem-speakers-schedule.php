@@ -33,7 +33,7 @@ include('include/cospark.php');
                           <p><em>30 minutes</em></p>
                           <p>Mix of speakers appearing live on-stage and virtual via video. Keynotes will be recorded and available on-demand for convenient viewing.</p>
                         </a>
-                        <a class="disabled col-12 col-sm-4 text-center">
+                        <a href="stem-power-talks" class="col-12 col-sm-4 text-center">
                           <p class="icon m-0"><i class="fas fa-chalkboard-teacher"></i></p>
                           <h3 class="mb-0">Power Talks</h3>
                           <p><em>15 minutes</em></p>
