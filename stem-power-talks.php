@@ -800,14 +800,14 @@ include('include/cospark.php');
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                       <h2>${t.presentation}</h2>
-                                      <h3 class="mb-3">${t.affiliation}</h3>
+                                      <h3 class="mb-2 mt-2">${t.affiliation}</h3>
                                       <h4 class="mt-0">${t.startTime} - ${t.endTime}</h4>
                                       <div class="row align-items-center">
                                       ${t.speakerProfiles.map((sp, array) =>
                                         `
                                         <div class="${t.speakerProfiles.length > 1 ? `col-md-3` : `col-md` } d-flex align-self-center">
-                                        ${sp.img != "" ? `<img src="${sp.img}" width="80" class="ml-0 mr-3">`: ``}
-                                        <p class='d-flex align-self-center'><b>${sp.name}</b></p>
+                                        ${sp.img != "" ? `<img src="${sp.img}" width="80" class="ml-0 mr-3 mb-0">`: ``}
+                                        <p class='d-flex align-self-center my-4'><b>${sp.name}</b></p>
                                         </div>
                                         `).join(``)}
                                         </div>
