@@ -807,11 +807,11 @@ include('include/cospark.php');
                                         `
                                         <div class="${t.speakerProfiles.length > 1 ? `col-md-3` : `col-md` } d-flex align-self-center">
                                         ${sp.img != "" ? `<img src="${sp.img}" width="80" class="ml-0 mr-3">`: ``}
-                                        <p class='d-flex align-self-center mt-4'><b>${sp.name}</b></p>
+                                        <p class='d-flex align-self-center'><b>${sp.name}</b></p>
                                         </div>
                                         `).join(``)}
                                         </div>
-                                      <p>${t.desc}</p>
+                                      <p class="mt-4">${t.desc}</p>
                                       <button type="button" class="close" data-dismiss="modal">x</button>
                                     </div>
                                 </div>
