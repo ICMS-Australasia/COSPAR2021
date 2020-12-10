@@ -891,6 +891,11 @@ a.active {
   font-weight: bold;
   color: #9b137a;
 }
+.stem-page #power-modals h4 {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: black;
+}
 .stem-page #power-modals button {
   background: none;
   border: 0;

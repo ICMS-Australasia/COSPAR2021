@@ -46,38 +46,6 @@ include('include/cospark.php');
                             "talks":
                             [
                               {
-                                "id": 1,
-                                "speakers": "TBA",
-                                "speakerProfiles":
-                                  [
-                                    {
-                                      "name": "TBA",
-                                      "img": "./img/cospark/powertalks/.jpg"
-                                    }
-                                  ],
-                                "affiliation": "",
-                                "presentation": "",
-                                "startTime": "10:45am",
-                                "endTime": "11:00am",
-                                "desc": ""
-                              },
-                              {
-                                "id": 2,
-                                "speakers": "TBA",
-                                "speakerProfiles":
-                                  [
-                                    {
-                                      "name": "TBA",
-                                      "img": "./img/cospark/powertalks/.jpg"
-                                    }
-                                  ],
-                                "affiliation": "",
-                                "presentation": "",
-                                "startTime": "11:00am",
-                                "endTime": "11:15am",
-                                "desc": ""
-                              },
-                              {
                                 "id": 3,
                                 "speakers": "Amelia Travers",
                                 "speakerProfiles":
@@ -116,8 +84,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Anneli Cole",
-                                      // "img": "./img/cospark/powertalks/anneli.cole.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Questacon",
@@ -133,8 +100,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Michael Myers",
-                                      // "img": "./img/cospark/powertalks/michael.myers.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Re-engineering Australia Foundation Ltd",
@@ -268,8 +234,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Kevin Simmons",
-                                      // "img": "./img/cospark/powertalks/kevin.simmons.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team",
@@ -285,8 +250,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Jim Christensen",
-                                      // "img": "./img/cospark/powertalks/jim.christensen.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Aldrin Family Foundation",
@@ -356,13 +320,11 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Caeden Dooner",
-                                      // "img": "./img/cospark/powertalks/caeden.dooner.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "Owen Welch",
-                                      // "img": "./img/cospark/powertalks/owen.welch.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Aerospace Public Policy Institute",
@@ -378,8 +340,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Jim Christensen",
-                                      // "img": "./img/cospark/powertalks/jim.christensen.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Aldrin Family Foundation",
@@ -443,13 +404,11 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Dean Hannah",
-                                      // "img": "./img/cospark/powertalks/dean.hannah.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "Brian Barter",
-                                      // "img": "./img/cospark/powertalks/brian.barter.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Excite and Educate",
@@ -465,13 +424,11 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Samer Elhoushy",
-                                      // "img": "./img/cospark/powertalks/samer.elhoushy.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "Theodore Ouyang",
-                                      // "img": "./img/cospark/powertalks/theodore.ouyang.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team",
@@ -509,8 +466,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Michael Beiharz",
-                                      // "img": "./img/cospark/powertalks/michael.beiharz.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Knox Grammar School",
@@ -526,8 +482,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Cran Middlecoat",
-                                      // "img": "./img/cospark/powertalks/cran.middlecoat.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "It's Rocket Science Adventures",
@@ -543,8 +498,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Jim Christensen",
-                                      // "img": "./img/cospark/powertalks/jim.christensen.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "Aldrin Family Foundation",
@@ -576,8 +530,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Rebecca Muir",
-                                      // "img": "./img/cospark/powertalks/rebecca.muir.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "Daniel Ricardo",
@@ -613,8 +566,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Paul Hepplewhite",
-                                      // "img": "./img/cospark/powertalks/paul.hepplewhite.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "NSW Treasury",
@@ -700,13 +652,11 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Joel Murch-Shafer",
-                                      // "img": "./img/cospark/powertalks/joel.murchshafter.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "John Helzer",
-                                      // "img": "./img/cospark/powertalks/john.helzer.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "BLUECUBE Aerospace / Wolfpack Cubesat Dev. Team",
@@ -738,8 +688,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Ian Preston",
-                                      // "img": "./img/cospark/powertalks/ian.preston.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "STEM Industry School Partnership Program",
@@ -755,8 +704,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Sarah Baker",
-                                      // "img": "./img/cospark/powertalks/sarah.baker.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     }
                                   ],
                                 "affiliation": "SA Department of Education",
@@ -788,8 +736,7 @@ include('include/cospark.php');
                                   [
                                     {
                                       "name": "Andrew O'Brien",
-                                      // "img": "./img/cospark/powertalks/andrew.obrien.jpg"
-                                      "img": "https://via.placeholder.com/200x250?text=No+Image"
+                                      "img": ""
                                     },
                                     {
                                       "name": "Matt Scott",
@@ -853,13 +800,14 @@ include('include/cospark.php');
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                       <h2>${t.presentation}</h2>
-                                      <h3>${t.startTime} - ${t.endTime}</h3>
+                                      <h3 class="mb-3">${t.affiliation}</h3>
+                                      <h4 class="mt-0">${t.startTime} - ${t.endTime}</h4>
                                       <div class="row align-items-center">
-                                      ${t.speakerProfiles.map(sp =>
+                                      ${t.speakerProfiles.map((sp, array) =>
                                         `
-                                        <div class="col-md d-flex align-self-center">
-                                        <img src="${sp.img}" width="80" class="ml-0 mr-3 mb-4">
-                                        <p class='d-flex align-self-center'><b>${sp.name}</b></p>
+                                        <div class="${t.speakerProfiles.length > 1 ? `col-md-3` : `col-md` } d-flex align-self-center">
+                                        ${sp.img != "" ? `<img src="${sp.img}" width="80" class="ml-0 mr-3">`: ``}
+                                        <p class='d-flex align-self-center mt-4'><b>${sp.name}</b></p>
                                         </div>
                                         `).join(``)}
                                         </div>
