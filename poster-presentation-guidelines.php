@@ -103,8 +103,8 @@ include('include/header.php');
 
 <p>Specifications for size setting are:</p>
   <ul>
-    <li>84.1 - Width</li>
-    <li>118.9 - Height</li>
+    <li>84.1cms - Width</li>
+    <li>118.9cms - Height</li>
   </ul>
 
 <h3 class="mt-3 mb-3">What else do I need to include?</h3>
