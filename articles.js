@@ -1,6 +1,13 @@
 let latestNews = {
    "items":[
      {
+        "title":"WE’RE GOING TO COSPAR-K!",
+        "type":"Article",
+        "image":"24.jpg",
+        "date":"Tuesdasy, 8th December 2020",
+        "link":"https://spaceaustralia.com/news/were-going-cospar-k"
+     },
+     {
         "title":"Edition #17: Register for Virtual Access via COSPAR-K TV powered by Microsoft",
         "type":"Email",
         "image":"23.jpg",
