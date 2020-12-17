@@ -38,7 +38,7 @@
   <a href="./stem-activities-virtualreality.php" class="col-sm-6 col-12 col-md-4">
     <div class="stem-card">
       <img class="img-fluid" src="img/cospark/activity-card7.jpg">
-      <h3 class="stem-card-title p-4">VR Helicopter Simulators</h3>
+      <h3 class="stem-card-title p-4">VR Flight</h3>
     </div>
   </a>
   <a href="./stem-activities-droneracing.php" class="col-sm-6 col-12 col-md-4">

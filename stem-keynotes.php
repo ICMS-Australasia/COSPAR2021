@@ -47,6 +47,10 @@ include('include/cospark.php');
                           <img src="img/cospark/corey-tutt.jpg" class="img-fluid mb-3">
                           <h2>Corey Tutt</h2>
                         </a>
+                        <a href="#aldrin" data-toggle="modal" class="col-md-4 mb-4">
+                          <img src="img/cospark/andrew-aldrin.jpg" class="img-fluid mb-3">
+                          <h2>Andrew Aldrin</h2>
+                        </a>
                         <a href="#antoniades" data-toggle="modal" class="col-md-4 mb-4">
                           <img src="img/cospark/andreas-antoniades.jpg" class="img-fluid mb-3">
                           <h2>Andreas Antoniades</h2>
@@ -57,12 +61,30 @@ include('include/cospark.php');
                         </a>
                       </div>
                       <!-- Modal Content -->
+                      <div class="modal fade" id="aldrin">
+                          <div class="modal-dialog modal-dialog-centered modal-lg">
+                              <div class="modal-content">
+                                  <img src="img/cospark/andrew-aldrin.jpg" width="250">
+                                  <h2>Andrew Aldrin</h2>
+                                  <h3>Tuesday 2 Feb 2021, 10:45am – 11:15am</h3>
+                                  <p>Dr Andrew Aldrin is President and CEO of the Aldrin Family Foundation, a charitable 501 (c)(3) organization dedicated to harnessing the inspiration of space to ignite a passion for STEAM education in students of all ages and backgrounds. He has served in leadership roles in this organization since 2014, during which time he has overseen the extension of educational programs to over 300 elementary schools and universities via ShareSpace Education.</p>
+                                  <p>Dr Aldrin is also the Director of the ISU Centre for Space Entrepreneurship at Florida Tech and an Associate Professor of Engineering Management at Florida Tech. Before moving into academia, Dr Aldrin had a distinguished career in industry and government research, including executive positions at Boeing, United Launch Alliance and Moon Express.</p>
+                                  <p>Dr Aldrin was also a member of the research staff at the RAND Corporation and the Institute for Defence Analyses.  He serves on the board of several charitable organizations, including The Secure World Foundation, Sea Space Symposium and the Tau Zero Foundation. He holds a Ph.D. from UCLA in Political Science, an MBA from TRIUM (NYU, LSE, HEC) and an MA from George Washington University in Science, Technology and Public Policy.</p>
+                                  <button type="button" class="close" data-dismiss="modal">x</button>
+                              </div>
+                          </div>
+                      </div>
                       <div class="modal fade" id="calandrelli">
                           <div class="modal-dialog modal-dialog-centered modal-lg">
                               <div class="modal-content">
                                   <img src="img/cospark/emily-calandrelli.jpg" width="250">
                                   <h2>Emily Calandrelli</h2>
                                   <h3>Friday 29 Jan 2021, 10:15am – 10:45am</h3>
+
+                                  <p class="mt-4"><b>My Journey in SciComm, Women in STEM and the Power of Media</b></p>
+                                  <p>Emily will discuss her journey as a science communicator, how she became interested in science, women in STEM (or the lack thereof), why that's a problem and what we can do to fix it.</p>
+
+                                  <p class="mt-4"><b>About Emily</b></p>
                                   <p>Emily Calandrelli is the host and co-executive producer of the hit Netflix series Emily’s Wonder Lab. Each episode features Emily and a group of kid-scientists as they learn about STEAM through experiments and fun activities. Emily is also an Executive Producer and Emmy nominated host of FOX’s Xploration Outer Space and was a correspondent on Netflix’s, Bill Nye Saves The World.</p>
                                   <p>Emily, who was named to Adweek’s ‘11 Celebrities and Influencers Raising the Bar for Creativity in 2017’, is also an accomplished writer and speaker on the topics of space exploration, scientific literacy, and equality. Her chapter book series, The Ada Lace Adventures, centers around an eight-year-old girl with a knack for science, math, and solving mysteries with technology, the second book in the series, Ada Lace: Sees Red, was included in the National Science Teachers Association’s list of best STEM books for 2018. The third book, Ada Lace: Take Me To Your Leader, was part of the initiative from NASA and CASIS, Story Time from Space where the book was launched into space and read by an astronaut aboard the ISS to an audience of kids. The fifth and most recent book in the series, Ada Lace: and the Suspicious Artist which was released in February 2019. All 5 books in the series are available at Barnes and Noble as well as Amazon.</p>
                                   <p>Emily frequently gives talks about the importance of science literacy, the benefits of space exploration, and the challenges for women in STEM careers for clients like Google, Pixar, MIT, Texas Instruments as well as dozens of K-12 schools across the nation. Her first two TEDx talks, “I Don’t Do Math” and “Space Exploration Is The Worst,” have garnered over one million views on YouTube.</p>
@@ -170,6 +192,9 @@ include('include/cospark.php');
                                   <img src="img/cospark/pam-melroy.jpg" width="250">
                                   <h2>Pam Melroy</h2>
                                   <h3>Saturday 30 Jan 2021, 10:45am – 11:15am</h3>
+                                  <p class="mt-4"><b>Building the International Space Station: Living and Working in Space</b></p>
+                                  <p>Former Space Shuttle Commander Pam Melroy will describe the challenges of helping to build the International Space Station during her three Shuttle missions.  She will describe her experiences living, working and doing science in space.</p>
+                                  <p class="mt-4"><b>About Pam</b></p>
                                   <p>Pam Melroy is an aerospace executive with government and industry experience across civil, commercial and national security space. She is a retired Air Force test pilot and former NASA astronaut and one of only two women to command the Space Shuttle.</p>
                                   <p>Colonel Melroy received a Bachelor’s degree Wellesley College and a Master of Science degree from the Massachusetts Institute of Technology. She was a United States Air Force pilot and test pilot with more than 6,000 hours flight time in over 50 different aircraft.</p>
                                   <p>NASA selected Colonel Melroy as an astronaut candidate in March 1995. She flew three missions in space: as Space Shuttle pilot during STS-92 in 2000 and STS-112 in 2002 and as Space Shuttle Commander during STS-120 in 2007. All three missions were assembly missions to build the International Space Station. She has logged more than 38 days in space.</p>
@@ -186,13 +211,13 @@ include('include/cospark.php');
                                   <img src="img/cospark/rosa-doran.png" width="250">
                                   <h2>Rosa Doran</h2>
                                   <h3>Tuesday 2 Feb 2021, 2:45pm – 3:15pm</h3>
-                                  <p><b>Innovation in Education with Space Exploration</b></p>
+                                  <p class="mt-4"><b>Innovation in Education with Space Exploration</b></p>
                                   <p>Rosa will present a series of innovative models for the integration of Space Exploration in classrooms. The main objective is to invite the audience to think outside the box and reinvent education, not as a pre-designed journey, pre-established for what is perceived as the average student, but as an individual path, <b>co-designed</b> and uniquely embraced by each individual learner.</p>
                                   <p>She will share a series of best practices for innovation in education along with concrete examples for its integration in the classroom.</p>
                                   <p>Space as an engine to gather enthusiasm for the STEAM domain and will be used to provide concrete ideas on how to integrate these in a classroom settings using proven examples. The main aim is to invite participants to rethink their perceived notions of what is the importance of school in our lives and the urgent transformation required to transform classrooms into bed tests for the future generations of this planet's leaders. The role of institutions that ultimately have in their hands the future of Earth and its inhabitants.</p>
-                                  <p><b>About Rosa</b></p>
+                                  <p class="mt-4"><b>About Rosa</b></p>
                                   <p>Rosa Doran is a science educator devoted to the integration of modern trends for innovation in classroom with a special emphasis on the use of Astronomy for STEAM learning.</p>
-                                  <p>She received a PhD on Science Education from the University of Coimbra in 2020. She is the president of the executive council of NUCLIO (Núcleo Interativo de Astronomia), an NGO for development, Vice-President of the panel education of COSPAR, Chair of the Galileo Teacher Training Program and the Vice-President of the Executive Committee of the Global Hands-on Universe Association.</p>
+                                  <p>She received a PhD on Science Education from the University of Coimbra in 2020. She is the president of the executive council of NUCLIO (Núcleo Interativo de Astronomia), an NGO for development, President of the panel education of COSPAR, Chair of the Galileo Teacher Training Program and the Vice-President of the Executive Committee of the Global Hands-on Universe Association.</p>
                                   <button type="button" class="close" data-dismiss="modal">x</button>
                               </div>
                           </div>

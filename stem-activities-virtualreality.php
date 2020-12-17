@@ -35,6 +35,26 @@ include('include/cospark.php');
                           </div>
                       </div>
 
+                      <div class="row mt-5 mb-3 align-items-end">
+                          <div class="col">
+                              <h2 class="mb-0">The Air Force 2021 Virtual Reality Experience</h2>
+                          </div>
+                          <div class="col">
+                              <img src="./img/cospark/air-force.png" width="150" class="float-right">
+                          </div>
+                      </div>
+                      <p>This experience allows you the opportunity to take off and fly around and land at a predetermined location in the cockpit of a JSF (F-35) or an F/A-18 – virtually!</p>
+                      <p>The VR experiences are used by Air Force for STEM activities and other Air Force motivational based activities as part of commemorating Air Force’s centenary year in 2021. By attending COSPAR-K, you will be the first to experience this VR as it has never been shown to the public before!! The aim is to increase awareness and develop an interest amongst young people in aviation careers (pilot, aircrew, technical roles and air traffic control) within the Defence Force or aviation in general.</p>
+                      <div class="row my-4">
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/helicopter-sim-4.jpg" class="img-fluid">
+                          </div>
+                          <div class="col-md-6 mb-3 mb-md-0">
+                              <img src="img/cospark/helicopter-sim-5.jpg" class="img-fluid">
+                          </div>
+                      </div>
+
+
                       <hr class="my-5">
 
                       <?php include('include/stem-activities-cards.php') ?>

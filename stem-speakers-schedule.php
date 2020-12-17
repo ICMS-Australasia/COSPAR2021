@@ -127,7 +127,7 @@ include('include/cospark.php');
                               <td>Keynote</td>
                               <td>
                                 <b>Emily Calandrelli</b> <br>
-                                TBA <br>
+                                 My Journey in SciComm, Women in STEM and the Power of Media <br>
                                 <em>The Space Gal</em>
                               </td>
                             </tr>
@@ -260,7 +260,7 @@ include('include/cospark.php');
                             <td align="center">10:45am - 11:15am</td>
                             <td>Keynote</td>
                             <td><b>Pam Melroy</b> <br>
-                              TBA <br>
+                              Building the International Space Station: Living and Working in Space <br>
                               <em>Retired United States Air Force Officer, NASA Astronaut, and Space Shuttle Commander</em></td>
                           </tr>
                           <tr class="power-talk">
@@ -577,7 +577,7 @@ include('include/cospark.php');
                             <td align="center">2:45pm - 3:45pm</td>
                             <td>Panel Discussion 3</td>
                             <td>
-                            NSW Space Space to Grow
+                            NSW Space to Grow
                             </td>
                           </tr>
                         </table>
@@ -707,7 +707,7 @@ include('include/cospark.php');
                             <td>Keynote</td>
                             <td>
                               <b>Rosa Doran</b> <br>
-                              TBA <br>
+                              Innovation in Education with Space Exploration <br>
                               <em>Nuclio</em>
                             </td>
                           </tr>
