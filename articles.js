@@ -1,6 +1,13 @@
 let latestNews = {
    "items":[
      {
+        "title":"Edition #18: T-45 Days Until COSPAR-K Lands in Sydney",
+        "type":"Email",
+        "image":"25.jpg",
+        "date":"Thursday, 17th December 2020",
+        "link":"https://mailchi.mp/982fffb3a4a1/t-45-days-until-cospar-k-lands-in-sydney"
+     },
+     {
         "title":"WE’RE GOING TO COSPAR-K!",
         "type":"Article",
         "image":"24.jpg",
