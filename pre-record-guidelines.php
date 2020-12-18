@@ -100,8 +100,6 @@ include('include/header.php');
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
 
-<p><strong style="color:#cc0000;">You can use any file transfer program of your choosing i.e. Dropbox, Google Drive, WeTransfer, Send Anywhere, Hightail. Etc.</strong></p>
-
 <div class="alert alert-primary pt-4 pb-4 mb-4" style="font-size:1em;">
 
 <p class="mt-0">We appreciate that the File Transfer can we a little complex.  We have provided this section of the video from the 5-minute point in various languages for you to read and refer to if required.</p>
