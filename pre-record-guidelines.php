@@ -95,7 +95,7 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">5</div>
+    <div class="icon-number">4</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
 </div>
