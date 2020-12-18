@@ -30,7 +30,8 @@ include('include/header.php');
 
         <h2 class="mt-5 mb-3">Registration</h2>
 
-        <p>As a presenter, you must <a href="registration">register</a>, pay and submit, at a minimum your short-summary video <strong>now</strong>.</p>
+        <p>As a presenter, you must <a href="registration">register</a>, pay and submit your full video by <strong>31/12/2020</strong>.</p>
+        <p>Oral presenters are expected to submit a full length presentation video (length as per acceptance letter) for the Assembly. Only those submissions that accompany a paid registration will be included within the virtual platform.</p>
         <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must <a href="registration">register</a>, pay and submit your video presentations <strong>now</strong>.</p>
 
 

@@ -28,7 +28,7 @@ include('include/header.php');
 
         <p>It is not mandatory to you use the programs we have suggested, i.e. Zoom (for recording) and Dropbox (for file transfer). You are welcome to use the program of your choice, but the guidelines and naming convention of your presentation and file remains.</p>
 
-        <h2 class="mt-5 mb-3">Presentation Check-List</h2>
+        <h2 class="mt-5 mb-3">Technical Summary</h2>
 
 
         <table border="0" cellspacing="0" cellpadding="0" width="0" class="table">
@@ -61,15 +61,9 @@ include('include/header.php');
               <strong>How do I upload my files?</strong>
             </td>
             <td>
-              Via Dropbox*
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>Short Summary Presentation</strong>
-            </td>
-            <td>
-              3 minutes for a 15-minute contributed talk<br> 3 minutes for a 20-minute solicited talk<br> 6 minutes for a 30-minute solicited review talk
+              Your video needs to be uploaded directly to YouTube as an ‘Unlisted’ video. <br>
+              A step by step written guide on how to upload to YouTube can be found here: <br>
+              <a href="https://support.google.com/youtube/answer/57407" target="_blank">https://support.google.com/youtube/answer/57407</a>
             </td>
           </tr>
           <tr>
@@ -86,7 +80,7 @@ include('include/header.php');
               <strong>Presenter deadline to upload </strong>
             </td>
             <td>
-              Due now
+              Due 31/12/2020
             </td>
           </tr>
           <tr>
@@ -161,16 +155,10 @@ include('include/header.php');
             <td>
 
               <strong>Due Now</strong>
-<ul>
-  <li>Pre-recorded short video mp4 summary – 3, or 6 minutes</li>
-  <li>Speaker photo and biography</li>
-</ul>
-<strong>For 31 December</strong>
-<ul>
-  <li>ZARM Abstract acceptance letter</li>
-  <li>Abstract (in word) or transcript</li>
-  <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
-</ul>
+              <strong>For 31 December</strong>
+              <ul>
+                <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
+              </ul>
 
 
             </td>
@@ -184,6 +172,30 @@ include('include/header.php');
             </td>
           </tr>
         </table>
+
+        <h2>Full Length Presentation FAQs</h2>
+
+<h3>How long is my full length video?</h3>
+<p>The length of your full presentation is provided in your acceptance letter. This will be either 15 minutes, 20 minutes or 30 minutes total.</p>
+<p>If you are unsure of your presentation length please contact speaker@cospar2021.org</p>
+
+<h3>How do I record my video?</h3>
+<p>You will need a laptop or desktop computer with a webcam. A detailed presentation filming sheet can be found on the COSPAR-2021-Hybrid website at http://cospar2021.org/virtual-presenter-information</p>
+
+<h3>Where do I upload my video?</h3>
+<p>Your video needs to be uploaded directly to YouTube as an ‘Unlisted’ video</p>
+
+<h3>What do I do with my video once uploaded?</h3>
+<p>Once uploaded to YouTube, you will need to copy and paste the URL link to your video into a word doc (or equivalent) and add it into the File Transfer Storage Folder (Dropbox or equivalent) that you have previously shared with us</p>
+<p>If this is not possible, or you have not previously shared a folder with us, please e-mail the YouTube link directly to <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a>, along with your Commission/Scientific Panel Event</p>
+
+<h3>When is the submission deadline?</h3>
+<p>Presenters must submit their full length presentation link by insert date here</p>
+
+<h3>For all enquiries regarding speaker papers, presentation formats, or presentation submissions:</h3>
+  <p><b>Emma McPartlan</b> <br>
+  <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
+
 
 
 

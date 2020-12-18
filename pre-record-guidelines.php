@@ -27,8 +27,6 @@ include('include/header.php');
         <h3>Due 31 December 2020</h3>
 
         <div class="mt-4 ml-4 d-block">
-          <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> ZARM abstract acceptance letter. </div>
-        <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Abstract (in a Word document) or transcript, </div>
         <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Full length pre-recorded video presentation YouTube link – as per confirmed timings of program. </div>
         </div>
 
@@ -97,28 +95,6 @@ include('include/header.php');
 
 <div class="row icon align-items-center">
   <div class="icon-image col-md-1">
-    <div class="icon-number">4</div>
-  </div>
-  <div class="icon-text col-md"><h2 class="mt-4 mb-4">Record your short summary video <u>Now</u>, keeping to your allocated program schedule time</h2></div>
-</div>
-
-<table class="table">
-  <tr>
-    <td>15-minute contributed talk</td>
-    <td>3 minute short summary</td>
-  </tr>
-  <tr>
-    <td>20-minute solicited talk</td>
-    <td>3 minute short summary</td>
-  </tr>
-  <tr>
-    <td>30-minute solicited review talk</td>
-    <td>6 minutes short summary</td>
-  </tr>
-</table>
-
-<div class="row icon align-items-center">
-  <div class="icon-image col-md-1">
     <div class="icon-number">5</div>
   </div>
   <div class="icon-text col-md"><h2 class="mt-4 mb-4">Submitting your pre-recorded presentation</h2></div>
@@ -143,7 +119,17 @@ include('include/header.php');
 
 </div>
 
-<h3>Dropbox* System Requirements</h3>
+<h3>Full Length Presentation Upload</h3>
+<p>Once your full length presentation is recorded you will upload it to YouTube directly as an ‘Unlisted’ video.</p>
+<p>A step by step written guide on how to upload to YouTube can be found here:
+<a href="https://support.google.com/youtube/answer/57407" target="_blank">https://support.google.com/youtube/answer/57407</a></p>
+<p>Alternatively, a step by step video guide on how to upload to YouTube can be found here:
+<a href="https://www.youtube.com/watch?v=6C4dEpT0rYg" target="_blank">https://www.youtube.com/watch?v=6C4dEpT0rYg</a></p>
+<h3>Virtual Platform</h3>
+<p>More specific information regarding presenter access and navigation within the COSPAR-2021-Hybrid platform, as well as instructions on when to arrive at your session etc. will be sent to you in due course.</p>
+
+
+<!-- <h3>Dropbox* System Requirements</h3>
 
 <p>Upload and save your files to dropbox so they can be sent.  Your files automatically save after you upload them. Your Dropbox folder acts as cloud storage, allowing access from anywhere in the world.  Take the file from its original location, select the file and drag it to your Dropbox folder.</p>
 
@@ -165,10 +151,6 @@ include('include/header.php');
 
 <p><em>*If your organisation does not allow the use of Dropbox please use an alternative cloud file storage system (e.g. GoogleDrive, Microsoft OneDrive etc.) in replacement.</em></p>
 
-<!-- <h3>Captioning your pre-recorded presentation</h3>
-
-<p>It is important that all pre-recorded videos are captioned – please ensure you have read the ‘<a href="framing-lighting-and-recording-guidelines">COSPAR-2021-HYBRID Framing, Lighting and Recording Guidelines</a>’ document for detailed instructions on automatic captions. YouTube automatically captions videos and you can edit the script for accuracy. Please allow time to ensure your captions are working and accurate in your video before sending.</p> -->
-
 
 <h3>File Naming Protocols</h3>
 <p>So that we can synchronise the correct video files with the confirmed COSPAR-2021-Hybrid Event Schedule, all pre-recorded videos will need to follow the File Naming Protocols below :
@@ -188,7 +170,7 @@ include('include/header.php');
 </li>
 </ul>
 
-<p>The file name should look like this: TUES2FEB A3.1-6-21 JANEDOEFULLPRERECORDEDVIDEO</p>
+<p>The file name should look like this: TUES2FEB A3.1-6-21 JANEDOEFULLPRERECORDEDVIDEO</p> -->
 
 <h3>Multiple Presentations</h3>
 <p>If you have more than one presentation to prepare, please create separate sub-folders in your Drop box to allow us to easily identify each presentation.</p>
@@ -197,8 +179,8 @@ include('include/header.php');
 <p>Each presenter will receive an automatic Login token via email. This is a personalised link to the presenters’ portal.  In the portal, presenters will need to provide the following documents via a Dropbox link:</p>
 
 <ol>
-  <li>Pre-recorded short video presentation MP4 file– 3 or 6 minutes</li>
-  <li>PowerPoint presentation file (slides) used within the short video presentation</li>
+  <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
+  <li>PowerPoint presentation file (slides) used within the full video presentation</li>
   <li>Speaker photo (high resolution min 300 dpi) and biography (100 words)</li>
   <!-- <li>Full length pre-recorded video presentation YouTube link – as per confirmed timings of program</li> -->
 </ol>

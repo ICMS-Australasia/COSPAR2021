@@ -29,7 +29,7 @@ include('include/header.php');
         <h3 class="mt-3 mb-3">Author Guidelines</h3>
 
 <p>Poster presenters are expected to submit a short summary video and PDF Poster for the Assembly. Only those submissions that accompany a paid registration will be included within the virtual platform.</p>
-<p class="mb-5">Deadline for submission of the short summary video, and registration for presenters, is <strong>now</strong>.</p>
+<p class="mb-5">Deadline for submission of the full video for presenters, is <strong>31/12/2020</strong>.</p>
 
 <h3 class="mt-3 mb-3">Virtual Presentation Details</h3>
 
@@ -88,7 +88,8 @@ include('include/header.php');
 <h2 class="mt-3 mb-3">Presentation FAQs</h2>
 
 <h3 class="mt-3 mb-3">How long is my summary video?</h3>
-<p>The length of each summary videos is 3 minutes for a poster presentation.</p>
+<p>The length of your full presentation is provided in your acceptance letter. This will be either 15 minutes, 20 minutes or 30 minutes total.</p>
+<p>If you are unsure of your presentation length please contact <a href="mailto:speaker@cospar2021.org">speaker@cospar2021.org</a></p>
 
 <h3 class="mt-3 mb-3">How do I record my summary video?</h3>
 <p>You will need a laptop with a webcam or desktop computer. A detailed presentation filming sheet can be found on the <a href="presenter-information">COSPAR-2021-Hybrid website</a>.</p>
@@ -105,7 +106,7 @@ include('include/header.php');
 <h3 class="mt-3 mb-3">What else do I need to include?</h3>
 <p>As an accepted Poster presenter, you are required to submit the below files:</p>
 <ul>
-  <li>Short summary video MP4</li>
+  <li>Full length pre-recorded video presentation link (uploaded to YouTube)– as per confirmed timings of program</li>
   <li>Speaker biography – short 100-word maximum</li>
   <li>Speaker photo – high resolution (min 600 dpi)</li>
   <li>ZARM Acceptance Letter</li>
@@ -141,7 +142,7 @@ include('include/header.php');
 <a href="https://icmsaust.eventsair.com/cospar-2021/presenter-portal" class="button-main my-4" target="_blank">Presenter Portal</a>
 
 <h3 class="mt-3 mb-3">When is the submission deadline?</h3>
-<p>Presenters must submit their short summary video now.</p>
+<p>Presenters must submit their full length presentation link by 31/12/2020.</p>
 <p>They can then have until 30 December 2020, if necessary, to upload their full PDF Poster.</p>
 
 <h3 class="mt-3 mb-3">For all enquiries regarding speaker papers, presentation formats, or presentation submissions:</h3>
