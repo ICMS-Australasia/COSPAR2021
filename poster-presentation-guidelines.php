@@ -60,13 +60,11 @@ include('include/header.php');
 
   <tr>
     <td><strong>How do I upload my files?</strong></td>
-    <td>Via Dropbox</td>
+    <td>Your video needs to be uploaded directly to YouTube as an ‘Unlisted’ video. <br>
+        A step by step written guide on how to upload to YouTube can be found here: <br>
+        <a href="https://support.google.com/youtube/answer/57407" target="_blank">https://support.google.com/youtube/answer/57407</a>
+</td>
   </tr>
-
-<tr>
-  <td><strong>Short Summary Presentation</strong></td>
-  <td>3 minutes for a poster presentation</td>
-</tr>
 
 <tr>
   <td><strong>Poster Format</strong></td>
@@ -75,7 +73,7 @@ include('include/header.php');
 
 <tr>
   <td><strong>Presenter registration deadline</strong></td>
-  <td>Due now</td>
+  <td>Due 31/12/2020</td>
 </tr>
 
 <tr>
