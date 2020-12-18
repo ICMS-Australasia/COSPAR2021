@@ -22,18 +22,7 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
-        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
-          Only your short summary video is due <b>NOW</b>.
-        </div>
-
-        <h2 class="mt-5 mb-4">Checklist for submitting your pre-recorded presentations</h2>
-
-        <h3>Due now</h3>
-
-        <div class="mt-4 ml-4 d-block">
-          <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Pre-recorded short video presentation MP4 file– 3 or 6 minutes.</div>
-        <div class="d-flex align-items-center mb-3"><div class="box mr-3"></div> Speaker photo and biography.</div>
-        </div>
+        <h2 class="mb-4">Checklist for submitting your pre-recorded presentations</h2>
 
         <h3>Due 31 December 2020</h3>
 

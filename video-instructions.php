@@ -22,13 +22,6 @@ include('include/header.php');
     <div class="row py-5 presenter-info">
       <div class="col">
 
-        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
-          Only your short summary video is due <b>NOW</b>.
-        </div>
-
-
-
-
         <h2 class="mb-3">Introduction Clint Therakam</h2>
 
         <div class="embed-responsive embed-responsive-16by9 mb-4">

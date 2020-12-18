@@ -2,7 +2,7 @@
 if ($home == true) {
 ?>
 <!-- cards -->
-<div class="cards">
+<div class="cards py-3">
     <div class="container">
         <div class="row pt-5">
             <!-- <a href="abstracts.php" class="col-md-4 pb-5">
@@ -42,7 +42,7 @@ if ($home == true) {
                     <img class="card-img-top" src="img/tiles/things.jpg">
                     <div class="card-body p-4">
                         <h3 class="card-title">Presenter Deadline</h3>
-                        <p class="card-text">Presenters Early Bird and Short video are due <b>now</b>. Full video due <b>31 December</b>.</p>
+                        <p class="card-text">Full video due <b>31 December</b>.</p>
                     </div>
                 </div>
             </a>

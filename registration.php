@@ -21,10 +21,8 @@ include('include/header.php');
   <div class="container">
     <div class="row py-5">
       <div class="col-md">
-        <p>As a presenter, you must register, pay <b>(to receive the discounted speaker rate)</b> and submit, at a minimum your short-summary video <b>now</b>.</p>
-        <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must register, pay <b>(to receive the discounted speaker rate)</b> and submit your video presentations <b>now</b>.</p>
 
-        <h2 class="mt-5 mb-4">Registration Categories and Rates</h2>
+        <h2 class="mb-4">Registration Categories and Rates</h2>
         <p>The COSPAR 2021 registrations fees are listed below in Australian dollars with conversion rates (as at September 2020) to USD and EUR. All listed registration fees are inclusive of Australian Goods and Services Tax (GST).</p>
         <p>Registrations are accepted by credit card (MasterCard, Visa or American Express). A tax invoice may also be provided upon request.</p>
         <a href="https://icmsaust.eventsair.com/cospar-2021/registration" class="button-main mt-4" target="_blank">
@@ -132,8 +130,6 @@ include('include/header.php');
           <em>** Students or post-docs less than 5 years since PhD conferral at time of registration</em>
         </p>
 
-        <p>As a presenter, you must register, pay and submit, at a minimum your short-summary video by 30 November 2020.</p>
-        <p>Student and ECR fees apply to presenters, i.e. a Student Presenter is AUD 275 and an ECR is AUD 495. However, you must register, pay and submit your video presentations by <strong>30 November 2020</strong>.</p>
 
         <h2 class="mt-5 mb-4" id="entitlements">Entitlements</h2>
         <h3>Benefits of attending COSPAR-2021-Hybrid, for Virtual Delegates</h3>

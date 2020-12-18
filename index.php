@@ -17,7 +17,7 @@ include('include/header.php');
     </div>
 </a> -->
 <!-- banner -->
-<div class="bigheader home">
+<!-- <div class="bigheader home">
   <div class="container">
     <div class="row">
       <div class="col mt-2">
@@ -48,6 +48,45 @@ include('include/header.php');
       </div>
     </div>
   </div>
+</div> -->
+<div class="bigheader home">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col text-center home-16th">
+
+        <h1 class="mb-3">Exclusive Pre-Event Videos for Registered Delegates</h1>
+          <p>Meet three Interdisciplinary Speakers as they share insights into their career and provide a preview of their presentation at COSPAR-2021-Hybrid.</p>
+
+    <div class="row mt-4">
+      <div class="col-md-4 mb-4 mb-md-0">
+        <a href="https://vimeo.com/491406013" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-church.jpg" class="img-fluid"></a>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <a href="https://vimeo.com/491406164" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-branchesi.jpg" class="img-fluid"></a>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <a href="https://vimeo.com/491406396" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-dougherty.jpg" class="img-fluid"></a>
+      </div>
+    </div>
+
+    <a href="registration" target="_blank" class="videos-button">Haven't registered for COSPAR-2021-Hybrid yet? Click here and gain access to these sessions.</a>
+
+
+      </div>
+    </div>
+  </div>
 </div>
 <!-- welcome -->
 <div class="container-fluid px-0">
@@ -55,9 +94,9 @@ include('include/header.php');
     <div class="col-md-12 px-0">
       <div class="ticker">
         <div class="ticker__list">
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding your short summary video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
         </div>
       </div>
       <script>
@@ -105,79 +144,6 @@ include('include/header.php');
   </div>
 </div-->
 <!-- Training Video-->
-<!-- Six Ways -->
-<div class="sixways py-5" >
-  <div class="container">
-    <div class="row">
-      <div class="col mt-2">
-        <div style="background: #ffd7a2; font-weight:bold; font-size: 1.4em; color:black; padding:25px; margin-bottom:35px; border-radius:3px;" class="text-center">
-          Only your short summary video is due <b>NOW</b>.
-        </div>
-        <h2 style="line-height:1.4; font-size:2.3em;">6 Steps to Recording your Presentation Short Summary Video</h2>
-        <div class="row mt-4">
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">1</span> Decide how you want to record your presentation</div> We suggest using Zoom with video and presentation tools. Using Zoom will allow you to the option to share your screen and
-            sound, play videos and show PowerPoints etc.
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">2</span> Prepare your presentation content</div> Select your method of recording depending on whether you have a PowerPoint or video component to your presentation
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">3</span> Prepare to record your presentation</div> We suggest checking your computer settings and using a headset with microphone
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">4</span> Record your short summary presentation video</div>
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">5</span> Submitting your pre-recorded presentation</div> Upload and save your files to a file sharing service (dropbox or wetransfer or equivalent) so they can be sent through the
-            presentation portal
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">6</span> Register through the presenter portal that has been emailed directly to you</div> Please make contact with <a href="mailto:enquiries@cospar2021.org"
-              style="color:#142453; text-decoration:underline;">enquiries@cospar2021.org</a> if you do not have your login details
-          </div>
-        </div>
-        <p class="mb-0">See the <a href="https://cospar2021.org/pre-record-guidelines" style="color:#142453; text-decoration:underline;">full instruction guidelines here</a>.</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="sixways py-5" style="background: white;">
-  <div class="container">
-    <div class="row">
-      <div class="col mt-2">
-        <h2 style="line-height:1.4; font-size:2em;">Required Now</h2>
-
-        <div class="alert alert-primary pt-4 pb-4 mb-4" style="font-size:1em;">
-
-        <p class="mt-0">We appreciate that the File Transfer can we a little complex.  We have provided this section of the video from the 5-minute point in various languages for you to read and refer to if required.</p>
-
-        <p class="mb-0">
-          <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>English</strong></a>
-          <a href="translations/COSPAR2021_Translation_French.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>French</strong></a>
-          <a href="translations/COSPAR2021_Translation_German.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>German</strong></a>
-          <a href="translations/COSPAR2021_Translation_Mandarin.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Mandarin</strong></a>
-          <a href="translations/COSPAR2021_Translation_Russian.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Russian</strong></a>
-          <a href="translations/COSPAR2021_Translation_Japanese.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Japanese</strong></a>
-          <a href="translations/COSPAR2021_Translation_Dutch.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Dutch</strong></a>
-          <a href="translations/Translation_Updated.pdf" target="_blank" class="pr-3" style="color:#142453; text-decoration:underline;"><strong>Hindi</strong></a>
-        </p>
-
-        </div>
-
-        <div class="row mt-4">
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">1</span> Pre-Recorded short summary video presentation MP4 file (3 or 6 minutes as per your acceptance)</div> <em>Why?</em> The 3-minute video, is required now to build a profile of you as a speaker, in order to better present  and share your research .  The video “teaser” is to entice other attendees to attend your talk.
-          </div>
-          <div class="col-md-6">
-            <div class="sixways_heading"><span class="counter">2</span> Speaker photo (high resolution minimum 300dpi) and biography (100 words)</div> <em>Why?</em> This will be used to build your online profile and promote you throughout the Assembly. The photo and bio are not mandatory.  However, they will add to each individuals profile to the rest of the world.
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- Six Ways -->
 <!-- <div class="welcome" id="invitation">
   <div class="container">
     <div class="row pt-5">
