@@ -43,14 +43,6 @@ include('include/header.php');
               <th><strong>USD $</strong></th>
               <th><strong>EURO €</strong></th>
             </tr>
-            <tr style="background:#ffd7a2;">
-              <td><strong>Presenters Only</strong><br>
-                Full - Early Bird Registration </td>
-              <td><strong>by 30 November 2020</strong></td>
-              <td width="15%">715</td>
-              <td width="15%">520</td>
-              <td width="15%">440</td>
-            </tr>
             <tr>
               <td>Full - Early Bird Registration</td>
               <td>by 31 December 2020</td>
@@ -65,14 +57,6 @@ include('include/header.php');
               <td>920</td>
               <td>800</td>
             </tr>
-            <tr style="background:#ffd7a2;">
-              <td><strong>Student Presenter</strong><br />
-                Early Bird Registration</td>
-              <td><strong>by 30 November 2020</strong></td>
-              <td>275</td>
-              <td>200</td>
-              <td>170</td>
-            </tr>
             <tr>
               <td>Student Early Bird Registration</td>
               <td>by 31 December 2020</td>
@@ -86,13 +70,6 @@ include('include/header.php');
               <td>400</td>
               <td>280</td>
               <td>250</td>
-            </tr>
-            <tr style="background:#ffd7a2;">
-              <td><strong>Presenter Registration</strong><br />Early Career Researchers / Retirees</td>
-              <td><strong>by 30 November 2020</strong></td>
-              <td>495</td>
-              <td>360</td>
-              <td>300</td>
             </tr>
             <tr>
               <td>Early Career Researchers / Retirees - Early Bird Registration</td>
