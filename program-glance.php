@@ -238,7 +238,7 @@ include('include/header.php');
                         <tr>
                           <td class='border-white'></td>
                           <td colspan="11" class="bg-S-darker border-white">
-                            <b>INTERSET Program</b> <br>
+                            <b>INTERSECT Program</b> <br>
                             AEDT 14:30 - 16:00
                           </td>
                         </tr>
