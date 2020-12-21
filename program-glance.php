@@ -210,7 +210,7 @@ include('include/header.php');
                         <tr>
                           <td class='border-white'></td>
                           <td colspan="11" class="bg-S-darker border-white">
-                            <b>INTERSET Program</b> <br>
+                            <b>INTERSECT Program</b> <br>
                             AEDT 12:30 - 14:00
                           </td>
                         </tr>
