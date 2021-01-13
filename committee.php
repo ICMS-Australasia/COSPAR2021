@@ -136,6 +136,8 @@ include('include/header.php');
               <p>“The best thing these groups taught me was how to interact with a multi-disciplinary team – a skill that I’ll continue to build on and carry with me throughout my career,” shares Imogen.</p>
               <p>Imogen hopes to one day work overseas in the space sector. She would like to then eventually return home with more expertise to contribute to an evolving space industry.</p>
               <p>What does Imogen recommend to others? “Take every opportunity that comes your way – bite off more than you can chew and then chew like crazy!” she offers. “By doing this, you’ll build a broad network and a diverse skillset.”</p>
+              <p>Imogen is currently an Assistant Manager within the Cyber Security Reform and Critical Technologies Team at the Department of Industry, Science, Energy and Resources. Previously, she worked on the landmark Satellite Based Augmentation System as an Engineer at Geoscience Australia, and as a project coordinator on a test-bed of the system at FrontierSI.</p>
+              <p>Imogen has a Bachelor of Aerospace Engineering, is currently undertaking a Master of Systems Engineering (Space Systems) and was President of the Australian Youth Aerospace Association (AYAA) in 2016-17. Alongside her work she is a passionate advocate for women in STEM, having been awarded for contributions at Geoscience Australia and Monash University. She is also an Expert Working Group member for the Decadal Plan for Australian Space Science.</p>
             </div>
           </div>
         </div>
