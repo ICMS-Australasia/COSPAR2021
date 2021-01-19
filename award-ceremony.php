@@ -129,7 +129,7 @@ include('include/header.php');
                         <div class="col-md-5">
                           <img src="./img/award-winners/glover.jpg" class="img-fluid float-left mr-3" width="150">
                           <h3 class="mb-0">About Alexi Glover</h3>
-                          <p>Dr Alexi Glover is the Space Weather Service Coordinator within the European Space Agency’s Space Weather Office, part of the Space Safety Programme Office, located in Darmstadt, Germany. She is responsible for development and coordination of ESA’s network of space weather services which includes participation of approximately 40 research institutes and organisations from across Europe. <a href="#fellous" data-toggle="modal">Read more</a></p>
+                          <p>Dr Alexi Glover is the Space Weather Service Coordinator within the European Space Agency’s Space Weather Office, part of the Space Safety Programme Office, located in Darmstadt, Germany. She is responsible for development and coordination of ESA’s network of space weather services which includes participation of approximately 40 research institutes and organisations from across Europe. <a href="#glover" data-toggle="modal">Read more</a></p>
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
@@ -248,7 +248,7 @@ include('include/header.php');
                           <img src="./img/award-winners/vitali.jpg" class="img-fluid float-left mr-3" width="150">
                           <h3 class="mb-0">About Vitali Müller</h3>
                           <p class="d-flex align-items-center"><b>COSPAR Scientific Commission H</b></p>
-                          <p>For leading the design, testing, calibration, and data processing of the first inter-satellite laser interferometer of the geodesy mission GRACE-FO which may also be applied to the future gravitational wave mission LISA. <a href="#brinkert" data-toggle="modal">Read more</a></p>
+                          <p>For leading the design, testing, calibration, and data processing of the first inter-satellite laser interferometer of the geodesy mission GRACE-FO which may also be applied to the future gravitational wave mission LISA. <a href="#muller" data-toggle="modal">Read more</a></p>
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
@@ -373,8 +373,6 @@ include('include/header.php');
                   <p>Dr Glover served as chair of the COSPAR Panel on Space Weather between 2008-2016, co-writing the task description and participating in the development of the international COSPAR-ILWS Space Weather Roadmap. Currently she is co-moderator of the PSW International Space Weather Action Team’s overarching activity focussing on capability assessment. She also serves as vice-Chair of the COSPAR Capacity Building Panel, facilitating the organisation of COSPAR supported Capacity Building Workshops in space weather. To date she has collaborated on, and lectured at, workshops hosted in Asia, Europe and Latin America which have supported the training of approximately 100 students and young researchers from more than 25 different countries.</p>
                   <p>COSPAR and the Indian Space Research Organisation are truly honoured to award the Vikram Sarabhai Medal in 2020 to Dr Alexi Glover for her outstanding contributions to development activities in the field of Space Weather.</p>
 
-
-
                 	<h3>Biography</h3>
                   <p>Alexi Glover is the Space Weather Service Coordinator within the European Space Agency’s Space Weather Office, part of the Space Safety Programme Office at the European Space Operations Centre in Darmstadt, Germany.</p>
                    <p>Dr Glover is a solar physicist, obtaining her PhD from University College London in 2003. She has worked with space weather applications at ESA since 2001 and has a broad background in space weather science and effects on technologies including spacecraft systems. Her current role involves coordinating a network of more than 40 institutes and organisations from across Europe who collaborate to develop new capabilities and deliver reliable space weather information to a range of end users.</p>
@@ -398,7 +396,25 @@ include('include/header.php');
                 </div>
             </div>
         </div>
-        <div class="modal fade" id="Bannister">
+        <div class="modal fade" id="sakazaki">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <img src="./img/award-winners/sakazaki.jpg" class="float-right" width="200">
+                  <h2>About Takatoshi Sakazaki</h2>
+                  <p><b>COSPAR Scientific Commission A</b></p>
+                  <p><em>For his pioneering work in understanding the dynamics of the upper troposphere and stratosphere, through the combination of satellite observations and theoretical analysis, and in pursuing the implications of the upper-atmosphere tides on spatio-temporal variations in ozone abundance.</em></p>
+
+
+                	<h3>Biography</h3>
+                  <p>Takatoshi Sakazaki is an assistant professor at Graduate School of Science, Kyoto University, Japan.</p>
+                  <p>He was born in Kyoto prefecture, Japan, in 1985. He got his Ph.D. from Hokkaido University in 2013.</p>
+                  <p>After serving as a Japan Society of Promotion and Science (JSPS) Postdoctoral fellow at Kyoto University for three years (2013-2016) and at University of Hawai’i for two years (2016-2018), he joined the faculty of Kyoto University in April 2018. His research focuses are mainly on the diurnal cycle of the Earth’s atmosphere.</p>
+                  <p>Using data from atmospheric radar and satellite measurements, he revealed the global and vertical structures of the diurnal cycle in temperature, winds and ozone, from the troposphere to the lower mesosphere. He has been also working on how the diurnal cycles in different fields and/or layers are connected to each other: e.g., the atmospheric tidal effects on diurnal cycle in stratospheric ozone, the dynamical effects of stratospheric tides on diurnal cycle in tropical rainfall. He is now expanding his interests to the short-term variability of the atmosphere in general, including atmospheric global free oscillations.</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="bannister">
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
                     <!-- <img src="./img/award-winners/bannister.jpg" class="float-right" width="200"> -->
