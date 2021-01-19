@@ -94,9 +94,9 @@ include('include/header.php');
     <div class="col-md-12 px-0">
       <div class="ticker">
         <div class="ticker__list">
-          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
-          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
-          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
         </div>
       </div>
       <script>
