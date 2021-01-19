@@ -94,9 +94,9 @@ include('include/header.php');
     <div class="col-md-12 px-0">
       <div class="ticker">
         <div class="ticker__list">
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
-          <div class="ticker__item">&bull; <a href="mailto:speaker@cospar2021.org">For further support or enquiries regarding submission of your Full Video contact <u>speaker@cospar2021.org</u></a></div>
+          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item">&bull; Access to the Virtual Program launches 26 January 2021.</div>
         </div>
       </div>
       <script>
