@@ -324,9 +324,9 @@ include('include/header.php');
         <div class="modal fade" id="kiss-medina">
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
-                  <img src="./img/award-winners/kiss.jpg" class="float-right" width="180">
                   <img src="./img/award-winners/medina.jpg" class="float-right" width="180">
-                  <h2>John Kiss and Francisco Javier Medina</h2>
+                  <img src="./img/award-winners/kiss.jpg" class="float-right" width="180">
+                  <h2>John Kiss <br> Francisco Javier Medina</h2>
                   <div class="row my-4">
                     <div class="col-md-2 px-2">
                       <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
