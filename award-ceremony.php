@@ -57,10 +57,24 @@ include('include/header.php');
 
                       <div class="row align-items-center">
                         <div class="col-md-5">
-                          <img src="./img/award-winners/kiss.jpg" class="img-fluid mr-3 mb-3" width="120">
-                          <img src="./img/award-winners/medina.jpg" class="img-fluid mr-3 mb-3" width="120">
-                          <h3 class="mb-0">John Kiss and Francisco Javier Medina</h3>
-                          <p class="d-flex align-items-center"><img src="./img/iau.png" width="40" class="d-inline-block mr-2"><b>Minor Planet (8267) Kiss and Minor Planet (8333) Medina</b></p>
+                          <div class="row align-items-center">
+                            <div class="col">
+                              <img src="./img/award-winners/kiss.jpg" class="img-fluid mb-3" width="120">
+                            </div>
+                            <div class="col-md-8">
+                              <h3 class="mb-0">John Kiss</h3>
+                              <p class="d-flex align-items-center"><img src="./img/iau.png" width="40" class="d-inline-block mr-2"><b>Minor Planet (8267) Kiss</b></p>
+                            </div>
+                          </div>
+                          <div class="row align-items-center">
+                            <div class="col">
+                              <img src="./img/award-winners/medina.jpg" class="img-fluid mb-3" width="120">
+                            </div>
+                            <div class="col-md-8">
+                              <h3 class="mb-0">Francisco Javier Medina</h3>
+                              <p class="d-flex align-items-center"><img src="./img/iau.png" width="40" class="d-inline-block mr-2"><b>Minor Planet (8333) Medina</b></p>
+                            </div>
+                          </div>
                           <p>Professor Dr. John Z. Kiss and Dr. F. Javier Medina have both been active in international spaceflight research for more than two decades during which they studied the growth and development of plants under microgravity in spaceflight.  Both served as principal investigators for a joint spaceflight project named Seeding Growth (SG) where Kiss was funded by NASA and Medina by ESA and the Spanish National Research Agency to conduct studies on board the International Space Station.  The major goals of the Seedling Growth program were to determine how gravity and light responses influence each other in plants and to better understand the cellular signaling mechanisms involved in plant tropisms and growth. <a href="#kiss-medina" data-toggle="modal">Read more</a></p>
                         </div>
                         <div class="col-md-7">
@@ -269,7 +283,14 @@ include('include/header.php');
                 <div class="modal-content">
                   <img src="./img/award-winners/borucki.jpg" class="float-right" width="200">
                   <h2>William J. Borucki</h2>
-                  <h3>Minor Planet (7864) Borucki</h3>
+                  <div class="row my-4">
+                    <div class="col-md-1 px-1">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-11">
+                      <p><b>Minor Planet (7864) Borucki</b></p>
+                    </div>
+                  </div>
                   <p>The Kepler mission, which is of fundamental importance for the understanding of our place in the universe, would not have come to fruition without the ingenuity and dedication of William Borucki.  Early in his career, William had distinguished himself by building spectroscopic instrumentation to determine the plasma properties of hypervelocity shock waves.  He developed photochemical models of the Earth's stratosphere and mesosphere to investigate the impact of nitric oxide and fluorocarbon emissions on ozone.  He also investigated the optical efficiency of lightning and used these measurements in conjunction with spacecraft observations to deduce the production rate of prebiological molecules in planetary atmospheres.  But detecting an 80 ppm dimming in a star is a daunting feat, and it took William and his team years to convince the scientific community that this was a feasible method for finding exoplanets.  The resounding success of the resulting Kepler Mission has more than justified his efforts.</p>
                   <p>In his own words “Going from speculation to knowledge is what science is all about”, and William’s career is a testament to his contribution to Science.  He is a worthy recipient of COSPAR’s Space Science Award.</p>
 
@@ -283,8 +304,15 @@ include('include/header.php');
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
                   <img src="./img/award-winners/mccracken.jpg" class="float-right" width="200">
-                  <h2>Ken McCracken  </h2>
-                  <h3>Minor Planet (8258) McCracken</h3>
+                  <h2>Ken McCracken</h2>
+                  <div class="row my-4">
+                    <div class="col-md-1 px-1">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-11">
+                      <p><b>Minor Planet (8258) McCracken</b></p>
+                    </div>
+                  </div>
                   <p>Dr. Ken McCracken began his career in space science at the University of Tasmania where he developed the four station Australian neutron monitor network for the International Geophysical Year 1957-8.  At the Massachusetts Institute of Technology he developed the mathematics and digital computer code to trace the orbits of relativistic cosmic rays in the six-degree geomagnetic field, a technique still used today.  His studies of the high energy solar proton events in 1960 demonstrated the validity of the Parker model of the heliospheric magnetic field.  Moving to the University of Texas, Dr. McCracken was the principal investigator for cosmic ray anisotropy detectors flown on the interplanetary spacecraft Pioneers 6 through 9 and on earth-orbiting satellites Explorers 34 and 41. These six instruments gave a synoptic view of the radiation at all solar longitudes thereby elucidating the propagation and convection of both solar and galactic cosmic radiation. Returning to Australia in 1966, he established an X-ray astronomy programme using balloons and Skylark rockets launched from the Woomera rocket range. He and his colleagues established that some X-ray objects are strongly time variable. In 1969 he was appointed by the Australian Commonwealth Scientific and Industrial Research Organization (CSIRO) to establish a laboratory “to apply space technologies to exploration for minerals under the deeply weathered Australian regolith”. He received the CSIRO medal for “Advances in Geophysics”, and was joint recipient of Australia’s most senior scientific award, the “Australia Prize” for this work. He was a member of the Australian Space Board, 1987-92.  Retiring from government service, he has pioneered utilization of the discoveries of the space era in interpretation of ice cores dating 150,000 years into the past. With scientists from several countries he has extrapolated the heliospheric magnetic field and the terrestrial radiation environment throughout the Holocene and beyond.  Dr. McCracken started his scientific career before the commencement of the space era.  His research results over 60 years have been published in more than 100 refereed publications which are well cited by both his contemporaries and younger scientists.  His unique multi-faceted career in cosmic ray and heliospheric research, X-ray astronomy, interplanetary archeology, plus his economically important application of space science and technology to mineral exploration makes him extremely well qualified to receive the COSPAR Space Science Award.</p>
 
                 	<h3>Biography</h3>
@@ -296,16 +324,33 @@ include('include/header.php');
         <div class="modal fade" id="kiss-medina">
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
-                  <img src="./img/award-winners/kiss.jpg" class="float-right" width="200">
-                  <img src="./img/award-winners/medina.jpg" class="float-right" width="200">
+                  <img src="./img/award-winners/kiss.jpg" class="float-right" width="180">
+                  <img src="./img/award-winners/medina.jpg" class="float-right" width="180">
                   <h2>John Kiss and Francisco Javier Medina</h2>
-                  <h3>Minor Planet (8267) Kiss	 and Minor Planet (8333) Medina </h3>
+                  <div class="row my-4">
+                    <div class="col-md-2 px-2">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-10">
+                      <p><b>Minor Planet (8267) Kiss</b></p>
+                    </div>
+                  </div>
+                  <div class="row my-4">
+                    <div class="col-md-2 px-2">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-10">
+                      <p><b>Minor Planet (8333) Medina</b></p>
+                    </div>
+                  </div>
+
                   <p>Professor Dr. John Z. Kiss and Dr. F. Javier Medina have both been active in international spaceflight research for more than two decades during which they studied the growth and development of plants under microgravity in spaceflight.  Both served as principal investigators for a joint spaceflight project named Seeding Growth (SG) where Kiss was funded by NASA and Medina by ESA and the Spanish National Research Agency to conduct studies on board the International Space Station.  The major goals of the Seedling Growth program were to determine how gravity and light responses influence each other in plants and to better understand the cellular signaling mechanisms involved in plant tropisms and growth.  This successful project was performed between March 2013 and July 2017, using combined American and European technology for the growth of plants in space.  Learning how plants adapt to weightlessness and low-gravity environments is crucial in determining the ability of vegetation to provide a sustainable, dependable, and economical means for human life support in space. The ability of plants to provide a source of food and recycle carbon dioxide into breathable oxygen may prove vital for astronauts who will live in space for months at a time. Finally, in the long term, the new knowledge acquired should lead to significant advances in agriculture on Earth.</p>
                   <p>This International Cooperation Medal to Drs. Kiss and Medina recognizes their pioneering work in space plant sciences with a cooperative spirit at many levels among individuals, organizations, and space agencies. Their achievements epitomize the spirt of this Award, which is to promote people and groups to work together to achieve a common goal and derive mutual benefits in space research.  </p>
 
-                	<h3>Biography</h3>
+                	<h3>Biography - John Kiss</h3>
                   <p>Dr. John Z. Kiss is the Dean of the College of Arts and Sciences at the University of North Carolina-Greensboro, and his academic appointment is as Professor of Biology. He had served as Dean of the Graduate School at the University of Mississippi from 2012-16.   Dr. Kiss was on the faculty of Miami University (1993-2012) where he was a University Distinguished Professor and Chair of the Botany Department. He has mentored 60 independent research projects by undergraduates and has served as major professor for 14 M.S. students, 8 doctoral students, and 7 post-doctoral scholars.</p>
                   <p>The research of Dr. Kiss focuses on the gravitational and space biology of plants, and he has published 118 peer-reviewed papers. He also has been invited to present seminars based on his research at universities throughout the US and in another 12 countries. He served as PI on grants from NASA, USDA, NSF, and the NIH as well as PI on eight spaceflight experiments on the Space Shuttle and the International Space Station. In 2014, he received the NASA Outstanding Public Leadership Medal “for exceptional contributions in spaceflight research in the fundamental biology of plants in support of NASA’s exploration mission.”</p>
+                  <h3>Biography - Francisco Javier Medina</h3>
                   <p>F. Javier Medina (Toledo, Spain, 1952) is a biologist working in the Spanish National Research Council (CSIC) on the cellular and molecular physiology of plants. Within space research he focuses on the adaptation of plants to the space environment, identifying physiological effects of altered gravity and counteracting mechanisms in order to enable the plant culture for human space exploration. He has led three projects conducted at the International Space Station (ISS), namely “Root” (2003), in the Cervantes Mission, the first European Plant Biology experiment in the ISS, “Genara” (2010), co-leading a Spanish-French team, and “Seedling Growth” (2011-2018). This was a joint NASA-ESA project comprising three experiments in different ISS increments, which has received the NASA Group Achievement Award. He has also participated and/or directed other international projects in terrestrial installations of altered gravity. The main findings were the functional alteration of the root meristem induced by microgravity, the gene expression reprogramming, the role of light in the mitigation of the gravitational stress and the positive root gravitropism at Mars gravity. He has published more than 130 papers and book chapters and acted as adviser to international research organizations. He has received the European Low Gravity Research Association (ELGRA) Medal.</p>
                   <button type="button" class="close" data-dismiss="modal">x</button>
                 </div>
@@ -316,7 +361,14 @@ include('include/header.php');
                 <div class="modal-content">
                   <img src="./img/award-winners/mccleese.jpg" class="float-right" width="200">
                   <h2>Daniel McCleese</h2>
-                  <h3>Minor Planet (5641) McCleese</h3>
+                  <div class="row my-4">
+                    <div class="col-md-1 px-1">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-11">
+                      <p><b>Minor Planet (5641) McCleese</b></p>
+                    </div>
+                  </div>
                   <p>Dr. Daniel J. McCleese is a pioneer in remote sensing of the atmospheres of the terrestrial planets.  Since receiving his doctorate from the University of Oxford in 1976, he has designed, built and flown orbiting, state-of-the-art, remote sounding instruments to profile atmospheric temperatures, aerosols, and constituents, with the ultimate goal of systematically characterizing the atmospheres of Earth, Venus and Mars.  Pursuing his interest in the climates of the terrestrial planets, Dan proposed a small space mission to pursue the observations of the Martian atmosphere which led to NASA initiating a series of planetary missions, the first of which was Mars Observer.  Dan’s instrument team built an atmospheric sounder that combined pressure modulation and filter radiometry to measure temperature, dust and water vapour in the Mars atmosphere using limb sounding.  Space exploration is not for the faint-hearted.  Mars Observer was lost in 1993 just before insertion into orbit around Mars.  Dan’s instrument was selected for the next Mars mission which was also lost on orbit insertion.  The loss of these missions caused NASA to revamp the Mars exploration strategy, and as the Chief Scientist for JPL’s Mars Exploration Program, Dan played a key role in its re-architecting.</p>
                   <p>Dan laid the scientific foundation which resulted in the Opportunity and Spirit rovers, Mars Odyssey, Mars Reconnaissance Orbiter, and the Curiosity rover.  These missions are a result of Dan’s tenacity and vision that have been his trademark throughout his career:  1) apply state-of-the-art instrumentation to the study of the planets, including Earth; 2) strive to assemble a systematic global planetary climatology — daily global coverage for seasonal and interannual periods; and 3) use these measurements to improve models.  Despite setbacks, he persevered. His own instrument was launched in 2005, and its measurements continue today on the Mars Reconnaissance Orbiter. In various leadership roles, and as JPL’s Chief Scientist, Dan guided scientific pursuits that advanced the careers of over 300 Earth and planetary scientists and astrophysicists.  An internationally known and respected researcher and leader, Dan pursues the goals of Earth and space science at national and international levels. His extraordinary achievements make Daniel J. McCleese a well-deserving recipient of the Nordberg Medal.</p>
 
@@ -332,7 +384,14 @@ include('include/header.php');
                 <div class="modal-content">
                   <img src="./img/award-winners/held.jpg" class="float-right" width="200">
                   <h2>Alexander Held</h2>
-                  <h3>Minor Planet (8479) Held</h3>
+                  <div class="row my-4">
+                    <div class="col-md-1 px-1">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-11">
+                      <p><b>Minor Planet (8479) Held</b></p>
+                    </div>
+                  </div>
                   <p>Dr Alex Held is the first southern hemisphere winner of the COSPAR Massey Award, which reflects his pioneering contributions to Earth observation and the space sector in Australia and abroad.  Since arriving in Australia and joining CSIRO, Australia’s national science agency, in 1991, Dr Held has focused on the use of Earth observation data to improve scientific understanding in landscape ecology and vegetation condition.  Dr Held led the award-winning delivery of the Sentinel Hotspots program (2002–2006), a national capability that continues to be widely used to support bushfire response activities in Australia. He has been instrumental in developing the OpenDataCube initiative, as a foundation partner, which now has over 50 DataCube implementations globally and partners including NASA.  As a member of the Australian Academy of Science’s National Committee for Space Science and the Steering Committee for the 2010-2019 Decadal Plan for Space Science, Dr Held has been an influential voice in the Australian Earth observation community.  Currently Director of the CSIRO Centre for Earth Observation, Dr Held is overseeing the establishment of the new satellite NovaSAR-1 as a national research facility; this will make CSIRO’s ten per cent share in the UK radar satellite, with associated ground-segment, science program and user-engagement program, available to Australian researchers.  In the international arena, Dr Held served as member of the steering committee of the United Nations Office for Outer Space Affairs’ Program on Space Technology for Disaster Management in Southeast Asia (2004–2007) and, since 2017, has been a member of the intergovernmental Group on Earth Observation (GEO) Executive Committee and closely involved in the establishment of the Global Forest Observation Initiative, a flagship activity under GEO. He has been Chair of the Committee on Earth Observation Satellites (CEOS) and is now co-Chair of the CEOS Strategic Implementation Team (2019-2021).</p>
 
 
@@ -347,7 +406,14 @@ include('include/header.php');
                 <div class="modal-content">
                   <img src="./img/award-winners/fellous.jpg" class="float-right" width="200">
                   <h2>Jean-Louis Fellous </h2>
-                  <h3>Minor Planet (8617) Fellous</h3>
+                  <div class="row my-4">
+                    <div class="col-md-1 px-1">
+                      <img src="./img/iau.png" class="img-fluid m-0" style="float:none; border-radius: 0%;">
+                    </div>
+                    <div class="col-md-11">
+                      <p><b>Minor Planet (8617) Fellous</b></p>
+                    </div>
+                  </div>
                   <p>Jean-Louis Fellous has been thoroughly immersed in COSPAR since he delivered his first talk at a science conference, the COSPAR Scientific Assembly in Konstanz, Germany in 1973. In the ensuing years, he took part in and organized many Scientific Assemblies, serving 16 years as a COSPAR officer in Scientific Commission A. In 2008 Jean-Louis was appointed Executive Director, when Roger Bonnet was President, a period that culminated in the Scientific Assembly with the highest attendance, in Bremen in 2010. In Bremen Giovanni Bignami was elected President and delegated to Jean-Louis much responsibility for the operations and new initiatives, including the COSPAR Symposium and the launch of the new journal Life Sciences in Space Research (LSSR). At the Assembly in Moscow in 2014, Len Fisk was elected President, and together they entered into a particularly challenging period for COSPAR. The choice in Moscow of the site for the 2018 Assembly resulted in an initial selection of an unqualified bidder, and Jean-Louis had to coordinate an unprecedented revote by the Council and the selection of Pasadena for the Assembly in 2018. The Assembly in Istanbul scheduled for 2016 had to be cancelled, following waves of terrorism, diminishing attendance, and finally, a military coup. Jean-Louis had to arrange for the extraction from the cancelled Assembly and for all decisions and planning that were to take place at the Assembly to occur by correspondence. The Assembly in Pasadena in 2018 was a great success, new initiatives were taken (e.g., strategic seminar, new panels, newsletter) and with COSPAR no longer in a crisis mode, Jean-Louis could hand over his responsibilities to his worthy successor, Jean-Claude Worms.</p>
 
 
