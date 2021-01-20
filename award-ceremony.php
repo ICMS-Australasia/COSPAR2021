@@ -256,8 +256,8 @@ include('include/header.php');
 
                       <hr class="my-5">
 
-                      <p>Further information about the individual Awards can be found here: <br>br <a href="https://cosparhq.cnes.fr/Awards/" target="_blank">https://cosparhq.cnes.fr/Awards/</a></p>
-                      <p>32 recipients in 2020 of the COSPAR Outstanding Paper Awards for Young Scientists listed on website found here <br> <a href="http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf" target="_blank">http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf</a>. <br><br> The papers of all recipients are free to read through 3 August 2021 at: <br> <a href="https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist" target="_blank">https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist</a> <br> <em>(link also available from the COSPAR website home page news items)</em></p>
+                      <p>Further information about the individual Awards can be found here: <br> <a href="https://cosparhq.cnes.fr/Awards/" target="_blank">https://cosparhq.cnes.fr/Awards/</a></p>
+                      <p>32 recipients in 2020 of the COSPAR Outstanding Paper Awards for Young Scientists listed on website found here <br> <a href="http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf" target="_blank">http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf</a>. <br><br> The papers of all recipients are free to read through 3 August 2021 at: <br> <a href="https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist" target="_blank">https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist</a></p>
 
                     </div>
                 </div>
