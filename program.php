@@ -49,6 +49,37 @@ include('include/header.php');
     opportunity to stimulate the public and inspire the next generation
     of science and technology talent through exposure to space is
     enormous.</p>
+
+    <h2 class="mb-3">Exclusive Pre-Event Videos for Registered Delegates</h2>
+      <p>Meet three Interdisciplinary Speakers as they share insights into their career and provide a preview of their presentation at COSPAR-2021-Hybrid.</p>
+
+<div class="big-header home" style="background: #FFF">
+  <div class="home-16th text-center p-0">
+    <div class="row mt-4">
+      <div class="col-md-12 my-4 mb-md-0">
+        <a href="https://vimeo.com/491406013" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-church.jpg" class="img-fluid"></a>
+      </div>
+      <div class="col-md-12 my-4 mb-md-0">
+        <a href="https://vimeo.com/491406164" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-branchesi.jpg" class="img-fluid"></a>
+      </div>
+      <div class="col-md-12 my-4 mb-md-0">
+        <a href="https://vimeo.com/491406396" target="_blank" class="video-link">
+          <div>
+            <i class="far fa-link"></i>
+          </div>
+          <img src="img/video-dougherty.jpg" class="img-fluid"></a>
+      </div>
+    </div>
+  </div>
+</div>
 
      </div>
      <div class="col-md-3">

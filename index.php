@@ -54,30 +54,19 @@ include('include/header.php');
     <div class="row">
       <div class="col text-center home-16th">
 
-        <h1 class="mb-3">Exclusive Pre-Event Videos for Registered Delegates</h1>
-          <p>Meet three Interdisciplinary Speakers as they share insights into their career and provide a preview of their presentation at COSPAR-2021-Hybrid.</p>
+        <!-- <h1 class="mb-3">Exclusive Pre-Event Videos for Registered Delegates</h1>
+          <p>Meet three Interdisciplinary Speakers as they share insights into their career and provide a preview of their presentation at COSPAR-2021-Hybrid.</p> -->
 
     <div class="row mt-4">
-      <div class="col-md-4 mb-4 mb-md-0">
-        <a href="https://vimeo.com/491406013" target="_blank" class="video-link">
-          <div>
-            <i class="far fa-link"></i>
-          </div>
-          <img src="img/video-church.jpg" class="img-fluid"></a>
+      <div class="col-md-6 mb-4 mb-md-0">
+        <iframe width="841" height="472" class="d-none d-sm-none d-md-block" src="https://www.youtube.com/embed/Ov5Vqofn0lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="300" class="d-block d-sm-block d-md-none" src="https://www.youtube.com/embed/Ov5Vqofn0lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h3 class="mt-4"><b>What COSPAR Means to Len</b></h3>
       </div>
-      <div class="col-md-4 mb-4 mb-md-0">
-        <a href="https://vimeo.com/491406164" target="_blank" class="video-link">
-          <div>
-            <i class="far fa-link"></i>
-          </div>
-          <img src="img/video-branchesi.jpg" class="img-fluid"></a>
-      </div>
-      <div class="col-md-4 mb-4 mb-md-0">
-        <a href="https://vimeo.com/491406396" target="_blank" class="video-link">
-          <div>
-            <i class="far fa-link"></i>
-          </div>
-          <img src="img/video-dougherty.jpg" class="img-fluid"></a>
+      <div class="col-md-6 mb-4 mb-md-0">
+        <img src="./img/space-agency-leaders.jpg" class="img-fluid">
+        <h3 class="mt-4"><b>Space Agency Leaders’ Round Table</b></h3>
+        <p>Saturday, 30 January 2021, 14:00-15:30pm CET   (ADET Midnight – 01:30)</p>
       </div>
     </div>
 
@@ -94,9 +83,9 @@ include('include/header.php');
     <div class="col-md-12 px-0">
       <div class="ticker">
         <div class="ticker__list">
-          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
-          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
-          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 26 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 27 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 27 January 2021.</div>
+          <div class="ticker__item" style="color: white">&bull; Access to the Virtual Program launches 27 January 2021.</div>
         </div>
       </div>
       <script>
