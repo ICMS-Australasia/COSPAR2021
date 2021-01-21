@@ -66,7 +66,7 @@ include('include/header.php');
       <div class="col-md-6 mb-4 mb-md-0">
         <img src="./img/space-agency-leaders.jpg" class="img-fluid">
         <h3 class="mt-4"><b>Space Agency Leaders’ Round Table</b></h3>
-        <p>Saturday, 30 January 2021, 14:00-15:30pm CET   (ADET Midnight – 01:30)</p>
+        <p>Saturday, 30 January 2021, 14:00-15:30pm CET (AEDT Midnight – 01:30)</p>
       </div>
     </div>
 
