@@ -290,7 +290,7 @@ include('include/header.php');
                       <h2>COSPAR Outstanding Paper Awards for Young Scientists </h2>
                       <p>There are 32 recipients in 2020 of the COSPAR Outstanding Paper Awards for Young Scientists who are listed here <br> <a href="http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf" target="_blank">http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf</a>. <br></p>
                       <p>The papers of all Outstanding Paper Award recipients are free to read through 3 August 2021 via this link: <br> <a href="https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist">www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist</a> </p>
-                      <hr class="my-4">
+                      <hr class="my-4r">
                       <p>Further information about the individual Awards can be found here: <br> <a href="https://cosparhq.cnes.fr/Awards/" target="_blank">COSPAR HQ Website</a></p>
                     </div>
                 </div>
