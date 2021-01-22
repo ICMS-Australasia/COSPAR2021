@@ -30,6 +30,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Sunnyvale, California, USA</em></p>
                         </div>
                       </div>
                       <hr class="my-5">
@@ -46,6 +47,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Mt Jellore, Bowral, NSW, Australia</em></p>
                         </div>
                       </div>
 
@@ -80,13 +82,15 @@ include('include/header.php');
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid my-4">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>John - Hometown image pictured is the Foust Building, The University of North Carolina Greensboro, USA <br>
+                            Javier - Hometown image pictured is Madrid Plaza Mayor, Spain</em></p>
                         </div>
                       </div>
 
                       <hr class="my-5">
 
                       <h2>COSPAR William Nordberg Medal</h2>
-                      <h3>For outstanding contributions to space science</h3>
+                      <h3>For distinguished contributions to the application of space science</h3>
 
                       <div class="row align-items-center">
                         <div class="col-md-5">
@@ -97,6 +101,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Altadena, California, USA</em></p>
                         </div>
                       </div>
 
@@ -114,6 +119,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Parliament House, Canberra, Australia</em></p>
                         </div>
                       </div>
 
@@ -131,6 +137,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Pic Saint-Loup, Montpellier, France</em></p>
                         </div>
                       </div>
 
@@ -147,6 +154,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Portmeirion, North Wales</em></p>
                         </div>
                       </div>
 
@@ -163,6 +171,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Taipei 101, Taiwan</em></p>
                         </div>
                       </div>
 
@@ -181,6 +190,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Kyoto, Japan</em></p>
                         </div>
                       </div>
 
@@ -193,6 +203,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Mt Taranaki, New Zealand</em></p>
                         </div>
                       </div>
 
@@ -205,6 +216,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Sapporo City, Japan</em></p>
                         </div>
                       </div>
 
@@ -217,6 +229,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Uppsala Cathedral, Sweden</em></p>
                         </div>
                       </div>
 
@@ -229,6 +242,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Yanaul, Russia</em></p>
                         </div>
                       </div>
 
@@ -241,6 +255,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is The University of Pavia, Italy</em></p>
                         </div>
                       </div>
 
@@ -253,6 +268,7 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Marienfeld Abbey, Germany</em></p>
                         </div>
                       </div>
 
@@ -265,14 +281,17 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Hometown image pictured is Hannover, Germany</em></p>
                         </div>
                       </div>
 
-                      <hr class="my-5">
+                      <hr class="mt-5 mb-4">
 
-                      <p>Further information about the individual Awards can be found here: <br> <a href="https://cosparhq.cnes.fr/Awards/" target="_blank">https://cosparhq.cnes.fr/Awards/</a></p>
-                      <p>32 recipients in 2020 of the COSPAR Outstanding Paper Awards for Young Scientists listed on website found here <br> <a href="http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf" target="_blank">http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf</a>. <br><br> The papers of all recipients are free to read through 3 August 2021 at: <br> <a href="https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist" target="_blank">https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist</a></p>
-
+                      <h2>COSPAR Outstanding Paper Awards for Young Scientists </h2>
+                      <p>There are 32 recipients in 2020 of the COSPAR Outstanding Paper Awards for Young Scientists who are listed here <br> <a href="http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf" target="_blank">http://cosparhq.cnes.fr/assets/uploads/2020/07/Outstanding-Paper-Award-Recipient-List_2020_Web.pdf</a>. <br></p>
+                      <p>The papers of all Outstanding Paper Award recipients are free to read through 3 August 2021 via this link: <br> <a href="https://www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist">www.journals.elsevier.com/advances-in-space-research/news/cospar-outstanding-paper-award-for-young-scientist</a> </p>
+                      <hr class="my-4">
+                      <p>Further information about the individual Awards can be found here: <br> <a href="https://cosparhq.cnes.fr/Awards/" target="_blank">COSPAR HQ Website</a></p>
                     </div>
                 </div>
             </div>
