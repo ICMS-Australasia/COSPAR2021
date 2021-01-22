@@ -61,10 +61,13 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-md-7 pt-4 mt-2"><a href="index.php"><img src="img/logo.png" width="620" class="img-fluid"></a></div>
-                        <div class="col-md-4 pt-4 mt-2">
-                            <img src="img/dates.png" width="340" class="mb-3 mb-md-2 img-fluid">
+                        <div class="col-md-4 pt-4 mt-2 text-right">
+                            <!-- <img src="img/dates.png" width="340" class="mb-3 mb-md-2 img-fluid"> -->
+                            <h5 id='aedt-time'></h5>
+                            <h5 id='cet-time'></h5>
+                            <h5 id='cat-time'></h5>
                             <!-- Countdown timer -->
-                            <div id="countdown" class="mb-3 mb-md-0"></div>
+                            <div id="countdown" class="mb-3 mb-md-0 text-right"></div>
                         </div>
                     </div>
                 </div>

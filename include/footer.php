@@ -321,6 +321,11 @@ $(function () {
       clearInterval(x);
       document.getElementById("countdown").innerHTML = "";
     }
+
+    document.getElementById("aedt-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Australia/Sydney", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>AEDT</b>`;
+    document.getElementById("cet-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Europe/Amsterdam", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CET</b>`;
+    document.getElementById("cat-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Africa/Maputo", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CAT</b>`;
+
   }, 1000);
   </script>
   <script>
