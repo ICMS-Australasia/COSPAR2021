@@ -291,7 +291,7 @@ $(function () {
   </script>
 <?php } ?>
 
-<?php if ($cospark==true || $home == true){ ?>
+<?php if (true){ ?>
 
   <script>
   // Set the date we're counting down to
@@ -315,16 +315,14 @@ $(function () {
 
     // Display the result in the element with id="demo"
     document.getElementById("countdown").innerHTML = days + " Days to COSPAR 2021 ";
-
+    document.getElementById("aedt-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Australia/Sydney", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>AEDT</b>`;
+    document.getElementById("cet-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Europe/Amsterdam", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CET</b>`;
+    document.getElementById("cat-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Africa/Maputo", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CAT</b>`;
     // If the count down is finished, write some text
     if (distance < 0) {
       clearInterval(x);
       document.getElementById("countdown").innerHTML = "";
     }
-
-    document.getElementById("aedt-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Australia/Sydney", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>AEDT</b>`;
-    document.getElementById("cet-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Europe/Amsterdam", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CET</b>`;
-    document.getElementById("cat-time").innerHTML = new Date().toLocaleString('en-AU', { timeZone: "Africa/Maputo", month: "long", day: "numeric", year: "numeric", hour12: true, day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit" }) + ` <b>CAT</b>`;
 
   }, 1000);
   </script>
@@ -362,5 +360,6 @@ $(function () {
 
 
 <?php } ?>
+
 </body>
 </html>
