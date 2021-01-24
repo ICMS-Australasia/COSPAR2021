@@ -80,10 +80,10 @@ include('include/header.php');
                           <p>Professor Dr. John Z. Kiss and Dr. F. Javier Medina have both been active in international spaceflight research for more than two decades during which they studied the growth and development of plants under microgravity in spaceflight.  Both served as principal investigators for a joint spaceflight project named Seeding Growth (SG) where Kiss was funded by NASA and Medina by ESA and the Spanish National Research Agency to conduct studies on board the International Space Station.  The major goals of the Seedling Growth program were to determine how gravity and light responses influence each other in plants and to better understand the cellular signaling mechanisms involved in plant tropisms and growth. <a href="#kiss-medina" data-toggle="modal">Read more</a></p>
                         </div>
                         <div class="col-md-7">
-                          <img src="https://via.placeholder.com/1920x1080" class="img-fluid my-4">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
-                          <p><em>John - Hometown image pictured is the Foust Building, The University of North Carolina Greensboro, USA <br>
-                            Javier - Hometown image pictured is Madrid Plaza Mayor, Spain</em></p>
+                          <p><em>John - Hometown image pictured is the Foust Building, The University of North Carolina Greensboro, USA</em></p>
+                          <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
+                          <p><em>Javier - Hometown image pictured is Madrid Plaza Mayor, Spain</em></p>
                         </div>
                       </div>
 
