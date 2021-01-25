@@ -81,9 +81,9 @@ include('include/header.php');
                         </div>
                         <div class="col-md-7">
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
-                          <p><em>John - Hometown image pictured is the Foust Building, The University of North Carolina Greensboro, USA</em></p>
+                          <p><em>Hometown image pictured is the Foust Building, The University of North Carolina Greensboro, USA</em></p>
                           <img src="https://via.placeholder.com/1920x1080" class="img-fluid">
-                          <p><em>Javier - Hometown image pictured is Madrid Plaza Mayor, Spain</em></p>
+                          <p><em>Hometown image pictured is Madrid Plaza Mayor, Spain</em></p>
                         </div>
                       </div>
 
