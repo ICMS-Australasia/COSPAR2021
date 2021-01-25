@@ -117,4 +117,9 @@ $border: 1px 0 0 0 rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(0, 0, 0, 0.1), 1px 1px 0 0
     background-color: #11998e;
     color: white;
   }
+
+  .bg-teal-lighter {
+    background-color: lighten(#11998e, 55%);
+    color: #0a0a0a;
+  }
 }
