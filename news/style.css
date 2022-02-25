@@ -1,11 +1,14 @@
 body {
-  background: #f2f2f2; }
+  background: #f2f2f2;
+}
 
 td {
-  font: 16px/24px Arial, "sans-serif"; }
+  font: 16px/24px Arial, "sans-serif";
+}
 
 a {
-  color: #000; }
+  color: #000;
+}
 
 h1,
 h2 {
@@ -13,198 +16,291 @@ h2 {
   color: #142453;
   letter-spacing: -1px;
   font: bold 30px/42px Arial, "sans-serif";
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+}
 
 h3 {
   color: #231f20;
   letter-spacing: -1px;
   font: bold 22px/32px Arial, "sans-serif";
   margin-bottom: 10px;
-  margin-top: 30px; }
+  margin-top: 30px;
+}
 
 .first {
-  margin-top: 0; }
+  margin-top: 0;
+}
 
 .last {
-  margin-bottom: 0 !important; }
+  margin-bottom: 0 !important;
+}
 
 .info td {
-  font: 11px/16px Arial, sans-serif; }
+  font: 11px/16px Arial, sans-serif;
+}
 
 .block img {
-  display: block; }
+  display: block;
+}
 
 .menu {
   background: #142453 url(http://www.cospar2020.org/news/img/menu-bg.jpg);
-  color: white; }
-  .menu a {
-    color: white; }
-  .menu h2 {
-    color: white;
-    margin-bottom: 0; }
-  .menu td {
-    font: 18px/30px Arial, sans-serif; }
+  color: white;
+}
+
+.menu a {
+  color: white;
+}
+
+.menu h2 {
+  color: white;
+  margin-bottom: 0;
+}
+
+.menu td {
+  font: 18px/30px Arial, sans-serif;
+}
 
 td.bigger {
-  font: 18px/28px Arial, sans-serif; }
-  td.bigger td {
-    font: 18px/28px Arial, sans-serif; }
+  font: 18px/28px Arial, sans-serif;
+}
+
+td.bigger td {
+  font: 18px/28px Arial, sans-serif;
+}
 
 .content > td {
   background: white;
-  border-bottom: solid 1px #f2f2f2; }
-  .content > td .button {
-    background-color: #0c4da2;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
-    border-radius: 3px;
-    margin-top: 15px;
-    margin-bottom: 25px; }
-    .content > td .button td {
-      font: bold 28px/28px Arial, "sans-serif";
-      font-weight: bold;
-      letter-spacing: -1px;
-      text-align: center; }
-    .content > td .button a {
-      color: white; }
+  border-bottom: solid 1px #f2f2f2;
+}
+
+.content > td .button {
+  background-color: #0c4da2;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.content > td .button td {
+  font: bold 28px/28px Arial, "sans-serif";
+  font-weight: bold;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+.content > td .button a {
+  color: white;
+}
 
 .standout h1 {
   font-size: 44px;
   line-height: 1.4;
   color: white;
   text-align: center;
-  margin: 0; }
-  .standout h1 a {
-    color: white; }
+  margin: 0;
+}
+
+.standout h1 a {
+  color: white;
+}
+
 .standout h1.bigger {
   font-size: 54px;
-  line-height: 1.3; }
+  line-height: 1.3;
+}
+
 .standout h2 {
   margin-top: 10px;
   color: white;
   font-size: 28px;
-  text-align: center; }
-  .standout h2 a {
-    color: white; }
+  text-align: center;
+}
+
+.standout h2 a {
+  color: white;
+}
+
 .standout td {
   background: #142453;
   background-image: url("img/menu-bg.jpg");
-  color: white; }
-  .standout td strong {
-    font-weight: bold;
-    font-size: 18px; }
+  color: white;
+}
+
+.standout td strong {
+  font-weight: bold;
+  font-size: 18px;
+}
 
 .header {
-  background: #142453; }
-  .header a {
-    color: white;
-    text-decoration: none; }
-  .header h1,
-  .header h2 {
-    color: white;
-    margin: 0; }
-  .header h1 {
-    font-size: 2.2em;
-    margin-bottom: 20px; }
-  .header h2 {
-    font-size: 1.8em; }
+  background: #142453;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+.header h1,
+.header h2 {
+  color: white;
+  margin: 0;
+}
+
+.header h1 {
+  font-size: 2.2em;
+  margin-bottom: 20px;
+}
+
+.header h2 {
+  font-size: 1.8em;
+}
 
 .header-margin {
-  margin-bottom: 18px; }
+  margin-bottom: 18px;
+}
 
 .table {
-  border-collapse: collapse; }
-  .table td,
-  .table th {
-    border: 0; }
-  .table th {
-    background: #fbaf42;
-    color: white;
-    text-align: center;
-    font: 18px/30px Arial, sans-serif; }
-    .table th:first-child {
-      background: #142453;
-      text-align: left; }
-  .table td {
-    text-align: center;
-    border: solid 1px #dfdfdf; }
-    .table td:first-child {
-      text-align: left; }
+  border-collapse: collapse;
+}
+
+.table td,
+.table th {
+  border: 0;
+}
+
+.table th {
+  background: #fbaf42;
+  color: white;
+  text-align: center;
+  font: 18px/30px Arial, sans-serif;
+}
+
+.table th:first-child {
+  background: #142453;
+  text-align: left;
+}
+
+.table td {
+  text-align: center;
+  border: solid 1px #dfdfdf;
+}
+
+.table td:first-child {
+  text-align: left;
+}
 
 .faqs {
   margin-top: 20px;
-  border-collapse: collapse; }
-  .faqs img {
-    margin-top: 8px; }
-  .faqs h3 {
-    margin-top: 0; }
+  border-collapse: collapse;
+}
+
+.faqs img {
+  margin-top: 8px;
+}
+
+.faqs h3 {
+  margin-top: 0;
+}
 
 .alpha {
-  list-style: lower-alpha; }
+  list-style: lower-alpha;
+}
 
 .list-space li {
-  margin-bottom: 7px; }
+  margin-bottom: 7px;
+}
 
 .abstracts {
-  background: #f2f2f2; }
-  .abstracts td {
-    border: solid 1px #dedede; }
+  background: #f2f2f2;
+}
+
+.abstracts td {
+  border: solid 1px #dedede;
+}
 
 .commissions {
-  text-align: center; }
-  .commissions h2 {
-    font: bold 46px/46px Arial, "sans-serif";
-    margin-bottom: 0 !important; }
-  .commissions h3 {
-    font: bold 28px/36px Arial, "sans-serif";
-    margin-top: 25px;
-    margin-bottom: 25px !important; }
-  .commissions .link {
-    font: 18px/18px Arial, "sans-serif";
-    margin-bottom: 10px; }
+  text-align: center;
+}
+
+.commissions h2 {
+  font: bold 46px/46px Arial, "sans-serif";
+  margin-bottom: 0 !important;
+}
+
+.commissions h3 {
+  font: bold 28px/36px Arial, "sans-serif";
+  margin-top: 25px;
+  margin-bottom: 25px !important;
+}
+
+.commissions .link {
+  font: 18px/18px Arial, "sans-serif";
+  margin-bottom: 10px;
+}
 
 .muted {
   font-size: 14px;
-  color: #666; }
+  color: #666;
+}
 
 .boxes .box {
   background: #142453;
-  color: white; }
-  .boxes .box .box-link {
-    padding: 20px;
-    text-align: center; }
-  .boxes .box img {
-    display: block; }
-  .boxes .box a {
-    font-weight: bold;
-    color: white;
-    font-size: 22px; }
+  color: white;
+}
+
+.boxes .box .box-link {
+  padding: 20px;
+  text-align: center;
+}
+
+.boxes .box img {
+  display: block;
+}
+
+.boxes .box a {
+  font-weight: bold;
+  color: white;
+  font-size: 22px;
+}
 
 .reasons {
-  margin-top: 40px; }
-  .reasons img {
-    width: 75px;
-    height: auto; }
-  .reasons p {
-    margin-top: 10px;
-    margin-bottom: 35px; }
+  margin-top: 40px;
+}
+
+.reasons img {
+  width: 75px;
+  height: auto;
+}
+
+.reasons p {
+  margin-top: 10px;
+  margin-bottom: 35px;
+}
 
 .facebook {
-  background: #4267B2; }
-  .facebook a {
-    color: white;
-    font-weight: bold;
-    font-size: 26px; }
+  background: #4267B2;
+}
+
+.facebook a {
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+}
 
 .text-center {
-  text-align: center; }
+  text-align: center;
+}
 
 .m1 {
-  margin-top: 30px; }
+  margin-top: 30px;
+}
 
 .m2 {
-  margin-top: 40px !important; }
+  margin-top: 40px !important;
+}
 
 .nounderline {
-  text-decoration: none; }
-
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */

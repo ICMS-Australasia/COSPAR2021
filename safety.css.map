@@ -1,7 +1,9 @@
 {
-"version": 3,
-"mappings": "AACE,cAAO;EACL,SAAS,EAAE,KAAK;AAGhB,oBAAE;EACA,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,KAAK;AAGZ,uCAAE;EACA,UAAU,EAAE,OAAO",
-"sources": ["safety.scss"],
-"names": [],
-"file": "safety.css"
+    "version": 3,
+    "mappings": "AAAA,AACE,OADK,CACL,MAAM,CAAC;EACL,SAAS,EAAE,KAAK;CACjB;;AAHH,AAKI,OALG,CAIL,SAAS,CACP,EAAE,CAAA;EACA,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,KAAK;CACb;;AARL,AAUM,OAVC,CAIL,SAAS,CAKP,EAAE,AAAA,UAAW,CAAA,IAAI,EACf,EAAE,CAAA;EACA,UAAU,EAAE,OAAO;CACpB",
+    "sources": [
+        "safety.scss"
+    ],
+    "names": [],
+    "file": "safety.css"
 }

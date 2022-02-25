@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font: 1em/1.5 "Roboto", sans-serif;
+  font: 1em/1.5 'Roboto', sans-serif;
   color: #212529;
 }
 
@@ -16,29 +16,30 @@ a {
   color: #0c4da2;
   text-decoration: underline;
 }
+
 a:hover {
   color: #0a428a;
 }
 
 h1 {
-  font: bold 2.6em/1.5 "Roboto", sans-serif;
+  font: bold 2.6em/1.5 'Roboto', sans-serif;
   margin-bottom: 0.25em;
   color: #142453;
 }
 
 h2 {
-  font: bold 1.8em/1.5 "Roboto", sans-serif;
+  font: bold 1.8em/1.5 'Roboto', sans-serif;
   margin-bottom: 0.75em;
   color: #0c4da2;
 }
 
 h3 {
-  font: bold 1.4em/1.5 "Roboto", sans-serif;
+  font: bold 1.4em/1.5 'Roboto', sans-serif;
   color: #142453;
 }
 
 h4 {
-  font: bold 1.1em/1.5 "Roboto", sans-serif;
+  font: bold 1.1em/1.5 'Roboto', sans-serif;
 }
 
 .button {
@@ -49,9 +50,11 @@ h4 {
   text-align: center;
   padding: 1.25em;
   margin-bottom: 1em;
+  -webkit-transition: background 0.3s;
   transition: background 0.3s;
-  font: bold 1.2em/1.5 "Roboto", sans-serif;
+  font: bold 1.2em/1.5 'Roboto', sans-serif;
 }
+
 .button:hover {
   color: white;
   background: #0a428a;
@@ -61,17 +64,20 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
+
 table th {
   background-color: #142453;
   border: solid 1px #0f1b3e;
   color: white;
   padding: 1em;
 }
+
 table td {
   border: solid 1px rgba(255, 255, 255, 0.85);
   padding: 1em;
   background-color: #f2f2f2;
 }
+
 table tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
@@ -81,12 +87,14 @@ table tr:nth-child(odd) {
   background-size: cover;
   height: 300px;
 }
+
 .top .title span {
   color: #0c4da2;
-  font: 900 2.75em/1.5 "Roboto";
+  font: 900 2.75em/1.5 'Roboto';
 }
+
 .top .title div {
-  font: 1.25em/1.5 "Roboto";
+  font: 1.25em/1.5 'Roboto';
 }
 
 .menu h2 {
@@ -95,6 +103,7 @@ table tr:nth-child(odd) {
   background: #142453;
   color: white;
 }
+
 .menu .list-group .list-group-item {
   background: #f2f2f2;
   border-radius: 0;
@@ -103,17 +112,21 @@ table tr:nth-child(odd) {
   font-weight: bold;
   text-decoration: none;
 }
+
 .menu .list-group a {
   text-decoration: underline;
 }
+
 .menu .list-group a:hover {
   text-decoration: underline;
 }
+
 .menu .list-group-item.active {
   color: #0c4da2;
   font-weight: bold;
   text-decoration: none;
 }
+
 .menu .list-group-item.active:hover {
   text-decoration: underline;
 }
@@ -128,7 +141,7 @@ table tr:nth-child(odd) {
 .header {
   background: #343a40;
   color: white;
-  font: bold 1.8em/1.5 "Roboto", sans-serif;
+  font: bold 1.8em/1.5 'Roboto', sans-serif;
 }
 
 .top-button {
@@ -142,6 +155,7 @@ table tr:nth-child(odd) {
   font-size: 0.9em;
   font-weight: bold;
 }
+
 .top-button:hover {
   background: #0a428a;
   color: white;
@@ -153,10 +167,12 @@ table tr:nth-child(odd) {
   margin-bottom: 10px;
   border-radius: 0px;
 }
+
 .accordion .card .card-header:first-child {
   border-style: none;
   border-radius: 0px;
 }
+
 .accordion .card .card-header:first-child button {
   font-weight: bold;
   margin-bottom: 0;
@@ -169,8 +185,8 @@ table tr:nth-child(odd) {
   background: #f2f2f2;
   border: none;
 }
+
 .alert-primary h1 {
   color: #2e323d;
 }
-
 /*# sourceMappingURL=style.css.map */

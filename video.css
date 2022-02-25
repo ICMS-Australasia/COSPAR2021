@@ -2,33 +2,41 @@
   position: relative;
   cursor: pointer;
 }
+
 .video .player .play {
   position: absolute;
   z-index: 3;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
   opacity: 0.5;
+  -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s;
   width: 50px;
   height: auto;
 }
+
 .video .player .static {
   z-index: 2;
   opacity: 1;
+  -webkit-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
+
 .video .player:hover .static {
   opacity: 0;
 }
+
 .video .player:hover .play {
   opacity: 0.9;
 }
+
 .video .text {
   padding: 1em 1em 2em 1em;
 }
+
 .video .text h3 {
   font-size: 1.2em;
 }
-
 /*# sourceMappingURL=video.css.map */
